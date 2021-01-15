@@ -1,0 +1,554 @@
+value=i; ,EXPRESSION_STATEMENT, line no: 7,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.06757623010349127, insert, 1.0, 1.0, 1.0
+output+=(String.format("Please enter a string > ")); ,EXPRESSION_STATEMENT, line no: 63,output+=(String.format("Please enter a string > ")); ,EXPRESSION_STATEMENT, line no: 63, 0.06757623010349127, insert, 1.0, 1.0, 1.0
+instring=(scanner.nextLine() + "\n").toCharArray(); ,EXPRESSION_STATEMENT, line no: 64,instring=(scanner.nextLine() + "\n").toCharArray(); ,EXPRESSION_STATEMENT, line no: 64, 0.06757623010349127, insert, 1.0, 2.0, 1.0
+output+=(String.format("The number of syllables is %d.\n" numVowels.value)); ,EXPRESSION_STATEMENT, line no: 72,output+=(String.format("The number of syllables is %d.\n" numVowels.value)); ,EXPRESSION_STATEMENT, line no: 72, 0.06757623010349127, insert, 1.0, 3.0, 1.0
+output+=(String.format("Please enter a string > ")); ,EXPRESSION_STATEMENT, line no: 63,output+=(String.format("The number of syllables is %d.\n" numVowels.value)); ,EXPRESSION_STATEMENT, line no: 72, 0.04756664508583411, insert, 1.0, 1.0, 0.5064935064935064
+output+=(String.format("The number of syllables is %d.\n" numVowels.value)); ,EXPRESSION_STATEMENT, line no: 72,output+=(String.format("Please enter a string > ")); ,EXPRESSION_STATEMENT, line no: 63, 0.04756664508583411, insert, 1.0, 0.3333333333333333, 0.5064935064935064
+value=i; ,EXPRESSION_STATEMENT, line no: 7,numVowels.value+=0; ,EXPRESSION_STATEMENT, line no: 69, 0.04324878726623441, insert, 1.0, 1.0, 0.4
+output+=(String.format("Please enter a string > ")); ,EXPRESSION_STATEMENT, line no: 63,instring=(scanner.nextLine() + "\n").toCharArray(); ,EXPRESSION_STATEMENT, line no: 64, 0.04233077055539454, insert, 1.0, 0.0, 0.37735849056603776
+instring=(scanner.nextLine() + "\n").toCharArray(); ,EXPRESSION_STATEMENT, line no: 64,output+=(String.format("Please enter a string > ")); ,EXPRESSION_STATEMENT, line no: 63, 0.04233077055539454, insert, 1.0, 0.0, 0.37735849056603776
+value=i; ,EXPRESSION_STATEMENT, line no: 7,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.038293197058645055, insert, 1.0, 0.0, 0.2777777777777778
+instring=(scanner.nextLine() + "\n").toCharArray(); ,EXPRESSION_STATEMENT, line no: 64,output+=(String.format("The number of syllables is %d.\n" numVowels.value)); ,EXPRESSION_STATEMENT, line no: 72, 0.03756185257700553, insert, 1.0, 0.0, 0.2597402597402597
+output+=(String.format("The number of syllables is %d.\n" numVowels.value)); ,EXPRESSION_STATEMENT, line no: 72,instring=(scanner.nextLine() + "\n").toCharArray(); ,EXPRESSION_STATEMENT, line no: 64, 0.03756185257700553, insert, 1.0, 0.0, 0.2597402597402597
+value=i; ,EXPRESSION_STATEMENT, line no: 7,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.03270689537008978, insert, 1.0, 0.0, 0.14
+value=i; ,EXPRESSION_STATEMENT, line no: 7,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.032488572165140034, insert, 1.0, 0.0, 0.1346153846153846
+value=i; ,EXPRESSION_STATEMENT, line no: 7,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.03236545757588267, insert, 1.0, 0.0, 0.13157894736842105
+value=i; ,EXPRESSION_STATEMENT, line no: 7,output+=(String.format("Please enter a string > ")); ,EXPRESSION_STATEMENT, line no: 63, 0.03162057559559592, insert, 1.0, 0.0, 0.11320754716981132
+value=i; ,EXPRESSION_STATEMENT, line no: 7,instring=(scanner.nextLine() + "\n").toCharArray(); ,EXPRESSION_STATEMENT, line no: 64, 0.030929120701213314, insert, 1.0, 0.0, 0.09615384615384616
+value=i; ,EXPRESSION_STATEMENT, line no: 7,output+=(String.format("The number of syllables is %d.\n" numVowels.value)); ,EXPRESSION_STATEMENT, line no: 72, 0.03071646822885967, insert, 1.0, 1.0, 0.09090909090909091
+String,SIMPLE_NAME, line no: 63,String,SIMPLE_NAME, line no: 49, 0.025952588984531004, insert, 0.4435483870967742, 0.0, 1.0
+format,SIMPLE_NAME, line no: 63,format,SIMPLE_NAME, line no: 63, 0.025952588984531004, insert, 1.0, 0.0, 1.0
+scanner,SIMPLE_NAME, line no: 64,scanner,SIMPLE_NAME, line no: 51, 0.025952588984531004, insert, 0.14285714285714285, 1.0, 1.0
+nextLine,SIMPLE_NAME, line no: 64,nextLine,SIMPLE_NAME, line no: 64, 0.025952588984531004, insert, 1.0, 0.0, 1.0
+toCharArray,SIMPLE_NAME, line no: 64,toCharArray,SIMPLE_NAME, line no: 64, 0.025952588984531004, insert, 1.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 73,String,SIMPLE_NAME, line no: 49, 0.025952588984531004, insert, 0.4435483870967742, 0.0, 1.0
+format,SIMPLE_NAME, line no: 73,format,SIMPLE_NAME, line no: 63, 0.025952588984531004, insert, 1.0, 0.0, 1.0
+numVowels,SIMPLE_NAME, line no: 73,numVowels,SIMPLE_NAME, line no: 61, 0.025952588984531004, insert, 0.96, 1.0, 1.0
+value,SIMPLE_NAME, line no: 73,value,SIMPLE_NAME, line no: 7, 0.025952588984531004, insert, 0.048, 1.0, 1.0
+output+=(String.format("Please enter a string > ")); ,EXPRESSION_STATEMENT, line no: 63,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.02516895815552675, insert, 0.45, 1.0, 0.32075471698113206
+instring=(scanner.nextLine() + "\n").toCharArray(); ,EXPRESSION_STATEMENT, line no: 64,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.023079881666115482, insert, 0.45, 0.0, 0.2692307692307692
+output+=(String.format("The number of syllables is %d.\n" numVowels.value)); ,EXPRESSION_STATEMENT, line no: 72,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.02269508195423746, insert, 0.45, 0.5, 0.2597402597402597
+instring=(scanner.nextLine() + "\n").toCharArray(); ,EXPRESSION_STATEMENT, line no: 64,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.02152043020218876, insert, 0.45, 0.0, 0.23076923076923078
+instring=(scanner.nextLine() + "\n").toCharArray(); ,EXPRESSION_STATEMENT, line no: 64,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.0205327776083685, insert, 0.125, 0.6666666666666666, 0.4230769230769231
+String,SIMPLE_NAME, line no: 63,instring,SIMPLE_NAME, line no: 60, 0.01994582040504681, insert, 0.967741935483871, 0.0, 0.625
+String,SIMPLE_NAME, line no: 73,instring,SIMPLE_NAME, line no: 60, 0.01994582040504681, insert, 0.967741935483871, 0.0, 0.625
+output+=(String.format("Please enter a string > ")); ,EXPRESSION_STATEMENT, line no: 63,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.019813860675627442, insert, 0.45, 0.0, 0.18867924528301888
+instring=(scanner.nextLine() + "\n").toCharArray(); ,EXPRESSION_STATEMENT, line no: 64,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.019753051876405144, insert, 0.125, 0.6666666666666666, 0.40384615384615385
+numVowels.value,QUALIFIED_NAME, line no: 73,numVowels,SIMPLE_NAME, line no: 61, 0.019723967628243563, insert, 0.967741935483871, 0.5, 0.6
+output+=(String.format("The number of syllables is %d.\n" numVowels.value)); ,EXPRESSION_STATEMENT, line no: 72,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.0190091057667743, insert, 0.45, 0.0, 0.16883116883116883
+nextLine,SIMPLE_NAME, line no: 64,instring,SIMPLE_NAME, line no: 60, 0.01783725560365385, insert, 0.9523809523809523, 0.0, 0.5
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,nextLine,SIMPLE_NAME, line no: 64, 0.01730172598968734, insert, 1.0, 0.0, 0.4444444444444444
+output+=(String.format("Please enter a string > ")); ,EXPRESSION_STATEMENT, line no: 63,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.017149062167772785, insert, 0.125, 0.0, 0.33962264150943394
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,scanner,SIMPLE_NAME, line no: 51, 0.016436639690202967, insert, 0.144, 1.0, 0.3888888888888889
+output+=(String.format("Please enter a string > ")); ,EXPRESSION_STATEMENT, line no: 63,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.016384048242072884, insert, 0.125, 0.0, 0.32075471698113206
+String,SIMPLE_NAME, line no: 63,nextLine,SIMPLE_NAME, line no: 64, 0.01622036811533188, insert, 1.0, 0.0, 0.375
+scanner,SIMPLE_NAME, line no: 64,nextLine,SIMPLE_NAME, line no: 64, 0.01622036811533188, insert, 1.0, 0.0, 0.375
+nextLine,SIMPLE_NAME, line no: 64,scanner,SIMPLE_NAME, line no: 51, 0.01622036811533188, insert, 0.14285714285714285, 0.0, 0.375
+String,SIMPLE_NAME, line no: 73,nextLine,SIMPLE_NAME, line no: 64, 0.01622036811533188, insert, 1.0, 0.0, 0.375
+nextLine,SIMPLE_NAME, line no: 64,String,SIMPLE_NAME, line no: 49, 0.016055589772572952, insert, 0.4365079365079365, 0.0, 0.375
+numVowels.value,QUALIFIED_NAME, line no: 73,value,SIMPLE_NAME, line no: 7, 0.015571553390718602, insert, 0.04838709677419355, 0.5, 0.3333333333333333
+format,SIMPLE_NAME, line no: 63,output,SIMPLE_NAME, line no: 49, 0.015404117332753885, insert, 0.4435483870967742, 0.0, 0.3333333333333333
+format,SIMPLE_NAME, line no: 73,output,SIMPLE_NAME, line no: 49, 0.015404117332753885, insert, 0.4435483870967742, 0.0, 0.3333333333333333
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,nextLine,SIMPLE_NAME, line no: 64, 0.015363932678842356, insert, 1.0, 0.0, 0.32
+value,SIMPLE_NAME, line no: 73,length,SIMPLE_NAME, line no: 50, 0.015239360251716605, insert, 0.456, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 63,length,SIMPLE_NAME, line no: 50, 0.01523668127478917, insert, 0.4596774193548387, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 73,length,SIMPLE_NAME, line no: 50, 0.01523668127478917, insert, 0.4596774193548387, 0.0, 0.3333333333333333
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,nextLine,SIMPLE_NAME, line no: 64, 0.014994829191062356, insert, 1.0, 0.0, 0.2962962962962963
+scanner,SIMPLE_NAME, line no: 64,Scanner,SIMPLE_NAME, line no: 44, 0.014912440019682893, insert, 0.007936507936507936, 0.0, 0.8571428571428571
+value,SIMPLE_NAME, line no: 73,scanner,SIMPLE_NAME, line no: 51, 0.014747002563552932, insert, 0.144, 0.0, 0.2857142857142857
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,scanner,SIMPLE_NAME, line no: 51, 0.014741070543213611, insert, 0.14516129032258066, 1.0, 0.28
+scanner,SIMPLE_NAME, line no: 64,value,SIMPLE_NAME, line no: 7, 0.014665272505544504, insert, 0.047619047619047616, 0.0, 0.2857142857142857
+toCharArray,SIMPLE_NAME, line no: 64,format,SIMPLE_NAME, line no: 63, 0.014627822882190201, insert, 1.0, 0.0, 0.2727272727272727
+format,SIMPLE_NAME, line no: 63,toCharArray,SIMPLE_NAME, line no: 64, 0.014544104853207845, insert, 0.9919354838709677, 0.0, 0.2727272727272727
+format,SIMPLE_NAME, line no: 73,toCharArray,SIMPLE_NAME, line no: 64, 0.014544104853207845, insert, 0.9919354838709677, 0.0, 0.2727272727272727
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,scanner,SIMPLE_NAME, line no: 51, 0.014418104991406114, insert, 0.14634146341463414, 1.0, 0.25925925925925924
+"Please enter a string > ",STRING_LITERAL, line no: 63,instring,SIMPLE_NAME, line no: 60, 0.014405940833348847, insert, 0.967741935483871, 0.0, 0.2692307692307692
+scanner,SIMPLE_NAME, line no: 64,instring,SIMPLE_NAME, line no: 60, 0.013944367255974198, insert, 0.9523809523809523, 0.0, 0.25
+nextLine,SIMPLE_NAME, line no: 64,length,SIMPLE_NAME, line no: 50, 0.013861978084594734, insert, 0.4523809523809524, 0.0, 0.25
+numVowels,SIMPLE_NAME, line no: 73,value,SIMPLE_NAME, line no: 7, 0.01384138079174987, insert, 0.048, 0.0, 0.2222222222222222
+value,SIMPLE_NAME, line no: 73,numVowels,SIMPLE_NAME, line no: 61, 0.01384138079174987, insert, 0.96, 0.0, 0.2222222222222222
+nextLine,SIMPLE_NAME, line no: 64,IntObj,SIMPLE_NAME, line no: 61, 0.013779588913215271, insert, 0.9523809523809523, 0.0, 0.25
+numVowels,SIMPLE_NAME, line no: 73,scanner,SIMPLE_NAME, line no: 51, 0.01375833250699937, insert, 0.144, 0.0, 0.2222222222222222
+numVowels,SIMPLE_NAME, line no: 73,nextLine,SIMPLE_NAME, line no: 64, 0.01375833250699937, insert, 0.992, 0.0, 0.2222222222222222
+scanner,SIMPLE_NAME, line no: 64,numVowels,SIMPLE_NAME, line no: 61, 0.013676602448990943, insert, 0.9523809523809523, 0.0, 0.2222222222222222
+nextLine,SIMPLE_NAME, line no: 64,numVowels,SIMPLE_NAME, line no: 61, 0.013676602448990943, insert, 0.9523809523809523, 0.0, 0.2222222222222222
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,instring,SIMPLE_NAME, line no: 60, 0.013592235937498372, insert, 0.96, 0.0, 0.2222222222222222
+numVowels,SIMPLE_NAME, line no: 73,instring,SIMPLE_NAME, line no: 60, 0.013592235937498372, insert, 0.96, 0.0, 0.2222222222222222
+numVowels.value,QUALIFIED_NAME, line no: 73,scanner,SIMPLE_NAME, line no: 51, 0.013495346271956123, insert, 0.14516129032258066, 0.0, 0.2
+numVowels.value,QUALIFIED_NAME, line no: 73,nextLine,SIMPLE_NAME, line no: 64, 0.013495346271956123, insert, 1.0, 0.0, 0.2
+output+=(String.format("The number of syllables is %d.\n" numVowels.value)); ,EXPRESSION_STATEMENT, line no: 72,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.013383604014003141, insert, 0.125, 0.0, 0.24675324675324675
+"Please enter a string > ",STRING_LITERAL, line no: 63,String,SIMPLE_NAME, line no: 49, 0.013375565092027518, insert, 0.4435483870967742, 0.0, 0.19230769230769232
+"Please enter a string > ",STRING_LITERAL, line no: 63,nextLine,SIMPLE_NAME, line no: 64, 0.013375565092027518, insert, 1.0, 0.0, 0.19230769230769232
+toCharArray,SIMPLE_NAME, line no: 64,String,SIMPLE_NAME, line no: 49, 0.013212227119397603, insert, 0.44715447154471544, 0.0, 0.18181818181818182
+toCharArray,SIMPLE_NAME, line no: 64,scanner,SIMPLE_NAME, line no: 51, 0.013212227119397603, insert, 0.14634146341463414, 0.0, 0.18181818181818182
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,numVowels,SIMPLE_NAME, line no: 61, 0.013128956780409802, insert, 0.967741935483871, 0.0, 0.17647058823529413
+String,SIMPLE_NAME, line no: 63,toCharArray,SIMPLE_NAME, line no: 64, 0.013128509090415243, insert, 0.9919354838709677, 0.0, 0.18181818181818182
+String,SIMPLE_NAME, line no: 73,toCharArray,SIMPLE_NAME, line no: 64, 0.013128509090415243, insert, 0.9919354838709677, 0.0, 0.18181818181818182
+toCharArray,SIMPLE_NAME, line no: 64,instring,SIMPLE_NAME, line no: 60, 0.013127828456033275, insert, 0.975609756097561, 0.0, 0.18181818181818182
+String,SIMPLE_NAME, line no: 63,format,SIMPLE_NAME, line no: 63, 0.012976294492265502, insert, 1.0, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 63,value,SIMPLE_NAME, line no: 7, 0.012976294492265502, insert, 0.04838709677419355, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 63,String,SIMPLE_NAME, line no: 49, 0.012976294492265502, insert, 0.4435483870967742, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 73,format,SIMPLE_NAME, line no: 63, 0.012976294492265502, insert, 1.0, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 73,value,SIMPLE_NAME, line no: 7, 0.012976294492265502, insert, 0.04838709677419355, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 73,String,SIMPLE_NAME, line no: 49, 0.012976294492265502, insert, 0.4435483870967742, 0.0, 0.16666666666666666
+scanner,SIMPLE_NAME, line no: 64,toCharArray,SIMPLE_NAME, line no: 64, 0.012965059605259212, insert, 0.9761904761904762, 0.0, 0.18181818181818182
+toCharArray,SIMPLE_NAME, line no: 64,length,SIMPLE_NAME, line no: 50, 0.012959031129304617, insert, 0.4634146341463415, 0.0, 0.18181818181818182
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,String,SIMPLE_NAME, line no: 49, 0.012893246207515004, insert, 0.44, 0.0, 0.16666666666666666
+"\n",STRING_LITERAL, line no: 64,String,SIMPLE_NAME, line no: 49, 0.012893246207515004, insert, 0.44, 0.0, 0.16666666666666666
+value,SIMPLE_NAME, line no: 73,format,SIMPLE_NAME, line no: 63, 0.012893246207515004, insert, 0.992, 0.0, 0.16666666666666666
+output+=(String.format("The number of syllables is %d.\n" numVowels.value)); ,EXPRESSION_STATEMENT, line no: 72,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.012857035987222688, insert, 0.125, 0.0, 0.23376623376623376
+String,SIMPLE_NAME, line no: 63,output,SIMPLE_NAME, line no: 49, 0.012808858434300786, insert, 0.4435483870967742, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 73,output,SIMPLE_NAME, line no: 49, 0.012808858434300786, insert, 0.4435483870967742, 0.0, 0.16666666666666666
+"Please enter a string > ",STRING_LITERAL, line no: 63,scanner,SIMPLE_NAME, line no: 51, 0.012776659192384495, insert, 0.14516129032258066, 0.0, 0.15384615384615385
+value,SIMPLE_NAME, line no: 73,output,SIMPLE_NAME, line no: 49, 0.012727149638014005, insert, 0.44, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 63,i,SIMPLE_NAME, line no: 7, 0.01272514040531843, insert, 0.04838709677419355, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 73,i,SIMPLE_NAME, line no: 7, 0.01272514040531843, insert, 0.04838709677419355, 0.0, 0.16666666666666666
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,instring,SIMPLE_NAME, line no: 60, 0.012705048078362662, insert, 0.967741935483871, 0.0, 0.16
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,length,SIMPLE_NAME, line no: 50, 0.012644101353263505, insert, 0.456, 0.0, 0.16666666666666666
+"\n",STRING_LITERAL, line no: 64,length,SIMPLE_NAME, line no: 50, 0.012644101353263505, insert, 0.456, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 63,IntObj,SIMPLE_NAME, line no: 61, 0.012641422376336071, insert, 0.967741935483871, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 63,length,SIMPLE_NAME, line no: 50, 0.012641422376336071, insert, 0.4596774193548387, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 63,IntObj,SIMPLE_NAME, line no: 61, 0.012641422376336071, insert, 0.967741935483871, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 73,IntObj,SIMPLE_NAME, line no: 61, 0.012641422376336071, insert, 0.967741935483871, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 73,length,SIMPLE_NAME, line no: 50, 0.012641422376336071, insert, 0.4596774193548387, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 73,IntObj,SIMPLE_NAME, line no: 61, 0.012641422376336071, insert, 0.967741935483871, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 63,scanner,SIMPLE_NAME, line no: 51, 0.012605543221057915, insert, 0.14516129032258066, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 63,scanner,SIMPLE_NAME, line no: 51, 0.012605543221057915, insert, 0.14516129032258066, 0.0, 0.14285714285714285
+"\n",STRING_LITERAL, line no: 64,scanner,SIMPLE_NAME, line no: 51, 0.012605543221057915, insert, 0.144, 0.0, 0.14285714285714285
+String,SIMPLE_NAME, line no: 73,scanner,SIMPLE_NAME, line no: 51, 0.012605543221057915, insert, 0.14516129032258066, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 73,scanner,SIMPLE_NAME, line no: 51, 0.012605543221057915, insert, 0.14516129032258066, 0.0, 0.14285714285714285
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,instring,SIMPLE_NAME, line no: 60, 0.012603533729073052, insert, 0.975609756097561, 0.0, 0.14814814814814814
+"\n",STRING_LITERAL, line no: 64,IntObj,SIMPLE_NAME, line no: 61, 0.012561053068513005, insert, 0.96, 0.0, 0.16666666666666666
+numVowels.value,QUALIFIED_NAME, line no: 73,format,SIMPLE_NAME, line no: 63, 0.012457242712574883, insert, 1.0, 0.0, 0.13333333333333333
+"Please enter a string > ",STRING_LITERAL, line no: 63,length,SIMPLE_NAME, line no: 50, 0.012441787076455064, insert, 0.4596774193548387, 0.0, 0.15384615384615385
+scanner,SIMPLE_NAME, line no: 64,String,SIMPLE_NAME, line no: 49, 0.012440764878298989, insert, 0.4365079365079365, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 64,format,SIMPLE_NAME, line no: 63, 0.012440764878298989, insert, 0.9841269841269841, 0.0, 0.14285714285714285
+numVowels.value,QUALIFIED_NAME, line no: 73,toCharArray,SIMPLE_NAME, line no: 64, 0.012373524683592525, insert, 0.9919354838709677, 0.0, 0.13333333333333333
+format,SIMPLE_NAME, line no: 63,nextLine,SIMPLE_NAME, line no: 64, 0.012327479767652227, insert, 1.0, 0.0, 0.125
+"\n",STRING_LITERAL, line no: 64,nextLine,SIMPLE_NAME, line no: 64, 0.012327479767652227, insert, 1.0, 0.0, 0.125
+format,SIMPLE_NAME, line no: 73,nextLine,SIMPLE_NAME, line no: 64, 0.012327479767652227, insert, 1.0, 0.0, 0.125
+numVowels.value,QUALIFIED_NAME, line no: 73,output,SIMPLE_NAME, line no: 49, 0.012289806654610167, insert, 0.4435483870967742, 0.0, 0.13333333333333333
+numVowels.value,QUALIFIED_NAME, line no: 73,instring,SIMPLE_NAME, line no: 60, 0.012289806654610167, insert, 0.967741935483871, 0.0, 0.13333333333333333
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,String,SIMPLE_NAME, line no: 49, 0.012249622000698636, insert, 0.4435483870967742, 0.0, 0.12
+value,SIMPLE_NAME, line no: 73,nextLine,SIMPLE_NAME, line no: 64, 0.012244431482901729, insert, 0.992, 0.0, 0.125
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,nextLine,SIMPLE_NAME, line no: 64, 0.012212983051544002, insert, 1.0, 0.0, 0.11764705882352941
+scanner,SIMPLE_NAME, line no: 64,length,SIMPLE_NAME, line no: 50, 0.012193597364160598, insert, 0.4523809523809524, 0.0, 0.14285714285714285
+"Please enter a string > ",STRING_LITERAL, line no: 63,numVowels,SIMPLE_NAME, line no: 61, 0.012177753292741471, insert, 0.967741935483871, 0.0, 0.11538461538461539
+"Please enter a string > ",STRING_LITERAL, line no: 63,format,SIMPLE_NAME, line no: 63, 0.012177753292741471, insert, 1.0, 0.0, 0.11538461538461539
+nextLine,SIMPLE_NAME, line no: 64,value,SIMPLE_NAME, line no: 7, 0.012162701424893299, insert, 0.047619047619047616, 0.0, 0.125
+nextLine,SIMPLE_NAME, line no: 64,format,SIMPLE_NAME, line no: 63, 0.012162701424893299, insert, 0.9841269841269841, 0.0, 0.125
+format,SIMPLE_NAME, line no: 63,instring,SIMPLE_NAME, line no: 60, 0.01216004370968751, insert, 0.967741935483871, 0.0, 0.125
+format,SIMPLE_NAME, line no: 73,instring,SIMPLE_NAME, line no: 60, 0.01216004370968751, insert, 0.967741935483871, 0.0, 0.125
+numVowels.value,QUALIFIED_NAME, line no: 73,length,SIMPLE_NAME, line no: 50, 0.01212237059664545, insert, 0.4596774193548387, 0.0, 0.13333333333333333
+String,SIMPLE_NAME, line no: 63,numVowels,SIMPLE_NAME, line no: 61, 0.012111208192781135, insert, 0.967741935483871, 0.0, 0.1111111111111111
+format,SIMPLE_NAME, line no: 63,numVowels,SIMPLE_NAME, line no: 61, 0.012111208192781135, insert, 0.967741935483871, 0.0, 0.1111111111111111
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,String,SIMPLE_NAME, line no: 49, 0.012111208192781135, insert, 0.44715447154471544, 0.0, 0.1111111111111111
+String,SIMPLE_NAME, line no: 73,numVowels,SIMPLE_NAME, line no: 61, 0.012111208192781135, insert, 0.967741935483871, 0.0, 0.1111111111111111
+format,SIMPLE_NAME, line no: 73,numVowels,SIMPLE_NAME, line no: 61, 0.012111208192781135, insert, 0.967741935483871, 0.0, 0.1111111111111111
+scanner,SIMPLE_NAME, line no: 64,IntObj,SIMPLE_NAME, line no: 61, 0.012111208192781133, insert, 0.9523809523809523, 0.0, 0.14285714285714285
+"Please enter a string > ",STRING_LITERAL, line no: 63,toCharArray,SIMPLE_NAME, line no: 64, 0.012094035263759115, insert, 0.9919354838709677, 0.0, 0.11538461538461539
+"\n",STRING_LITERAL, line no: 64,instring,SIMPLE_NAME, line no: 60, 0.01207833491340073, insert, 0.96, 0.0, 0.125
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,instring,SIMPLE_NAME, line no: 60, 0.012045546993579286, insert, 0.967741935483871, 0.0, 0.11764705882352941
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,value,SIMPLE_NAME, line no: 7, 0.012028159908030637, insert, 0.048, 0.0, 0.1111111111111111
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,numVowels,SIMPLE_NAME, line no: 61, 0.012028159908030637, insert, 0.96, 0.0, 0.1111111111111111
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,format,SIMPLE_NAME, line no: 63, 0.012028159908030637, insert, 0.992, 0.0, 0.1111111111111111
+"\n",STRING_LITERAL, line no: 64,numVowels,SIMPLE_NAME, line no: 61, 0.012028159908030637, insert, 0.96, 0.0, 0.1111111111111111
+numVowels,SIMPLE_NAME, line no: 73,String,SIMPLE_NAME, line no: 49, 0.012028159908030637, insert, 0.44, 0.0, 0.1111111111111111
+numVowels,SIMPLE_NAME, line no: 73,format,SIMPLE_NAME, line no: 63, 0.012028159908030637, insert, 0.992, 0.0, 0.1111111111111111
+nextLine,SIMPLE_NAME, line no: 64,output,SIMPLE_NAME, line no: 49, 0.011997923082134373, insert, 0.4365079365079365, 0.0, 0.125
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,toCharArray,SIMPLE_NAME, line no: 64, 0.011945111623280137, insert, 0.984, 0.0, 0.1111111111111111
+nextLine,SIMPLE_NAME, line no: 64,i,SIMPLE_NAME, line no: 7, 0.01191553391075491, insert, 0.047619047619047616, 0.0, 0.125
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,length,SIMPLE_NAME, line no: 50, 0.011914749884769203, insert, 0.4596774193548387, 0.0, 0.12
+numVowels,SIMPLE_NAME, line no: 73,output,SIMPLE_NAME, line no: 49, 0.011862063338529637, insert, 0.44, 0.0, 0.1111111111111111
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,length,SIMPLE_NAME, line no: 50, 0.01185801220268815, insert, 0.4634146341463415, 0.0, 0.1111111111111111
+toCharArray,SIMPLE_NAME, line no: 64,value,SIMPLE_NAME, line no: 7, 0.011796631356605003, insert, 0.04878048780487805, 0.0, 0.09090909090909091
+toCharArray,SIMPLE_NAME, line no: 64,numVowels,SIMPLE_NAME, line no: 61, 0.011796631356605003, insert, 0.975609756097561, 0.0, 0.09090909090909091
+toCharArray,SIMPLE_NAME, line no: 64,nextLine,SIMPLE_NAME, line no: 64, 0.011796631356605003, insert, 1.0, 0.0, 0.09090909090909091
+numVowels,SIMPLE_NAME, line no: 73,length,SIMPLE_NAME, line no: 50, 0.011779015053779138, insert, 0.456, 0.0, 0.1111111111111111
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,value,SIMPLE_NAME, line no: 7, 0.011754996187111101, insert, 0.04838709677419355, 0.0, 0.08823529411764706
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,String,SIMPLE_NAME, line no: 49, 0.011754996187111101, insert, 0.4435483870967742, 0.0, 0.08823529411764706
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,scanner,SIMPLE_NAME, line no: 51, 0.011754996187111101, insert, 0.14516129032258066, 0.0, 0.08823529411764706
+toCharArray,SIMPLE_NAME, line no: 64,output,SIMPLE_NAME, line no: 49, 0.011712232693240673, insert, 0.44715447154471544, 0.0, 0.09090909090909091
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,IntObj,SIMPLE_NAME, line no: 61, 0.01169596676902864, insert, 0.96, 0.0, 0.1111111111111111
+numVowels,SIMPLE_NAME, line no: 73,IntObj,SIMPLE_NAME, line no: 61, 0.01169596676902864, insert, 0.96, 0.0, 0.1111111111111111
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,toCharArray,SIMPLE_NAME, line no: 64, 0.011671278158128743, insert, 0.9919354838709677, 0.0, 0.08823529411764706
+numVowels,SIMPLE_NAME, line no: 73,toCharArray,SIMPLE_NAME, line no: 64, 0.011630534787104003, insert, 0.984, 0.0, 0.09090909090909091
+value,SIMPLE_NAME, line no: 73,toCharArray,SIMPLE_NAME, line no: 64, 0.011630534787104003, insert, 0.984, 0.0, 0.09090909090909091
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,value,SIMPLE_NAME, line no: 7, 0.01162675986506989, insert, 0.04838709677419355, 0.0, 0.08
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,numVowels,SIMPLE_NAME, line no: 61, 0.01162675986506989, insert, 0.967741935483871, 0.0, 0.08
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,format,SIMPLE_NAME, line no: 63, 0.01162675986506989, insert, 1.0, 0.0, 0.08
+"Please enter a string > ",STRING_LITERAL, line no: 63,value,SIMPLE_NAME, line no: 7, 0.01157884739309845, insert, 0.04838709677419355, 0.0, 0.07692307692307693
+nextLine,SIMPLE_NAME, line no: 64,toCharArray,SIMPLE_NAME, line no: 64, 0.011549463842466611, insert, 0.9761904761904762, 0.0, 0.09090909090909091
+toCharArray,SIMPLE_NAME, line no: 64,IntObj,SIMPLE_NAME, line no: 61, 0.011543435366512016, insert, 0.975609756097561, 0.0, 0.09090909090909091
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,toCharArray,SIMPLE_NAME, line no: 64, 0.011543041836087531, insert, 0.9919354838709677, 0.0, 0.08
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,value,SIMPLE_NAME, line no: 7, 0.011534483993124891, insert, 0.04878048780487805, 0.0, 0.07407407407407407
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,numVowels,SIMPLE_NAME, line no: 61, 0.011534483993124891, insert, 0.975609756097561, 0.0, 0.07407407407407407
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,format,SIMPLE_NAME, line no: 63, 0.011534483993124891, insert, 1.0, 0.0, 0.07407407407407407
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,toCharArray,SIMPLE_NAME, line no: 64, 0.011534483993124891, insert, 1.0, 0.0, 0.07407407407407407
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,length,SIMPLE_NAME, line no: 50, 0.01142012407118167, insert, 0.4596774193548387, 0.0, 0.08823529411764706
+numVowels.value,QUALIFIED_NAME, line no: 73,String,SIMPLE_NAME, line no: 49, 0.011419139153193642, insert, 0.4435483870967742, 0.0, 0.06666666666666667
+"Please enter a string > ",STRING_LITERAL, line no: 63,output,SIMPLE_NAME, line no: 49, 0.011411411335133731, insert, 0.4435483870967742, 0.0, 0.07692307692307693
+String,SIMPLE_NAME, line no: 63,println,SIMPLE_NAME, line no: 56, 0.011361732504748596, insert, 0.45161290322580644, 0.0, 0.42857142857142855
+String,SIMPLE_NAME, line no: 73,println,SIMPLE_NAME, line no: 56, 0.011361732504748596, insert, 0.45161290322580644, 0.0, 0.42857142857142855
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,format,SIMPLE_NAME, line no: 63, 0.011297009322678202, insert, 1.0, 0.0, 0.058823529411764705
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,IntObj,SIMPLE_NAME, line no: 61, 0.011291887749140458, insert, 0.967741935483871, 0.0, 0.08
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,IntObj,SIMPLE_NAME, line no: 61, 0.011281288003031905, insert, 0.975609756097561, 0.0, 0.07407407407407407
+"Please enter a string > ",STRING_LITERAL, line no: 63,IntObj,SIMPLE_NAME, line no: 61, 0.011243975277169017, insert, 0.967741935483871, 0.0, 0.07692307692307693
+numVowels.value,QUALIFIED_NAME, line no: 73,IntObj,SIMPLE_NAME, line no: 61, 0.011084267037264211, insert, 0.967741935483871, 0.0, 0.06666666666666667
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,output,SIMPLE_NAME, line no: 49, 0.010996977039045272, insert, 0.44, 0.0, 0.05555555555555555
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,IntObj,SIMPLE_NAME, line no: 61, 0.01096213720674877, insert, 0.967741935483871, 0.0, 0.058823529411764705
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,i,SIMPLE_NAME, line no: 7, 0.01091392875429477, insert, 0.048, 0.0, 0.05555555555555555
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,output,SIMPLE_NAME, line no: 49, 0.010873361130104316, insert, 0.44715447154471544, 0.0, 0.037037037037037035
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,output,SIMPLE_NAME, line no: 49, 0.01083646167147643, insert, 0.4435483870967742, 0.0, 0.04
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,i,SIMPLE_NAME, line no: 7, 0.01078896246673999, insert, 0.04878048780487805, 0.0, 0.037037037037037035
+output+=(String.format("The number of syllables is %d.\n" numVowels.value)); ,EXPRESSION_STATEMENT, line no: 72,numVowels.value+=0; ,EXPRESSION_STATEMENT, line no: 69, 0.010753689258027442, insert, 0.06666666666666667, 1.3333333333333333, 0.22077922077922077
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,i,SIMPLE_NAME, line no: 7, 0.010752743642494074, insert, 0.04838709677419355, 0.0, 0.04
+"Please enter a string > ",STRING_LITERAL, line no: 63,i,SIMPLE_NAME, line no: 7, 0.010728787406508353, insert, 0.04838709677419355, 0.0, 0.038461538461538464
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,output,SIMPLE_NAME, line no: 49, 0.010671586400280585, insert, 0.4435483870967742, 0.0, 0.029411764705882353
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,i,SIMPLE_NAME, line no: 7, 0.010587868371298229, insert, 0.04838709677419355, 0.0, 0.029411764705882353
+nextLine,SIMPLE_NAME, line no: 64,exec,SIMPLE_NAME, line no: 55, 0.010453126118769432, insert, 0.4444444444444444, 0.0, 0.375
+nextLine,SIMPLE_NAME, line no: 64,println,SIMPLE_NAME, line no: 56, 0.010453126118769432, insert, 0.4444444444444444, 0.0, 0.375
+String,SIMPLE_NAME, line no: 63,args,SIMPLE_NAME, line no: 50, 0.009962445448900611, insert, 0.4596774193548387, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 63,System,SIMPLE_NAME, line no: 53, 0.009962445448900611, insert, 0.1532258064516129, 0.0, 0.3333333333333333
+format,SIMPLE_NAME, line no: 63,out,SIMPLE_NAME, line no: 56, 0.009962445448900611, insert, 0.4596774193548387, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 73,args,SIMPLE_NAME, line no: 50, 0.009962445448900611, insert, 0.4596774193548387, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 73,System,SIMPLE_NAME, line no: 53, 0.009962445448900611, insert, 0.1532258064516129, 0.0, 0.3333333333333333
+format,SIMPLE_NAME, line no: 73,out,SIMPLE_NAME, line no: 56, 0.009962445448900611, insert, 0.4596774193548387, 0.0, 0.3333333333333333
+numVowels,SIMPLE_NAME, line no: 73,mainClass,SIMPLE_NAME, line no: 48, 0.009924270027684656, insert, 0.44, 0.0, 0.3333333333333333
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,syllables_f8d57dea_002,SIMPLE_NAME, line no: 48, 0.009184360238358695, insert, 0.4435483870967742, 0.0, 0.29411764705882354
+scanner,SIMPLE_NAME, line no: 64,args,SIMPLE_NAME, line no: 50, 0.009145198023120448, insert, 0.4523809523809524, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 64,System,SIMPLE_NAME, line no: 53, 0.009145198023120448, insert, 0.15079365079365079, 0.0, 0.2857142857142857
+format,SIMPLE_NAME, line no: 63,println,SIMPLE_NAME, line no: 56, 0.00913722487750308, insert, 0.45161290322580644, 0.0, 0.2857142857142857
+format,SIMPLE_NAME, line no: 73,println,SIMPLE_NAME, line no: 56, 0.00913722487750308, insert, 0.45161290322580644, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 64,println,SIMPLE_NAME, line no: 56, 0.009062808851740985, insert, 0.4444444444444444, 0.0, 0.2857142857142857
+nextLine,SIMPLE_NAME, line no: 64,System,SIMPLE_NAME, line no: 53, 0.008589071116309072, insert, 0.15079365079365079, 0.0, 0.25
+String,SIMPLE_NAME, line no: 63,mainClass,SIMPLE_NAME, line no: 48, 0.008232272849931877, insert, 0.4435483870967742, 0.0, 0.2222222222222222
+format,SIMPLE_NAME, line no: 63,mainClass,SIMPLE_NAME, line no: 48, 0.008232272849931877, insert, 0.4435483870967742, 0.0, 0.2222222222222222
+String,SIMPLE_NAME, line no: 73,mainClass,SIMPLE_NAME, line no: 48, 0.008232272849931877, insert, 0.4435483870967742, 0.0, 0.2222222222222222
+format,SIMPLE_NAME, line no: 73,mainClass,SIMPLE_NAME, line no: 48, 0.008232272849931877, insert, 0.4435483870967742, 0.0, 0.2222222222222222
+value,SIMPLE_NAME, line no: 73,mainClass,SIMPLE_NAME, line no: 48, 0.008194097428715921, insert, 0.44, 0.0, 0.2222222222222222
+scanner,SIMPLE_NAME, line no: 64,mainClass,SIMPLE_NAME, line no: 48, 0.008156527966566888, insert, 0.4365079365079365, 0.0, 0.2222222222222222
+nextLine,SIMPLE_NAME, line no: 64,mainClass,SIMPLE_NAME, line no: 48, 0.008156527966566888, insert, 0.4365079365079365, 0.0, 0.2222222222222222
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,println,SIMPLE_NAME, line no: 56, 0.008111049143965423, insert, 0.448, 0.0, 0.2222222222222222
+numVowels,SIMPLE_NAME, line no: 73,println,SIMPLE_NAME, line no: 56, 0.008111049143965423, insert, 0.448, 0.0, 0.2222222222222222
+value,SIMPLE_NAME, line no: 73,java,SIMPLE_NAME, line no: 44, 0.007889587051297425, insert, 0.016, 0.0, 0.4
+numVowels.value,QUALIFIED_NAME, line no: 73,mainClass,SIMPLE_NAME, line no: 48, 0.00788623833013813, insert, 0.4435483870967742, 0.0, 0.2
+value,SIMPLE_NAME, line no: 73,args,SIMPLE_NAME, line no: 50, 0.007848062908922177, insert, 0.456, 0.0, 0.2
+value,SIMPLE_NAME, line no: 73,out,SIMPLE_NAME, line no: 56, 0.007848062908922177, insert, 0.456, 0.0, 0.2
+value,SIMPLE_NAME, line no: 73,exec,SIMPLE_NAME, line no: 55, 0.007765014624171677, insert, 0.448, 0.0, 0.2
+toCharArray,SIMPLE_NAME, line no: 64,mainClass,SIMPLE_NAME, line no: 48, 0.007641915337351924, insert, 0.44715447154471544, 0.0, 0.18181818181818182
+toCharArray,SIMPLE_NAME, line no: 64,args,SIMPLE_NAME, line no: 50, 0.007641915337351924, insert, 0.4634146341463415, 0.0, 0.18181818181818182
+"Please enter a string > ",STRING_LITERAL, line no: 63,syllables_f8d57dea_002,SIMPLE_NAME, line no: 48, 0.00759902109224481, insert, 0.4435483870967742, 0.0, 0.19230769230769232
+numVowels.value+=0; ,EXPRESSION_STATEMENT, line no: 69,numVowels.value+=0; ,EXPRESSION_STATEMENT, line no: 69, 0.0075, insert, 1.0, 2.0, 1.0
+numVowels.value,QUALIFIED_NAME, line no: 73,syllables_f8d57dea_002,SIMPLE_NAME, line no: 48, 0.007435683119614895, insert, 0.4435483870967742, 0.0, 0.18181818181818182
+nextLine,SIMPLE_NAME, line no: 64,Scanner,SIMPLE_NAME, line no: 44, 0.007404726777729282, insert, 0.007936507936507936, 0.0, 0.375
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,syllables_f8d57dea_002,SIMPLE_NAME, line no: 48, 0.007398847186862658, insert, 0.44, 0.0, 0.18181818181818182
+String,SIMPLE_NAME, line no: 63,out,SIMPLE_NAME, line no: 56, 0.007367186550447511, insert, 0.4596774193548387, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 63,args,SIMPLE_NAME, line no: 50, 0.007367186550447511, insert, 0.4596774193548387, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 63,System,SIMPLE_NAME, line no: 53, 0.007367186550447511, insert, 0.1532258064516129, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 73,out,SIMPLE_NAME, line no: 56, 0.007367186550447511, insert, 0.4596774193548387, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 73,args,SIMPLE_NAME, line no: 50, 0.007367186550447511, insert, 0.4596774193548387, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 73,System,SIMPLE_NAME, line no: 53, 0.007367186550447511, insert, 0.1532258064516129, 0.0, 0.16666666666666666
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,mainClass,SIMPLE_NAME, line no: 48, 0.007329011129231555, insert, 0.44, 0.0, 0.16666666666666666
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,System,SIMPLE_NAME, line no: 53, 0.007329011129231555, insert, 0.152, 0.0, 0.16666666666666666
+value,SIMPLE_NAME, line no: 73,System,SIMPLE_NAME, line no: 53, 0.007329011129231555, insert, 0.152, 0.0, 0.16666666666666666
+instring=(scanner.nextLine() + "\n").toCharArray(); ,EXPRESSION_STATEMENT, line no: 64,numVowels.value+=0; ,EXPRESSION_STATEMENT, line no: 69, 0.0072601129265032925, insert, 0.06666666666666667, 0.0, 0.1346153846153846
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,exec,SIMPLE_NAME, line no: 55, 0.007245962844481056, insert, 0.448, 0.0, 0.16666666666666666
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,println,SIMPLE_NAME, line no: 56, 0.007179658165527028, insert, 0.45161290322580644, 0.0, 0.16
+"Please enter a string > ",STRING_LITERAL, line no: 63,mainClass,SIMPLE_NAME, line no: 48, 0.007167551250566503, insert, 0.4435483870967742, 0.0, 0.15384615384615385
+output+=(String.format("Please enter a string > ")); ,EXPRESSION_STATEMENT, line no: 63,numVowels.value+=0; ,EXPRESSION_STATEMENT, line no: 69, 0.007157130282659076, insert, 0.06666666666666667, 0.0, 0.1320754716981132
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,syllables_f8d57dea_002,SIMPLE_NAME, line no: 48, 0.007095940136544672, insert, 0.4435483870967742, 0.0, 0.16
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,mainClass,SIMPLE_NAME, line no: 48, 0.007061861974158911, insert, 0.4435483870967742, 0.0, 0.14705882352941177
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,println,SIMPLE_NAME, line no: 56, 0.007033221947027373, insert, 0.45528455284552843, 0.0, 0.14814814814814814
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,syllables_f8d57dea_002,SIMPLE_NAME, line no: 48, 0.006948823283663043, insert, 0.44715447154471544, 0.0, 0.14814814814814814
+"\n",STRING_LITERAL, line no: 64,println,SIMPLE_NAME, line no: 56, 0.00687521157327347, insert, 0.448, 0.0, 0.14285714285714285
+value,SIMPLE_NAME, line no: 73,println,SIMPLE_NAME, line no: 56, 0.00687521157327347, insert, 0.448, 0.0, 0.14285714285714285
+String,SIMPLE_NAME, line no: 63,util,SIMPLE_NAME, line no: 44, 0.006864878376553363, insert, 0.016129032258064516, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 73,util,SIMPLE_NAME, line no: 44, 0.006864878376553363, insert, 0.016129032258064516, 0.0, 0.3333333333333333
+numVowels.value,QUALIFIED_NAME, line no: 73,System,SIMPLE_NAME, line no: 53, 0.00684813477075689, insert, 0.1532258064516129, 0.0, 0.13333333333333333
+numVowels.value,QUALIFIED_NAME, line no: 73,out,SIMPLE_NAME, line no: 56, 0.00684813477075689, insert, 0.4596774193548387, 0.0, 0.13333333333333333
+scanner,SIMPLE_NAME, line no: 64,exec,SIMPLE_NAME, line no: 55, 0.0068383012244954714, insert, 0.4444444444444444, 0.0, 0.14285714285714285
+String,SIMPLE_NAME, line no: 63,in,SIMPLE_NAME, line no: 53, 0.006781160347571005, insert, 0.1532258064516129, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 73,in,SIMPLE_NAME, line no: 53, 0.006781160347571005, insert, 0.1532258064516129, 0.0, 0.3333333333333333
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,Scanner,SIMPLE_NAME, line no: 44, 0.006768435207165685, insert, 0.008, 0.0, 0.3333333333333333
+numVowels.value,QUALIFIED_NAME, line no: 73,exec,SIMPLE_NAME, line no: 55, 0.006764416741774534, insert, 0.45161290322580644, 0.0, 0.13333333333333333
+numVowels.value,QUALIFIED_NAME, line no: 73,println,SIMPLE_NAME, line no: 56, 0.006764416741774534, insert, 0.45161290322580644, 0.0, 0.13333333333333333
+value,SIMPLE_NAME, line no: 73,syllables_f8d57dea_002,SIMPLE_NAME, line no: 48, 0.006691049305466357, insert, 0.44, 0.0, 0.13636363636363635
+scanner,SIMPLE_NAME, line no: 64,syllables_f8d57dea_002,SIMPLE_NAME, line no: 48, 0.006654798070059393, insert, 0.4365079365079365, 0.0, 0.13636363636363635
+nextLine,SIMPLE_NAME, line no: 64,out,SIMPLE_NAME, line no: 56, 0.006642626942469246, insert, 0.4523809523809524, 0.0, 0.125
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,mainClass,SIMPLE_NAME, line no: 48, 0.006640514058880642, insert, 0.4435483870967742, 0.0, 0.12
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,System,SIMPLE_NAME, line no: 53, 0.006640514058880642, insert, 0.1532258064516129, 0.0, 0.12
+"Please enter a string > ",STRING_LITERAL, line no: 63,args,SIMPLE_NAME, line no: 50, 0.00656864535092348, insert, 0.4596774193548387, 0.0, 0.11538461538461539
+"Please enter a string > ",STRING_LITERAL, line no: 63,System,SIMPLE_NAME, line no: 53, 0.00656864535092348, insert, 0.1532258064516129, 0.0, 0.11538461538461539
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,exec,SIMPLE_NAME, line no: 55, 0.006556796029898285, insert, 0.45161290322580644, 0.0, 0.12
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,mainClass,SIMPLE_NAME, line no: 48, 0.006540896410735457, insert, 0.44715447154471544, 0.0, 0.1111111111111111
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,System,SIMPLE_NAME, line no: 53, 0.006540896410735457, insert, 0.15447154471544716, 0.0, 0.1111111111111111
+"Please enter a string > ",STRING_LITERAL, line no: 63,println,SIMPLE_NAME, line no: 56, 0.006484927321941123, insert, 0.45161290322580644, 0.0, 0.11538461538461539
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,args,SIMPLE_NAME, line no: 50, 0.006463924829747189, insert, 0.456, 0.0, 0.1111111111111111
+"\n",STRING_LITERAL, line no: 64,mainClass,SIMPLE_NAME, line no: 48, 0.006463924829747189, insert, 0.44, 0.0, 0.1111111111111111
+numVowels,SIMPLE_NAME, line no: 73,args,SIMPLE_NAME, line no: 50, 0.006463924829747189, insert, 0.456, 0.0, 0.1111111111111111
+numVowels,SIMPLE_NAME, line no: 73,System,SIMPLE_NAME, line no: 53, 0.006463924829747189, insert, 0.152, 0.0, 0.1111111111111111
+numVowels,SIMPLE_NAME, line no: 73,out,SIMPLE_NAME, line no: 56, 0.006463924829747189, insert, 0.456, 0.0, 0.1111111111111111
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,exec,SIMPLE_NAME, line no: 55, 0.006456497747371128, insert, 0.45528455284552843, 0.0, 0.1111111111111111
+numVowels,SIMPLE_NAME, line no: 73,exec,SIMPLE_NAME, line no: 55, 0.00638087654499669, insert, 0.448, 0.0, 0.1111111111111111
+toCharArray,SIMPLE_NAME, line no: 64,System,SIMPLE_NAME, line no: 53, 0.006226319574559323, insert, 0.15447154471544716, 0.0, 0.09090909090909091
+toCharArray,SIMPLE_NAME, line no: 64,out,SIMPLE_NAME, line no: 56, 0.006226319574559323, insert, 0.4634146341463415, 0.0, 0.09090909090909091
+numVowels.value,QUALIFIED_NAME, line no: 73,numVowels.value,QUALIFIED_NAME, line no: 69, 0.006218671481916374, insert, 0.08064516129032258, 2.0, 1.0
+toCharArray,SIMPLE_NAME, line no: 64,println,SIMPLE_NAME, line no: 56, 0.006141920911194995, insert, 0.45528455284552843, 0.0, 0.09090909090909091
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,println,SIMPLE_NAME, line no: 56, 0.006062170216310754, insert, 0.45161290322580644, 0.0, 0.08823529411764706
+toCharArray,SIMPLE_NAME, line no: 64,syllables_f8d57dea_002,SIMPLE_NAME, line no: 48, 0.006057522247830666, insert, 0.44715447154471544, 0.0, 0.09090909090909091
+String,SIMPLE_NAME, line no: 63,Scanner,SIMPLE_NAME, line no: 44, 0.006039657805155832, insert, 0.008064516129032258, 0.0, 0.2857142857142857
+String,SIMPLE_NAME, line no: 73,Scanner,SIMPLE_NAME, line no: 44, 0.006039657805155832, insert, 0.008064516129032258, 0.0, 0.2857142857142857
+value,SIMPLE_NAME, line no: 73,Scanner,SIMPLE_NAME, line no: 44, 0.006026932664750514, insert, 0.008, 0.0, 0.2857142857142857
+format,SIMPLE_NAME, line no: 63,syllables_f8d57dea_002,SIMPLE_NAME, line no: 48, 0.006020087356822294, insert, 0.4435483870967742, 0.0, 0.09090909090909091
+format,SIMPLE_NAME, line no: 73,syllables_f8d57dea_002,SIMPLE_NAME, line no: 48, 0.006020087356822294, insert, 0.4435483870967742, 0.0, 0.09090909090909091
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,args,SIMPLE_NAME, line no: 50, 0.006017651923251899, insert, 0.4596774193548387, 0.0, 0.08
+numVowels,SIMPLE_NAME, line no: 73,syllables_f8d57dea_002,SIMPLE_NAME, line no: 48, 0.005983251424070057, insert, 0.44, 0.0, 0.09090909090909091
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,args,SIMPLE_NAME, line no: 50, 0.005964172211079212, insert, 0.4634146341463415, 0.0, 0.07407407407407407
+nextLine,SIMPLE_NAME, line no: 64,syllables_f8d57dea_002,SIMPLE_NAME, line no: 48, 0.005947000188663093, insert, 0.4365079365079365, 0.0, 0.09090909090909091
+"Please enter a string > ",STRING_LITERAL, line no: 63,exec,SIMPLE_NAME, line no: 55, 0.005886021422298099, insert, 0.45161290322580644, 0.0, 0.07692307692307693
+numVowels.value,QUALIFIED_NAME, line no: 73,args,SIMPLE_NAME, line no: 50, 0.005810031211375651, insert, 0.4596774193548387, 0.0, 0.06666666666666667
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,args,SIMPLE_NAME, line no: 50, 0.005687901380860211, insert, 0.4596774193548387, 0.0, 0.058823529411764705
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,System,SIMPLE_NAME, line no: 53, 0.005687901380860211, insert, 0.1532258064516129, 0.0, 0.058823529411764705
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,exec,SIMPLE_NAME, line no: 55, 0.005604183351877853, insert, 0.45161290322580644, 0.0, 0.058823529411764705
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,out,SIMPLE_NAME, line no: 56, 0.005598838530262822, insert, 0.456, 0.0, 0.05555555555555555
+nextLine,SIMPLE_NAME, line no: 64,util,SIMPLE_NAME, line no: 44, 0.005540671775268921, insert, 0.015873015873015872, 0.0, 0.25
+output+=(String.format("Please enter a string > ")); ,EXPRESSION_STATEMENT, line no: 63,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.005491099955579291, insert, 0.03333333333333333, 0.0, 0.11320754716981132
+"\n",STRING_LITERAL, line no: 64,in,SIMPLE_NAME, line no: 53, 0.0054708057579391355, insert, 0.152, 0.0, 0.25
+nextLine,SIMPLE_NAME, line no: 64,in,SIMPLE_NAME, line no: 53, 0.005458282603889458, insert, 0.15079365079365079, 0.0, 0.25
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,out,SIMPLE_NAME, line no: 56, 0.005394789787623154, insert, 0.4596774193548387, 0.0, 0.04
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,out,SIMPLE_NAME, line no: 56, 0.005387448011422968, insert, 0.4634146341463415, 0.0, 0.037037037037037035
+"Please enter a string > ",STRING_LITERAL, line no: 63,out,SIMPLE_NAME, line no: 56, 0.005370833551637434, insert, 0.4596774193548387, 0.0, 0.038461538461538464
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,Scanner,SIMPLE_NAME, line no: 44, 0.005327815364437268, insert, 0.008064516129032258, 0.0, 0.24
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,out,SIMPLE_NAME, line no: 56, 0.00522991451642731, insert, 0.4596774193548387, 0.0, 0.029411764705882353
+numVowels,SIMPLE_NAME, line no: 73,util,SIMPLE_NAME, line no: 44, 0.005121310892947452, insert, 0.016, 0.0, 0.2222222222222222
+value,SIMPLE_NAME, line no: 73,i.value,QUALIFIED_NAME, line no: 65, 0.0050730145186193235, insert, 0.968, 1.0, 0.7142857142857143
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,Scanner,SIMPLE_NAME, line no: 44, 0.005063919801859708, insert, 0.008130081300813009, 0.0, 0.2222222222222222
+numVowels,SIMPLE_NAME, line no: 73,Scanner,SIMPLE_NAME, line no: 44, 0.005038262608196952, insert, 0.008, 0.0, 0.2222222222222222
+instring=(scanner.nextLine() + "\n").toCharArray(); ,EXPRESSION_STATEMENT, line no: 64,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.004799645061196688, insert, 0.03333333333333333, 0.0, 0.09615384615384616
+value,SIMPLE_NAME, line no: 73,util,SIMPLE_NAME, line no: 44, 0.004775276373153704, insert, 0.016, 0.0, 0.2
+numVowels,SIMPLE_NAME, line no: 73,numVowels.value,QUALIFIED_NAME, line no: 69, 0.0047062905775143125, insert, 0.08, 1.0, 0.6
+output+=(String.format("The number of syllables is %d.\n" numVowels.value)); ,EXPRESSION_STATEMENT, line no: 72,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.004586992588843044, insert, 0.03333333333333333, 0.3333333333333333, 0.09090909090909091
+toCharArray,SIMPLE_NAME, line no: 64,java,SIMPLE_NAME, line no: 44, 0.00451916479287177, insert, 0.016260162601626018, 0.0, 0.18181818181818182
+toCharArray,SIMPLE_NAME, line no: 64,Scanner,SIMPLE_NAME, line no: 44, 0.004434766129507442, insert, 0.008130081300813009, 0.0, 0.18181818181818182
+format,SIMPLE_NAME, line no: 63,java,SIMPLE_NAME, line no: 44, 0.004269619478100261, insert, 0.016129032258064516, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 63,util,SIMPLE_NAME, line no: 44, 0.004269619478100261, insert, 0.016129032258064516, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 73,java,SIMPLE_NAME, line no: 44, 0.004269619478100261, insert, 0.016129032258064516, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 73,util,SIMPLE_NAME, line no: 44, 0.004269619478100261, insert, 0.016129032258064516, 0.0, 0.16666666666666666
+numVowels.value+=0; ,EXPRESSION_STATEMENT, line no: 69,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.004200000000000001, insert, 0.875, 0.0, 0.35
+numVowels.value+=0; ,EXPRESSION_STATEMENT, line no: 69,output+=(String.format("The number of syllables is %d.\n" numVowels.value)); ,EXPRESSION_STATEMENT, line no: 72, 0.0039935064935064934, insert, 1.0, 2.0, 0.22077922077922077
+"Please enter a string > ",STRING_LITERAL, line no: 63,Scanner,SIMPLE_NAME, line no: 44, 0.003986266149236896, insert, 0.008064516129032258, 0.0, 0.15384615384615385
+numVowels.value,QUALIFIED_NAME, line no: 73,i.value,QUALIFIED_NAME, line no: 65, 0.003919769056665999, insert, 0.9758064516129032, 0.6666666666666666, 0.4
+scanner,SIMPLE_NAME, line no: 64,java,SIMPLE_NAME, line no: 44, 0.0038722910548347838, insert, 0.015873015873015872, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 63,Scanner,SIMPLE_NAME, line no: 44, 0.0038151501779103178, insert, 0.008064516129032258, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 73,Scanner,SIMPLE_NAME, line no: 44, 0.0038151501779103178, insert, 0.008064516129032258, 0.0, 0.14285714285714285
+"\n",STRING_LITERAL, line no: 64,Scanner,SIMPLE_NAME, line no: 44, 0.0038024250375049994, insert, 0.008, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 64,in,SIMPLE_NAME, line no: 53, 0.0037899018834553207, insert, 0.15079365079365079, 0.0, 0.14285714285714285
+numVowels.value,QUALIFIED_NAME, line no: 73,java,SIMPLE_NAME, line no: 44, 0.0037505676984096424, insert, 0.016129032258064516, 0.0, 0.13333333333333333
+numVowels.value,QUALIFIED_NAME, line no: 73,util,SIMPLE_NAME, line no: 44, 0.0037505676984096424, insert, 0.016129032258064516, 0.0, 0.13333333333333333
+value,SIMPLE_NAME, line no: 73,numVowels.value,QUALIFIED_NAME, line no: 69, 0.003711303140407692, insert, 0.08, 1.0, 0.3333333333333333
+numVowels.value,QUALIFIED_NAME, line no: 73,Scanner,SIMPLE_NAME, line no: 44, 0.003666849669427284, insert, 0.008064516129032258, 0.0, 0.13333333333333333
+String,SIMPLE_NAME, line no: 63,instring.length,QUALIFIED_NAME, line no: 65, 0.003650961966802517, insert, 0.967741935483871, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 73,instring.length,QUALIFIED_NAME, line no: 65, 0.003650961966802517, insert, 0.967741935483871, 0.0, 0.3333333333333333
+numVowels.value,QUALIFIED_NAME, line no: 73,instring.length,QUALIFIED_NAME, line no: 65, 0.003650961966802517, insert, 0.967741935483871, 0.0, 0.3333333333333333
+nextLine,SIMPLE_NAME, line no: 64,instring.length,QUALIFIED_NAME, line no: 65, 0.003632493818008295, insert, 0.9603174603174603, 0.0, 0.3333333333333333
+numVowels.value+=0; ,EXPRESSION_STATEMENT, line no: 69,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.003615, insert, 0.875, 0.0, 0.22
+numVowels.value+=0; ,EXPRESSION_STATEMENT, line no: 69,instring=(scanner.nextLine() + "\n").toCharArray(); ,EXPRESSION_STATEMENT, line no: 64, 0.0036057692307692305, insert, 1.0, 0.0, 0.1346153846153846
+numVowels.value+=0; ,EXPRESSION_STATEMENT, line no: 69,output+=(String.format("Please enter a string > ")); ,EXPRESSION_STATEMENT, line no: 63, 0.0035943396226415093, insert, 1.0, 0.0, 0.1320754716981132
+numVowels.value+=0; ,EXPRESSION_STATEMENT, line no: 69,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.003572368421052632, insert, 0.875, 0.0, 0.21052631578947367
+scanner,SIMPLE_NAME, line no: 64,i.value,QUALIFIED_NAME, line no: 65, 0.0034548174899535415, insert, 0.9603174603174603, 0.0, 0.2857142857142857
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,instring.length,QUALIFIED_NAME, line no: 65, 0.003444314844784082, insert, 0.968, 0.0, 0.2777777777777778
+"Please enter a string > ",STRING_LITERAL, line no: 63,instring.length,QUALIFIED_NAME, line no: 65, 0.003411782294421117, insert, 0.967741935483871, 0.0, 0.2692307692307692
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,util,SIMPLE_NAME, line no: 44, 0.0033911382939787174, insert, 0.016, 0.0, 0.1111111111111111
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,numVowels.value,QUALIFIED_NAME, line no: 69, 0.003365398684331215, insert, 0.08064516129032258, 0.0, 0.23529411764705882
+nextLine,SIMPLE_NAME, line no: 64,i.value,QUALIFIED_NAME, line no: 65, 0.003321560243912476, insert, 0.9603174603174603, 0.0, 0.25
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,in,SIMPLE_NAME, line no: 53, 0.003308090009228219, insert, 0.152, 0.0, 0.1111111111111111
+numVowels,SIMPLE_NAME, line no: 73,in,SIMPLE_NAME, line no: 53, 0.003308090009228219, insert, 0.152, 0.0, 0.1111111111111111
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,instring.length,QUALIFIED_NAME, line no: 65, 0.0033027163638151996, insert, 0.967741935483871, 0.0, 0.24
+numVowels.value+=0; ,EXPRESSION_STATEMENT, line no: 69,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.0033, insert, 0.5, 0.5, 0.4
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,numVowels.value,QUALIFIED_NAME, line no: 69, 0.0032967250416132674, insert, 0.08, 0.0, 0.2222222222222222
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,instring.length,QUALIFIED_NAME, line no: 65, 0.0032559548246781666, insert, 0.975609756097561, 0.0, 0.2222222222222222
+numVowels,SIMPLE_NAME, line no: 73,i.value,QUALIFIED_NAME, line no: 65, 0.00323702579538687, insert, 0.968, 0.0, 0.2222222222222222
+scanner,SIMPLE_NAME, line no: 64,numVowels.value,QUALIFIED_NAME, line no: 69, 0.003194225542139903, insert, 0.07936507936507936, 0.0, 0.2
+nextLine,SIMPLE_NAME, line no: 64,numVowels.value,QUALIFIED_NAME, line no: 69, 0.003194225542139903, insert, 0.07936507936507936, 0.0, 0.2
+scanner,SIMPLE_NAME, line no: 64,instring.length,QUALIFIED_NAME, line no: 65, 0.0031350000994549852, insert, 0.9603174603174603, 0.0, 0.2
+numVowels.value+=0; ,EXPRESSION_STATEMENT, line no: 69,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.0031153846153846158, insert, 0.75, 0.0, 0.19230769230769232
+toCharArray,SIMPLE_NAME, line no: 64,util,SIMPLE_NAME, line no: 44, 0.0031035690300791697, insert, 0.016260162601626018, 0.0, 0.09090909090909091
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,numVowels.value,QUALIFIED_NAME, line no: 69, 0.0030844610550305215, insert, 0.08064516129032258, 0.0, 0.16
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,numVowels.value,QUALIFIED_NAME, line no: 69, 0.0030402393911591165, insert, 0.08130081300813008, 0.0, 0.14814814814814814
+format,SIMPLE_NAME, line no: 63,numVowels.value,QUALIFIED_NAME, line no: 69, 0.00298496231131986, insert, 0.08064516129032258, 0.0, 0.13333333333333333
+toCharArray,SIMPLE_NAME, line no: 64,numVowels.value,QUALIFIED_NAME, line no: 69, 0.00298496231131986, insert, 0.08130081300813008, 0.0, 0.13333333333333333
+format,SIMPLE_NAME, line no: 73,numVowels.value,QUALIFIED_NAME, line no: 69, 0.00298496231131986, insert, 0.08064516129032258, 0.0, 0.13333333333333333
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,Scanner,SIMPLE_NAME, line no: 44, 0.0029646031439635036, insert, 0.008064516129032258, 0.0, 0.08823529411764706
+String,SIMPLE_NAME, line no: 63,i.value,QUALIFIED_NAME, line no: 65, 0.0029603168851703296, insert, 0.9758064516129032, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 63,i.value,QUALIFIED_NAME, line no: 65, 0.0029603168851703296, insert, 0.9758064516129032, 0.0, 0.14285714285714285
+String,SIMPLE_NAME, line no: 73,i.value,QUALIFIED_NAME, line no: 65, 0.0029603168851703296, insert, 0.9758064516129032, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 73,i.value,QUALIFIED_NAME, line no: 65, 0.0029603168851703296, insert, 0.9758064516129032, 0.0, 0.14285714285714285
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,instring.length,QUALIFIED_NAME, line no: 65, 0.0029559339776471572, insert, 0.967741935483871, 0.0, 0.14705882352941177
+toCharArray,SIMPLE_NAME, line no: 64,instring.length,QUALIFIED_NAME, line no: 65, 0.0029242923456426267, insert, 0.975609756097561, 0.0, 0.13333333333333333
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,util,SIMPLE_NAME, line no: 44, 0.0029200848509046496, insert, 0.016129032258064516, 0.0, 0.08
+"Please enter a string > ",STRING_LITERAL, line no: 63,numVowels.value,QUALIFIED_NAME, line no: 69, 0.002917992003053068, insert, 0.08064516129032258, 0.0, 0.11538461538461539
+format,SIMPLE_NAME, line no: 63,instring.length,QUALIFIED_NAME, line no: 65, 0.002904721388972552, insert, 0.967741935483871, 0.0, 0.13333333333333333
+format,SIMPLE_NAME, line no: 73,instring.length,QUALIFIED_NAME, line no: 65, 0.002904721388972552, insert, 0.967741935483871, 0.0, 0.13333333333333333
+numVowels,SIMPLE_NAME, line no: 73,instring.length,QUALIFIED_NAME, line no: 65, 0.002885463567609198, insert, 0.96, 0.0, 0.13333333333333333
+value,SIMPLE_NAME, line no: 73,instring.length,QUALIFIED_NAME, line no: 65, 0.002885463567609198, insert, 0.96, 0.0, 0.13333333333333333
+"Please enter a string > ",STRING_LITERAL, line no: 63,java,SIMPLE_NAME, line no: 44, 0.002872172378933208, insert, 0.016129032258064516, 0.0, 0.07692307692307693
+"Please enter a string > ",STRING_LITERAL, line no: 63,util,SIMPLE_NAME, line no: 44, 0.002872172378933208, insert, 0.016129032258064516, 0.0, 0.07692307692307693
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,util,SIMPLE_NAME, line no: 44, 0.0028414216665990583, insert, 0.016260162601626018, 0.0, 0.07407407407407407
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,in,SIMPLE_NAME, line no: 53, 0.002836366821922292, insert, 0.1532258064516129, 0.0, 0.08
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,i.value,QUALIFIED_NAME, line no: 65, 0.002822447696592445, insert, 0.968, 0.0, 0.1111111111111111
+"Please enter a string > ",STRING_LITERAL, line no: 63,in,SIMPLE_NAME, line no: 53, 0.00278845434995085, insert, 0.1532258064516129, 0.0, 0.07692307692307693
+toCharArray,SIMPLE_NAME, line no: 64,i.value,QUALIFIED_NAME, line no: 65, 0.0027862222116317122, insert, 0.983739837398374, 0.0, 0.09090909090909091
+value=i; ,EXPRESSION_STATEMENT, line no: 7,if (true) return; ,IF_STATEMENT, line no: 74, 0.002785964823898536, insert, 1.0, 0.0, 0.2222222222222222
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,in,SIMPLE_NAME, line no: 53, 0.00275702300323473, insert, 0.15447154471544716, 0.0, 0.07407407407407407
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,i.value,QUALIFIED_NAME, line no: 65, 0.002756511685342818, insert, 0.9758064516129032, 0.0, 0.08823529411764706
+output+=(String.format("Please enter a string > ")); ,EXPRESSION_STATEMENT, line no: 63,if (true) return; ,IF_STATEMENT, line no: 74, 0.002739970121617192, insert, 1.0, 0.0, 0.20754716981132076
+String,SIMPLE_NAME, line no: 63,numVowels.value,QUALIFIED_NAME, line no: 69, 0.0027362154520432047, insert, 0.08064516129032258, 0.0, 0.06666666666666667
+String,SIMPLE_NAME, line no: 73,numVowels.value,QUALIFIED_NAME, line no: 69, 0.0027362154520432047, insert, 0.08064516129032258, 0.0, 0.06666666666666667
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,i.value,QUALIFIED_NAME, line no: 65, 0.002725784132138055, insert, 0.9758064516129032, 0.0, 0.08
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,i.value,QUALIFIED_NAME, line no: 65, 0.0027234073481780113, insert, 0.983739837398374, 0.0, 0.07407407407407407
+"\n",STRING_LITERAL, line no: 64,numVowels.value,QUALIFIED_NAME, line no: 69, 0.0027163157033010723, insert, 0.08, 0.0, 0.06666666666666667
+"Please enter a string > ",STRING_LITERAL, line no: 63,i.value,QUALIFIED_NAME, line no: 65, 0.002714303507863748, insert, 0.9758064516129032, 0.0, 0.07692307692307693
+instring=(scanner.nextLine() + "\n").toCharArray(); ,EXPRESSION_STATEMENT, line no: 64,if (true) return; ,IF_STATEMENT, line no: 74, 0.002692206392325028, insert, 1.0, 0.0, 0.19230769230769232
+"\n",STRING_LITERAL, line no: 64,instring.length,QUALIFIED_NAME, line no: 65, 0.002656616457074675, insert, 0.968, 0.0, 0.06666666666666667
+numVowels.value,QUALIFIED_NAME, line no: 73,in,SIMPLE_NAME, line no: 53, 0.0026287461100460434, insert, 0.1532258064516129, 0.0, 0.06666666666666667
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,util,SIMPLE_NAME, line no: 44, 0.002590334308512962, insert, 0.016129032258064516, 0.0, 0.058823529411764705
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,java,SIMPLE_NAME, line no: 44, 0.002526051994494351, insert, 0.016, 0.0, 0.05555555555555555
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,in,SIMPLE_NAME, line no: 53, 0.0025066162795306037, insert, 0.1532258064516129, 0.0, 0.058823529411764705
+output+=(String.format("The number of syllables is %d.\n" numVowels.value)); ,EXPRESSION_STATEMENT, line no: 72,if (true) return; ,IF_STATEMENT, line no: 74, 0.002496513933103883, insert, 1.0, 0.0, 0.12987012987012986
+value,SIMPLE_NAME, line no: 73,true,BOOLEAN_LITERAL, line no: 74, 0.002431749296288579, insert, 0.96, 0.0, 0.4
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,java,SIMPLE_NAME, line no: 44, 0.0022972227152759056, insert, 0.016129032258064516, 0.0, 0.04
+numVowels.value,QUALIFIED_NAME, line no: 73,mainClass.output,QUALIFIED_NAME, line no: 56, 0.002289373815721633, insert, 0.45161290322580644, 0.0, 0.3125
+String,SIMPLE_NAME, line no: 63,true,BOOLEAN_LITERAL, line no: 74, 0.0022879361658629106, insert, 0.967741935483871, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 73,true,BOOLEAN_LITERAL, line no: 74, 0.0022879361658629106, insert, 0.967741935483871, 0.0, 0.3333333333333333
+value=i; ,EXPRESSION_STATEMENT, line no: 7,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 0.0022673011598748727, insert, 1.0, 0.0, 0.05673758865248227
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,java,SIMPLE_NAME, line no: 44, 0.002264697466942814, insert, 0.016260162601626018, 0.0, 0.037037037037037035
+value=i; ,EXPRESSION_STATEMENT, line no: 7,if (instring[i.value] == 'a' || instring[i.value] == 'e' || instring[i.value] == 'i' || instring[i.value] == 'o' || instring[i.value] == 'u' || instring[i.value] == 'y') {   numVowels.value+=0; } ,IF_STATEMENT, line no: 66, 0.0022333914436482526, insert, 1.0, 1.0, 0.04591836734693878
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,args.length,QUALIFIED_NAME, line no: 50, 0.0021508311765454768, insert, 0.448, 0.0, 0.2777777777777778
+String,SIMPLE_NAME, line no: 63,args.length,QUALIFIED_NAME, line no: 50, 0.0021409737008122646, insert, 0.45161290322580644, 0.0, 0.2727272727272727
+String,SIMPLE_NAME, line no: 73,args.length,QUALIFIED_NAME, line no: 50, 0.0021409737008122646, insert, 0.45161290322580644, 0.0, 0.2727272727272727
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,java,SIMPLE_NAME, line no: 44, 0.0021323474440800615, insert, 0.016129032258064516, 0.0, 0.029411764705882353
+value,SIMPLE_NAME, line no: 73,args.length,QUALIFIED_NAME, line no: 50, 0.0021319867175093664, insert, 0.448, 0.0, 0.2727272727272727
+numVowels.value,QUALIFIED_NAME, line no: 73,args.length,QUALIFIED_NAME, line no: 50, 0.002118360349968933, insert, 0.45161290322580644, 0.0, 0.26666666666666666
+nextLine,SIMPLE_NAME, line no: 64,true,BOOLEAN_LITERAL, line no: 74, 0.002069139549268747, insert, 0.9523809523809523, 0.0, 0.25
+String,SIMPLE_NAME, line no: 63,System.in,QUALIFIED_NAME, line no: 53, 0.002019396545740586, insert, 0.14516129032258066, 0.0, 0.4444444444444444
+String,SIMPLE_NAME, line no: 73,System.in,QUALIFIED_NAME, line no: 53, 0.002019396545740586, insert, 0.14516129032258066, 0.0, 0.4444444444444444
+numVowels,SIMPLE_NAME, line no: 73,true,BOOLEAN_LITERAL, line no: 74, 0.002016065655897369, insert, 0.96, 0.0, 0.2222222222222222
+toCharArray,SIMPLE_NAME, line no: 64,true,BOOLEAN_LITERAL, line no: 74, 0.0019459248021639522, insert, 0.975609756097561, 0.0, 0.18181818181818182
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,System.out,QUALIFIED_NAME, line no: 56, 0.001943542127148264, insert, 0.448, 0.0, 0.2222222222222222
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,mainClass.output,QUALIFIED_NAME, line no: 56, 0.001943542127148264, insert, 0.448, 0.0, 0.2222222222222222
+format,SIMPLE_NAME, line no: 63,true,BOOLEAN_LITERAL, line no: 74, 0.0018982327529961512, insert, 0.967741935483871, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 73,true,BOOLEAN_LITERAL, line no: 74, 0.0018982327529961512, insert, 0.967741935483871, 0.0, 0.16666666666666666
+scanner,SIMPLE_NAME, line no: 64,mainClass.scanner,QUALIFIED_NAME, line no: 51, 0.001871988502119364, insert, 0.1349206349206349, 1.0, 0.4117647058823529
+String,SIMPLE_NAME, line no: 63,System.out,QUALIFIED_NAME, line no: 56, 0.0018696134906922778, insert, 0.45161290322580644, 0.0, 0.2
+format,SIMPLE_NAME, line no: 63,System.out,QUALIFIED_NAME, line no: 56, 0.0018696134906922778, insert, 0.45161290322580644, 0.0, 0.2
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,args.length,QUALIFIED_NAME, line no: 50, 0.0018696134906922778, insert, 0.45161290322580644, 0.0, 0.2
+String,SIMPLE_NAME, line no: 73,System.out,QUALIFIED_NAME, line no: 56, 0.0018696134906922778, insert, 0.45161290322580644, 0.0, 0.2
+format,SIMPLE_NAME, line no: 73,System.out,QUALIFIED_NAME, line no: 56, 0.0018696134906922778, insert, 0.45161290322580644, 0.0, 0.2
+numVowels.value,QUALIFIED_NAME, line no: 73,System.out,QUALIFIED_NAME, line no: 56, 0.0018696134906922778, insert, 0.45161290322580644, 0.0, 0.2
+numVowels,SIMPLE_NAME, line no: 73,System.out,QUALIFIED_NAME, line no: 56, 0.0018606265073893794, insert, 0.448, 0.0, 0.2
+scanner,SIMPLE_NAME, line no: 64,System.out,QUALIFIED_NAME, line no: 56, 0.0018517821746150984, insert, 0.4444444444444444, 0.0, 0.2
+nextLine,SIMPLE_NAME, line no: 64,System.out,QUALIFIED_NAME, line no: 56, 0.0018517821746150984, insert, 0.4444444444444444, 0.0, 0.2
+"Please enter a string > ",STRING_LITERAL, line no: 63,args.length,QUALIFIED_NAME, line no: 50, 0.0018409119300065102, insert, 0.45161290322580644, 0.0, 0.19230769230769232
+"Please enter a string > ",STRING_LITERAL, line no: 63,mainClass.output,QUALIFIED_NAME, line no: 56, 0.0018409119300065102, insert, 0.45161290322580644, 0.0, 0.19230769230769232
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,args.length,QUALIFIED_NAME, line no: 50, 0.001823469523965723, insert, 0.45528455284552843, 0.0, 0.18518518518518517
+format,SIMPLE_NAME, line no: 63,mainClass.output,QUALIFIED_NAME, line no: 56, 0.001822973454577905, insert, 0.45161290322580644, 0.0, 0.1875
+format,SIMPLE_NAME, line no: 73,mainClass.output,QUALIFIED_NAME, line no: 56, 0.001822973454577905, insert, 0.45161290322580644, 0.0, 0.1875
+numVowels.value,QUALIFIED_NAME, line no: 73,true,BOOLEAN_LITERAL, line no: 74, 0.0018202920704227994, insert, 0.967741935483871, 0.0, 0.13333333333333333
+scanner,SIMPLE_NAME, line no: 64,true,BOOLEAN_LITERAL, line no: 74, 0.001818615926711544, insert, 0.9523809523809523, 0.0, 0.14285714285714285
+numVowels,SIMPLE_NAME, line no: 73,mainClass.output,QUALIFIED_NAME, line no: 56, 0.0018139864712750065, insert, 0.448, 0.0, 0.1875
+value,SIMPLE_NAME, line no: 73,mainClass.output,QUALIFIED_NAME, line no: 56, 0.0018139864712750065, insert, 0.448, 0.0, 0.1875
+toCharArray,SIMPLE_NAME, line no: 64,args.length,QUALIFIED_NAME, line no: 50, 0.0018109065512749826, insert, 0.45528455284552843, 0.0, 0.18181818181818182
+toCharArray,SIMPLE_NAME, line no: 64,System.out,QUALIFIED_NAME, line no: 56, 0.0018109065512749826, insert, 0.45528455284552843, 0.0, 0.18181818181818182
+format,SIMPLE_NAME, line no: 63,args.length,QUALIFIED_NAME, line no: 50, 0.0018017734381622808, insert, 0.45161290322580644, 0.0, 0.18181818181818182
+format,SIMPLE_NAME, line no: 73,args.length,QUALIFIED_NAME, line no: 50, 0.0018017734381622808, insert, 0.45161290322580644, 0.0, 0.18181818181818182
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,mainClass.scanner,QUALIFIED_NAME, line no: 51, 0.001789319074396738, insert, 0.136, 1.0, 0.3888888888888889
+scanner,SIMPLE_NAME, line no: 64,args.length,QUALIFIED_NAME, line no: 50, 0.0017839421220851013, insert, 0.4444444444444444, 0.0, 0.18181818181818182
+nextLine,SIMPLE_NAME, line no: 64,args.length,QUALIFIED_NAME, line no: 50, 0.0017839421220851013, insert, 0.4444444444444444, 0.0, 0.18181818181818182
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,mainClass.output,QUALIFIED_NAME, line no: 56, 0.0017818204815358114, insert, 0.45161290322580644, 0.0, 0.17647058823529413
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,true,BOOLEAN_LITERAL, line no: 74, 0.0017562633806528628, insert, 0.96, 0.0, 0.1111111111111111
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,System.out,QUALIFIED_NAME, line no: 56, 0.0017203653751262846, insert, 0.45161290322580644, 0.0, 0.16
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,mainClass.output,QUALIFIED_NAME, line no: 56, 0.0017203653751262846, insert, 0.45161290322580644, 0.0, 0.16
+"Please enter a string > ",STRING_LITERAL, line no: 63,System.out,QUALIFIED_NAME, line no: 56, 0.0016974041265776705, insert, 0.45161290322580644, 0.0, 0.15384615384615385
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,true,BOOLEAN_LITERAL, line no: 74, 0.0016955869783054362, insert, 0.967741935483871, 0.0, 0.08
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,true,BOOLEAN_LITERAL, line no: 74, 0.0016939953231389763, insert, 0.975609756097561, 0.0, 0.07407407407407407
+"Please enter a string > ",STRING_LITERAL, line no: 63,true,BOOLEAN_LITERAL, line no: 74, 0.0016883924537602038, insert, 0.967741935483871, 0.0, 0.07692307692307693
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,System.out,QUALIFIED_NAME, line no: 56, 0.0016852768243675812, insert, 0.45528455284552843, 0.0, 0.14814814814814814
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,mainClass.output,QUALIFIED_NAME, line no: 56, 0.0016852768243675812, insert, 0.45528455284552843, 0.0, 0.14814814814814814
+scanner,SIMPLE_NAME, line no: 64,java.util.Scanner,QUALIFIED_NAME, line no: 51, 0.001672247793456504, insert, 0.14285714285714285, 0.0, 0.35294117647058826
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,args.length,QUALIFIED_NAME, line no: 50, 0.0016720792200902283, insert, 0.45161290322580644, 0.0, 0.14705882352941177
+output+=(String.format("The number of syllables is %d.\n" numVowels.value)); ,EXPRESSION_STATEMENT, line no: 72,if (instring[i.value] == 'a' || instring[i.value] == 'e' || instring[i.value] == 'i' || instring[i.value] == 'o' || instring[i.value] == 'u' || instring[i.value] == 'y') {   numVowels.value+=0; } ,IF_STATEMENT, line no: 66, 0.001661273667311946, insert, 0.4583333333333333, 1.6, 0.22448979591836735
+numVowels.value,QUALIFIED_NAME, line no: 73,mainClass.scanner,QUALIFIED_NAME, line no: 51, 0.0016579190573230561, insert, 0.13709677419354838, 0.0, 0.35294117647058826
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,true,BOOLEAN_LITERAL, line no: 74, 0.0016460717211411891, insert, 0.967741935483871, 0.0, 0.058823529411764705
+instring=(scanner.nextLine() + "\n").toCharArray(); ,EXPRESSION_STATEMENT, line no: 64,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 0.0016293448531257662, insert, 0.45, 0.6666666666666666, 0.2198581560283688
+value,SIMPLE_NAME, line no: 73,java.util,QUALIFIED_NAME, line no: 44, 0.0016218295224837902, insert, 0.008, 0.0, 0.3333333333333333
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,java.util.Scanner,QUALIFIED_NAME, line no: 51, 0.001601929773741658, insert, 0.144, 0.0, 0.3333333333333333
+nextLine,SIMPLE_NAME, line no: 64,System.in,QUALIFIED_NAME, line no: 53, 0.0015990869524927817, insert, 0.14285714285714285, 0.0, 0.3333333333333333
+toCharArray,SIMPLE_NAME, line no: 64,mainClass.output,QUALIFIED_NAME, line no: 56, 0.0015989063871187426, insert, 0.45528455284552843, 0.0, 0.125
+String,SIMPLE_NAME, line no: 63,mainClass.output,QUALIFIED_NAME, line no: 56, 0.001589773274006041, insert, 0.45161290322580644, 0.0, 0.125
+String,SIMPLE_NAME, line no: 73,mainClass.output,QUALIFIED_NAME, line no: 56, 0.001589773274006041, insert, 0.45161290322580644, 0.0, 0.125
+output+=(String.format("The number of syllables is %d.\n" numVowels.value)); ,EXPRESSION_STATEMENT, line no: 72,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 0.0015848879676380236, insert, 0.45, 0.0, 0.20567375886524822
+scanner,SIMPLE_NAME, line no: 64,mainClass.output,QUALIFIED_NAME, line no: 56, 0.0015719419579288611, insert, 0.4444444444444444, 0.0, 0.125
+nextLine,SIMPLE_NAME, line no: 64,mainClass.output,QUALIFIED_NAME, line no: 56, 0.0015719419579288611, insert, 0.4444444444444444, 0.0, 0.125
+output+=(String.format("Please enter a string > ")); ,EXPRESSION_STATEMENT, line no: 63,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 0.0015182026394064095, insert, 0.45, 0.0, 0.18439716312056736
+value,SIMPLE_NAME, line no: 73,System.out,QUALIFIED_NAME, line no: 56, 0.001487506218474397, insert, 0.448, 0.0, 0.1
+output+=(String.format("Please enter a string > ")); ,EXPRESSION_STATEMENT, line no: 63,if (instring[i.value] == 'a' || instring[i.value] == 'e' || instring[i.value] == 'i' || instring[i.value] == 'o' || instring[i.value] == 'u' || instring[i.value] == 'y') {   numVowels.value+=0; } ,IF_STATEMENT, line no: 66, 0.0014853741025377398, insert, 0.4583333333333333, 0.0, 0.1683673469387755
+numVowels.value,QUALIFIED_NAME, line no: 73,java.util.Scanner,QUALIFIED_NAME, line no: 51, 0.001458496765018717, insert, 0.14516129032258066, 0.0, 0.29411764705882354
+"\n",STRING_LITERAL, line no: 64,args.length,QUALIFIED_NAME, line no: 50, 0.0014535861922093983, insert, 0.448, 0.0, 0.09090909090909091
+numVowels,SIMPLE_NAME, line no: 73,args.length,QUALIFIED_NAME, line no: 50, 0.0014535861922093983, insert, 0.448, 0.0, 0.09090909090909091
+instring=(scanner.nextLine() + "\n").toCharArray(); ,EXPRESSION_STATEMENT, line no: 64,if (instring[i.value] == 'a' || instring[i.value] == 'e' || instring[i.value] == 'i' || instring[i.value] == 'o' || instring[i.value] == 'u' || instring[i.value] == 'y') {   numVowels.value+=0; } ,IF_STATEMENT, line no: 66, 0.0014533923634878845, insert, 0.4583333333333333, 0.8, 0.15816326530612246
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,System.out,QUALIFIED_NAME, line no: 56, 0.0014525966971990622, insert, 0.45161290322580644, 0.0, 0.08823529411764706
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,System.in,QUALIFIED_NAME, line no: 53, 0.0013946407243444455, insert, 0.144, 0.0, 0.2777777777777778
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,mainClass.scanner,QUALIFIED_NAME, line no: 51, 0.0013857607289380102, insert, 0.13709677419354838, 1.0, 0.28
+"\n",STRING_LITERAL, line no: 64,mainClass.output,QUALIFIED_NAME, line no: 56, 0.0013475861101312785, insert, 0.448, 0.0, 0.0625
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,mainClass.scanner,QUALIFIED_NAME, line no: 51, 0.0013111453693579781, insert, 0.13821138211382114, 1.0, 0.25925925925925924
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,java.util.Scanner,QUALIFIED_NAME, line no: 51, 0.001256572843958844, insert, 0.14516129032258066, 0.0, 0.24
+value,SIMPLE_NAME, line no: 73,java.util.Scanner,QUALIFIED_NAME, line no: 51, 0.0012361255689230476, insert, 0.144, 0.0, 0.23529411764705882
+nextLine,SIMPLE_NAME, line no: 64,java.util.Scanner,QUALIFIED_NAME, line no: 51, 0.0012332827476741715, insert, 0.14285714285714285, 0.0, 0.23529411764705882
+String,SIMPLE_NAME, line no: 63,java.util,QUALIFIED_NAME, line no: 44, 0.0012103005787385632, insert, 0.008064516129032258, 0.0, 0.2222222222222222
+format,SIMPLE_NAME, line no: 63,java.util,QUALIFIED_NAME, line no: 44, 0.0012103005787385632, insert, 0.008064516129032258, 0.0, 0.2222222222222222
+String,SIMPLE_NAME, line no: 73,java.util,QUALIFIED_NAME, line no: 44, 0.0012103005787385632, insert, 0.008064516129032258, 0.0, 0.2222222222222222
+format,SIMPLE_NAME, line no: 73,java.util,QUALIFIED_NAME, line no: 44, 0.0012103005787385632, insert, 0.008064516129032258, 0.0, 0.2222222222222222
+scanner.nextLine(),METHOD_INVOCATION, line no: 64,java.util,QUALIFIED_NAME, line no: 44, 0.0012072514236893654, insert, 0.008, 0.0, 0.2222222222222222
+numVowels,SIMPLE_NAME, line no: 73,java.util,QUALIFIED_NAME, line no: 44, 0.0012072514236893654, insert, 0.008, 0.0, 0.2222222222222222
+nextLine,SIMPLE_NAME, line no: 64,java.util,QUALIFIED_NAME, line no: 44, 0.001204250667926663, insert, 0.007936507936507936, 0.0, 0.2222222222222222
+"Please enter a string > ",STRING_LITERAL, line no: 63,mainClass.scanner,QUALIFIED_NAME, line no: 51, 0.0012020707405490957, insert, 0.13709677419354838, 0.0, 0.23076923076923078
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,java.util.Scanner,QUALIFIED_NAME, line no: 51, 0.0011931759916522474, insert, 0.14634146341463414, 0.0, 0.2222222222222222
+scanner,SIMPLE_NAME, line no: 64,System.in,QUALIFIED_NAME, line no: 53, 0.001184508853698357, insert, 0.14285714285714285, 0.0, 0.2222222222222222
+numVowels.value,QUALIFIED_NAME, line no: 73,java.util,QUALIFIED_NAME, line no: 44, 0.0011273849589796782, insert, 0.008064516129032258, 0.0, 0.2
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,mainClass.scanner,QUALIFIED_NAME, line no: 51, 0.0011092127500951406, insert, 0.13709677419354838, 0.0, 0.20588235294117646
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,System.in,QUALIFIED_NAME, line no: 53, 0.0011073247283928513, insert, 0.14516129032258066, 0.0, 0.2
+"Please enter a string > ",STRING_LITERAL, line no: 63,java.util.Scanner,QUALIFIED_NAME, line no: 51, 0.0010786231677070834, insert, 0.14516129032258066, 0.0, 0.19230769230769232
+"Please enter a string > ",STRING_LITERAL, line no: 63,System.in,QUALIFIED_NAME, line no: 53, 0.0010786231677070834, insert, 0.14516129032258066, 0.0, 0.19230769230769232
+toCharArray,SIMPLE_NAME, line no: 64,java.util,QUALIFIED_NAME, line no: 44, 0.0010626436412557766, insert, 0.008130081300813009, 0.0, 0.18181818181818182
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,System.in,QUALIFIED_NAME, line no: 53, 0.0010549832920541057, insert, 0.14634146341463414, 0.0, 0.18518518518518517
+toCharArray,SIMPLE_NAME, line no: 64,java.util.Scanner,QUALIFIED_NAME, line no: 51, 0.001022467362736896, insert, 0.14634146341463414, 0.0, 0.17647058823529413
+String,SIMPLE_NAME, line no: 63,java.util.Scanner,QUALIFIED_NAME, line no: 51, 0.0010195317192363846, insert, 0.14516129032258066, 0.0, 0.17647058823529413
+String,SIMPLE_NAME, line no: 73,java.util.Scanner,QUALIFIED_NAME, line no: 51, 0.0010195317192363846, insert, 0.14516129032258066, 0.0, 0.17647058823529413
+toCharArray,SIMPLE_NAME, line no: 64,mainClass.scanner,QUALIFIED_NAME, line no: 51, 0.001002244040844485, insert, 0.13821138211382114, 0.0, 0.17647058823529413
+numVowels,SIMPLE_NAME, line no: 73,mainClass.scanner,QUALIFIED_NAME, line no: 51, 9.967432972897493E-4, insert, 0.136, 0.0, 0.17647058823529413
+value,SIMPLE_NAME, line no: 73,mainClass.scanner,QUALIFIED_NAME, line no: 51, 9.967432972897493E-4, insert, 0.136, 0.0, 0.17647058823529413
+nextLine,SIMPLE_NAME, line no: 64,mainClass.scanner,QUALIFIED_NAME, line no: 51, 9.940584105546995E-4, insert, 0.1349206349206349, 0.0, 0.17647058823529413
+scanner.nextLine() + "\n",INFIX_EXPRESSION, line no: 64,java.util,QUALIFIED_NAME, line no: 44, 9.781368434136854E-4, insert, 0.008064516129032258, 0.0, 0.16
+"Please enter a string > ",STRING_LITERAL, line no: 63,java.util,QUALIFIED_NAME, line no: 44, 9.551755948650709E-4, insert, 0.008064516129032258, 0.0, 0.15384615384615385
+(scanner.nextLine() + "\n"),PARENTHESIZED_EXPRESSION, line no: 64,java.util,QUALIFIED_NAME, line no: 44, 9.370139143483751E-4, insert, 0.008130081300813009, 0.0, 0.14814814814814814
+numVowels.value,QUALIFIED_NAME, line no: 73,System.in,QUALIFIED_NAME, line no: 53, 8.585778691161961E-4, insert, 0.14516129032258066, 0.0, 0.13333333333333333
+format,SIMPLE_NAME, line no: 63,java.util.Scanner,QUALIFIED_NAME, line no: 51, 8.000491963452186E-4, insert, 0.14516129032258066, 0.0, 0.11764705882352941
+format,SIMPLE_NAME, line no: 73,java.util.Scanner,QUALIFIED_NAME, line no: 51, 8.000491963452186E-4, insert, 0.14516129032258066, 0.0, 0.11764705882352941
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,java.util.Scanner,QUALIFIED_NAME, line no: 51, 8.000491963452186E-4, insert, 0.14516129032258066, 0.0, 0.11764705882352941
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,System.in,QUALIFIED_NAME, line no: 53, 8.000491963452186E-4, insert, 0.14516129032258066, 0.0, 0.11764705882352941
+numVowels,SIMPLE_NAME, line no: 73,java.util.Scanner,QUALIFIED_NAME, line no: 51, 7.971605231407155E-4, insert, 0.144, 0.0, 0.11764705882352941
+scanner,SIMPLE_NAME, line no: 64,java.util,QUALIFIED_NAME, line no: 44, 7.896725691322379E-4, insert, 0.007936507936507936, 0.0, 0.1111111111111111
+String,SIMPLE_NAME, line no: 63,mainClass.scanner,QUALIFIED_NAME, line no: 51, 7.799889657583916E-4, insert, 0.13709677419354838, 0.0, 0.11764705882352941
+format,SIMPLE_NAME, line no: 63,mainClass.scanner,QUALIFIED_NAME, line no: 51, 7.799889657583916E-4, insert, 0.13709677419354838, 0.0, 0.11764705882352941
+String,SIMPLE_NAME, line no: 73,mainClass.scanner,QUALIFIED_NAME, line no: 51, 7.799889657583916E-4, insert, 0.13709677419354838, 0.0, 0.11764705882352941
+format,SIMPLE_NAME, line no: 73,mainClass.scanner,QUALIFIED_NAME, line no: 51, 7.799889657583916E-4, insert, 0.13709677419354838, 0.0, 0.11764705882352941
+format,SIMPLE_NAME, line no: 63,System.in,QUALIFIED_NAME, line no: 53, 7.756622493573113E-4, insert, 0.14516129032258066, 0.0, 0.1111111111111111
+format,SIMPLE_NAME, line no: 73,System.in,QUALIFIED_NAME, line no: 53, 7.756622493573113E-4, insert, 0.14516129032258066, 0.0, 0.1111111111111111
+"\n",STRING_LITERAL, line no: 64,System.in,QUALIFIED_NAME, line no: 53, 7.727735761528081E-4, insert, 0.144, 0.0, 0.1111111111111111
+numVowels,SIMPLE_NAME, line no: 73,System.in,QUALIFIED_NAME, line no: 53, 7.727735761528081E-4, insert, 0.144, 0.0, 0.1111111111111111
+value,SIMPLE_NAME, line no: 73,System.in,QUALIFIED_NAME, line no: 53, 7.727735761528081E-4, insert, 0.144, 0.0, 0.1111111111111111
+toCharArray,SIMPLE_NAME, line no: 64,System.in,QUALIFIED_NAME, line no: 53, 7.032200567133814E-4, insert, 0.14634146341463414, 0.0, 0.09090909090909091
+"The number of syllables is %d.\n",STRING_LITERAL, line no: 73,java.util,QUALIFIED_NAME, line no: 44, 6.006269040408794E-4, insert, 0.008064516129032258, 0.0, 0.058823529411764705
+"\n",STRING_LITERAL, line no: 64,java.util.Scanner,QUALIFIED_NAME, line no: 51, 5.776780002495493E-4, insert, 0.144, 0.0, 0.058823529411764705
+"\n",STRING_LITERAL, line no: 64,mainClass.scanner,QUALIFIED_NAME, line no: 51, 5.57778251507417E-4, insert, 0.136, 0.0, 0.058823529411764705

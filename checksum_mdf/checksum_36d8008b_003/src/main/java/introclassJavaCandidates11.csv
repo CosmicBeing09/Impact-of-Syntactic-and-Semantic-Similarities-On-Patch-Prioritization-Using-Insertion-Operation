@@ -1,0 +1,457 @@
+sum.value=0; ,EXPRESSION_STATEMENT, line no: 62,sum.value=0; ,EXPRESSION_STATEMENT, line no: 62, 0.03529053520421588, insert, 1.0, 2.0, 1.0
+sum.value=sum.value % 64 + 22; ,EXPRESSION_STATEMENT, line no: 74,sum.value=sum.value % 64 + 22; ,EXPRESSION_STATEMENT, line no: 74, 0.03529053520421588, insert, 1.0, 2.0, 1.0
+output+=(String.format("Check sum is %c\n" sum.value)); ,EXPRESSION_STATEMENT, line no: 75,output+=(String.format("Check sum is %c\n" sum.value)); ,EXPRESSION_STATEMENT, line no: 75, 0.03529053520421588, insert, 1.0, 3.0, 1.0
+output+=(String.format("Enter an abitrarily long string  ending with carriage return > ")); ,EXPRESSION_STATEMENT, line no: 63,output+=(String.format("Enter an abitrarily long string  ending with carriage return > ")); ,EXPRESSION_STATEMENT, line no: 63, 0.023527023469477253, insert, 1.0, 1.0, 1.0
+output+=(String.format("Check sum is %c\n" sum.value)); ,EXPRESSION_STATEMENT, line no: 75,output+=(String.format("Enter an abitrarily long string  ending with carriage return > ")); ,EXPRESSION_STATEMENT, line no: 63, 0.022631973663573224, insert, 1.0, 0.3333333333333333, 0.40217391304347827
+sum.value=0; ,EXPRESSION_STATEMENT, line no: 62,sum.value=sum.value % 64 + 22; ,EXPRESSION_STATEMENT, line no: 74, 0.022312725483955846, insert, 1.0, 2.0, 0.3870967741935484
+sum.value=sum.value % 64 + 22; ,EXPRESSION_STATEMENT, line no: 74,sum.value=0; ,EXPRESSION_STATEMENT, line no: 62, 0.022312725483955846, insert, 1.0, 2.0, 0.3870967741935484
+sum.value=sum.value % 64 + 22; ,EXPRESSION_STATEMENT, line no: 74,sum.value=sum.value + next.value; ,EXPRESSION_STATEMENT, line no: 72, 0.020741656975753378, insert, 0.4105263157894737, 2.0, 0.7058823529411765
+sum.value=sum.value % 64 + 22; ,EXPRESSION_STATEMENT, line no: 74,output+=(String.format("Check sum is %c\n" sum.value)); ,EXPRESSION_STATEMENT, line no: 75, 0.019787907239506762, insert, 1.0, 2.0, 0.26785714285714285
+output+=(String.format("Check sum is %c\n" sum.value)); ,EXPRESSION_STATEMENT, line no: 75,sum.value=sum.value % 64 + 22; ,EXPRESSION_STATEMENT, line no: 74, 0.019787907239506762, insert, 1.0, 1.3333333333333333, 0.26785714285714285
+sum.value=0; ,EXPRESSION_STATEMENT, line no: 62,output+=(String.format("Check sum is %c\n" sum.value)); ,EXPRESSION_STATEMENT, line no: 75, 0.018275455730754654, insert, 1.0, 2.0, 0.19642857142857142
+output+=(String.format("Check sum is %c\n" sum.value)); ,EXPRESSION_STATEMENT, line no: 75,sum.value=0; ,EXPRESSION_STATEMENT, line no: 62, 0.018275455730754654, insert, 1.0, 1.3333333333333333, 0.19642857142857142
+sum.value=sum.value % 64 + 22; ,EXPRESSION_STATEMENT, line no: 74,output+=(String.format("Enter an abitrarily long string  ending with carriage return > ")); ,EXPRESSION_STATEMENT, line no: 63, 0.017108237718565525, insert, 1.0, 0.0, 0.14130434782608695
+sum.value=0; ,EXPRESSION_STATEMENT, line no: 62,output+=(String.format("Enter an abitrarily long string  ending with carriage return > ")); ,EXPRESSION_STATEMENT, line no: 63, 0.0157273037323136, insert, 1.0, 0.0, 0.07608695652173914
+output+=(String.format("Enter an abitrarily long string  ending with carriage return > ")); ,EXPRESSION_STATEMENT, line no: 63,output+=(String.format("Check sum is %c\n" sum.value)); ,EXPRESSION_STATEMENT, line no: 75, 0.01508798244238215, insert, 1.0, 1.0, 0.40217391304347827
+sum.value=0; ,EXPRESSION_STATEMENT, line no: 62,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.014933468581152402, insert, 0.5578947368421052, 0.0, 0.3333333333333333
+output+=(String.format("Check sum is %c\n" sum.value)); ,EXPRESSION_STATEMENT, line no: 75,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.014681393329693718, insert, 0.5578947368421052, 0.5, 0.32142857142857145
+sum.value=0; ,EXPRESSION_STATEMENT, line no: 62,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.013624718368720755, insert, 0.042105263157894736, 0.5, 0.6153846153846154
+scanner,SIMPLE_NAME, line no: 68,scanner,SIMPLE_NAME, line no: 51, 0.013553297569226467, insert, 0.6111111111111112, 1.0, 1.0
+findInLine,SIMPLE_NAME, line no: 68,findInLine,SIMPLE_NAME, line no: 68, 0.013553297569226467, insert, 1.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 68,charAt,SIMPLE_NAME, line no: 68, 0.013553297569226467, insert, 1.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 75,String,SIMPLE_NAME, line no: 49, 0.013553297569226467, insert, 0.5353535353535354, 0.0, 1.0
+format,SIMPLE_NAME, line no: 75,format,SIMPLE_NAME, line no: 64, 0.013553297569226467, insert, 1.0, 0.0, 1.0
+sum,SIMPLE_NAME, line no: 75,sum,SIMPLE_NAME, line no: 60, 0.013553297569226467, insert, 0.95, 1.0, 1.0
+value,SIMPLE_NAME, line no: 75,value,SIMPLE_NAME, line no: 7, 0.013553297569226467, insert, 0.06, 1.0, 1.0
+sum.value=sum.value % 64 + 22; ,EXPRESSION_STATEMENT, line no: 74,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.013447551309395945, insert, 0.5578947368421052, 0.0, 0.2631578947368421
+sum.value=sum.value % 64 + 22; ,EXPRESSION_STATEMENT, line no: 74,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.013339702475155556, insert, 0.5578947368421052, 0.0, 0.25806451612903225
+sum.value=0; ,EXPRESSION_STATEMENT, line no: 62,sum.value=sum.value + next.value; ,EXPRESSION_STATEMENT, line no: 72, 0.013268367167801784, insert, 0.4105263157894737, 2.0, 0.35294117647058826
+output+=(String.format("Check sum is %c\n" sum.value)); ,EXPRESSION_STATEMENT, line no: 75,sum.value=sum.value + next.value; ,EXPRESSION_STATEMENT, line no: 72, 0.012601109149234676, insert, 0.4105263157894737, 1.6, 0.32142857142857145
+sum.value=0; ,EXPRESSION_STATEMENT, line no: 62,next.value='\n'; ,EXPRESSION_STATEMENT, line no: 70, 0.012398668529332562, insert, 0.08421052631578947, 0.0, 0.5294117647058824
+sum.value=0; ,EXPRESSION_STATEMENT, line no: 62,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.0123331133555786, insert, 0.5578947368421052, 0.0, 0.21052631578947367
+output+=(String.format("Check sum is %c\n" sum.value)); ,EXPRESSION_STATEMENT, line no: 75,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.0116564903121895, insert, 0.5578947368421052, 0.0, 0.17857142857142858
+output+=(String.format("Enter an abitrarily long string  ending with carriage return > ")); ,EXPRESSION_STATEMENT, line no: 63,sum.value=sum.value % 64 + 22; ,EXPRESSION_STATEMENT, line no: 74, 0.011405491812377017, insert, 1.0, 0.0, 0.14130434782608695
+output+=(String.format("Enter an abitrarily long string  ending with carriage return > ")); ,EXPRESSION_STATEMENT, line no: 63,sum.value=0; ,EXPRESSION_STATEMENT, line no: 62, 0.010484869154875733, insert, 1.0, 0.0, 0.07608695652173914
+scanner,SIMPLE_NAME, line no: 68,Scanner,SIMPLE_NAME, line no: 44, 0.01028329561601627, insert, 0.05555555555555555, 0.0, 0.8571428571428571
+sum.value,QUALIFIED_NAME, line no: 75,value,SIMPLE_NAME, line no: 7, 0.009939084884099409, insert, 0.06060606060606061, 0.5, 0.5555555555555556
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,findInLine,SIMPLE_NAME, line no: 68, 0.008956961871836621, insert, 1.0, 0.0, 0.43478260869565216
+charAt,SIMPLE_NAME, line no: 68,scanner,SIMPLE_NAME, line no: 51, 0.008906452688348821, insert, 0.6470588235294118, 0.0, 0.42857142857142855
+charAt,SIMPLE_NAME, line no: 68,CharObj,SIMPLE_NAME, line no: 61, 0.008906452688348821, insert, 1.0, 0.0, 0.42857142857142855
+scanner,SIMPLE_NAME, line no: 68,charAt,SIMPLE_NAME, line no: 68, 0.008605268297921565, insert, 0.9444444444444444, 0.0, 0.42857142857142855
+output+=(String.format("Check sum is %c\n" sum.value)); ,EXPRESSION_STATEMENT, line no: 75,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.008278681942643123, insert, 0.15789473684210525, 0.0, 0.2857142857142857
+charAt,SIMPLE_NAME, line no: 68,format,SIMPLE_NAME, line no: 64, 0.00813197854153588, insert, 1.0, 0.0, 0.3333333333333333
+sum.value,QUALIFIED_NAME, line no: 75,sum,SIMPLE_NAME, line no: 60, 0.00813197854153588, insert, 0.9595959595959596, 0.5, 0.3333333333333333
+format,SIMPLE_NAME, line no: 75,output,SIMPLE_NAME, line no: 49, 0.00802245694501688, insert, 0.5353535353535354, 0.0, 0.3333333333333333
+output+=(String.format("Enter an abitrarily long string  ending with carriage return > ")); ,EXPRESSION_STATEMENT, line no: 63,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.00801210899937667, insert, 0.5578947368421052, 1.0, 0.1956521739130435
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,scanner,SIMPLE_NAME, line no: 51, 0.00789626901859281, insert, 0.6470588235294118, 1.0, 0.30434782608695654
+scanner,SIMPLE_NAME, line no: 68,findInLine,SIMPLE_NAME, line no: 68, 0.007860912590151353, insert, 1.0, 0.0, 0.3
+findInLine,SIMPLE_NAME, line no: 68,scanner,SIMPLE_NAME, line no: 51, 0.007860912590151353, insert, 0.6111111111111112, 0.0, 0.3
+scanner,SIMPLE_NAME, line no: 68,value,SIMPLE_NAME, line no: 7, 0.00774474146812941, insert, 0.3333333333333333, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 68,CharObj,SIMPLE_NAME, line no: 61, 0.00774474146812941, insert, 1.0, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 68,next,SIMPLE_NAME, line no: 61, 0.00774474146812941, insert, 1.0, 0.0, 0.2857142857142857
+sum.value=sum.value % 64 + 22; ,EXPRESSION_STATEMENT, line no: 74,next.value=scanner.findInLine(".").charAt(0); ,EXPRESSION_STATEMENT, line no: 68, 0.007604020125466743, insert, 0.14736842105263157, 0.0, 0.2608695652173913
+output+=(String.format("Check sum is %c\n" sum.value)); ,EXPRESSION_STATEMENT, line no: 75,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.007373864461091423, insert, 0.14736842105263157, 0.0, 0.25
+output+=(String.format("Check sum is %c\n" sum.value)); ,EXPRESSION_STATEMENT, line no: 75,next.value=scanner.findInLine(".").charAt(0); ,EXPRESSION_STATEMENT, line no: 68, 0.007373864461091423, insert, 0.14736842105263157, 0.0, 0.25
+sum.value=sum.value % 64 + 22; ,EXPRESSION_STATEMENT, line no: 74,next.value='\n'; ,EXPRESSION_STATEMENT, line no: 70, 0.007336117369107287, insert, 0.08421052631578947, 0.0, 0.2903225806451613
+sum.value,QUALIFIED_NAME, line no: 75,format,SIMPLE_NAME, line no: 64, 0.007228425370254116, insert, 1.0, 0.0, 0.2222222222222222
+scanner,SIMPLE_NAME, line no: 68,lang,SIMPLE_NAME, line no: 69, 0.0071423726872749, insert, 0.8888888888888888, 0.0, 0.2857142857142857
+sum.value,QUALIFIED_NAME, line no: 75,output,SIMPLE_NAME, line no: 49, 0.007118903773735114, insert, 0.5353535353535354, 0.0, 0.2222222222222222
+findInLine,SIMPLE_NAME, line no: 68,String,SIMPLE_NAME, line no: 49, 0.007047714735997763, insert, 0.7222222222222222, 0.0, 0.2
+findInLine,SIMPLE_NAME, line no: 68,IntObj,SIMPLE_NAME, line no: 60, 0.007047714735997763, insert, 1.0, 0.0, 0.2
+findInLine,SIMPLE_NAME, line no: 68,next,SIMPLE_NAME, line no: 61, 0.007047714735997763, insert, 1.0, 0.0, 0.2
+sum,SIMPLE_NAME, line no: 75,value,SIMPLE_NAME, line no: 7, 0.007047714735997763, insert, 0.06, 0.0, 0.2
+value,SIMPLE_NAME, line no: 75,sum,SIMPLE_NAME, line no: 60, 0.007047714735997763, insert, 0.95, 0.0, 0.2
+charAt,SIMPLE_NAME, line no: 68,Scanner,SIMPLE_NAME, line no: 44, 0.006993045972693319, insert, 0.058823529411764705, 0.0, 0.42857142857142855
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,NullPointerException,SIMPLE_NAME, line no: 69, 0.006870239330487688, insert, 0.9411764705882353, 0.0, 0.21739130434782608
+charAt,SIMPLE_NAME, line no: 68,args,SIMPLE_NAME, line no: 50, 0.006856374064432212, insert, 0.7647058823529411, 0.0, 0.3333333333333333
+value,SIMPLE_NAME, line no: 75,next,SIMPLE_NAME, line no: 61, 0.00683086197489014, insert, 0.95, 0.0, 0.2
+charAt,SIMPLE_NAME, line no: 68,println,SIMPLE_NAME, line no: 56, 0.006788038110301659, insert, 0.8235294117647058, 0.0, 0.2857142857142857
+output+=(String.format("Enter an abitrarily long string  ending with carriage return > ")); ,EXPRESSION_STATEMENT, line no: 63,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.006784612122708292, insert, 0.5578947368421052, 0.0, 0.10869565217391304
+charAt,SIMPLE_NAME, line no: 68,value,SIMPLE_NAME, line no: 7, 0.0067766487846132335, insert, 0.35294117647058826, 0.0, 0.16666666666666666
+charAt,SIMPLE_NAME, line no: 68,String,SIMPLE_NAME, line no: 49, 0.0067766487846132335, insert, 0.7647058823529411, 0.0, 0.16666666666666666
+charAt,SIMPLE_NAME, line no: 68,output,SIMPLE_NAME, line no: 49, 0.0067766487846132335, insert, 0.7647058823529411, 0.0, 0.16666666666666666
+charAt,SIMPLE_NAME, line no: 68,IntObj,SIMPLE_NAME, line no: 60, 0.0067766487846132335, insert, 1.0, 0.0, 0.16666666666666666
+charAt,SIMPLE_NAME, line no: 68,next,SIMPLE_NAME, line no: 61, 0.0067766487846132335, insert, 1.0, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 75,format,SIMPLE_NAME, line no: 64, 0.0067766487846132335, insert, 1.0, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 75,value,SIMPLE_NAME, line no: 7, 0.0067766487846132335, insert, 0.06060606060606061, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 75,String,SIMPLE_NAME, line no: 49, 0.0067766487846132335, insert, 0.5353535353535354, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 75,sum,SIMPLE_NAME, line no: 60, 0.0067766487846132335, insert, 0.9595959595959596, 0.0, 0.16666666666666666
+sum.value=sum.value % 64 + 22; ,EXPRESSION_STATEMENT, line no: 74,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.006738634827415537, insert, 0.14736842105263157, 0.0, 0.22
+sum,SIMPLE_NAME, line no: 75,format,SIMPLE_NAME, line no: 64, 0.006722435594336327, insert, 0.99, 0.0, 0.16666666666666666
+value,SIMPLE_NAME, line no: 75,format,SIMPLE_NAME, line no: 64, 0.006722435594336327, insert, 0.99, 0.0, 0.16666666666666666
+sum.value=sum.value % 64 + 22; ,EXPRESSION_STATEMENT, line no: 74,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.006708059222015933, insert, 0.15789473684210525, 0.0, 0.21153846153846154
+"Check sum is %c\n",STRING_LITERAL, line no: 75,sum,SIMPLE_NAME, line no: 60, 0.006705315639512041, insert, 0.9595959595959596, 0.0, 0.15789473684210525
+sum.value=0; ,EXPRESSION_STATEMENT, line no: 62,next.value=scanner.findInLine(".").charAt(0); ,EXPRESSION_STATEMENT, line no: 68, 0.00668339746796546, insert, 0.14736842105263157, 0.0, 0.21739130434782608
+String,SIMPLE_NAME, line no: 75,output,SIMPLE_NAME, line no: 49, 0.006667127188094232, insert, 0.5353535353535354, 0.0, 0.16666666666666666
+findInLine,SIMPLE_NAME, line no: 68,println,SIMPLE_NAME, line no: 56, 0.006656175028442331, insert, 0.7777777777777778, 0.0, 0.3
+sum,SIMPLE_NAME, line no: 75,output,SIMPLE_NAME, line no: 49, 0.006614009213782516, insert, 0.53, 0.0, 0.16666666666666666
+value,SIMPLE_NAME, line no: 75,output,SIMPLE_NAME, line no: 49, 0.006614009213782516, insert, 0.53, 0.0, 0.16666666666666666
+scanner,SIMPLE_NAME, line no: 68,String,SIMPLE_NAME, line no: 49, 0.006583030247909998, insert, 0.7222222222222222, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 68,IntObj,SIMPLE_NAME, line no: 60, 0.006583030247909998, insert, 1.0, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 68,sum,SIMPLE_NAME, line no: 60, 0.006583030247909998, insert, 1.0, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 68,format,SIMPLE_NAME, line no: 64, 0.006583030247909998, insert, 1.0, 0.0, 0.14285714285714285
+String,SIMPLE_NAME, line no: 75,IntObj,SIMPLE_NAME, line no: 60, 0.00655760559157523, insert, 0.9595959595959596, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 75,next,SIMPLE_NAME, line no: 61, 0.00655760559157523, insert, 0.9595959595959596, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 75,IntObj,SIMPLE_NAME, line no: 60, 0.00655760559157523, insert, 0.9595959595959596, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 75,next,SIMPLE_NAME, line no: 61, 0.00655760559157523, insert, 0.9595959595959596, 0.0, 0.16666666666666666
+scanner,SIMPLE_NAME, line no: 68,System,SIMPLE_NAME, line no: 53, 0.00654000390642039, insert, 0.5555555555555556, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 68,println,SIMPLE_NAME, line no: 56, 0.00654000390642039, insert, 0.7777777777777778, 0.0, 0.2857142857142857
+String,SIMPLE_NAME, line no: 75,println,SIMPLE_NAME, line no: 56, 0.006496977564930782, insert, 0.5555555555555556, 0.0, 0.42857142857142855
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,String,SIMPLE_NAME, line no: 49, 0.006482011880934398, insert, 0.7647058823529411, 0.0, 0.13043478260869565
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,charAt,SIMPLE_NAME, line no: 68, 0.006482011880934398, insert, 1.0, 0.0, 0.13043478260869565
+charAt,SIMPLE_NAME, line no: 68,java,SIMPLE_NAME, line no: 44, 0.006457747665337316, insert, 0.058823529411764705, 0.0, 0.16666666666666666
+charAt,SIMPLE_NAME, line no: 68,lang,SIMPLE_NAME, line no: 69, 0.006457747665337316, insert, 0.9411764705882353, 0.0, 0.16666666666666666
+findInLine,SIMPLE_NAME, line no: 68,NullPointerException,SIMPLE_NAME, line no: 69, 0.0064453459551432534, insert, 0.8888888888888888, 0.0, 0.2
+String,SIMPLE_NAME, line no: 75,CharObj,SIMPLE_NAME, line no: 61, 0.006363987054871995, insert, 0.9595959595959596, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 75,CharObj,SIMPLE_NAME, line no: 61, 0.006363987054871995, insert, 0.9595959595959596, 0.0, 0.14285714285714285
+value,SIMPLE_NAME, line no: 75,CharObj,SIMPLE_NAME, line no: 61, 0.006311964296525469, insert, 0.95, 0.0, 0.14285714285714285
+"Check sum is %c\n",STRING_LITERAL, line no: 75,String,SIMPLE_NAME, line no: 49, 0.00627731676890489, insert, 0.5353535353535354, 0.0, 0.10526315789473684
+scanner,SIMPLE_NAME, line no: 68,args,SIMPLE_NAME, line no: 50, 0.006238819515993136, insert, 0.7222222222222222, 0.0, 0.2857142857142857
+findInLine,SIMPLE_NAME, line no: 68,value,SIMPLE_NAME, line no: 7, 0.006234516881844175, insert, 0.3333333333333333, 0.0, 0.1
+findInLine,SIMPLE_NAME, line no: 68,format,SIMPLE_NAME, line no: 64, 0.006234516881844175, insert, 1.0, 0.0, 0.1
+output+=(String.format("Enter an abitrarily long string  ending with carriage return > ")); ,EXPRESSION_STATEMENT, line no: 63,sum.value=sum.value + next.value; ,EXPRESSION_STATEMENT, line no: 72, 0.006164941550320001, insert, 0.4105263157894737, 0.0, 0.16304347826086957
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,value,SIMPLE_NAME, line no: 7, 0.006128447596519794, insert, 0.35294117647058826, 0.0, 0.08695652173913043
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,IntObj,SIMPLE_NAME, line no: 60, 0.006128447596519794, insert, 1.0, 0.0, 0.08695652173913043
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,CharObj,SIMPLE_NAME, line no: 61, 0.006128447596519794, insert, 1.0, 0.0, 0.08695652173913043
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,next,SIMPLE_NAME, line no: 61, 0.006128447596519794, insert, 1.0, 0.0, 0.08695652173913043
+sum.value,QUALIFIED_NAME, line no: 75,CharObj,SIMPLE_NAME, line no: 61, 0.006105829005934348, insert, 0.9595959595959596, 0.0, 0.1111111111111111
+sum.value,QUALIFIED_NAME, line no: 75,next,SIMPLE_NAME, line no: 61, 0.006105829005934348, insert, 0.9595959595959596, 0.0, 0.1111111111111111
+next.value=scanner.findInLine(".").charAt(0); ,EXPRESSION_STATEMENT, line no: 68,next.value=scanner.findInLine(".").charAt(0); ,EXPRESSION_STATEMENT, line no: 68, 0.006105479096680293, insert, 1.0, 3.0, 1.0
+sum.value=sum.value % 64 + 22; ,EXPRESSION_STATEMENT, line no: 74,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.006058707843548912, insert, 0.042105263157894736, 0.5, 0.25806451612903225
+"Check sum is %c\n",STRING_LITERAL, line no: 75,CharObj,SIMPLE_NAME, line no: 61, 0.006058273575866887, insert, 0.9595959595959596, 0.0, 0.10526315789473684
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,String,SIMPLE_NAME, line no: 49, 0.0060468558385779626, insert, 0.5353535353535354, 0.0, 0.07692307692307693
+scanner,SIMPLE_NAME, line no: 68,NullPointerException,SIMPLE_NAME, line no: 69, 0.0060387470280664594, insert, 0.8888888888888888, 0.0, 0.15
+scanner,SIMPLE_NAME, line no: 68,mainClass,SIMPLE_NAME, line no: 48, 0.006023687808545096, insert, 0.7222222222222222, 0.0, 0.2222222222222222
+scanner,SIMPLE_NAME, line no: 68,java,SIMPLE_NAME, line no: 44, 0.005980661467055488, insert, 0.05555555555555555, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 68,e,SIMPLE_NAME, line no: 69, 0.005980661467055488, insert, 0.8888888888888888, 0.0, 0.14285714285714285
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,format,SIMPLE_NAME, line no: 64, 0.005921748476400488, insert, 1.0, 0.0, 0.06153846153846154
+charAt,SIMPLE_NAME, line no: 68,NullPointerException,SIMPLE_NAME, line no: 69, 0.005915615762568258, insert, 0.9411764705882353, 0.0, 0.1
+sum.value=0; ,EXPRESSION_STATEMENT, line no: 62,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.005891661982514356, insert, 0.14736842105263157, 0.0, 0.18
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,println,SIMPLE_NAME, line no: 56, 0.00587887280752125, insert, 0.8235294117647058, 0.0, 0.17391304347826086
+"Check sum is %c\n",STRING_LITERAL, line no: 75,value,SIMPLE_NAME, line no: 7, 0.005849317898297739, insert, 0.06060606060606061, 0.0, 0.05263157894736842
+"Check sum is %c\n",STRING_LITERAL, line no: 75,format,SIMPLE_NAME, line no: 64, 0.005849317898297739, insert, 1.0, 0.0, 0.05263157894736842
+findInLine,SIMPLE_NAME, line no: 68,mainClass,SIMPLE_NAME, line no: 48, 0.005842977174288743, insert, 0.7222222222222222, 0.0, 0.2
+charAt,SIMPLE_NAME, line no: 68,System,SIMPLE_NAME, line no: 53, 0.005819945426785483, insert, 0.5882352941176471, 0.0, 0.16666666666666666
+charAt,SIMPLE_NAME, line no: 68,exec,SIMPLE_NAME, line no: 55, 0.005819945426785483, insert, 0.8235294117647058, 0.0, 0.16666666666666666
+charAt,SIMPLE_NAME, line no: 68,out,SIMPLE_NAME, line no: 56, 0.005819945426785483, insert, 0.8235294117647058, 0.0, 0.16666666666666666
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,lang,SIMPLE_NAME, line no: 69, 0.005809546477243877, insert, 0.9411764705882353, 0.0, 0.08695652173913043
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,value,SIMPLE_NAME, line no: 7, 0.005796641114223012, insert, 0.06060606060606061, 0.0, 0.046153846153846156
+String,SIMPLE_NAME, line no: 75,System,SIMPLE_NAME, line no: 53, 0.005777264216377342, insert, 0.1919191919191919, 0.0, 0.3333333333333333
+format,SIMPLE_NAME, line no: 75,out,SIMPLE_NAME, line no: 56, 0.005777264216377342, insert, 0.5656565656565656, 0.0, 0.3333333333333333
+sum.value,QUALIFIED_NAME, line no: 75,mainClass,SIMPLE_NAME, line no: 48, 0.005777264216377342, insert, 0.5353535353535354, 0.0, 0.3333333333333333
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,sum,SIMPLE_NAME, line no: 60, 0.00577488331210519, insert, 1.0, 0.0, 0.043478260869565216
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,format,SIMPLE_NAME, line no: 64, 0.00577488331210519, insert, 1.0, 0.0, 0.043478260869565216
+findInLine,SIMPLE_NAME, line no: 68,Scanner,SIMPLE_NAME, line no: 44, 0.005752621857160568, insert, 0.05555555555555555, 0.0, 0.3
+sum,SIMPLE_NAME, line no: 75,System,SIMPLE_NAME, line no: 53, 0.005746598169352022, insert, 0.19, 0.0, 0.3333333333333333
+sum,SIMPLE_NAME, line no: 75,out,SIMPLE_NAME, line no: 56, 0.005746598169352022, insert, 0.56, 0.0, 0.3333333333333333
+"Check sum is %c\n",STRING_LITERAL, line no: 75,output,SIMPLE_NAME, line no: 49, 0.005739796301778737, insert, 0.5353535353535354, 0.0, 0.05263157894736842
+String,SIMPLE_NAME, line no: 75,args,SIMPLE_NAME, line no: 50, 0.005722503418117842, insert, 0.5555555555555556, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 75,length,SIMPLE_NAME, line no: 50, 0.005722503418117842, insert, 0.5555555555555556, 0.0, 0.3333333333333333
+value,SIMPLE_NAME, line no: 75,length,SIMPLE_NAME, line no: 50, 0.005692384979075117, insert, 0.55, 0.0, 0.3333333333333333
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,output,SIMPLE_NAME, line no: 49, 0.005687119517704011, insert, 0.5353535353535354, 0.0, 0.046153846153846156
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,sum,SIMPLE_NAME, line no: 60, 0.005671533752045537, insert, 0.9595959595959596, 0.0, 0.03076923076923077
+findInLine,SIMPLE_NAME, line no: 68,lang,SIMPLE_NAME, line no: 69, 0.005632148100989665, insert, 0.8888888888888888, 0.0, 0.1
+findInLine,SIMPLE_NAME, line no: 68,e,SIMPLE_NAME, line no: 69, 0.005632148100989665, insert, 0.8888888888888888, 0.0, 0.1
+"Check sum is %c\n",STRING_LITERAL, line no: 75,IntObj,SIMPLE_NAME, line no: 60, 0.005630274705259735, insert, 0.9595959595959596, 0.0, 0.05263157894736842
+"Check sum is %c\n",STRING_LITERAL, line no: 75,next,SIMPLE_NAME, line no: 61, 0.005630274705259735, insert, 0.9595959595959596, 0.0, 0.05263157894736842
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,Scanner,SIMPLE_NAME, line no: 44, 0.005629298018522706, insert, 0.058823529411764705, 0.0, 0.2608695652173913
+"Check sum is %c\n",STRING_LITERAL, line no: 75,checksum_36d8008b_003,SIMPLE_NAME, line no: 48, 0.00561298182159884, insert, 0.5353535353535354, 0.0, 0.3333333333333333
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,IntObj,SIMPLE_NAME, line no: 60, 0.005577597921185009, insert, 0.9595959595959596, 0.0, 0.046153846153846156
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,CharObj,SIMPLE_NAME, line no: 61, 0.005577597921185009, insert, 0.9595959595959596, 0.0, 0.046153846153846156
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,next,SIMPLE_NAME, line no: 61, 0.005577597921185009, insert, 0.9595959595959596, 0.0, 0.046153846153846156
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,mainClass,SIMPLE_NAME, line no: 48, 0.005525308523106646, insert, 0.7647058823529411, 0.0, 0.13043478260869565
+charAt,SIMPLE_NAME, line no: 68,length,SIMPLE_NAME, line no: 50, 0.005501044307509566, insert, 0.7647058823529411, 0.0, 0.16666666666666666
+sum.value=0; ,EXPRESSION_STATEMENT, line no: 62,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.00548646377263923, insert, 0.15789473684210525, 0.0, 0.15384615384615385
+value,SIMPLE_NAME, line no: 75,java,SIMPLE_NAME, line no: 44, 0.005475532217967493, insert, 0.02, 0.0, 0.4
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,java,SIMPLE_NAME, line no: 44, 0.005455982192829273, insert, 0.058823529411764705, 0.0, 0.043478260869565216
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,e,SIMPLE_NAME, line no: 69, 0.005455982192829273, insert, 0.9411764705882353, 0.0, 0.043478260869565216
+scanner,SIMPLE_NAME, line no: 68,exec,SIMPLE_NAME, line no: 55, 0.005378292686200979, insert, 0.7777777777777778, 0.0, 0.14285714285714285
+charAt,SIMPLE_NAME, line no: 68,mainClass,SIMPLE_NAME, line no: 48, 0.005368168841144601, insert, 0.7647058823529411, 0.0, 0.1111111111111111
+format,SIMPLE_NAME, line no: 75,println,SIMPLE_NAME, line no: 56, 0.0053352663447113705, insert, 0.5555555555555556, 0.0, 0.2857142857142857
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,checksum_36d8008b_003,SIMPLE_NAME, line no: 48, 0.00520640740383073, insert, 0.7647058823529411, 0.0, 0.13043478260869565
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,System,SIMPLE_NAME, line no: 53, 0.0051717442386920425, insert, 0.5882352941176471, 0.0, 0.08695652173913043
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,exec,SIMPLE_NAME, line no: 55, 0.0051717442386920425, insert, 0.8235294117647058, 0.0, 0.08695652173913043
+scanner,SIMPLE_NAME, line no: 68,length,SIMPLE_NAME, line no: 50, 0.005077108295773724, insert, 0.7222222222222222, 0.0, 0.14285714285714285
+findInLine,SIMPLE_NAME, line no: 68,System,SIMPLE_NAME, line no: 53, 0.005029779320135155, insert, 0.5555555555555556, 0.0, 0.1
+findInLine,SIMPLE_NAME, line no: 68,exec,SIMPLE_NAME, line no: 55, 0.005029779320135155, insert, 0.7777777777777778, 0.0, 0.1
+sum,SIMPLE_NAME, line no: 75,args,SIMPLE_NAME, line no: 50, 0.005014720100613793, insert, 0.55, 0.0, 0.25
+output+=(String.format("Check sum is %c\n" sum.value)); ,EXPRESSION_STATEMENT, line no: 75,next.value='\n'; ,EXPRESSION_STATEMENT, line no: 70, 0.004969862589285438, insert, 0.08421052631578947, 0.0, 0.17857142857142858
+String,SIMPLE_NAME, line no: 75,lang,SIMPLE_NAME, line no: 69, 0.004955852242484829, insert, 0.41414141414141414, 0.0, 0.3333333333333333
+charAt,SIMPLE_NAME, line no: 68,checksum_36d8008b_003,SIMPLE_NAME, line no: 48, 0.004920188697399861, insert, 0.7647058823529411, 0.0, 0.09523809523809523
+String,SIMPLE_NAME, line no: 75,mainClass,SIMPLE_NAME, line no: 48, 0.004873711045095578, insert, 0.5353535353535354, 0.0, 0.2222222222222222
+format,SIMPLE_NAME, line no: 75,mainClass,SIMPLE_NAME, line no: 48, 0.004873711045095578, insert, 0.5353535353535354, 0.0, 0.2222222222222222
+sum.value,QUALIFIED_NAME, line no: 75,System,SIMPLE_NAME, line no: 53, 0.004873711045095578, insert, 0.1919191919191919, 0.0, 0.2222222222222222
+charAt,SIMPLE_NAME, line no: 68,util,SIMPLE_NAME, line no: 44, 0.004863242068957732, insert, 0.058823529411764705, 0.0, 0.16666666666666666
+output+=(String.format("Enter an abitrarily long string  ending with carriage return > ")); ,EXPRESSION_STATEMENT, line no: 63,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.004861533682594499, insert, 0.15789473684210525, 0.0, 0.2391304347826087
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,args,SIMPLE_NAME, line no: 50, 0.004852843119416126, insert, 0.7647058823529411, 0.0, 0.08695652173913043
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,length,SIMPLE_NAME, line no: 50, 0.004852843119416126, insert, 0.7647058823529411, 0.0, 0.08695652173913043
+value,SIMPLE_NAME, line no: 75,mainClass,SIMPLE_NAME, line no: 48, 0.004843044998070259, insert, 0.53, 0.0, 0.2222222222222222
+sum.value,QUALIFIED_NAME, line no: 75,length,SIMPLE_NAME, line no: 50, 0.004818950246836077, insert, 0.5555555555555556, 0.0, 0.2222222222222222
+output+=(String.format("Enter an abitrarily long string  ending with carriage return > ")); ,EXPRESSION_STATEMENT, line no: 63,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.004762472531144068, insert, 0.14736842105263157, 0.0, 0.2391304347826087
+findInLine,SIMPLE_NAME, line no: 68,length,SIMPLE_NAME, line no: 50, 0.004728594929707901, insert, 0.7222222222222222, 0.0, 0.1
+scanner,SIMPLE_NAME, line no: 68,checksum_36d8008b_003,SIMPLE_NAME, line no: 48, 0.004689871222367254, insert, 0.7222222222222222, 0.0, 0.09523809523809523
+value,SIMPLE_NAME, line no: 75,out,SIMPLE_NAME, line no: 56, 0.004662334363813905, insert, 0.56, 0.0, 0.2
+findInLine,SIMPLE_NAME, line no: 68,in,SIMPLE_NAME, line no: 53, 0.004638239612579724, insert, 0.5555555555555556, 0.0, 0.2
+value,SIMPLE_NAME, line no: 75,args,SIMPLE_NAME, line no: 50, 0.004608121173536999, insert, 0.55, 0.0, 0.2
+value,SIMPLE_NAME, line no: 75,exec,SIMPLE_NAME, line no: 55, 0.004608121173536999, insert, 0.55, 0.0, 0.2
+0,NUMBER_LITERAL, line no: 68,checksum_36d8008b_003,SIMPLE_NAME, line no: 48, 0.00453295162399339, insert, 0.7647058823529411, 0.0, 0.047619047619047616
+output+=(String.format("Enter an abitrarily long string  ending with carriage return > ")); ,EXPRESSION_STATEMENT, line no: 63,next.value=scanner.findInLine(".").charAt(0); ,EXPRESSION_STATEMENT, line no: 68, 0.004455598311976974, insert, 0.14736842105263157, 0.0, 0.21739130434782608
+String,SIMPLE_NAME, line no: 75,out,SIMPLE_NAME, line no: 56, 0.004421934459454695, insert, 0.5656565656565656, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 75,System,SIMPLE_NAME, line no: 53, 0.004421934459454695, insert, 0.1919191919191919, 0.0, 0.16666666666666666
+value,SIMPLE_NAME, line no: 75,System,SIMPLE_NAME, line no: 53, 0.004391268412429376, insert, 0.19, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 75,args,SIMPLE_NAME, line no: 50, 0.004367173661195195, insert, 0.5555555555555556, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 75,length,SIMPLE_NAME, line no: 50, 0.004367173661195195, insert, 0.5555555555555556, 0.0, 0.16666666666666666
+"Check sum is %c\n",STRING_LITERAL, line no: 75,mainClass,SIMPLE_NAME, line no: 48, 0.004350601314353503, insert, 0.5353535353535354, 0.0, 0.15789473684210525
+findInLine,SIMPLE_NAME, line no: 68,checksum_36d8008b_003,SIMPLE_NAME, line no: 48, 0.0043026341489607834, insert, 0.7222222222222222, 0.0, 0.047619047619047616
+scanner,SIMPLE_NAME, line no: 68,in,SIMPLE_NAME, line no: 53, 0.00417355512449196, insert, 0.5555555555555556, 0.0, 0.14285714285714285
+value,SIMPLE_NAME, line no: 75,println,SIMPLE_NAME, line no: 56, 0.004143436685449234, insert, 0.55, 0.0, 0.14285714285714285
+findInLine,SIMPLE_NAME, line no: 68,util,SIMPLE_NAME, line no: 44, 0.004126226148853392, insert, 0.05555555555555555, 0.0, 0.1
+sum.value,QUALIFIED_NAME, line no: 75,checksum_36d8008b_003,SIMPLE_NAME, line no: 48, 0.004064033527972958, insert, 0.5353535353535354, 0.0, 0.14285714285714285
+sum.value,QUALIFIED_NAME, line no: 75,java,SIMPLE_NAME, line no: 44, 0.004052299071203066, insert, 0.020202020202020204, 0.0, 0.2222222222222222
+sum,SIMPLE_NAME, line no: 75,checksum_36d8008b_003,SIMPLE_NAME, line no: 48, 0.004035010304895423, insert, 0.53, 0.0, 0.14285714285714285
+sum.value,QUALIFIED_NAME, line no: 75,out,SIMPLE_NAME, line no: 56, 0.003970157873813813, insert, 0.5656565656565656, 0.0, 0.1111111111111111
+sum,SIMPLE_NAME, line no: 75,mainClass,SIMPLE_NAME, line no: 48, 0.003939491826788493, insert, 0.53, 0.0, 0.1111111111111111
+"Check sum is %c\n",STRING_LITERAL, line no: 75,System,SIMPLE_NAME, line no: 53, 0.003922602443746352, insert, 0.1919191919191919, 0.0, 0.10526315789473684
+sum.value,QUALIFIED_NAME, line no: 75,args,SIMPLE_NAME, line no: 50, 0.003915397075554313, insert, 0.5555555555555556, 0.0, 0.1111111111111111
+sum.value,QUALIFIED_NAME, line no: 75,exec,SIMPLE_NAME, line no: 55, 0.003915397075554313, insert, 0.5555555555555556, 0.0, 0.1111111111111111
+sum.value,QUALIFIED_NAME, line no: 75,println,SIMPLE_NAME, line no: 56, 0.003915397075554313, insert, 0.5555555555555556, 0.0, 0.1111111111111111
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,in,SIMPLE_NAME, line no: 53, 0.003896139761588376, insert, 0.5882352941176471, 0.0, 0.08695652173913043
+"Check sum is %c\n",STRING_LITERAL, line no: 75,length,SIMPLE_NAME, line no: 50, 0.003867841645486852, insert, 0.5555555555555556, 0.0, 0.10526315789473684
+"Check sum is %c\n",STRING_LITERAL, line no: 75,exec,SIMPLE_NAME, line no: 55, 0.003867841645486852, insert, 0.5555555555555556, 0.0, 0.10526315789473684
+"Check sum is %c\n",STRING_LITERAL, line no: 75,println,SIMPLE_NAME, line no: 56, 0.003867841645486852, insert, 0.5555555555555556, 0.0, 0.10526315789473684
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,util,SIMPLE_NAME, line no: 44, 0.0038614765964496895, insert, 0.058823529411764705, 0.0, 0.043478260869565216
+value,SIMPLE_NAME, line no: 75,lang,SIMPLE_NAME, line no: 69, 0.003849136509660317, insert, 0.41, 0.0, 0.2
+String,SIMPLE_NAME, line no: 75,NullPointerException,SIMPLE_NAME, line no: 69, 0.0038168276386872117, insert, 0.40404040404040403, 0.0, 0.2
+"Check sum is %c\n",STRING_LITERAL, line no: 75,NullPointerException,SIMPLE_NAME, line no: 69, 0.0038168276386872117, insert, 0.40404040404040403, 0.0, 0.2
+String,SIMPLE_NAME, line no: 75,util,SIMPLE_NAME, line no: 44, 0.0038058754790353108, insert, 0.020202020202020204, 0.0, 0.3333333333333333
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,length,SIMPLE_NAME, line no: 50, 0.003762488077337399, insert, 0.5555555555555556, 0.0, 0.09230769230769231
+String,SIMPLE_NAME, line no: 75,in,SIMPLE_NAME, line no: 53, 0.00375111468077581, insert, 0.1919191919191919, 0.0, 0.3333333333333333
+value,SIMPLE_NAME, line no: 75,e,SIMPLE_NAME, line no: 69, 0.0037407101291065054, insert, 0.39, 0.0, 0.2
+next.value=scanner.findInLine(".").charAt(0); ,EXPRESSION_STATEMENT, line no: 68,sum.value=sum.value + next.value; ,EXPRESSION_STATEMENT, line no: 72, 0.0037163785805880045, insert, 1.0, 1.6, 0.34782608695652173
+sum.value,QUALIFIED_NAME, line no: 75,scanner,SIMPLE_NAME, line no: 51, 0.003696353882516309, insert, 0.1717171717171717, 0.0, 0.3333333333333333
+format,SIMPLE_NAME, line no: 75,charAt,SIMPLE_NAME, line no: 68, 0.0036415930842568075, insert, 0.1717171717171717, 0.0, 0.3333333333333333
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,println,SIMPLE_NAME, line no: 56, 0.0036373807151599243, insert, 0.5555555555555556, 0.0, 0.07692307692307693
+format,SIMPLE_NAME, line no: 75,java,SIMPLE_NAME, line no: 44, 0.0036005224855621826, insert, 0.020202020202020204, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 75,lang,SIMPLE_NAME, line no: 69, 0.0036005224855621826, insert, 0.41414141414141414, 0.0, 0.16666666666666666
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,mainClass,SIMPLE_NAME, line no: 48, 0.0035670341512419497, insert, 0.5353535353535354, 0.0, 0.06153846153846154
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,System,SIMPLE_NAME, line no: 53, 0.0035670341512419497, insert, 0.1919191919191919, 0.0, 0.06153846153846154
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,NullPointerException,SIMPLE_NAME, line no: 69, 0.003566612914332261, insert, 0.40404040404040403, 0.0, 0.16923076923076924
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,args,SIMPLE_NAME, line no: 50, 0.0035122733529824486, insert, 0.5555555555555556, 0.0, 0.06153846153846154
+"Check sum is %c\n",STRING_LITERAL, line no: 75,out,SIMPLE_NAME, line no: 56, 0.003494603573139201, insert, 0.5656565656565656, 0.0, 0.05263157894736842
+"Check sum is %c\n",STRING_LITERAL, line no: 75,args,SIMPLE_NAME, line no: 50, 0.0034398427748797, insert, 0.5555555555555556, 0.0, 0.05263157894736842
+format,SIMPLE_NAME, line no: 75,NullPointerException,SIMPLE_NAME, line no: 69, 0.0034102287116104173, insert, 0.40404040404040403, 0.0, 0.15
+sum.value,QUALIFIED_NAME, line no: 75,NullPointerException,SIMPLE_NAME, line no: 69, 0.0034102287116104173, insert, 0.40404040404040403, 0.0, 0.15
+next.value=scanner.findInLine(".").charAt(0); ,EXPRESSION_STATEMENT, line no: 68,sum.value=sum.value % 64 + 22; ,EXPRESSION_STATEMENT, line no: 74, 0.0033978318451090327, insert, 1.0, 0.0, 0.2608695652173913
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,exec,SIMPLE_NAME, line no: 55, 0.0033871659908049734, insert, 0.5555555555555556, 0.0, 0.046153846153846156
+String,SIMPLE_NAME, line no: 75,Scanner,SIMPLE_NAME, line no: 44, 0.003363877607369339, insert, 0.010101010101010102, 0.0, 0.2857142857142857
+next.value=scanner.findInLine(".").charAt(0); ,EXPRESSION_STATEMENT, line no: 68,output+=(String.format("Check sum is %c\n" sum.value)); ,EXPRESSION_STATEMENT, line no: 75, 0.003358013503174161, insert, 1.0, 0.0, 0.25
+value,SIMPLE_NAME, line no: 75,Scanner,SIMPLE_NAME, line no: 44, 0.003353473055700034, insert, 0.01, 0.0, 0.2857142857142857
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,out,SIMPLE_NAME, line no: 56, 0.0033168194268869996, insert, 0.5656565656565656, 0.0, 0.03076923076923077
+value,SIMPLE_NAME, line no: 75,scanner,SIMPLE_NAME, line no: 51, 0.003299259865423128, insert, 0.17, 0.0, 0.2857142857142857
+format,SIMPLE_NAME, line no: 75,checksum_36d8008b_003,SIMPLE_NAME, line no: 48, 0.003289559381160017, insert, 0.5353535353535354, 0.0, 0.047619047619047616
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,checksum_36d8008b_003,SIMPLE_NAME, line no: 48, 0.0032776443942859716, insert, 0.5353535353535354, 0.0, 0.046153846153846156
+value,SIMPLE_NAME, line no: 75,checksum_36d8008b_003,SIMPLE_NAME, line no: 48, 0.003260536158082482, insert, 0.53, 0.0, 0.047619047619047616
+sum.value,QUALIFIED_NAME, line no: 75,sum.value,QUALIFIED_NAME, line no: 62, 0.003247595264191645, insert, 0.9797979797979798, 2.0, 1.0
+output+=(String.format("Check sum is %c\n" sum.value)); ,EXPRESSION_STATEMENT, line no: 75,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.003241157049018774, insert, 0.042105263157894736, 0.3333333333333333, 0.125
+next.value=scanner.findInLine(".").charAt(0); ,EXPRESSION_STATEMENT, line no: 68,sum.value=0; ,EXPRESSION_STATEMENT, line no: 62, 0.003238558477369547, insert, 1.0, 0.0, 0.21739130434782608
+next.value=scanner.findInLine(".").charAt(0); ,EXPRESSION_STATEMENT, line no: 68,output+=(String.format("Enter an abitrarily long string  ending with carriage return > ")); ,EXPRESSION_STATEMENT, line no: 63, 0.003238558477369547, insert, 1.0, 0.0, 0.21739130434782608
+sum.value,QUALIFIED_NAME, line no: 75,lang,SIMPLE_NAME, line no: 69, 0.0031487458999213003, insert, 0.41414141414141414, 0.0, 0.1111111111111111
+sum,SIMPLE_NAME, line no: 75,util,SIMPLE_NAME, line no: 44, 0.0031172584409220874, insert, 0.02, 0.0, 0.25
+next.value=scanner.findInLine(".").charAt(0); ,EXPRESSION_STATEMENT, line no: 68,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.0031085610715097948, insert, 0.6428571428571429, 0.5, 0.42
+sum.value,QUALIFIED_NAME, line no: 75,e,SIMPLE_NAME, line no: 69, 0.0030392243034022986, insert, 0.3939393939393939, 0.0, 0.1111111111111111
+next.value=scanner.findInLine(".").charAt(0); ,EXPRESSION_STATEMENT, line no: 68,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.0030337784331330646, insert, 0.7857142857142857, 0.0, 0.30434782608695654
+value,SIMPLE_NAME, line no: 75,NullPointerException,SIMPLE_NAME, line no: 69, 0.002981725465229823, insert, 0.4, 0.0, 0.1
+sum.value,QUALIFIED_NAME, line no: 75,util,SIMPLE_NAME, line no: 44, 0.0029023223077535463, insert, 0.020202020202020204, 0.0, 0.2222222222222222
+sum.value,QUALIFIED_NAME, line no: 75,Scanner,SIMPLE_NAME, line no: 44, 0.0028475615094940457, insert, 0.010101010101010102, 0.0, 0.2222222222222222
+next.value=scanner.findInLine(".").charAt(0); ,EXPRESSION_STATEMENT, line no: 68,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.002804494793859739, insert, 0.5714285714285714, 0.5, 0.38461538461538464
+next.value=scanner.findInLine(".").charAt(0); ,EXPRESSION_STATEMENT, line no: 68,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.002715231697654093, insert, 0.7857142857142857, 0.0, 0.21739130434782608
+value,SIMPLE_NAME, line no: 75,util,SIMPLE_NAME, line no: 44, 0.0027106595138452934, insert, 0.02, 0.0, 0.2
+"Check sum is %c\n",STRING_LITERAL, line no: 75,lang,SIMPLE_NAME, line no: 69, 0.0026731915992466875, insert, 0.41414141414141414, 0.0, 0.05263157894736842
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,lang,SIMPLE_NAME, line no: 69, 0.002620514815171961, insert, 0.41414141414141414, 0.0, 0.046153846153846156
+findInLine,SIMPLE_NAME, line no: 68,i,SIMPLE_NAME, line no: 7, 0.002620304196717117, insert, 0.3333333333333333, 0.0, 0.1
+String,SIMPLE_NAME, line no: 75,findInLine,SIMPLE_NAME, line no: 68, 0.002612090076978192, insert, 0.18181818181818182, 0.0, 0.2
+sum,SIMPLE_NAME, line no: 75,NullPointerException,SIMPLE_NAME, line no: 69, 0.002575126538153029, insert, 0.4, 0.0, 0.05
+"Check sum is %c\n",STRING_LITERAL, line no: 75,e,SIMPLE_NAME, line no: 69, 0.002563670002727686, insert, 0.3939393939393939, 0.0, 0.05263157894736842
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,java,SIMPLE_NAME, line no: 44, 0.0024954074529944864, insert, 0.020202020202020204, 0.0, 0.03076923076923077
+format,SIMPLE_NAME, line no: 75,util,SIMPLE_NAME, line no: 44, 0.002450545722112664, insert, 0.020202020202020204, 0.0, 0.16666666666666666
+sum.value,QUALIFIED_NAME, line no: 75,next.value,QUALIFIED_NAME, line no: 66, 0.0024156860126775025, insert, 0.9595959595959596, 0.0, 0.6
+value,SIMPLE_NAME, line no: 75,sum.value,QUALIFIED_NAME, line no: 62, 0.00236857947935044, insert, 0.97, 1.0, 0.5555555555555556
+next.value=scanner.findInLine(".").charAt(0); ,EXPRESSION_STATEMENT, line no: 68,next.value='\n'; ,EXPRESSION_STATEMENT, line no: 70, 0.00233600939351246, insert, 0.5, 1.3333333333333333, 0.30434782608695654
+String,SIMPLE_NAME, line no: 75,charAt,SIMPLE_NAME, line no: 68, 0.0022862633273341613, insert, 0.1717171717171717, 0.0, 0.16666666666666666
+value,SIMPLE_NAME, line no: 75,charAt,SIMPLE_NAME, line no: 68, 0.0022769539916300463, insert, 0.17, 0.0, 0.16666666666666666
+"Check sum is %c\n",STRING_LITERAL, line no: 75,scanner,SIMPLE_NAME, line no: 51, 0.00226969098049247, insert, 0.1717171717171717, 0.0, 0.15789473684210525
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,i,SIMPLE_NAME, line no: 7, 0.002266971000070105, insert, 0.35294117647058826, 0.0, 0.043478260869565216
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,e,SIMPLE_NAME, line no: 69, 0.0022607784942980094, insert, 0.3939393939393939, 0.0, 0.015384615384615385
+value,SIMPLE_NAME, line no: 75,next.value,QUALIFIED_NAME, line no: 66, 0.0022083647796503183, insert, 0.95, 0.0, 0.5
+format,SIMPLE_NAME, line no: 75,Scanner,SIMPLE_NAME, line no: 44, 0.0022021663871499278, insert, 0.010101010101010102, 0.0, 0.14285714285714285
+output+=(String.format("Enter an abitrarily long string  ending with carriage return > ")); ,EXPRESSION_STATEMENT, line no: 63,next.value='\n'; ,EXPRESSION_STATEMENT, line no: 70, 0.00217342319785537, insert, 0.08421052631578947, 0.0, 0.09782608695652174
+String,SIMPLE_NAME, line no: 75,scanner,SIMPLE_NAME, line no: 51, 0.002147405588890427, insert, 0.1717171717171717, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 75,scanner,SIMPLE_NAME, line no: 51, 0.002147405588890427, insert, 0.1717171717171717, 0.0, 0.14285714285714285
+sum,SIMPLE_NAME, line no: 75,scanner,SIMPLE_NAME, line no: 51, 0.002137548645203717, insert, 0.17, 0.0, 0.14285714285714285
+"Check sum is %c\n",STRING_LITERAL, line no: 75,util,SIMPLE_NAME, line no: 44, 0.0019512137064043207, insert, 0.020202020202020204, 0.0, 0.10526315789473684
+scanner,SIMPLE_NAME, line no: 68,sum.value,QUALIFIED_NAME, line no: 62, 0.0019485571585149868, insert, 1.0, 0.0, 0.3333333333333333
+sum,SIMPLE_NAME, line no: 75,sum.value,QUALIFIED_NAME, line no: 62, 0.0019355667774582203, insert, 0.97, 1.0, 0.3333333333333333
+"Check sum is %c\n",STRING_LITERAL, line no: 75,Scanner,SIMPLE_NAME, line no: 44, 0.0018964529081448194, insert, 0.010101010101010102, 0.0, 0.10526315789473684
+"Check sum is %c\n",STRING_LITERAL, line no: 75,in,SIMPLE_NAME, line no: 53, 0.0018964529081448194, insert, 0.1919191919191919, 0.0, 0.10526315789473684
+"Check sum is %c\n",STRING_LITERAL, line no: 75,findInLine,SIMPLE_NAME, line no: 68, 0.001841692109885319, insert, 0.18181818181818182, 0.0, 0.10526315789473684
+sum.value,QUALIFIED_NAME, line no: 75,charAt,SIMPLE_NAME, line no: 68, 0.001834486741693279, insert, 0.1717171717171717, 0.0, 0.1111111111111111
+format,SIMPLE_NAME, line no: 75,findInLine,SIMPLE_NAME, line no: 68, 0.001798892222824604, insert, 0.18181818181818182, 0.0, 0.1
+sum.value,QUALIFIED_NAME, line no: 75,findInLine,SIMPLE_NAME, line no: 68, 0.001798892222824604, insert, 0.18181818181818182, 0.0, 0.1
+value,SIMPLE_NAME, line no: 75,findInLine,SIMPLE_NAME, line no: 68, 0.0017890352791378938, insert, 0.18, 0.0, 0.1
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,findInLine,SIMPLE_NAME, line no: 68, 0.0017363385417358663, insert, 0.18181818181818182, 0.0, 0.09230769230769231
+format,SIMPLE_NAME, line no: 75,sum.value,QUALIFIED_NAME, line no: 62, 0.0017320508075688772, insert, 0.9797979797979798, 0.0, 0.2222222222222222
+scanner,SIMPLE_NAME, line no: 68,next.value,QUALIFIED_NAME, line no: 66, 0.0016887495373796553, insert, 1.0, 0.0, 0.2
+findInLine,SIMPLE_NAME, line no: 68,next.value,QUALIFIED_NAME, line no: 66, 0.0016887495373796553, insert, 1.0, 0.0, 0.2
+String,SIMPLE_NAME, line no: 75,i,SIMPLE_NAME, line no: 7, 0.001683894546479652, insert, 0.06060606060606061, 0.0, 0.16666666666666666
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,java.lang.NullPointerException,QUALIFIED_NAME, line no: 69, 0.0016772874364472143, insert, 0.9411764705882353, 0.0, 0.23333333333333334
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,Scanner,SIMPLE_NAME, line no: 44, 0.001665991977817892, insert, 0.010101010101010102, 0.0, 0.07692307692307693
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,next.value,QUALIFIED_NAME, line no: 66, 0.0016379176115053514, insert, 1.0, 0.0, 0.17391304347826086
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,scanner,SIMPLE_NAME, line no: 51, 0.0016112311795583915, insert, 0.1717171717171717, 0.0, 0.07692307692307693
+"Check sum is %c\n",STRING_LITERAL, line no: 75,sum.value,QUALIFIED_NAME, line no: 62, 0.0016067050254421822, insert, 0.9797979797979798, 0.0, 0.15789473684210525
+scanner,SIMPLE_NAME, line no: 68,mainClass.scanner,QUALIFIED_NAME, line no: 51, 0.0015962036854066126, insert, 0.6111111111111112, 1.0, 0.4117647058823529
+scanner,SIMPLE_NAME, line no: 68,java.lang,QUALIFIED_NAME, line no: 69, 0.001587713240271471, insert, 0.8888888888888888, 0.0, 0.2222222222222222
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,sum.value,QUALIFIED_NAME, line no: 62, 0.001553197735048178, insert, 1.0, 0.0, 0.13043478260869565
+charAt,SIMPLE_NAME, line no: 68,args.length,QUALIFIED_NAME, line no: 50, 0.0015248067604065583, insert, 0.7647058823529411, 0.0, 0.2727272727272727
+".",STRING_LITERAL, line no: 68,sum.value,QUALIFIED_NAME, line no: 62, 0.0015155444566227678, insert, 1.0, 0.0, 0.1111111111111111
+charAt,SIMPLE_NAME, line no: 68,sum.value,QUALIFIED_NAME, line no: 62, 0.0015155444566227678, insert, 1.0, 0.0, 0.1111111111111111
+sum.value,QUALIFIED_NAME, line no: 75,System.out,QUALIFIED_NAME, line no: 56, 0.001501110699893027, insert, 0.5555555555555556, 0.0, 0.4
+findInLine,SIMPLE_NAME, line no: 68,sum.value,QUALIFIED_NAME, line no: 62, 0.0014938938215281567, insert, 1.0, 0.0, 0.1
+".",STRING_LITERAL, line no: 68,next.value,QUALIFIED_NAME, line no: 66, 0.0014938938215281567, insert, 1.0, 0.0, 0.1
+charAt,SIMPLE_NAME, line no: 68,next.value,QUALIFIED_NAME, line no: 66, 0.0014938938215281567, insert, 1.0, 0.0, 0.1
+scanner,SIMPLE_NAME, line no: 68,java.util.Scanner,QUALIFIED_NAME, line no: 51, 0.0014815826760822015, insert, 0.6111111111111112, 0.0, 0.35294117647058826
+scanner,SIMPLE_NAME, line no: 68,java.lang.NullPointerException,QUALIFIED_NAME, line no: 69, 0.001479460064798416, insert, 0.8888888888888888, 0.0, 0.16666666666666666
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,java.lang,QUALIFIED_NAME, line no: 69, 0.001476783728831904, insert, 0.9411764705882353, 0.0, 0.13043478260869565
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,util,SIMPLE_NAME, line no: 44, 0.001470538051722443, insert, 0.020202020202020204, 0.0, 0.046153846153846156
+sum.value=0; ,EXPRESSION_STATEMENT, line no: 62,if (true) return; ,IF_STATEMENT, line no: 76, 0.001454922678357857, insert, 1.0, 0.0, 0.2222222222222222
+"Check sum is %c\n",STRING_LITERAL, line no: 75,next.value,QUALIFIED_NAME, line no: 66, 0.001451662997412193, insert, 0.9595959595959596, 0.0, 0.10526315789473684
+String,SIMPLE_NAME, line no: 75,next.value,QUALIFIED_NAME, line no: 66, 0.0014414074334200089, insert, 0.9595959595959596, 0.0, 0.1
+format,SIMPLE_NAME, line no: 75,next.value,QUALIFIED_NAME, line no: 66, 0.0014414074334200089, insert, 0.9595959595959596, 0.0, 0.1
+charAt,SIMPLE_NAME, line no: 68,java.lang,QUALIFIED_NAME, line no: 69, 0.0014391304504064936, insert, 0.9411764705882353, 0.0, 0.1111111111111111
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,mainClass.scanner,QUALIFIED_NAME, line no: 51, 0.0014335932035792274, insert, 0.6470588235294118, 1.0, 0.30434782608695654
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,charAt,SIMPLE_NAME, line no: 68, 0.0014313630191214151, insert, 0.1717171717171717, 0.0, 0.06153846153846154
+sum,SIMPLE_NAME, line no: 75,next.value,QUALIFIED_NAME, line no: 66, 0.0014289419162443239, insert, 0.95, 0.0, 0.1
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,next.value,QUALIFIED_NAME, line no: 66, 0.001426418532200663, insert, 0.9595959595959596, 0.0, 0.09230769230769231
+charAt,SIMPLE_NAME, line no: 68,java.lang.NullPointerException,QUALIFIED_NAME, line no: 69, 0.0014174798153118826, insert, 0.9411764705882353, 0.0, 0.1
+sum.value,QUALIFIED_NAME, line no: 75,args.length,QUALIFIED_NAME, line no: 50, 0.0014171324789199905, insert, 0.5454545454545454, 0.0, 0.36363636363636365
+findInLine,SIMPLE_NAME, line no: 68,java.lang.NullPointerException,QUALIFIED_NAME, line no: 69, 0.0014145081595145833, insert, 0.8888888888888888, 0.0, 0.13333333333333333
+next.value=scanner.findInLine(".").charAt(0); ,EXPRESSION_STATEMENT, line no: 68,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.0014144991944482915, insert, 0.2857142857142857, 0.0, 0.1956521739130435
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,mainClass.output,QUALIFIED_NAME, line no: 56, 0.0014086755928565294, insert, 0.8235294117647058, 0.0, 0.17391304347826086
+scanner,SIMPLE_NAME, line no: 68,System.out,QUALIFIED_NAME, line no: 56, 0.0014000744027848424, insert, 0.7777777777777778, 0.0, 0.2
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,sum.value,QUALIFIED_NAME, line no: 62, 0.0013889715129927344, insert, 0.9797979797979798, 0.0, 0.046153846153846156
+next.value=scanner.findInLine(".").charAt(0); ,EXPRESSION_STATEMENT, line no: 68,if (true) return; ,IF_STATEMENT, line no: 76, 0.0013758507936644953, insert, 1.0, 0.0, 0.17391304347826086
+".",STRING_LITERAL, line no: 68,java.lang,QUALIFIED_NAME, line no: 69, 0.0013712068893253612, insert, 0.8888888888888888, 0.0, 0.1111111111111111
+findInLine,SIMPLE_NAME, line no: 68,mainClass.scanner,QUALIFIED_NAME, line no: 51, 0.0013669616667577906, insert, 0.6111111111111112, 0.0, 0.29411764705882354
+"Check sum is %c\n",STRING_LITERAL, line no: 75,charAt,SIMPLE_NAME, line no: 68, 0.0013589324410186662, insert, 0.1717171717171717, 0.0, 0.05263157894736842
+sum.value=sum.value % 64 + 22; ,EXPRESSION_STATEMENT, line no: 74,if (true) return; ,IF_STATEMENT, line no: 76, 0.0013551900754059073, insert, 1.0, 0.0, 0.16129032258064516
+output+=(String.format("Check sum is %c\n" sum.value)); ,EXPRESSION_STATEMENT, line no: 75,if (true) return; ,IF_STATEMENT, line no: 76, 0.001354247225167916, insert, 1.0, 0.0, 0.16071428571428573
+findInLine,SIMPLE_NAME, line no: 68,java.lang,QUALIFIED_NAME, line no: 69, 0.0013495562542307502, insert, 0.8888888888888888, 0.0, 0.1
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,java.util.Scanner,QUALIFIED_NAME, line no: 51, 0.001348873327122054, insert, 0.6470588235294118, 0.0, 0.2608695652173913
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,args.length,QUALIFIED_NAME, line no: 50, 0.0013322615866402554, insert, 0.7647058823529411, 0.0, 0.17391304347826086
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,System.out,QUALIFIED_NAME, line no: 56, 0.001323955716399356, insert, 0.8235294117647058, 0.0, 0.13043478260869565
+output+=(String.format("Enter an abitrarily long string  ending with carriage return > ")); ,EXPRESSION_STATEMENT, line no: 63,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.001316867263303006, insert, 0.042105263157894736, 0.0, 0.06521739130434782
+charAt,SIMPLE_NAME, line no: 68,mainClass.output,QUALIFIED_NAME, line no: 56, 0.0013133657318422094, insert, 0.8235294117647058, 0.0, 0.125
+scanner,SIMPLE_NAME, line no: 68,args.length,QUALIFIED_NAME, line no: 50, 0.0012924773071631395, insert, 0.7222222222222222, 0.0, 0.18181818181818182
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,in,SIMPLE_NAME, line no: 53, 0.0012906698912854668, insert, 0.1919191919191919, 0.0, 0.03076923076923077
+charAt,SIMPLE_NAME, line no: 68,java.util,QUALIFIED_NAME, line no: 44, 0.0012735667702712336, insert, 0.058823529411764705, 0.0, 0.2222222222222222
+charAt,SIMPLE_NAME, line no: 68,System.out,QUALIFIED_NAME, line no: 56, 0.0012646518028793347, insert, 0.8235294117647058, 0.0, 0.1
+value,SIMPLE_NAME, line no: 75,true,BOOLEAN_LITERAL, line no: 76, 0.001261799013313927, insert, 0.95, 0.0, 0.4
+scanner,SIMPLE_NAME, line no: 68,mainClass.output,QUALIFIED_NAME, line no: 56, 0.0012539326158962185, insert, 0.7777777777777778, 0.0, 0.125
+findInLine,SIMPLE_NAME, line no: 68,mainClass.output,QUALIFIED_NAME, line no: 56, 0.0012539326158962185, insert, 0.7777777777777778, 0.0, 0.125
+findInLine,SIMPLE_NAME, line no: 68,java.util.Scanner,QUALIFIED_NAME, line no: 51, 0.0012523406574333794, insert, 0.6111111111111112, 0.0, 0.23529411764705882
+String,SIMPLE_NAME, line no: 75,args.length,QUALIFIED_NAME, line no: 50, 0.0012399909190549917, insert, 0.5454545454545454, 0.0, 0.2727272727272727
+value,SIMPLE_NAME, line no: 75,args.length,QUALIFIED_NAME, line no: 50, 0.0012329052566603918, insert, 0.54, 0.0, 0.2727272727272727
+".",STRING_LITERAL, line no: 68,java.lang.NullPointerException,QUALIFIED_NAME, line no: 69, 0.0012196524436630845, insert, 0.8888888888888888, 0.0, 0.03333333333333333
+sum.value,QUALIFIED_NAME, line no: 75,mainClass.output,QUALIFIED_NAME, line no: 56, 0.001208827126115779, insert, 0.5555555555555556, 0.0, 0.25
+findInLine,SIMPLE_NAME, line no: 68,System.out,QUALIFIED_NAME, line no: 56, 0.0012052186869333438, insert, 0.7777777777777778, 0.0, 0.1
+".",STRING_LITERAL, line no: 68,System.out,QUALIFIED_NAME, line no: 56, 0.0012052186869333438, insert, 0.7777777777777778, 0.0, 0.1
+String,SIMPLE_NAME, line no: 75,true,BOOLEAN_LITERAL, line no: 76, 0.0011882043494549526, insert, 0.9595959595959596, 0.0, 0.3333333333333333
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,System.in,QUALIFIED_NAME, line no: 53, 0.0011877394444486068, insert, 0.5882352941176471, 0.0, 0.21739130434782608
+charAt,SIMPLE_NAME, line no: 68,mainClass.scanner,QUALIFIED_NAME, line no: 51, 0.001184417096352247, insert, 0.6470588235294118, 0.0, 0.17647058823529413
+charAt,SIMPLE_NAME, line no: 68,java.util.Scanner,QUALIFIED_NAME, line no: 51, 0.001184417096352247, insert, 0.6470588235294118, 0.0, 0.17647058823529413
+sum.value,QUALIFIED_NAME, line no: 75,java.lang,QUALIFIED_NAME, line no: 69, 0.001174382933919807, insert, 0.40404040404040403, 0.0, 0.3333333333333333
+next.value=scanner.findInLine(".").charAt(0); ,EXPRESSION_STATEMENT, line no: 68,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 0.0011707926416268774, insert, 0.7857142857142857, 0.5, 0.19148936170212766
+value,SIMPLE_NAME, line no: 75,java.lang,QUALIFIED_NAME, line no: 69, 0.0011691342951089922, insert, 0.4, 0.0, 0.3333333333333333
+scanner,SIMPLE_NAME, line no: 68,System.in,QUALIFIED_NAME, line no: 53, 0.0011547005383792516, insert, 0.5555555555555556, 0.0, 0.2222222222222222
+".",STRING_LITERAL, line no: 68,mainClass.output,QUALIFIED_NAME, line no: 56, 0.0011321477934890317, insert, 0.7777777777777778, 0.0, 0.0625
+findInLine,SIMPLE_NAME, line no: 68,args.length,QUALIFIED_NAME, line no: 50, 0.0011153357472981408, insert, 0.7222222222222222, 0.0, 0.09090909090909091
+".",STRING_LITERAL, line no: 68,args.length,QUALIFIED_NAME, line no: 50, 0.0011153357472981408, insert, 0.7222222222222222, 0.0, 0.09090909090909091
+findInLine,SIMPLE_NAME, line no: 68,System.in,QUALIFIED_NAME, line no: 53, 0.0011113992681900295, insert, 0.5555555555555556, 0.0, 0.2
+String,SIMPLE_NAME, line no: 75,System.out,QUALIFIED_NAME, line no: 56, 0.0011113992681900295, insert, 0.5555555555555556, 0.0, 0.2
+format,SIMPLE_NAME, line no: 75,System.out,QUALIFIED_NAME, line no: 56, 0.0011113992681900295, insert, 0.5555555555555556, 0.0, 0.2
+sum,SIMPLE_NAME, line no: 75,System.out,QUALIFIED_NAME, line no: 56, 0.0011041823898251593, insert, 0.55, 0.0, 0.2
+String,SIMPLE_NAME, line no: 75,System.in,QUALIFIED_NAME, line no: 53, 0.0011022141502711037, insert, 0.18181818181818182, 0.0, 0.4444444444444444
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,java.util,QUALIFIED_NAME, line no: 44, 0.001094713697750534, insert, 0.058823529411764705, 0.0, 0.13043478260869565
+format,SIMPLE_NAME, line no: 75,mainClass.output,QUALIFIED_NAME, line no: 56, 0.0010870423037085924, insert, 0.5555555555555556, 0.0, 0.1875
+value,SIMPLE_NAME, line no: 75,mainClass.output,QUALIFIED_NAME, line no: 56, 0.001079825425343722, insert, 0.55, 0.0, 0.1875
+sum,SIMPLE_NAME, line no: 75,true,BOOLEAN_LITERAL, line no: 76, 0.0010786346404135184, insert, 0.95, 0.0, 0.25
+format,SIMPLE_NAME, line no: 75,args.length,QUALIFIED_NAME, line no: 50, 0.001062849359189993, insert, 0.5454545454545454, 0.0, 0.18181818181818182
+sum.value,QUALIFIED_NAME, line no: 75,true,BOOLEAN_LITERAL, line no: 76, 0.0010525270361953906, insert, 0.9595959595959596, 0.0, 0.2222222222222222
+"Check sum is %c\n",STRING_LITERAL, line no: 75,mainClass.output,QUALIFIED_NAME, line no: 56, 0.0010293547562525566, insert, 0.5555555555555556, 0.0, 0.15789473684210525
+charAt,SIMPLE_NAME, line no: 68,true,BOOLEAN_LITERAL, line no: 76, 0.0010175798494467155, insert, 1.0, 0.0, 0.16666666666666666
+scanner,SIMPLE_NAME, line no: 68,java.util,QUALIFIED_NAME, line no: 44, 0.001010362971081845, insert, 0.05555555555555555, 0.0, 0.1111111111111111
+".",STRING_LITERAL, line no: 68,java.util,QUALIFIED_NAME, line no: 44, 0.001010362971081845, insert, 0.05555555555555555, 0.0, 0.1111111111111111
+findInLine,SIMPLE_NAME, line no: 68,java.util,QUALIFIED_NAME, line no: 44, 9.887123359872342E-4, insert, 0.05555555555555555, 0.0, 0.1
+scanner,SIMPLE_NAME, line no: 68,true,BOOLEAN_LITERAL, line no: 76, 9.885061394625237E-4, insert, 1.0, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 75,true,BOOLEAN_LITERAL, line no: 76, 9.846883795656095E-4, insert, 0.9595959595959596, 0.0, 0.16666666666666666
+charAt,SIMPLE_NAME, line no: 68,System.in,QUALIFIED_NAME, line no: 53, 9.806464131088498E-4, insert, 0.5882352941176471, 0.0, 0.1111111111111111
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,args.length,QUALIFIED_NAME, line no: 50, 9.783664614082242E-4, insert, 0.5454545454545454, 0.0, 0.13846153846153847
+String,SIMPLE_NAME, line no: 75,mainClass.output,QUALIFIED_NAME, line no: 56, 9.652574813014056E-4, insert, 0.5555555555555556, 0.0, 0.125
+sum,SIMPLE_NAME, line no: 75,mainClass.output,QUALIFIED_NAME, line no: 56, 9.580406029365354E-4, insert, 0.55, 0.0, 0.125
+String,SIMPLE_NAME, line no: 75,java.lang,QUALIFIED_NAME, line no: 69, 9.578765829736973E-4, insert, 0.40404040404040403, 0.0, 0.2222222222222222
+".",STRING_LITERAL, line no: 68,System.in,QUALIFIED_NAME, line no: 53, 9.38194187433142E-4, insert, 0.5555555555555556, 0.0, 0.1111111111111111
+findInLine,SIMPLE_NAME, line no: 68,true,BOOLEAN_LITERAL, line no: 76, 9.361734614909782E-4, insert, 1.0, 0.0, 0.1
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,java.lang.NullPointerException,QUALIFIED_NAME, line no: 69, 9.314315181961307E-4, insert, 0.3939393939393939, 0.0, 0.2153846153846154
+"Check sum is %c\n",STRING_LITERAL, line no: 75,System.out,QUALIFIED_NAME, line no: 56, 9.267991163307151E-4, insert, 0.5555555555555556, 0.0, 0.10526315789473684
+scanner.findInLine("."),METHOD_INVOCATION, line no: 68,true,BOOLEAN_LITERAL, line no: 76, 9.202461247170297E-4, insert, 1.0, 0.0, 0.08695652173913043
+"Check sum is %c\n",STRING_LITERAL, line no: 75,args.length,QUALIFIED_NAME, line no: 50, 9.136775193036781E-4, insert, 0.5454545454545454, 0.0, 0.10526315789473684
+value,SIMPLE_NAME, line no: 75,System.out,QUALIFIED_NAME, line no: 56, 9.093266739736606E-4, insert, 0.55, 0.0, 0.1
+".",STRING_LITERAL, line no: 68,mainClass.scanner,QUALIFIED_NAME, line no: 51, 9.084776294601464E-4, insert, 0.6111111111111112, 0.0, 0.058823529411764705
+".",STRING_LITERAL, line no: 68,java.util.Scanner,QUALIFIED_NAME, line no: 51, 9.084776294601464E-4, insert, 0.6111111111111112, 0.0, 0.058823529411764705
+output+=(String.format("Enter an abitrarily long string  ending with carriage return > ")); ,EXPRESSION_STATEMENT, line no: 63,if (true) return; ,IF_STATEMENT, line no: 76, 9.053730797389927E-4, insert, 1.0, 0.0, 0.16304347826086957
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,mainClass.output,QUALIFIED_NAME, line no: 56, 9.01554651119185E-4, insert, 0.5555555555555556, 0.0, 0.09230769230769231
+sum.value,QUALIFIED_NAME, line no: 75,java.util,QUALIFIED_NAME, line no: 44, 8.98829396352031E-4, insert, 0.010101010101010102, 0.0, 0.3333333333333333
+value,SIMPLE_NAME, line no: 75,java.util,QUALIFIED_NAME, line no: 44, 8.96336292916894E-4, insert, 0.01, 0.0, 0.3333333333333333
+sum.value,QUALIFIED_NAME, line no: 75,System.in,QUALIFIED_NAME, line no: 53, 8.85707799324994E-4, insert, 0.18181818181818182, 0.0, 0.3333333333333333
+sum,SIMPLE_NAME, line no: 75,args.length,QUALIFIED_NAME, line no: 50, 8.786221369303942E-4, insert, 0.54, 0.0, 0.09090909090909091
+output+=(String.format("Check sum is %c\n" sum.value)); ,EXPRESSION_STATEMENT, line no: 75,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 8.757640679555512E-4, insert, 0.5578947368421052, 0.0, 0.16312056737588654
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,System.out,QUALIFIED_NAME, line no: 56, 8.715768486804928E-4, insert, 0.5555555555555556, 0.0, 0.07692307692307693
+"Check sum is %c\n",STRING_LITERAL, line no: 75,true,BOOLEAN_LITERAL, line no: 76, 8.454406106939538E-4, insert, 0.9595959595959596, 0.0, 0.05263157894736842
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,true,BOOLEAN_LITERAL, line no: 76, 8.375306782610076E-4, insert, 0.9595959595959596, 0.0, 0.046153846153846156
+sum.value,QUALIFIED_NAME, line no: 75,java.lang.NullPointerException,QUALIFIED_NAME, line no: 69, 8.365018104736055E-4, insert, 0.3939393939393939, 0.0, 0.16666666666666666
+value,SIMPLE_NAME, line no: 75,java.lang.NullPointerException,QUALIFIED_NAME, line no: 69, 8.313843876330611E-4, insert, 0.39, 0.0, 0.16666666666666666
+sum.value=sum.value % 64 + 22; ,EXPRESSION_STATEMENT, line no: 74,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 8.061135142043771E-4, insert, 0.5578947368421052, 0.0, 0.12056737588652482
+String,SIMPLE_NAME, line no: 75,java.lang.NullPointerException,QUALIFIED_NAME, line no: 69, 7.715499051897727E-4, insert, 0.3939393939393939, 0.0, 0.13333333333333333
+"Check sum is %c\n",STRING_LITERAL, line no: 75,java.lang.NullPointerException,QUALIFIED_NAME, line no: 69, 7.715499051897727E-4, insert, 0.3939393939393939, 0.0, 0.13333333333333333
+"Check sum is %c\n",STRING_LITERAL, line no: 75,i,SIMPLE_NAME, line no: 7, 7.565636601641568E-4, insert, 0.06060606060606061, 0.0, 0.05263157894736842
+format,SIMPLE_NAME, line no: 75,java.lang,QUALIFIED_NAME, line no: 69, 7.413702320275878E-4, insert, 0.40404040404040403, 0.0, 0.1111111111111111
+"Check sum is %c\n",STRING_LITERAL, line no: 75,mainClass.scanner,QUALIFIED_NAME, line no: 51, 7.358453490688352E-4, insert, 0.16161616161616163, 0.0, 0.2631578947368421
+sum.value=0; ,EXPRESSION_STATEMENT, line no: 62,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 7.248545348280074E-4, insert, 0.5578947368421052, 0.0, 0.07092198581560284
+format,SIMPLE_NAME, line no: 75,java.lang.NullPointerException,QUALIFIED_NAME, line no: 69, 7.065979999059397E-4, insert, 0.3939393939393939, 0.0, 0.1
+sum.value,QUALIFIED_NAME, line no: 75,java.util.Scanner,QUALIFIED_NAME, line no: 51, 6.946727837843092E-4, insert, 0.1717171717171717, 0.0, 0.23529411764705882
+value,SIMPLE_NAME, line no: 75,java.util.Scanner,QUALIFIED_NAME, line no: 51, 6.923108963194424E-4, insert, 0.17, 0.0, 0.23529411764705882
+String,SIMPLE_NAME, line no: 75,java.util,QUALIFIED_NAME, line no: 44, 6.823230454059213E-4, insert, 0.010101010101010102, 0.0, 0.2222222222222222
+format,SIMPLE_NAME, line no: 75,java.util,QUALIFIED_NAME, line no: 44, 6.823230454059213E-4, insert, 0.010101010101010102, 0.0, 0.2222222222222222
+sum.value,QUALIFIED_NAME, line no: 75,mainClass.scanner,QUALIFIED_NAME, line no: 51, 6.815511867572722E-4, insert, 0.16161616161616163, 0.0, 0.23529411764705882
+output+=(String.format("Enter an abitrarily long string  ending with carriage return > ")); ,EXPRESSION_STATEMENT, line no: 63,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 6.767101169719328E-4, insert, 0.5578947368421052, 0.0, 0.24822695035460993
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,java.lang,QUALIFIED_NAME, line no: 69, 6.747528932749385E-4, insert, 0.40404040404040403, 0.0, 0.07692307692307693
+sum,SIMPLE_NAME, line no: 75,System.in,QUALIFIED_NAME, line no: 53, 6.668395609140177E-4, insert, 0.18, 0.0, 0.2222222222222222
+"Check sum is %c\n",STRING_LITERAL, line no: 75,java.util.Scanner,QUALIFIED_NAME, line no: 51, 6.464113061740306E-4, insert, 0.1717171717171717, 0.0, 0.21052631578947367
+"Check sum is %c\n",STRING_LITERAL, line no: 75,System.in,QUALIFIED_NAME, line no: 53, 6.464113061740306E-4, insert, 0.18181818181818182, 0.0, 0.21052631578947367
+"Check sum is %c\n",STRING_LITERAL, line no: 75,java.lang,QUALIFIED_NAME, line no: 69, 6.274195210033194E-4, insert, 0.40404040404040403, 0.0, 0.05263157894736842
+String,SIMPLE_NAME, line no: 75,java.util.Scanner,QUALIFIED_NAME, line no: 51, 5.800517744598981E-4, insert, 0.1717171717171717, 0.0, 0.17647058823529413
+sum,SIMPLE_NAME, line no: 75,java.lang.NullPointerException,QUALIFIED_NAME, line no: 69, 5.715767664977296E-4, insert, 0.39, 0.0, 0.03333333333333333
+value,SIMPLE_NAME, line no: 75,mainClass.scanner,QUALIFIED_NAME, line no: 51, 5.646995059382649E-4, insert, 0.16, 0.0, 0.17647058823529413
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,java.util.Scanner,QUALIFIED_NAME, line no: 51, 5.05988968434894E-4, insert, 0.1717171717171717, 0.0, 0.13846153846153847
+format,SIMPLE_NAME, line no: 75,java.util.Scanner,QUALIFIED_NAME, line no: 51, 4.6543076513548705E-4, insert, 0.1717171717171717, 0.0, 0.11764705882352941
+sum,SIMPLE_NAME, line no: 75,java.util,QUALIFIED_NAME, line no: 44, 4.6332359102467464E-4, insert, 0.01, 0.0, 0.1111111111111111
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,mainClass.scanner,QUALIFIED_NAME, line no: 51, 4.62889568969165E-4, insert, 0.16161616161616163, 0.0, 0.12307692307692308
+"Check sum is %c\n",STRING_LITERAL, line no: 75,java.util,QUALIFIED_NAME, line no: 44, 4.544216233573848E-4, insert, 0.010101010101010102, 0.0, 0.10526315789473684
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,i,SIMPLE_NAME, line no: 7, 4.5367215173448036E-4, insert, 0.06060606060606061, 0.0, 0.015384615384615385
+format,SIMPLE_NAME, line no: 75,System.in,QUALIFIED_NAME, line no: 53, 4.5269509743277477E-4, insert, 0.18181818181818182, 0.0, 0.1111111111111111
+String,SIMPLE_NAME, line no: 75,mainClass.scanner,QUALIFIED_NAME, line no: 51, 4.5230916810845014E-4, insert, 0.16161616161616163, 0.0, 0.11764705882352941
+format,SIMPLE_NAME, line no: 75,mainClass.scanner,QUALIFIED_NAME, line no: 51, 4.5230916810845014E-4, insert, 0.16161616161616163, 0.0, 0.11764705882352941
+value,SIMPLE_NAME, line no: 75,System.in,QUALIFIED_NAME, line no: 53, 4.503332099679081E-4, insert, 0.18, 0.0, 0.1111111111111111
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,System.in,QUALIFIED_NAME, line no: 53, 4.160555611188177E-4, insert, 0.18181818181818182, 0.0, 0.09230769230769231
+"Enter an abitrarily long string  ending with carriage return > ",STRING_LITERAL, line no: 65,java.util,QUALIFIED_NAME, line no: 44, 3.9919935570716255E-4, insert, 0.010101010101010102, 0.0, 0.07692307692307693
+sum,SIMPLE_NAME, line no: 75,java.util.Scanner,QUALIFIED_NAME, line no: 51, 3.4844786834620944E-4, insert, 0.17, 0.0, 0.058823529411764705
+sum,SIMPLE_NAME, line no: 75,mainClass.scanner,QUALIFIED_NAME, line no: 51, 3.3545748728944284E-4, insert, 0.16, 0.0, 0.058823529411764705

@@ -1,0 +1,768 @@
+output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62,output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62, 0.038419468444469085, insert, 1.0, 1.0, 1.0
+output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63,output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63, 0.038419468444469085, insert, 1.0, 1.0, 1.0
+A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64, 0.038419468444469085, insert, 1.0, 3.0, 1.0
+B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65, 0.038419468444469085, insert, 1.0, 3.0, 1.0
+C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66, 0.038419468444469085, insert, 1.0, 3.0, 1.0
+D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67,D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67, 0.038419468444469085, insert, 1.0, 3.0, 1.0
+output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68,output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68, 0.038419468444469085, insert, 1.0, 1.0, 1.0
+score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70,score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70, 0.038419468444469085, insert, 1.0, 3.0, 1.0
+A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65, 0.0376510790755797, insert, 1.0, 1.5, 0.9666666666666667
+A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66, 0.0376510790755797, insert, 1.0, 1.5, 0.9666666666666667
+A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67, 0.0376510790755797, insert, 1.0, 1.5, 0.9666666666666667
+B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64, 0.0376510790755797, insert, 1.0, 1.5, 0.9666666666666667
+B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66, 0.0376510790755797, insert, 1.0, 1.5, 0.9666666666666667
+B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67, 0.0376510790755797, insert, 1.0, 1.5, 0.9666666666666667
+C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64, 0.0376510790755797, insert, 1.0, 1.5, 0.9666666666666667
+C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65, 0.0376510790755797, insert, 1.0, 1.5, 0.9666666666666667
+C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67, 0.0376510790755797, insert, 1.0, 1.5, 0.9666666666666667
+D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67,A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64, 0.0376510790755797, insert, 1.0, 1.5, 0.9666666666666667
+D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67,B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65, 0.0376510790755797, insert, 1.0, 1.5, 0.9666666666666667
+D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67,C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66, 0.0376510790755797, insert, 1.0, 1.5, 0.9666666666666667
+A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70, 0.035029515346427696, insert, 1.0, 1.5, 0.8529411764705882
+B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70, 0.035029515346427696, insert, 1.0, 1.5, 0.8529411764705882
+C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70, 0.035029515346427696, insert, 1.0, 1.5, 0.8529411764705882
+D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67,score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70, 0.035029515346427696, insert, 1.0, 1.5, 0.8529411764705882
+score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70,A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64, 0.035029515346427696, insert, 1.0, 1.5, 0.8529411764705882
+score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70,B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65, 0.035029515346427696, insert, 1.0, 1.5, 0.8529411764705882
+score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70,C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66, 0.035029515346427696, insert, 1.0, 1.5, 0.8529411764705882
+score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70,D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67, 0.035029515346427696, insert, 1.0, 1.5, 0.8529411764705882
+output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63,output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68, 0.030935156409832253, insert, 1.0, 1.0, 0.6753246753246753
+output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68,output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63, 0.030935156409832253, insert, 1.0, 1.0, 0.6753246753246753
+output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62,output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63, 0.029065163084076615, insert, 1.0, 1.0, 0.5942028985507246
+output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63,output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62, 0.029065163084076615, insert, 1.0, 1.0, 0.5942028985507246
+output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62,output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68, 0.02764205911459204, insert, 1.0, 1.0, 0.5324675324675324
+output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68,output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62, 0.02764205911459204, insert, 1.0, 1.0, 0.5324675324675324
+output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63,score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70, 0.02071310472658333, insert, 1.0, 0.0, 0.2318840579710145
+score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70,output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63, 0.02071310472658333, insert, 1.0, 0.0, 0.2318840579710145
+output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68,score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70, 0.020457119561340685, insert, 1.0, 0.0, 0.22077922077922077
+score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70,output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68, 0.020457119561340685, insert, 1.0, 0.0, 0.22077922077922077
+output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62,score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70, 0.0202012043756402, insert, 1.0, 0.0, 0.20967741935483872
+score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70,output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62, 0.0202012043756402, insert, 1.0, 0.0, 0.20967741935483872
+output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63,A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64, 0.02004494005798387, insert, 1.0, 0.0, 0.2028985507246377
+output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63,B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65, 0.02004494005798387, insert, 1.0, 0.0, 0.2028985507246377
+output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63,C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66, 0.02004494005798387, insert, 1.0, 0.0, 0.2028985507246377
+output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63,D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67, 0.02004494005798387, insert, 1.0, 0.0, 0.2028985507246377
+A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63, 0.02004494005798387, insert, 1.0, 0.0, 0.2028985507246377
+B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63, 0.02004494005798387, insert, 1.0, 0.0, 0.2028985507246377
+C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63, 0.02004494005798387, insert, 1.0, 0.0, 0.2028985507246377
+D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67,output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63, 0.02004494005798387, insert, 1.0, 0.0, 0.2028985507246377
+A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68, 0.019858374598569737, insert, 1.0, 0.0, 0.19480519480519481
+B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68, 0.019858374598569737, insert, 1.0, 0.0, 0.19480519480519481
+C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68, 0.019858374598569737, insert, 1.0, 0.0, 0.19480519480519481
+D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67,output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68, 0.019858374598569737, insert, 1.0, 0.0, 0.19480519480519481
+output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68,A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64, 0.019858374598569737, insert, 1.0, 0.0, 0.19480519480519481
+output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68,B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65, 0.019858374598569737, insert, 1.0, 0.0, 0.19480519480519481
+output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68,C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66, 0.019858374598569737, insert, 1.0, 0.0, 0.19480519480519481
+output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68,D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67, 0.019858374598569737, insert, 1.0, 0.0, 0.19480519480519481
+output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62,A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64, 0.019829403068113077, insert, 1.0, 0.0, 0.1935483870967742
+output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62,B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65, 0.019829403068113077, insert, 1.0, 0.0, 0.1935483870967742
+output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62,C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66, 0.019829403068113077, insert, 1.0, 0.0, 0.1935483870967742
+output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62,D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67, 0.019829403068113077, insert, 1.0, 0.0, 0.1935483870967742
+A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62, 0.019829403068113077, insert, 1.0, 0.0, 0.1935483870967742
+B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62, 0.019829403068113077, insert, 1.0, 0.0, 0.1935483870967742
+C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62, 0.019829403068113077, insert, 1.0, 0.0, 0.1935483870967742
+D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67,output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62, 0.019829403068113077, insert, 1.0, 0.0, 0.1935483870967742
+output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62,output+=(String.format("Student has failed the course\n")); ,EXPRESSION_STATEMENT, line no: 78, 0.016481527759843143, insert, 0.08053691275167785, 1.0, 0.6612903225806451
+output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62,output+=(String.format("Student has an C grade\n")); ,EXPRESSION_STATEMENT, line no: 76, 0.016006586939713425, insert, 0.0738255033557047, 1.0, 0.6451612903225806
+output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62,output+=(String.format("Student has an B grade\n")); ,EXPRESSION_STATEMENT, line no: 74, 0.015903447427110824, insert, 0.06711409395973154, 1.0, 0.6451612903225806
+output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62,output+=(String.format("Student has an A grade\n")); ,EXPRESSION_STATEMENT, line no: 72, 0.015800307914508222, insert, 0.06040268456375839, 1.0, 0.6451612903225806
+output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63,output+=(String.format("Student has failed the course\n")); ,EXPRESSION_STATEMENT, line no: 78, 0.015269132191819927, insert, 0.08053691275167785, 1.0, 0.6086956521739131
+String,SIMPLE_NAME, line no: 62,String,SIMPLE_NAME, line no: 49, 0.014754961500759294, insert, 0.3333333333333333, 0.0, 1.0
+format,SIMPLE_NAME, line no: 62,format,SIMPLE_NAME, line no: 62, 0.014754961500759294, insert, 1.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 63,String,SIMPLE_NAME, line no: 49, 0.014754961500759294, insert, 0.3333333333333333, 0.0, 1.0
+format,SIMPLE_NAME, line no: 63,format,SIMPLE_NAME, line no: 62, 0.014754961500759294, insert, 1.0, 0.0, 1.0
+scanner,SIMPLE_NAME, line no: 64,scanner,SIMPLE_NAME, line no: 51, 0.014754961500759294, insert, 0.10526315789473684, 1.0, 1.0
+nextDouble,SIMPLE_NAME, line no: 64,nextDouble,SIMPLE_NAME, line no: 64, 0.014754961500759294, insert, 1.0, 0.0, 1.0
+scanner,SIMPLE_NAME, line no: 65,scanner,SIMPLE_NAME, line no: 51, 0.014754961500759294, insert, 0.10526315789473684, 1.0, 1.0
+nextDouble,SIMPLE_NAME, line no: 65,nextDouble,SIMPLE_NAME, line no: 64, 0.014754961500759294, insert, 1.0, 0.0, 1.0
+scanner,SIMPLE_NAME, line no: 66,scanner,SIMPLE_NAME, line no: 51, 0.014754961500759294, insert, 0.10526315789473684, 1.0, 1.0
+nextDouble,SIMPLE_NAME, line no: 66,nextDouble,SIMPLE_NAME, line no: 64, 0.014754961500759294, insert, 1.0, 0.0, 1.0
+scanner,SIMPLE_NAME, line no: 67,scanner,SIMPLE_NAME, line no: 51, 0.014754961500759294, insert, 0.10526315789473684, 1.0, 1.0
+nextDouble,SIMPLE_NAME, line no: 67,nextDouble,SIMPLE_NAME, line no: 64, 0.014754961500759294, insert, 1.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 69,String,SIMPLE_NAME, line no: 49, 0.014754961500759294, insert, 0.3333333333333333, 0.0, 1.0
+format,SIMPLE_NAME, line no: 69,format,SIMPLE_NAME, line no: 62, 0.014754961500759294, insert, 1.0, 0.0, 1.0
+scanner,SIMPLE_NAME, line no: 70,scanner,SIMPLE_NAME, line no: 51, 0.014754961500759294, insert, 0.10526315789473684, 1.0, 1.0
+nextDouble,SIMPLE_NAME, line no: 70,nextDouble,SIMPLE_NAME, line no: 64, 0.014754961500759294, insert, 1.0, 0.0, 1.0
+output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63,output+=(String.format("Student has an C grade\n")); ,EXPRESSION_STATEMENT, line no: 76, 0.014497828010617865, insert, 0.0738255033557047, 1.0, 0.5797101449275363
+output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63,output+=(String.format("Student has an B grade\n")); ,EXPRESSION_STATEMENT, line no: 74, 0.014394688498015264, insert, 0.06711409395973154, 1.0, 0.5797101449275363
+output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63,output+=(String.format("Student has an A grade\n")); ,EXPRESSION_STATEMENT, line no: 72, 0.01429154898541266, insert, 0.06040268456375839, 1.0, 0.5797101449275363
+output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68,output+=(String.format("Student has failed the course\n")); ,EXPRESSION_STATEMENT, line no: 78, 0.014110690850806571, insert, 0.08053691275167785, 1.0, 0.5584415584415584
+A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.013712398200515877, insert, 0.3422818791946309, 0.0, 0.36666666666666664
+B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.013712398200515877, insert, 0.3422818791946309, 0.0, 0.36666666666666664
+C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.013712398200515877, insert, 0.3422818791946309, 0.0, 0.36666666666666664
+D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.013712398200515877, insert, 0.3422818791946309, 0.0, 0.36666666666666664
+output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68,output+=(String.format("Student has an C grade\n")); ,EXPRESSION_STATEMENT, line no: 76, 0.013408806375433025, insert, 0.0738255033557047, 1.0, 0.5324675324675324
+output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68,output+=(String.format("Student has an B grade\n")); ,EXPRESSION_STATEMENT, line no: 74, 0.013305666862830422, insert, 0.06711409395973154, 1.0, 0.5324675324675324
+output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68,output+=(String.format("Student has an A grade\n")); ,EXPRESSION_STATEMENT, line no: 72, 0.013202527350227821, insert, 0.06040268456375839, 1.0, 0.5324675324675324
+score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.012718011958423737, insert, 0.3422818791946309, 0.0, 0.3235294117647059
+score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.012539593374316297, insert, 0.3422818791946309, 0.0, 0.3157894736842105
+A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.011326347002385695, insert, 0.3422818791946309, 0.0, 0.2631578947368421
+B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.011326347002385695, insert, 0.3422818791946309, 0.0, 0.2631578947368421
+C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.011326347002385695, insert, 0.3422818791946309, 0.0, 0.2631578947368421
+D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.011326347002385695, insert, 0.3422818791946309, 0.0, 0.2631578947368421
+output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.01127359716012784, insert, 0.3422818791946309, 1.0, 0.2608695652173913
+output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.011247564770442147, insert, 0.3422818791946309, 1.0, 0.2597402597402597
+output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.011208936063166603, insert, 0.3422818791946309, 1.0, 0.25806451612903225
+nextDouble,SIMPLE_NAME, line no: 64,DoubleObj,SIMPLE_NAME, line no: 60, 0.011097284202413174, insert, 0.9802631578947368, 0.0, 0.6
+nextDouble,SIMPLE_NAME, line no: 65,DoubleObj,SIMPLE_NAME, line no: 60, 0.011097284202413174, insert, 0.9802631578947368, 0.0, 0.6
+nextDouble,SIMPLE_NAME, line no: 66,DoubleObj,SIMPLE_NAME, line no: 60, 0.011097284202413174, insert, 0.9802631578947368, 0.0, 0.6
+nextDouble,SIMPLE_NAME, line no: 67,DoubleObj,SIMPLE_NAME, line no: 60, 0.011097284202413174, insert, 0.9802631578947368, 0.0, 0.6
+nextDouble,SIMPLE_NAME, line no: 70,DoubleObj,SIMPLE_NAME, line no: 60, 0.011097284202413174, insert, 0.9802631578947368, 0.0, 0.6
+scanner,SIMPLE_NAME, line no: 64,score,SIMPLE_NAME, line no: 61, 0.009657288711587192, insert, 0.9802631578947368, 0.0, 0.42857142857142855
+scanner,SIMPLE_NAME, line no: 65,score,SIMPLE_NAME, line no: 61, 0.009657288711587192, insert, 0.9802631578947368, 0.0, 0.42857142857142855
+scanner,SIMPLE_NAME, line no: 66,score,SIMPLE_NAME, line no: 61, 0.009657288711587192, insert, 0.9802631578947368, 0.0, 0.42857142857142855
+scanner,SIMPLE_NAME, line no: 67,score,SIMPLE_NAME, line no: 61, 0.009657288711587192, insert, 0.9802631578947368, 0.0, 0.42857142857142855
+scanner,SIMPLE_NAME, line no: 70,score,SIMPLE_NAME, line no: 61, 0.009657288711587192, insert, 0.9802631578947368, 0.0, 0.42857142857142855
+A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.009639418847839143, insert, 0.087248322147651, 0.5, 0.36
+B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.009639418847839143, insert, 0.087248322147651, 0.5, 0.36
+C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.009639418847839143, insert, 0.087248322147651, 0.5, 0.36
+D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.009639418847839143, insert, 0.087248322147651, 0.5, 0.36
+score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.009639418847839143, insert, 0.087248322147651, 0.5, 0.36
+A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.009526520750582601, insert, 0.10067114093959731, 0.5, 0.34615384615384615
+B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.009526520750582601, insert, 0.10067114093959731, 0.5, 0.34615384615384615
+C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.009526520750582601, insert, 0.10067114093959731, 0.5, 0.34615384615384615
+D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.009526520750582601, insert, 0.10067114093959731, 0.5, 0.34615384615384615
+score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.009526520750582601, insert, 0.10067114093959731, 0.5, 0.34615384615384615
+output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.008935020820029723, insert, 0.3422818791946309, 0.0, 0.15942028985507245
+output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.00885258491935836, insert, 0.3422818791946309, 0.0, 0.15584415584415584
+format,SIMPLE_NAME, line no: 62,output,SIMPLE_NAME, line no: 49, 0.00877582677496141, insert, 0.3333333333333333, 0.0, 0.3333333333333333
+format,SIMPLE_NAME, line no: 62,score,SIMPLE_NAME, line no: 61, 0.00877582677496141, insert, 0.9738562091503268, 0.0, 0.3333333333333333
+format,SIMPLE_NAME, line no: 63,output,SIMPLE_NAME, line no: 49, 0.00877582677496141, insert, 0.3333333333333333, 0.0, 0.3333333333333333
+format,SIMPLE_NAME, line no: 63,score,SIMPLE_NAME, line no: 61, 0.00877582677496141, insert, 0.9738562091503268, 0.0, 0.3333333333333333
+format,SIMPLE_NAME, line no: 69,output,SIMPLE_NAME, line no: 49, 0.00877582677496141, insert, 0.3333333333333333, 0.0, 0.3333333333333333
+format,SIMPLE_NAME, line no: 69,score,SIMPLE_NAME, line no: 61, 0.00877582677496141, insert, 0.9738562091503268, 0.0, 0.3333333333333333
+scanner,SIMPLE_NAME, line no: 64,value,SIMPLE_NAME, line no: 7, 0.008392577725807824, insert, 0.039473684210526314, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 65,value,SIMPLE_NAME, line no: 7, 0.008392577725807824, insert, 0.039473684210526314, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 66,value,SIMPLE_NAME, line no: 7, 0.008392577725807824, insert, 0.039473684210526314, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 67,value,SIMPLE_NAME, line no: 7, 0.008392577725807824, insert, 0.039473684210526314, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 70,value,SIMPLE_NAME, line no: 7, 0.008392577725807824, insert, 0.039473684210526314, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 64,Scanner,SIMPLE_NAME, line no: 44, 0.008326013989714174, insert, 0.006578947368421052, 0.0, 0.8571428571428571
+scanner,SIMPLE_NAME, line no: 65,Scanner,SIMPLE_NAME, line no: 44, 0.008326013989714174, insert, 0.006578947368421052, 0.0, 0.8571428571428571
+scanner,SIMPLE_NAME, line no: 66,Scanner,SIMPLE_NAME, line no: 44, 0.008326013989714174, insert, 0.006578947368421052, 0.0, 0.8571428571428571
+scanner,SIMPLE_NAME, line no: 67,Scanner,SIMPLE_NAME, line no: 44, 0.008326013989714174, insert, 0.006578947368421052, 0.0, 0.8571428571428571
+scanner,SIMPLE_NAME, line no: 70,Scanner,SIMPLE_NAME, line no: 44, 0.008326013989714174, insert, 0.006578947368421052, 0.0, 0.8571428571428571
+output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.008234525602949641, insert, 0.3422818791946309, 0.0, 0.12903225806451613
+output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.007688378015528713, insert, 0.087248322147651, 0.0, 0.2753623188405797
+scanner,SIMPLE_NAME, line no: 64,nextDouble,SIMPLE_NAME, line no: 64, 0.007672579980394833, insert, 1.0, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 64,scanner,SIMPLE_NAME, line no: 51, 0.007672579980394833, insert, 0.10526315789473684, 0.0, 0.2
+scanner,SIMPLE_NAME, line no: 65,nextDouble,SIMPLE_NAME, line no: 64, 0.007672579980394833, insert, 1.0, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,scanner,SIMPLE_NAME, line no: 51, 0.007672579980394833, insert, 0.10526315789473684, 0.0, 0.2
+scanner,SIMPLE_NAME, line no: 66,nextDouble,SIMPLE_NAME, line no: 64, 0.007672579980394833, insert, 1.0, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,scanner,SIMPLE_NAME, line no: 51, 0.007672579980394833, insert, 0.10526315789473684, 0.0, 0.2
+scanner,SIMPLE_NAME, line no: 67,nextDouble,SIMPLE_NAME, line no: 64, 0.007672579980394833, insert, 1.0, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 67,scanner,SIMPLE_NAME, line no: 51, 0.007672579980394833, insert, 0.10526315789473684, 0.0, 0.2
+scanner,SIMPLE_NAME, line no: 70,nextDouble,SIMPLE_NAME, line no: 64, 0.007672579980394833, insert, 1.0, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 70,scanner,SIMPLE_NAME, line no: 51, 0.007672579980394833, insert, 0.10526315789473684, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 64,value,SIMPLE_NAME, line no: 7, 0.007633751134340203, insert, 0.039473684210526314, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 64,output,SIMPLE_NAME, line no: 49, 0.007633751134340203, insert, 0.3355263157894737, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 64,score,SIMPLE_NAME, line no: 61, 0.007633751134340203, insert, 0.9802631578947368, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,value,SIMPLE_NAME, line no: 7, 0.007633751134340203, insert, 0.039473684210526314, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,output,SIMPLE_NAME, line no: 49, 0.007633751134340203, insert, 0.3355263157894737, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,score,SIMPLE_NAME, line no: 61, 0.007633751134340203, insert, 0.9802631578947368, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,value,SIMPLE_NAME, line no: 7, 0.007633751134340203, insert, 0.039473684210526314, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,output,SIMPLE_NAME, line no: 49, 0.007633751134340203, insert, 0.3355263157894737, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,score,SIMPLE_NAME, line no: 61, 0.007633751134340203, insert, 0.9802631578947368, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 67,value,SIMPLE_NAME, line no: 7, 0.007633751134340203, insert, 0.039473684210526314, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 67,output,SIMPLE_NAME, line no: 49, 0.007633751134340203, insert, 0.3355263157894737, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 67,score,SIMPLE_NAME, line no: 61, 0.007633751134340203, insert, 0.9802631578947368, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 70,value,SIMPLE_NAME, line no: 7, 0.007633751134340203, insert, 0.039473684210526314, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 70,output,SIMPLE_NAME, line no: 49, 0.007633751134340203, insert, 0.3355263157894737, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 70,score,SIMPLE_NAME, line no: 61, 0.007633751134340203, insert, 0.9802631578947368, 0.0, 0.2
+output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.007560574706434184, insert, 0.10067114093959731, 0.0, 0.2608695652173913
+output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.00753454231674849, insert, 0.10067114093959731, 0.0, 0.2597402597402597
+score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70,output+=(String.format("Student has failed the course\n")); ,EXPRESSION_STATEMENT, line no: 78, 0.007384789102346273, insert, 0.08053691275167785, 0.0, 0.26666666666666666
+String,SIMPLE_NAME, line no: 62,format,SIMPLE_NAME, line no: 62, 0.007377480750379647, insert, 1.0, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 62,String,SIMPLE_NAME, line no: 49, 0.007377480750379647, insert, 0.3333333333333333, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 63,format,SIMPLE_NAME, line no: 62, 0.007377480750379647, insert, 1.0, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 63,String,SIMPLE_NAME, line no: 49, 0.007377480750379647, insert, 0.3333333333333333, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 69,format,SIMPLE_NAME, line no: 62, 0.007377480750379647, insert, 1.0, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 69,String,SIMPLE_NAME, line no: 49, 0.007377480750379647, insert, 0.3333333333333333, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 62,output,SIMPLE_NAME, line no: 49, 0.007300330624885481, insert, 0.3333333333333333, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 62,score,SIMPLE_NAME, line no: 61, 0.007300330624885481, insert, 0.9738562091503268, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 62,value,SIMPLE_NAME, line no: 7, 0.007300330624885481, insert, 0.0392156862745098, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 63,output,SIMPLE_NAME, line no: 49, 0.007300330624885481, insert, 0.3333333333333333, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 63,score,SIMPLE_NAME, line no: 61, 0.007300330624885481, insert, 0.9738562091503268, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 63,value,SIMPLE_NAME, line no: 7, 0.007300330624885481, insert, 0.0392156862745098, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 69,output,SIMPLE_NAME, line no: 49, 0.007300330624885481, insert, 0.3333333333333333, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 69,score,SIMPLE_NAME, line no: 61, 0.007300330624885481, insert, 0.9738562091503268, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 69,value,SIMPLE_NAME, line no: 7, 0.007300330624885481, insert, 0.0392156862745098, 0.0, 0.16666666666666666
+score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70,output+=(String.format("Student has an C grade\n")); ,EXPRESSION_STATEMENT, line no: 76, 0.007223657939261453, insert, 0.0738255033557047, 0.0, 0.2641509433962264
+scanner,SIMPLE_NAME, line no: 64,String,SIMPLE_NAME, line no: 49, 0.0071666955860830855, insert, 0.3355263157894737, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 64,format,SIMPLE_NAME, line no: 62, 0.0071666955860830855, insert, 1.0, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 65,String,SIMPLE_NAME, line no: 49, 0.0071666955860830855, insert, 0.3355263157894737, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 65,format,SIMPLE_NAME, line no: 62, 0.0071666955860830855, insert, 1.0, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 66,String,SIMPLE_NAME, line no: 49, 0.0071666955860830855, insert, 0.3355263157894737, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 66,format,SIMPLE_NAME, line no: 62, 0.0071666955860830855, insert, 1.0, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 67,String,SIMPLE_NAME, line no: 49, 0.0071666955860830855, insert, 0.3355263157894737, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 67,format,SIMPLE_NAME, line no: 62, 0.0071666955860830855, insert, 1.0, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 70,String,SIMPLE_NAME, line no: 49, 0.0071666955860830855, insert, 0.3355263157894737, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 70,format,SIMPLE_NAME, line no: 62, 0.0071666955860830855, insert, 1.0, 0.0, 0.14285714285714285
+String,SIMPLE_NAME, line no: 62,scanner,SIMPLE_NAME, line no: 51, 0.007128120523336003, insert, 0.10457516339869281, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 62,scanner,SIMPLE_NAME, line no: 51, 0.007128120523336003, insert, 0.10457516339869281, 0.0, 0.14285714285714285
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,nextDouble,SIMPLE_NAME, line no: 64, 0.007128120523336003, insert, 0.9934640522875817, 0.0, 0.14285714285714285
+String,SIMPLE_NAME, line no: 63,scanner,SIMPLE_NAME, line no: 51, 0.007128120523336003, insert, 0.10457516339869281, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 63,scanner,SIMPLE_NAME, line no: 51, 0.007128120523336003, insert, 0.10457516339869281, 0.0, 0.14285714285714285
+String,SIMPLE_NAME, line no: 69,scanner,SIMPLE_NAME, line no: 51, 0.007128120523336003, insert, 0.10457516339869281, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 69,scanner,SIMPLE_NAME, line no: 51, 0.007128120523336003, insert, 0.10457516339869281, 0.0, 0.14285714285714285
+output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.007124112301945826, insert, 0.10067114093959731, 0.0, 0.24193548387096775
+score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70,output+=(String.format("Student has an B grade\n")); ,EXPRESSION_STATEMENT, line no: 74, 0.007120518426658851, insert, 0.06711409395973154, 0.0, 0.2641509433962264
+output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.007028890810157815, insert, 0.087248322147651, 0.0, 0.24675324675324675
+score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70,output+=(String.format("Student has an A grade\n")); ,EXPRESSION_STATEMENT, line no: 72, 0.00701737891405625, insert, 0.06040268456375839, 0.0, 0.2641509433962264
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,String,SIMPLE_NAME, line no: 49, 0.006955910421786524, insert, 0.3333333333333333, 0.0, 0.11904761904761904
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,scanner,SIMPLE_NAME, line no: 51, 0.0069173353590394416, insert, 0.10457516339869281, 0.0, 0.11904761904761904
+nextDouble,SIMPLE_NAME, line no: 64,String,SIMPLE_NAME, line no: 49, 0.006787282290349275, insert, 0.3355263157894737, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 64,format,SIMPLE_NAME, line no: 62, 0.006787282290349275, insert, 1.0, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 65,String,SIMPLE_NAME, line no: 49, 0.006787282290349275, insert, 0.3355263157894737, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 65,format,SIMPLE_NAME, line no: 62, 0.006787282290349275, insert, 1.0, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 66,String,SIMPLE_NAME, line no: 49, 0.006787282290349275, insert, 0.3355263157894737, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 66,format,SIMPLE_NAME, line no: 62, 0.006787282290349275, insert, 1.0, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 67,String,SIMPLE_NAME, line no: 49, 0.006787282290349275, insert, 0.3355263157894737, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 67,format,SIMPLE_NAME, line no: 62, 0.006787282290349275, insert, 1.0, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 70,String,SIMPLE_NAME, line no: 49, 0.006787282290349275, insert, 0.3355263157894737, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 70,format,SIMPLE_NAME, line no: 62, 0.006787282290349275, insert, 1.0, 0.0, 0.1
+scanner,SIMPLE_NAME, line no: 64,DoubleObj,SIMPLE_NAME, line no: 60, 0.006769162162190448, insert, 0.9802631578947368, 0.0, 0.1111111111111111
+scanner,SIMPLE_NAME, line no: 65,DoubleObj,SIMPLE_NAME, line no: 60, 0.006769162162190448, insert, 0.9802631578947368, 0.0, 0.1111111111111111
+scanner,SIMPLE_NAME, line no: 66,DoubleObj,SIMPLE_NAME, line no: 60, 0.006769162162190448, insert, 0.9802631578947368, 0.0, 0.1111111111111111
+scanner,SIMPLE_NAME, line no: 67,DoubleObj,SIMPLE_NAME, line no: 60, 0.006769162162190448, insert, 0.9802631578947368, 0.0, 0.1111111111111111
+scanner,SIMPLE_NAME, line no: 70,DoubleObj,SIMPLE_NAME, line no: 60, 0.006769162162190448, insert, 0.9802631578947368, 0.0, 0.1111111111111111
+String,SIMPLE_NAME, line no: 62,nextDouble,SIMPLE_NAME, line no: 64, 0.006748707227602193, insert, 0.9934640522875817, 0.0, 0.1
+format,SIMPLE_NAME, line no: 62,nextDouble,SIMPLE_NAME, line no: 64, 0.006748707227602193, insert, 0.9934640522875817, 0.0, 0.1
+String,SIMPLE_NAME, line no: 63,nextDouble,SIMPLE_NAME, line no: 64, 0.006748707227602193, insert, 0.9934640522875817, 0.0, 0.1
+format,SIMPLE_NAME, line no: 63,nextDouble,SIMPLE_NAME, line no: 64, 0.006748707227602193, insert, 0.9934640522875817, 0.0, 0.1
+String,SIMPLE_NAME, line no: 69,nextDouble,SIMPLE_NAME, line no: 64, 0.006748707227602193, insert, 0.9934640522875817, 0.0, 0.1
+format,SIMPLE_NAME, line no: 69,nextDouble,SIMPLE_NAME, line no: 64, 0.006748707227602193, insert, 0.9934640522875817, 0.0, 0.1
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,scanner,SIMPLE_NAME, line no: 51, 0.006748707227602193, insert, 0.10457516339869281, 0.0, 0.1
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,nextDouble,SIMPLE_NAME, line no: 64, 0.006748707227602193, insert, 0.9934640522875817, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 64,D,SIMPLE_NAME, line no: 61, 0.006748453444294646, insert, 0.9802631578947368, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 65,D,SIMPLE_NAME, line no: 61, 0.006748453444294646, insert, 0.9802631578947368, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 66,D,SIMPLE_NAME, line no: 61, 0.006748453444294646, insert, 0.9802631578947368, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 67,D,SIMPLE_NAME, line no: 61, 0.006748453444294646, insert, 0.9802631578947368, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 70,D,SIMPLE_NAME, line no: 61, 0.006748453444294646, insert, 0.9802631578947368, 0.0, 0.1
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,format,SIMPLE_NAME, line no: 62, 0.006745125257489964, insert, 1.0, 0.0, 0.09523809523809523
+format,SIMPLE_NAME, line no: 62,DoubleObj,SIMPLE_NAME, line no: 60, 0.006731348449366004, insert, 0.9738562091503268, 0.0, 0.1111111111111111
+format,SIMPLE_NAME, line no: 63,DoubleObj,SIMPLE_NAME, line no: 60, 0.006731348449366004, insert, 0.9738562091503268, 0.0, 0.1111111111111111
+format,SIMPLE_NAME, line no: 69,DoubleObj,SIMPLE_NAME, line no: 60, 0.006731348449366004, insert, 0.9738562091503268, 0.0, 0.1111111111111111
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,output,SIMPLE_NAME, line no: 49, 0.006710132164855109, insert, 0.3333333333333333, 0.0, 0.1
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,score,SIMPLE_NAME, line no: 61, 0.006710132164855109, insert, 0.9738562091503268, 0.0, 0.1
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,nextDouble,SIMPLE_NAME, line no: 64, 0.00670655019474288, insert, 0.9934640522875817, 0.0, 0.09523809523809523
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,String,SIMPLE_NAME, line no: 49, 0.006660811191771338, insert, 0.3333333333333333, 0.0, 0.08571428571428572
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,format,SIMPLE_NAME, line no: 62, 0.006660811191771338, insert, 1.0, 0.0, 0.08571428571428572
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,scanner,SIMPLE_NAME, line no: 51, 0.006622236129024256, insert, 0.10457516339869281, 0.0, 0.08571428571428572
+A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,output+=(String.format("Student has failed the course\n")); ,EXPRESSION_STATEMENT, line no: 78, 0.00661639973345689, insert, 0.08053691275167785, 0.0, 0.23333333333333334
+B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,output+=(String.format("Student has failed the course\n")); ,EXPRESSION_STATEMENT, line no: 78, 0.00661639973345689, insert, 0.08053691275167785, 0.0, 0.23333333333333334
+C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,output+=(String.format("Student has failed the course\n")); ,EXPRESSION_STATEMENT, line no: 78, 0.00661639973345689, insert, 0.08053691275167785, 0.0, 0.23333333333333334
+D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67,output+=(String.format("Student has failed the course\n")); ,EXPRESSION_STATEMENT, line no: 78, 0.00661639973345689, insert, 0.08053691275167785, 0.0, 0.23333333333333334
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,score,SIMPLE_NAME, line no: 61, 0.006583661066277173, insert, 0.9738562091503268, 0.0, 0.08571428571428572
+A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.00655967300152546, insert, 0.026845637583892617, 0.0, 0.26666666666666666
+B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.00655967300152546, insert, 0.026845637583892617, 0.0, 0.26666666666666666
+C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.00655967300152546, insert, 0.026845637583892617, 0.0, 0.26666666666666666
+D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.00655967300152546, insert, 0.026845637583892617, 0.0, 0.26666666666666666
+output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.006546031969213503, insert, 0.087248322147651, 0.0, 0.22580645161290322
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,output,SIMPLE_NAME, line no: 49, 0.006457189967699236, insert, 0.3333333333333333, 0.0, 0.07142857142857142
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,score,SIMPLE_NAME, line no: 61, 0.006457189967699236, insert, 0.9738562091503268, 0.0, 0.07142857142857142
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,String,SIMPLE_NAME, line no: 49, 0.0064331632143310525, insert, 0.3333333333333333, 0.0, 0.06
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,format,SIMPLE_NAME, line no: 62, 0.0064331632143310525, insert, 1.0, 0.0, 0.06
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,value,SIMPLE_NAME, line no: 7, 0.006356013088836886, insert, 0.0392156862745098, 0.0, 0.06
+A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,output+=(String.format("Student has an C grade\n")); ,EXPRESSION_STATEMENT, line no: 76, 0.006353783182028191, insert, 0.0738255033557047, 0.0, 0.22641509433962265
+B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,output+=(String.format("Student has an C grade\n")); ,EXPRESSION_STATEMENT, line no: 76, 0.006353783182028191, insert, 0.0738255033557047, 0.0, 0.22641509433962265
+C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,output+=(String.format("Student has an C grade\n")); ,EXPRESSION_STATEMENT, line no: 76, 0.006353783182028191, insert, 0.0738255033557047, 0.0, 0.22641509433962265
+D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67,output+=(String.format("Student has an C grade\n")); ,EXPRESSION_STATEMENT, line no: 76, 0.006353783182028191, insert, 0.0738255033557047, 0.0, 0.22641509433962265
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,output,SIMPLE_NAME, line no: 49, 0.006330718869121298, insert, 0.3333333333333333, 0.0, 0.05714285714285714
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,DoubleObj,SIMPLE_NAME, line no: 60, 0.0062788629633427195, insert, 0.9738562091503268, 0.0, 0.06
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,DoubleObj,SIMPLE_NAME, line no: 60, 0.006253568743627132, insert, 0.9738562091503268, 0.0, 0.05714285714285714
+A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,output+=(String.format("Student has an B grade\n")); ,EXPRESSION_STATEMENT, line no: 74, 0.006250643669425589, insert, 0.06711409395973154, 0.0, 0.22641509433962265
+B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,output+=(String.format("Student has an B grade\n")); ,EXPRESSION_STATEMENT, line no: 74, 0.006250643669425589, insert, 0.06711409395973154, 0.0, 0.22641509433962265
+C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,output+=(String.format("Student has an B grade\n")); ,EXPRESSION_STATEMENT, line no: 74, 0.006250643669425589, insert, 0.06711409395973154, 0.0, 0.22641509433962265
+D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67,output+=(String.format("Student has an B grade\n")); ,EXPRESSION_STATEMENT, line no: 74, 0.006250643669425589, insert, 0.06711409395973154, 0.0, 0.22641509433962265
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,value,SIMPLE_NAME, line no: 7, 0.006246404803402675, insert, 0.0392156862745098, 0.0, 0.047619047619047616
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,DoubleObj,SIMPLE_NAME, line no: 60, 0.006169254677908508, insert, 0.9738562091503268, 0.0, 0.047619047619047616
+A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,output+=(String.format("Student has an A grade\n")); ,EXPRESSION_STATEMENT, line no: 72, 0.0061475041568229884, insert, 0.06040268456375839, 0.0, 0.22641509433962265
+B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,output+=(String.format("Student has an A grade\n")); ,EXPRESSION_STATEMENT, line no: 72, 0.0061475041568229884, insert, 0.06040268456375839, 0.0, 0.22641509433962265
+C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,output+=(String.format("Student has an A grade\n")); ,EXPRESSION_STATEMENT, line no: 72, 0.0061475041568229884, insert, 0.06040268456375839, 0.0, 0.22641509433962265
+D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67,output+=(String.format("Student has an A grade\n")); ,EXPRESSION_STATEMENT, line no: 72, 0.0061475041568229884, insert, 0.06040268456375839, 0.0, 0.22641509433962265
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,value,SIMPLE_NAME, line no: 7, 0.006077776671965425, insert, 0.0392156862745098, 0.0, 0.02857142857142857
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,A,SIMPLE_NAME, line no: 60, 0.006077776671965425, insert, 0.9738562091503268, 0.0, 0.02857142857142857
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,B,SIMPLE_NAME, line no: 60, 0.006077776671965425, insert, 0.9738562091503268, 0.0, 0.02857142857142857
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,C,SIMPLE_NAME, line no: 60, 0.006077776671965425, insert, 0.9738562091503268, 0.0, 0.02857142857142857
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,D,SIMPLE_NAME, line no: 61, 0.006077776671965425, insert, 0.9738562091503268, 0.0, 0.02857142857142857
+String,SIMPLE_NAME, line no: 62,println,SIMPLE_NAME, line no: 56, 0.00583861128293351, insert, 0.3464052287581699, 0.0, 0.42857142857142855
+String,SIMPLE_NAME, line no: 63,println,SIMPLE_NAME, line no: 56, 0.00583861128293351, insert, 0.3464052287581699, 0.0, 0.42857142857142855
+String,SIMPLE_NAME, line no: 69,println,SIMPLE_NAME, line no: 56, 0.00583861128293351, insert, 0.3464052287581699, 0.0, 0.42857142857142855
+score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.00583648300727663, insert, 0.026845637583892617, 0.0, 0.23529411764705882
+String,SIMPLE_NAME, line no: 62,args,SIMPLE_NAME, line no: 50, 0.0050340456884943475, insert, 0.35294117647058826, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 62,length,SIMPLE_NAME, line no: 50, 0.0050340456884943475, insert, 0.35294117647058826, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 62,System,SIMPLE_NAME, line no: 53, 0.0050340456884943475, insert, 0.12418300653594772, 0.0, 0.3333333333333333
+format,SIMPLE_NAME, line no: 62,out,SIMPLE_NAME, line no: 56, 0.0050340456884943475, insert, 0.35294117647058826, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 63,args,SIMPLE_NAME, line no: 50, 0.0050340456884943475, insert, 0.35294117647058826, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 63,length,SIMPLE_NAME, line no: 50, 0.0050340456884943475, insert, 0.35294117647058826, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 63,System,SIMPLE_NAME, line no: 53, 0.0050340456884943475, insert, 0.12418300653594772, 0.0, 0.3333333333333333
+format,SIMPLE_NAME, line no: 63,out,SIMPLE_NAME, line no: 56, 0.0050340456884943475, insert, 0.35294117647058826, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 69,args,SIMPLE_NAME, line no: 50, 0.0050340456884943475, insert, 0.35294117647058826, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 69,length,SIMPLE_NAME, line no: 50, 0.0050340456884943475, insert, 0.35294117647058826, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 69,System,SIMPLE_NAME, line no: 53, 0.0050340456884943475, insert, 0.12418300653594772, 0.0, 0.3333333333333333
+format,SIMPLE_NAME, line no: 69,out,SIMPLE_NAME, line no: 56, 0.0050340456884943475, insert, 0.35294117647058826, 0.0, 0.3333333333333333
+nextDouble,SIMPLE_NAME, line no: 64,exec,SIMPLE_NAME, line no: 55, 0.0047138219110320475, insert, 0.34868421052631576, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 64,println,SIMPLE_NAME, line no: 56, 0.0047138219110320475, insert, 0.34868421052631576, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 65,exec,SIMPLE_NAME, line no: 55, 0.0047138219110320475, insert, 0.34868421052631576, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 65,println,SIMPLE_NAME, line no: 56, 0.0047138219110320475, insert, 0.34868421052631576, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 66,exec,SIMPLE_NAME, line no: 55, 0.0047138219110320475, insert, 0.34868421052631576, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 66,println,SIMPLE_NAME, line no: 56, 0.0047138219110320475, insert, 0.34868421052631576, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 67,exec,SIMPLE_NAME, line no: 55, 0.0047138219110320475, insert, 0.34868421052631576, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 67,println,SIMPLE_NAME, line no: 56, 0.0047138219110320475, insert, 0.34868421052631576, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 70,exec,SIMPLE_NAME, line no: 55, 0.0047138219110320475, insert, 0.34868421052631576, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 70,println,SIMPLE_NAME, line no: 56, 0.0047138219110320475, insert, 0.34868421052631576, 0.0, 0.3
+scanner,SIMPLE_NAME, line no: 64,args,SIMPLE_NAME, line no: 50, 0.00462617965850874, insert, 0.35526315789473684, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 64,System,SIMPLE_NAME, line no: 53, 0.00462617965850874, insert, 0.125, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 65,args,SIMPLE_NAME, line no: 50, 0.00462617965850874, insert, 0.35526315789473684, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 65,System,SIMPLE_NAME, line no: 53, 0.00462617965850874, insert, 0.125, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 66,args,SIMPLE_NAME, line no: 50, 0.00462617965850874, insert, 0.35526315789473684, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 66,System,SIMPLE_NAME, line no: 53, 0.00462617965850874, insert, 0.125, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 67,args,SIMPLE_NAME, line no: 50, 0.00462617965850874, insert, 0.35526315789473684, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 67,System,SIMPLE_NAME, line no: 53, 0.00462617965850874, insert, 0.125, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 70,args,SIMPLE_NAME, line no: 50, 0.00462617965850874, insert, 0.35526315789473684, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 70,System,SIMPLE_NAME, line no: 53, 0.00462617965850874, insert, 0.125, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 64,println,SIMPLE_NAME, line no: 56, 0.0045873508124541105, insert, 0.34868421052631576, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 65,println,SIMPLE_NAME, line no: 56, 0.0045873508124541105, insert, 0.34868421052631576, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 66,println,SIMPLE_NAME, line no: 56, 0.0045873508124541105, insert, 0.34868421052631576, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 67,println,SIMPLE_NAME, line no: 56, 0.0045873508124541105, insert, 0.34868421052631576, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 70,println,SIMPLE_NAME, line no: 56, 0.0045873508124541105, insert, 0.34868421052631576, 0.0, 0.2857142857142857
+format,SIMPLE_NAME, line no: 62,println,SIMPLE_NAME, line no: 56, 0.004573900297154141, insert, 0.3464052287581699, 0.0, 0.2857142857142857
+format,SIMPLE_NAME, line no: 63,println,SIMPLE_NAME, line no: 56, 0.004573900297154141, insert, 0.3464052287581699, 0.0, 0.2857142857142857
+format,SIMPLE_NAME, line no: 69,println,SIMPLE_NAME, line no: 56, 0.004573900297154141, insert, 0.3464052287581699, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 64,mainClass,SIMPLE_NAME, line no: 48, 0.0040640858870512435, insert, 0.3355263157894737, 0.0, 0.2222222222222222
+scanner,SIMPLE_NAME, line no: 65,mainClass,SIMPLE_NAME, line no: 48, 0.0040640858870512435, insert, 0.3355263157894737, 0.0, 0.2222222222222222
+scanner,SIMPLE_NAME, line no: 66,mainClass,SIMPLE_NAME, line no: 48, 0.0040640858870512435, insert, 0.3355263157894737, 0.0, 0.2222222222222222
+scanner,SIMPLE_NAME, line no: 67,mainClass,SIMPLE_NAME, line no: 48, 0.0040640858870512435, insert, 0.3355263157894737, 0.0, 0.2222222222222222
+scanner,SIMPLE_NAME, line no: 70,mainClass,SIMPLE_NAME, line no: 48, 0.0040640858870512435, insert, 0.3355263157894737, 0.0, 0.2222222222222222
+String,SIMPLE_NAME, line no: 62,mainClass,SIMPLE_NAME, line no: 48, 0.004050381588443728, insert, 0.3333333333333333, 0.0, 0.2222222222222222
+format,SIMPLE_NAME, line no: 62,mainClass,SIMPLE_NAME, line no: 48, 0.004050381588443728, insert, 0.3333333333333333, 0.0, 0.2222222222222222
+String,SIMPLE_NAME, line no: 63,mainClass,SIMPLE_NAME, line no: 48, 0.004050381588443728, insert, 0.3333333333333333, 0.0, 0.2222222222222222
+format,SIMPLE_NAME, line no: 63,mainClass,SIMPLE_NAME, line no: 48, 0.004050381588443728, insert, 0.3333333333333333, 0.0, 0.2222222222222222
+String,SIMPLE_NAME, line no: 69,mainClass,SIMPLE_NAME, line no: 48, 0.004050381588443728, insert, 0.3333333333333333, 0.0, 0.2222222222222222
+format,SIMPLE_NAME, line no: 69,mainClass,SIMPLE_NAME, line no: 48, 0.004050381588443728, insert, 0.3333333333333333, 0.0, 0.2222222222222222
+nextDouble,SIMPLE_NAME, line no: 64,mainClass,SIMPLE_NAME, line no: 48, 0.00386735306704112, insert, 0.3355263157894737, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 64,length,SIMPLE_NAME, line no: 50, 0.00386735306704112, insert, 0.35526315789473684, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 64,System,SIMPLE_NAME, line no: 53, 0.00386735306704112, insert, 0.125, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 64,out,SIMPLE_NAME, line no: 56, 0.00386735306704112, insert, 0.35526315789473684, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,mainClass,SIMPLE_NAME, line no: 48, 0.00386735306704112, insert, 0.3355263157894737, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,length,SIMPLE_NAME, line no: 50, 0.00386735306704112, insert, 0.35526315789473684, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,System,SIMPLE_NAME, line no: 53, 0.00386735306704112, insert, 0.125, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,out,SIMPLE_NAME, line no: 56, 0.00386735306704112, insert, 0.35526315789473684, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,mainClass,SIMPLE_NAME, line no: 48, 0.00386735306704112, insert, 0.3355263157894737, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,length,SIMPLE_NAME, line no: 50, 0.00386735306704112, insert, 0.35526315789473684, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,System,SIMPLE_NAME, line no: 53, 0.00386735306704112, insert, 0.125, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,out,SIMPLE_NAME, line no: 56, 0.00386735306704112, insert, 0.35526315789473684, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 67,mainClass,SIMPLE_NAME, line no: 48, 0.00386735306704112, insert, 0.3355263157894737, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 67,length,SIMPLE_NAME, line no: 50, 0.00386735306704112, insert, 0.35526315789473684, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 67,System,SIMPLE_NAME, line no: 53, 0.00386735306704112, insert, 0.125, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 67,out,SIMPLE_NAME, line no: 56, 0.00386735306704112, insert, 0.35526315789473684, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 70,mainClass,SIMPLE_NAME, line no: 48, 0.00386735306704112, insert, 0.3355263157894737, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 70,length,SIMPLE_NAME, line no: 50, 0.00386735306704112, insert, 0.35526315789473684, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 70,System,SIMPLE_NAME, line no: 53, 0.00386735306704112, insert, 0.125, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 70,out,SIMPLE_NAME, line no: 56, 0.00386735306704112, insert, 0.35526315789473684, 0.0, 0.2
+String,SIMPLE_NAME, line no: 62,util,SIMPLE_NAME, line no: 44, 0.003722493555093521, insert, 0.013071895424836602, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 63,util,SIMPLE_NAME, line no: 44, 0.003722493555093521, insert, 0.013071895424836602, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 69,util,SIMPLE_NAME, line no: 44, 0.003722493555093521, insert, 0.013071895424836602, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 62,in,SIMPLE_NAME, line no: 53, 0.003683918492346438, insert, 0.12418300653594772, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 63,in,SIMPLE_NAME, line no: 53, 0.003683918492346438, insert, 0.12418300653594772, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 69,in,SIMPLE_NAME, line no: 53, 0.003683918492346438, insert, 0.12418300653594772, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 62,out,SIMPLE_NAME, line no: 56, 0.003558549538418418, insert, 0.35294117647058826, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 62,args,SIMPLE_NAME, line no: 50, 0.003558549538418418, insert, 0.35294117647058826, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 62,length,SIMPLE_NAME, line no: 50, 0.003558549538418418, insert, 0.35294117647058826, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 62,System,SIMPLE_NAME, line no: 53, 0.003558549538418418, insert, 0.12418300653594772, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 63,out,SIMPLE_NAME, line no: 56, 0.003558549538418418, insert, 0.35294117647058826, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 63,args,SIMPLE_NAME, line no: 50, 0.003558549538418418, insert, 0.35294117647058826, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 63,length,SIMPLE_NAME, line no: 50, 0.003558549538418418, insert, 0.35294117647058826, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 63,System,SIMPLE_NAME, line no: 53, 0.003558549538418418, insert, 0.12418300653594772, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 69,out,SIMPLE_NAME, line no: 56, 0.003558549538418418, insert, 0.35294117647058826, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 69,args,SIMPLE_NAME, line no: 50, 0.003558549538418418, insert, 0.35294117647058826, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 69,length,SIMPLE_NAME, line no: 50, 0.003558549538418418, insert, 0.35294117647058826, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 69,System,SIMPLE_NAME, line no: 53, 0.003558549538418418, insert, 0.12418300653594772, 0.0, 0.16666666666666666
+scanner,SIMPLE_NAME, line no: 64,length,SIMPLE_NAME, line no: 50, 0.0033614686727293725, insert, 0.35526315789473684, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 65,length,SIMPLE_NAME, line no: 50, 0.0033614686727293725, insert, 0.35526315789473684, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 66,length,SIMPLE_NAME, line no: 50, 0.0033614686727293725, insert, 0.35526315789473684, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 67,length,SIMPLE_NAME, line no: 50, 0.0033614686727293725, insert, 0.35526315789473684, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 70,length,SIMPLE_NAME, line no: 50, 0.0033614686727293725, insert, 0.35526315789473684, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 64,exec,SIMPLE_NAME, line no: 55, 0.0033226398266747426, insert, 0.34868421052631576, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 65,exec,SIMPLE_NAME, line no: 55, 0.0033226398266747426, insert, 0.34868421052631576, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 66,exec,SIMPLE_NAME, line no: 55, 0.0033226398266747426, insert, 0.34868421052631576, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 67,exec,SIMPLE_NAME, line no: 55, 0.0033226398266747426, insert, 0.34868421052631576, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 70,exec,SIMPLE_NAME, line no: 55, 0.0033226398266747426, insert, 0.34868421052631576, 0.0, 0.14285714285714285
+String,SIMPLE_NAME, line no: 62,Scanner,SIMPLE_NAME, line no: 44, 0.003262348163753315, insert, 0.006535947712418301, 0.0, 0.2857142857142857
+String,SIMPLE_NAME, line no: 63,Scanner,SIMPLE_NAME, line no: 44, 0.003262348163753315, insert, 0.006535947712418301, 0.0, 0.2857142857142857
+String,SIMPLE_NAME, line no: 69,Scanner,SIMPLE_NAME, line no: 44, 0.003262348163753315, insert, 0.006535947712418301, 0.0, 0.2857142857142857
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,mainClass,SIMPLE_NAME, line no: 48, 0.0031369792098252954, insert, 0.3333333333333333, 0.0, 0.11904761904761904
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,grade_3cf6d33a_010,SIMPLE_NAME, line no: 48, 0.0030598290843311293, insert, 0.3333333333333333, 0.0, 0.11904761904761904
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,println,SIMPLE_NAME, line no: 56, 0.0030562471142188997, insert, 0.3464052287581699, 0.0, 0.11428571428571428
+scanner,SIMPLE_NAME, line no: 64,grade_3cf6d33a_010,SIMPLE_NAME, line no: 48, 0.0030027640948913654, insert, 0.3355263157894737, 0.0, 0.1111111111111111
+scanner,SIMPLE_NAME, line no: 65,grade_3cf6d33a_010,SIMPLE_NAME, line no: 48, 0.0030027640948913654, insert, 0.3355263157894737, 0.0, 0.1111111111111111
+scanner,SIMPLE_NAME, line no: 66,grade_3cf6d33a_010,SIMPLE_NAME, line no: 48, 0.0030027640948913654, insert, 0.3355263157894737, 0.0, 0.1111111111111111
+scanner,SIMPLE_NAME, line no: 67,grade_3cf6d33a_010,SIMPLE_NAME, line no: 48, 0.0030027640948913654, insert, 0.3355263157894737, 0.0, 0.1111111111111111
+scanner,SIMPLE_NAME, line no: 70,grade_3cf6d33a_010,SIMPLE_NAME, line no: 48, 0.0030027640948913654, insert, 0.3355263157894737, 0.0, 0.1111111111111111
+format,SIMPLE_NAME, line no: 62,grade_3cf6d33a_010,SIMPLE_NAME, line no: 48, 0.002989567362898942, insert, 0.3333333333333333, 0.0, 0.1111111111111111
+format,SIMPLE_NAME, line no: 63,grade_3cf6d33a_010,SIMPLE_NAME, line no: 48, 0.002989567362898942, insert, 0.3333333333333333, 0.0, 0.1111111111111111
+format,SIMPLE_NAME, line no: 69,grade_3cf6d33a_010,SIMPLE_NAME, line no: 48, 0.002989567362898942, insert, 0.3333333333333333, 0.0, 0.1111111111111111
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,args,SIMPLE_NAME, line no: 50, 0.002926194045528734, insert, 0.35294117647058826, 0.0, 0.09523809523809523
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,length,SIMPLE_NAME, line no: 50, 0.002926194045528734, insert, 0.35294117647058826, 0.0, 0.09523809523809523
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,println,SIMPLE_NAME, line no: 56, 0.002887618982781651, insert, 0.3464052287581699, 0.0, 0.09523809523809523
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,mainClass,SIMPLE_NAME, line no: 48, 0.0028418799798101096, insert, 0.3333333333333333, 0.0, 0.08571428571428572
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,length,SIMPLE_NAME, line no: 50, 0.0028418799798101096, insert, 0.35294117647058826, 0.0, 0.08571428571428572
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,mainClass,SIMPLE_NAME, line no: 48, 0.002791291540378935, insert, 0.3333333333333333, 0.0, 0.08
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,System,SIMPLE_NAME, line no: 53, 0.002791291540378935, insert, 0.12418300653594772, 0.0, 0.08
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,grade_3cf6d33a_010,SIMPLE_NAME, line no: 48, 0.0027647298543159436, insert, 0.3333333333333333, 0.0, 0.08571428571428572
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,println,SIMPLE_NAME, line no: 56, 0.0027527164776318513, insert, 0.3464052287581699, 0.0, 0.08
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,System,SIMPLE_NAME, line no: 53, 0.0027154088812321726, insert, 0.12418300653594772, 0.0, 0.07142857142857142
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,grade_3cf6d33a_010,SIMPLE_NAME, line no: 48, 0.0027141414148847687, insert, 0.3333333333333333, 0.0, 0.08
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,exec,SIMPLE_NAME, line no: 55, 0.002676833818485089, insert, 0.3464052287581699, 0.0, 0.07142857142857142
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,args,SIMPLE_NAME, line no: 50, 0.0026142320023698237, insert, 0.35294117647058826, 0.0, 0.06
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,length,SIMPLE_NAME, line no: 50, 0.0026142320023698237, insert, 0.35294117647058826, 0.0, 0.06
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,out,SIMPLE_NAME, line no: 56, 0.0026142320023698237, insert, 0.35294117647058826, 0.0, 0.06
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,args,SIMPLE_NAME, line no: 50, 0.002588937782654236, insert, 0.35294117647058826, 0.0, 0.05714285714285714
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,System,SIMPLE_NAME, line no: 53, 0.002588937782654236, insert, 0.12418300653594772, 0.0, 0.05714285714285714
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,exec,SIMPLE_NAME, line no: 55, 0.0025756569396227402, insert, 0.3464052287581699, 0.0, 0.06
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,exec,SIMPLE_NAME, line no: 55, 0.0025503627199071526, insert, 0.3464052287581699, 0.0, 0.05714285714285714
+nextDouble,SIMPLE_NAME, line no: 64,util,SIMPLE_NAME, line no: 44, 0.0025471723011837094, insert, 0.013157894736842105, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,util,SIMPLE_NAME, line no: 44, 0.0025471723011837094, insert, 0.013157894736842105, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,util,SIMPLE_NAME, line no: 44, 0.0025471723011837094, insert, 0.013157894736842105, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 67,util,SIMPLE_NAME, line no: 44, 0.0025471723011837094, insert, 0.013157894736842105, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 70,util,SIMPLE_NAME, line no: 44, 0.0025471723011837094, insert, 0.013157894736842105, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 64,grade_3cf6d33a_010,SIMPLE_NAME, line no: 48, 0.0025109320448660553, insert, 0.3355263157894737, 0.0, 0.05555555555555555
+nextDouble,SIMPLE_NAME, line no: 65,grade_3cf6d33a_010,SIMPLE_NAME, line no: 48, 0.0025109320448660553, insert, 0.3355263157894737, 0.0, 0.05555555555555555
+nextDouble,SIMPLE_NAME, line no: 66,grade_3cf6d33a_010,SIMPLE_NAME, line no: 48, 0.0025109320448660553, insert, 0.3355263157894737, 0.0, 0.05555555555555555
+nextDouble,SIMPLE_NAME, line no: 67,grade_3cf6d33a_010,SIMPLE_NAME, line no: 48, 0.0025109320448660553, insert, 0.3355263157894737, 0.0, 0.05555555555555555
+nextDouble,SIMPLE_NAME, line no: 70,grade_3cf6d33a_010,SIMPLE_NAME, line no: 48, 0.0025109320448660553, insert, 0.3355263157894737, 0.0, 0.05555555555555555
+nextDouble,SIMPLE_NAME, line no: 64,Scanner,SIMPLE_NAME, line no: 44, 0.00250834345512908, insert, 0.006578947368421052, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,Scanner,SIMPLE_NAME, line no: 44, 0.00250834345512908, insert, 0.006578947368421052, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,Scanner,SIMPLE_NAME, line no: 44, 0.00250834345512908, insert, 0.006578947368421052, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 67,Scanner,SIMPLE_NAME, line no: 44, 0.00250834345512908, insert, 0.006578947368421052, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 70,Scanner,SIMPLE_NAME, line no: 44, 0.00250834345512908, insert, 0.006578947368421052, 0.0, 0.2
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,out,SIMPLE_NAME, line no: 56, 0.0025046237169356112, insert, 0.35294117647058826, 0.0, 0.047619047619047616
+String,SIMPLE_NAME, line no: 62,grade_3cf6d33a_010,SIMPLE_NAME, line no: 48, 0.0024977353128736324, insert, 0.3333333333333333, 0.0, 0.05555555555555555
+String,SIMPLE_NAME, line no: 63,grade_3cf6d33a_010,SIMPLE_NAME, line no: 48, 0.0024977353128736324, insert, 0.3333333333333333, 0.0, 0.05555555555555555
+String,SIMPLE_NAME, line no: 69,grade_3cf6d33a_010,SIMPLE_NAME, line no: 48, 0.0024977353128736324, insert, 0.3333333333333333, 0.0, 0.05555555555555555
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,out,SIMPLE_NAME, line no: 56, 0.002335995585498363, insert, 0.35294117647058826, 0.0, 0.02857142857142857
+output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.002271564588046007, insert, 0.026845637583892617, 0.0, 0.08064516129032258
+format,SIMPLE_NAME, line no: 62,java,SIMPLE_NAME, line no: 44, 0.002246997405017592, insert, 0.013071895424836602, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 62,util,SIMPLE_NAME, line no: 44, 0.002246997405017592, insert, 0.013071895424836602, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 63,java,SIMPLE_NAME, line no: 44, 0.002246997405017592, insert, 0.013071895424836602, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 63,util,SIMPLE_NAME, line no: 44, 0.002246997405017592, insert, 0.013071895424836602, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 69,java,SIMPLE_NAME, line no: 44, 0.002246997405017592, insert, 0.013071895424836602, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 69,util,SIMPLE_NAME, line no: 44, 0.002246997405017592, insert, 0.013071895424836602, 0.0, 0.16666666666666666
+scanner,SIMPLE_NAME, line no: 64,score.value,QUALIFIED_NAME, line no: 70, 0.0021762987416184053, insert, 0.993421052631579, 0.0, 0.36363636363636365
+scanner,SIMPLE_NAME, line no: 65,score.value,QUALIFIED_NAME, line no: 70, 0.0021762987416184053, insert, 0.993421052631579, 0.0, 0.36363636363636365
+scanner,SIMPLE_NAME, line no: 66,score.value,QUALIFIED_NAME, line no: 70, 0.0021762987416184053, insert, 0.993421052631579, 0.0, 0.36363636363636365
+scanner,SIMPLE_NAME, line no: 67,score.value,QUALIFIED_NAME, line no: 70, 0.0021762987416184053, insert, 0.993421052631579, 0.0, 0.36363636363636365
+scanner,SIMPLE_NAME, line no: 70,score.value,QUALIFIED_NAME, line no: 70, 0.0021762987416184053, insert, 0.993421052631579, 0.0, 0.36363636363636365
+output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.002082969721909062, insert, 0.026845637583892617, 0.0, 0.07246376811594203
+nextDouble,SIMPLE_NAME, line no: 64,D.value,QUALIFIED_NAME, line no: 67, 0.002041305628846428, insert, 0.993421052631579, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 65,D.value,QUALIFIED_NAME, line no: 67, 0.002041305628846428, insert, 0.993421052631579, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 66,D.value,QUALIFIED_NAME, line no: 67, 0.002041305628846428, insert, 0.993421052631579, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 67,D.value,QUALIFIED_NAME, line no: 67, 0.002041305628846428, insert, 0.993421052631579, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 70,D.value,QUALIFIED_NAME, line no: 67, 0.002041305628846428, insert, 0.993421052631579, 0.0, 0.3
+scanner,SIMPLE_NAME, line no: 64,java,SIMPLE_NAME, line no: 44, 0.002041287906871962, insert, 0.013157894736842105, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 65,java,SIMPLE_NAME, line no: 44, 0.002041287906871962, insert, 0.013157894736842105, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 66,java,SIMPLE_NAME, line no: 44, 0.002041287906871962, insert, 0.013157894736842105, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 67,java,SIMPLE_NAME, line no: 44, 0.002041287906871962, insert, 0.013157894736842105, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 70,java,SIMPLE_NAME, line no: 44, 0.002041287906871962, insert, 0.013157894736842105, 0.0, 0.14285714285714285
+output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68,if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 77, 0.0020118328419565647, insert, 1.0, 1.0, 0.46236559139784944
+scanner,SIMPLE_NAME, line no: 64,A.value,QUALIFIED_NAME, line no: 64, 0.0020110010525098616, insert, 0.993421052631579, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 64,B.value,QUALIFIED_NAME, line no: 65, 0.0020110010525098616, insert, 0.993421052631579, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 64,C.value,QUALIFIED_NAME, line no: 66, 0.0020110010525098616, insert, 0.993421052631579, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 64,D.value,QUALIFIED_NAME, line no: 67, 0.0020110010525098616, insert, 0.993421052631579, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 65,A.value,QUALIFIED_NAME, line no: 64, 0.0020110010525098616, insert, 0.993421052631579, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 65,B.value,QUALIFIED_NAME, line no: 65, 0.0020110010525098616, insert, 0.993421052631579, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 65,C.value,QUALIFIED_NAME, line no: 66, 0.0020110010525098616, insert, 0.993421052631579, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 65,D.value,QUALIFIED_NAME, line no: 67, 0.0020110010525098616, insert, 0.993421052631579, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 66,A.value,QUALIFIED_NAME, line no: 64, 0.0020110010525098616, insert, 0.993421052631579, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 66,B.value,QUALIFIED_NAME, line no: 65, 0.0020110010525098616, insert, 0.993421052631579, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 66,C.value,QUALIFIED_NAME, line no: 66, 0.0020110010525098616, insert, 0.993421052631579, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 66,D.value,QUALIFIED_NAME, line no: 67, 0.0020110010525098616, insert, 0.993421052631579, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 67,A.value,QUALIFIED_NAME, line no: 64, 0.0020110010525098616, insert, 0.993421052631579, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 67,B.value,QUALIFIED_NAME, line no: 65, 0.0020110010525098616, insert, 0.993421052631579, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 67,C.value,QUALIFIED_NAME, line no: 66, 0.0020110010525098616, insert, 0.993421052631579, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 67,D.value,QUALIFIED_NAME, line no: 67, 0.0020110010525098616, insert, 0.993421052631579, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 70,A.value,QUALIFIED_NAME, line no: 64, 0.0020110010525098616, insert, 0.993421052631579, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 70,B.value,QUALIFIED_NAME, line no: 65, 0.0020110010525098616, insert, 0.993421052631579, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 70,C.value,QUALIFIED_NAME, line no: 66, 0.0020110010525098616, insert, 0.993421052631579, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 70,D.value,QUALIFIED_NAME, line no: 67, 0.0020110010525098616, insert, 0.993421052631579, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 64,in,SIMPLE_NAME, line no: 53, 0.0020024590608173328, insert, 0.125, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 65,in,SIMPLE_NAME, line no: 53, 0.0020024590608173328, insert, 0.125, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 66,in,SIMPLE_NAME, line no: 53, 0.0020024590608173328, insert, 0.125, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 67,in,SIMPLE_NAME, line no: 53, 0.0020024590608173328, insert, 0.125, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 70,in,SIMPLE_NAME, line no: 53, 0.0020024590608173328, insert, 0.125, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 62,Scanner,SIMPLE_NAME, line no: 44, 0.0019976371779739472, insert, 0.006535947712418301, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 63,Scanner,SIMPLE_NAME, line no: 44, 0.0019976371779739472, insert, 0.006535947712418301, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 69,Scanner,SIMPLE_NAME, line no: 44, 0.0019976371779739472, insert, 0.006535947712418301, 0.0, 0.14285714285714285
+output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63,if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 77, 0.0019926725291760255, insert, 1.0, 1.0, 0.45161290322580644
+nextDouble,SIMPLE_NAME, line no: 64,score.value,QUALIFIED_NAME, line no: 70, 0.0019834514376584375, insert, 0.993421052631579, 0.0, 0.2727272727272727
+nextDouble,SIMPLE_NAME, line no: 65,score.value,QUALIFIED_NAME, line no: 70, 0.0019834514376584375, insert, 0.993421052631579, 0.0, 0.2727272727272727
+nextDouble,SIMPLE_NAME, line no: 66,score.value,QUALIFIED_NAME, line no: 70, 0.0019834514376584375, insert, 0.993421052631579, 0.0, 0.2727272727272727
+nextDouble,SIMPLE_NAME, line no: 67,score.value,QUALIFIED_NAME, line no: 70, 0.0019834514376584375, insert, 0.993421052631579, 0.0, 0.2727272727272727
+nextDouble,SIMPLE_NAME, line no: 70,score.value,QUALIFIED_NAME, line no: 70, 0.0019834514376584375, insert, 0.993421052631579, 0.0, 0.2727272727272727
+format,SIMPLE_NAME, line no: 62,score.value,QUALIFIED_NAME, line no: 70, 0.0019742690224572707, insert, 0.9869281045751634, 0.0, 0.2727272727272727
+format,SIMPLE_NAME, line no: 63,score.value,QUALIFIED_NAME, line no: 70, 0.0019742690224572707, insert, 0.9869281045751634, 0.0, 0.2727272727272727
+format,SIMPLE_NAME, line no: 69,score.value,QUALIFIED_NAME, line no: 70, 0.0019742690224572707, insert, 0.9869281045751634, 0.0, 0.2727272727272727
+output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62,if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 77, 0.001973512216395487, insert, 1.0, 1.0, 0.44086021505376344
+output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.001909420457337773, insert, 0.026845637583892617, 0.0, 0.06493506493506493
+nextDouble,SIMPLE_NAME, line no: 64,A.value,QUALIFIED_NAME, line no: 64, 0.0018291735944904637, insert, 0.993421052631579, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 64,B.value,QUALIFIED_NAME, line no: 65, 0.0018291735944904637, insert, 0.993421052631579, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 64,C.value,QUALIFIED_NAME, line no: 66, 0.0018291735944904637, insert, 0.993421052631579, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,A.value,QUALIFIED_NAME, line no: 64, 0.0018291735944904637, insert, 0.993421052631579, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,B.value,QUALIFIED_NAME, line no: 65, 0.0018291735944904637, insert, 0.993421052631579, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,C.value,QUALIFIED_NAME, line no: 66, 0.0018291735944904637, insert, 0.993421052631579, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,A.value,QUALIFIED_NAME, line no: 64, 0.0018291735944904637, insert, 0.993421052631579, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,B.value,QUALIFIED_NAME, line no: 65, 0.0018291735944904637, insert, 0.993421052631579, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,C.value,QUALIFIED_NAME, line no: 66, 0.0018291735944904637, insert, 0.993421052631579, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 67,A.value,QUALIFIED_NAME, line no: 64, 0.0018291735944904637, insert, 0.993421052631579, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 67,B.value,QUALIFIED_NAME, line no: 65, 0.0018291735944904637, insert, 0.993421052631579, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 67,C.value,QUALIFIED_NAME, line no: 66, 0.0018291735944904637, insert, 0.993421052631579, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 70,A.value,QUALIFIED_NAME, line no: 64, 0.0018291735944904637, insert, 0.993421052631579, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 70,B.value,QUALIFIED_NAME, line no: 65, 0.0018291735944904637, insert, 0.993421052631579, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 70,C.value,QUALIFIED_NAME, line no: 66, 0.0018291735944904637, insert, 0.993421052631579, 0.0, 0.2
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,Scanner,SIMPLE_NAME, line no: 44, 0.001786852013677386, insert, 0.006535947712418301, 0.0, 0.11904761904761904
+output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68,if (score.value >= C.value) {   output+=(String.format("Student has an C grade\n")); }  else if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 75, 0.0017148479938582143, insert, 1.0, 1.0, 0.2956989247311828
+String,SIMPLE_NAME, line no: 62,i,SIMPLE_NAME, line no: 7, 0.001706946526558428, insert, 0.0392156862745098, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 63,i,SIMPLE_NAME, line no: 7, 0.001706946526558428, insert, 0.0392156862745098, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 69,i,SIMPLE_NAME, line no: 7, 0.001706946526558428, insert, 0.0392156862745098, 0.0, 0.16666666666666666
+output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63,if (score.value >= C.value) {   output+=(String.format("Student has an C grade\n")); }  else if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 75, 0.0017052678374679451, insert, 1.0, 1.0, 0.2903225806451613
+format,SIMPLE_NAME, line no: 62,A.value,QUALIFIED_NAME, line no: 64, 0.0016987728739430315, insert, 0.9869281045751634, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 62,B.value,QUALIFIED_NAME, line no: 65, 0.0016987728739430315, insert, 0.9869281045751634, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 62,C.value,QUALIFIED_NAME, line no: 66, 0.0016987728739430315, insert, 0.9869281045751634, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 62,D.value,QUALIFIED_NAME, line no: 67, 0.0016987728739430315, insert, 0.9869281045751634, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 63,A.value,QUALIFIED_NAME, line no: 64, 0.0016987728739430315, insert, 0.9869281045751634, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 63,B.value,QUALIFIED_NAME, line no: 65, 0.0016987728739430315, insert, 0.9869281045751634, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 63,C.value,QUALIFIED_NAME, line no: 66, 0.0016987728739430315, insert, 0.9869281045751634, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 63,D.value,QUALIFIED_NAME, line no: 67, 0.0016987728739430315, insert, 0.9869281045751634, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 69,A.value,QUALIFIED_NAME, line no: 64, 0.0016987728739430315, insert, 0.9869281045751634, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 69,B.value,QUALIFIED_NAME, line no: 65, 0.0016987728739430315, insert, 0.9869281045751634, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 69,C.value,QUALIFIED_NAME, line no: 66, 0.0016987728739430315, insert, 0.9869281045751634, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 69,D.value,QUALIFIED_NAME, line no: 67, 0.0016987728739430315, insert, 0.9869281045751634, 0.0, 0.14285714285714285
+A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,if (true) return; ,IF_STATEMENT, line no: 80, 0.00166311514935076, insert, 1.0, 0.0, 0.26666666666666666
+B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,if (true) return; ,IF_STATEMENT, line no: 80, 0.00166311514935076, insert, 1.0, 0.0, 0.26666666666666666
+C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,if (true) return; ,IF_STATEMENT, line no: 80, 0.00166311514935076, insert, 1.0, 0.0, 0.26666666666666666
+D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67,if (true) return; ,IF_STATEMENT, line no: 80, 0.00166311514935076, insert, 1.0, 0.0, 0.26666666666666666
+score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70,if (true) return; ,IF_STATEMENT, line no: 80, 0.0016596212099613675, insert, 1.0, 0.0, 0.2647058823529412
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,score.value,QUALIFIED_NAME, line no: 70, 0.0016502855518045257, insert, 0.9869281045751634, 0.0, 0.12
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,score.value,QUALIFIED_NAME, line no: 70, 0.001648265246715421, insert, 0.9869281045751634, 0.0, 0.11904761904761904
+output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62,if (score.value >= C.value) {   output+=(String.format("Student has an C grade\n")); }  else if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 75, 0.0016477868991263288, insert, 1.0, 1.0, 0.25806451612903225
+score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70,if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 77, 0.0016477868991263288, insert, 1.0, 1.6, 0.25806451612903225
+nextDouble,SIMPLE_NAME, line no: 64,in,SIMPLE_NAME, line no: 53, 0.0016230457650835224, insert, 0.125, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 65,in,SIMPLE_NAME, line no: 53, 0.0016230457650835224, insert, 0.125, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 66,in,SIMPLE_NAME, line no: 53, 0.0016230457650835224, insert, 0.125, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 67,in,SIMPLE_NAME, line no: 53, 0.0016230457650835224, insert, 0.125, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 70,in,SIMPLE_NAME, line no: 53, 0.0016230457650835224, insert, 0.125, 0.0, 0.1
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,Scanner,SIMPLE_NAME, line no: 44, 0.0016182238822401369, insert, 0.006535947712418301, 0.0, 0.1
+String,SIMPLE_NAME, line no: 62,score.value,QUALIFIED_NAME, line no: 70, 0.001588574414537336, insert, 0.9869281045751634, 0.0, 0.09090909090909091
+String,SIMPLE_NAME, line no: 63,score.value,QUALIFIED_NAME, line no: 70, 0.001588574414537336, insert, 0.9869281045751634, 0.0, 0.09090909090909091
+String,SIMPLE_NAME, line no: 69,score.value,QUALIFIED_NAME, line no: 70, 0.001588574414537336, insert, 0.9869281045751634, 0.0, 0.09090909090909091
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,score.value,QUALIFIED_NAME, line no: 70, 0.0015775545685967664, insert, 0.9869281045751634, 0.0, 0.08571428571428572
+output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68,if (score.value >= B.value) {   output+=(String.format("Student has an B grade\n")); }  else if (score.value >= C.value) {   output+=(String.format("Student has an C grade\n")); }  else if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 73, 0.0015711456480041741, insert, 1.0, 1.0, 0.21505376344086022
+A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 77, 0.0015519853352236354, insert, 1.0, 0.6666666666666666, 0.20430107526881722
+B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 77, 0.0015519853352236354, insert, 1.0, 0.6666666666666666, 0.20430107526881722
+C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 77, 0.0015519853352236354, insert, 1.0, 0.6666666666666666, 0.20430107526881722
+D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67,if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 77, 0.0015519853352236354, insert, 1.0, 1.6, 0.20430107526881722
+output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63,if (score.value >= B.value) {   output+=(String.format("Student has an B grade\n")); }  else if (score.value >= C.value) {   output+=(String.format("Student has an C grade\n")); }  else if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 73, 0.0015455985642967892, insert, 1.0, 1.0, 0.2007168458781362
+output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62,if (true) return; ,IF_STATEMENT, line no: 80, 0.0015328250224430967, insert, 1.0, 0.0, 0.1935483870967742
+output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63,if (true) return; ,IF_STATEMENT, line no: 80, 0.0015236613945915347, insert, 1.0, 0.0, 0.18840579710144928
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,A.value,QUALIFIED_NAME, line no: 64, 0.001523006331190947, insert, 0.9869281045751634, 0.0, 0.06
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,B.value,QUALIFIED_NAME, line no: 65, 0.001523006331190947, insert, 0.9869281045751634, 0.0, 0.06
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,C.value,QUALIFIED_NAME, line no: 66, 0.001523006331190947, insert, 0.9869281045751634, 0.0, 0.06
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,D.value,QUALIFIED_NAME, line no: 67, 0.001523006331190947, insert, 0.9869281045751634, 0.0, 0.06
+output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62,if (score.value >= B.value) {   output+=(String.format("Student has an B grade\n")); }  else if (score.value >= C.value) {   output+=(String.format("Student has an C grade\n")); }  else if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 73, 0.0015136647096625582, insert, 1.0, 1.0, 0.1827956989247312
+output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68,if (true) return; ,IF_STATEMENT, line no: 80, 0.0015119228630461456, insert, 1.0, 0.0, 0.18181818181818182
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,A.value,QUALIFIED_NAME, line no: 64, 0.0014967423650325896, insert, 0.9869281045751634, 0.0, 0.047619047619047616
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,B.value,QUALIFIED_NAME, line no: 65, 0.0014967423650325896, insert, 0.9869281045751634, 0.0, 0.047619047619047616
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,C.value,QUALIFIED_NAME, line no: 66, 0.0014967423650325896, insert, 0.9869281045751634, 0.0, 0.047619047619047616
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,D.value,QUALIFIED_NAME, line no: 67, 0.0014967423650325896, insert, 0.9869281045751634, 0.0, 0.047619047619047616
+output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68,if (score.value >= A.value) {   output+=(String.format("Student has an A grade\n")); }  else if (score.value >= B.value) {   output+=(String.format("Student has an B grade\n")); }  else if (score.value >= C.value) {   output+=(String.format("Student has an C grade\n")); }  else if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 71, 0.0014945043968820195, insert, 1.0, 1.0, 0.17204301075268819
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,Scanner,SIMPLE_NAME, line no: 44, 0.0014917527836622, insert, 0.006535947712418301, 0.0, 0.08571428571428572
+output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63,if (score.value >= A.value) {   output+=(String.format("Student has an A grade\n")); }  else if (score.value >= B.value) {   output+=(String.format("Student has an B grade\n")); }  else if (score.value >= C.value) {   output+=(String.format("Student has an C grade\n")); }  else if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 71, 0.0014657639277112114, insert, 1.0, 1.0, 0.15591397849462366
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,A.value,QUALIFIED_NAME, line no: 64, 0.0014563362632505012, insert, 0.9869281045751634, 0.0, 0.02857142857142857
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,B.value,QUALIFIED_NAME, line no: 65, 0.0014563362632505012, insert, 0.9869281045751634, 0.0, 0.02857142857142857
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,C.value,QUALIFIED_NAME, line no: 66, 0.0014563362632505012, insert, 0.9869281045751634, 0.0, 0.02857142857142857
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,D.value,QUALIFIED_NAME, line no: 67, 0.0014563362632505012, insert, 0.9869281045751634, 0.0, 0.02857142857142857
+score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70,if (score.value >= C.value) {   output+=(String.format("Student has an C grade\n")); }  else if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 75, 0.0014561837713209418, insert, 1.0, 1.6666666666666665, 0.15053763440860216
+output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62,if (score.value >= A.value) {   output+=(String.format("Student has an A grade\n")); }  else if (score.value >= B.value) {   output+=(String.format("Student has an B grade\n")); }  else if (score.value >= C.value) {   output+=(String.format("Student has an C grade\n")); }  else if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 71, 0.0014418135367355379, insert, 1.0, 1.0, 0.1424731182795699
+C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,if (score.value >= C.value) {   output+=(String.format("Student has an C grade\n")); }  else if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 75, 0.0014178631457598644, insert, 1.0, 1.6666666666666665, 0.12903225806451613
+A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,if (score.value >= C.value) {   output+=(String.format("Student has an C grade\n")); }  else if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 75, 0.0014082829893695952, insert, 1.0, 0.7142857142857142, 0.12365591397849462
+B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,if (score.value >= C.value) {   output+=(String.format("Student has an C grade\n")); }  else if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 75, 0.0014082829893695952, insert, 1.0, 0.7142857142857142, 0.12365591397849462
+D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67,if (score.value >= C.value) {   output+=(String.format("Student has an C grade\n")); }  else if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 75, 0.0014082829893695952, insert, 1.0, 1.6666666666666665, 0.12365591397849462
+score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70,if (score.value >= B.value) {   output+=(String.format("Student has an B grade\n")); }  else if (score.value >= C.value) {   output+=(String.format("Student has an C grade\n")); }  else if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 73, 0.0013795425201987871, insert, 1.0, 1.7142857142857142, 0.10752688172043011
+B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,if (score.value >= B.value) {   output+=(String.format("Student has an B grade\n")); }  else if (score.value >= C.value) {   output+=(String.format("Student has an C grade\n")); }  else if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 73, 0.001353995436491402, insert, 1.0, 1.7142857142857142, 0.0931899641577061
+A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,if (score.value >= B.value) {   output+=(String.format("Student has an B grade\n")); }  else if (score.value >= C.value) {   output+=(String.format("Student has an C grade\n")); }  else if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 73, 0.0013476086655645559, insert, 1.0, 0.75, 0.08960573476702509
+C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,if (score.value >= B.value) {   output+=(String.format("Student has an B grade\n")); }  else if (score.value >= C.value) {   output+=(String.format("Student has an C grade\n")); }  else if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 73, 0.0013476086655645559, insert, 1.0, 1.7142857142857142, 0.08960573476702509
+D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67,if (score.value >= B.value) {   output+=(String.format("Student has an B grade\n")); }  else if (score.value >= C.value) {   output+=(String.format("Student has an C grade\n")); }  else if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 73, 0.0013476086655645559, insert, 1.0, 1.7142857142857142, 0.08960573476702509
+score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70,if (score.value >= A.value) {   output+=(String.format("Student has an A grade\n")); }  else if (score.value >= B.value) {   output+=(String.format("Student has an B grade\n")); }  else if (score.value >= C.value) {   output+=(String.format("Student has an C grade\n")); }  else if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 71, 0.001336431816442575, insert, 1.0, 1.75, 0.08333333333333333
+A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,if (score.value >= A.value) {   output+=(String.format("Student has an A grade\n")); }  else if (score.value >= B.value) {   output+=(String.format("Student has an B grade\n")); }  else if (score.value >= C.value) {   output+=(String.format("Student has an C grade\n")); }  else if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 71, 0.0013172715036620364, insert, 1.0, 1.75, 0.07258064516129033
+B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,if (score.value >= A.value) {   output+=(String.format("Student has an A grade\n")); }  else if (score.value >= B.value) {   output+=(String.format("Student has an B grade\n")); }  else if (score.value >= C.value) {   output+=(String.format("Student has an C grade\n")); }  else if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 71, 0.0013124814254669016, insert, 1.0, 1.75, 0.06989247311827956
+C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,if (score.value >= A.value) {   output+=(String.format("Student has an A grade\n")); }  else if (score.value >= B.value) {   output+=(String.format("Student has an B grade\n")); }  else if (score.value >= C.value) {   output+=(String.format("Student has an C grade\n")); }  else if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 71, 0.0013124814254669016, insert, 1.0, 1.75, 0.06989247311827956
+D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67,if (score.value >= A.value) {   output+=(String.format("Student has an A grade\n")); }  else if (score.value >= B.value) {   output+=(String.format("Student has an B grade\n")); }  else if (score.value >= C.value) {   output+=(String.format("Student has an C grade\n")); }  else if (score.value < D.value) {   output+=(String.format("Student has failed the course\n")); } ,IF_STATEMENT, line no: 71, 0.0013124814254669016, insert, 1.0, 1.75, 0.06989247311827956
+String,SIMPLE_NAME, line no: 62,true,BOOLEAN_LITERAL, line no: 80, 0.0013061910623800653, insert, 0.9738562091503268, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 63,true,BOOLEAN_LITERAL, line no: 80, 0.0013061910623800653, insert, 0.9738562091503268, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 69,true,BOOLEAN_LITERAL, line no: 80, 0.0013061910623800653, insert, 0.9738562091503268, 0.0, 0.3333333333333333
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,util,SIMPLE_NAME, line no: 44, 0.0012773856492534097, insert, 0.013071895424836602, 0.0, 0.05714285714285714
+nextDouble,SIMPLE_NAME, line no: 64,true,BOOLEAN_LITERAL, line no: 80, 0.0012675571348785798, insert, 0.9802631578947368, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 65,true,BOOLEAN_LITERAL, line no: 80, 0.0012675571348785798, insert, 0.9802631578947368, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 66,true,BOOLEAN_LITERAL, line no: 80, 0.0012675571348785798, insert, 0.9802631578947368, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 67,true,BOOLEAN_LITERAL, line no: 80, 0.0012675571348785798, insert, 0.9802631578947368, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 70,true,BOOLEAN_LITERAL, line no: 80, 0.0012675571348785798, insert, 0.9802631578947368, 0.0, 0.3
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,java,SIMPLE_NAME, line no: 44, 0.0011930715835347851, insert, 0.013071895424836602, 0.0, 0.047619047619047616
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,util,SIMPLE_NAME, line no: 44, 0.0011930715835347851, insert, 0.013071895424836602, 0.0, 0.047619047619047616
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,in,SIMPLE_NAME, line no: 53, 0.0011544965207877019, insert, 0.12418300653594772, 0.0, 0.047619047619047616
+nextDouble,SIMPLE_NAME, line no: 64,System.out,QUALIFIED_NAME, line no: 56, 0.001129510042579564, insert, 0.34868421052631576, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 65,System.out,QUALIFIED_NAME, line no: 56, 0.001129510042579564, insert, 0.34868421052631576, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 66,System.out,QUALIFIED_NAME, line no: 56, 0.001129510042579564, insert, 0.34868421052631576, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 67,System.out,QUALIFIED_NAME, line no: 56, 0.001129510042579564, insert, 0.34868421052631576, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 70,System.out,QUALIFIED_NAME, line no: 56, 0.001129510042579564, insert, 0.34868421052631576, 0.0, 0.3
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,util,SIMPLE_NAME, line no: 44, 0.0011256203309598855, insert, 0.013071895424836602, 0.0, 0.04
+String,SIMPLE_NAME, line no: 62,System.in,QUALIFIED_NAME, line no: 53, 0.001109187107743604, insert, 0.11764705882352941, 0.0, 0.4444444444444444
+String,SIMPLE_NAME, line no: 63,System.in,QUALIFIED_NAME, line no: 53, 0.001109187107743604, insert, 0.11764705882352941, 0.0, 0.4444444444444444
+String,SIMPLE_NAME, line no: 69,System.in,QUALIFIED_NAME, line no: 53, 0.001109187107743604, insert, 0.11764705882352941, 0.0, 0.4444444444444444
+format,SIMPLE_NAME, line no: 62,true,BOOLEAN_LITERAL, line no: 80, 0.0010846309376082804, insert, 0.9738562091503268, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 63,true,BOOLEAN_LITERAL, line no: 80, 0.0010846309376082804, insert, 0.9738562091503268, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 69,true,BOOLEAN_LITERAL, line no: 80, 0.0010846309376082804, insert, 0.9738562091503268, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 62,args.length,QUALIFIED_NAME, line no: 50, 0.001068432884466661, insert, 0.3464052287581699, 0.0, 0.2727272727272727
+String,SIMPLE_NAME, line no: 63,args.length,QUALIFIED_NAME, line no: 50, 0.001068432884466661, insert, 0.3464052287581699, 0.0, 0.2727272727272727
+String,SIMPLE_NAME, line no: 69,args.length,QUALIFIED_NAME, line no: 50, 0.001068432884466661, insert, 0.3464052287581699, 0.0, 0.2727272727272727
+scanner,SIMPLE_NAME, line no: 64,true,BOOLEAN_LITERAL, line no: 80, 0.0010586575886651827, insert, 0.9802631578947368, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 65,true,BOOLEAN_LITERAL, line no: 80, 0.0010586575886651827, insert, 0.9802631578947368, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 66,true,BOOLEAN_LITERAL, line no: 80, 0.0010586575886651827, insert, 0.9802631578947368, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 67,true,BOOLEAN_LITERAL, line no: 80, 0.0010586575886651827, insert, 0.9802631578947368, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 70,true,BOOLEAN_LITERAL, line no: 80, 0.0010586575886651827, insert, 0.9802631578947368, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 64,mainClass.scanner,QUALIFIED_NAME, line no: 51, 0.0010316534694556052, insert, 0.09868421052631579, 1.0, 0.4117647058823529
+scanner,SIMPLE_NAME, line no: 65,mainClass.scanner,QUALIFIED_NAME, line no: 51, 0.0010316534694556052, insert, 0.09868421052631579, 1.0, 0.4117647058823529
+scanner,SIMPLE_NAME, line no: 66,mainClass.scanner,QUALIFIED_NAME, line no: 51, 0.0010316534694556052, insert, 0.09868421052631579, 1.0, 0.4117647058823529
+scanner,SIMPLE_NAME, line no: 67,mainClass.scanner,QUALIFIED_NAME, line no: 51, 0.0010316534694556052, insert, 0.09868421052631579, 1.0, 0.4117647058823529
+scanner,SIMPLE_NAME, line no: 70,mainClass.scanner,QUALIFIED_NAME, line no: 51, 0.0010316534694556052, insert, 0.09868421052631579, 1.0, 0.4117647058823529
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,in,SIMPLE_NAME, line no: 53, 9.85868389350453E-4, insert, 0.12418300653594772, 0.0, 0.02857142857142857
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,true,BOOLEAN_LITERAL, line no: 80, 9.77016019861985E-4, insert, 0.9738562091503268, 0.0, 0.08571428571428572
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,true,BOOLEAN_LITERAL, line no: 80, 9.694196727269522E-4, insert, 0.9738562091503268, 0.0, 0.08
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,true,BOOLEAN_LITERAL, line no: 80, 9.580251520244033E-4, insert, 0.9738562091503268, 0.0, 0.07142857142857142
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,java,SIMPLE_NAME, line no: 44, 9.48560792950774E-4, insert, 0.013071895424836602, 0.0, 0.02
+scanner,SIMPLE_NAME, line no: 64,System.out,QUALIFIED_NAME, line no: 56, 9.173780082235998E-4, insert, 0.34868421052631576, 0.0, 0.2
+scanner,SIMPLE_NAME, line no: 65,System.out,QUALIFIED_NAME, line no: 56, 9.173780082235998E-4, insert, 0.34868421052631576, 0.0, 0.2
+scanner,SIMPLE_NAME, line no: 66,System.out,QUALIFIED_NAME, line no: 56, 9.173780082235998E-4, insert, 0.34868421052631576, 0.0, 0.2
+scanner,SIMPLE_NAME, line no: 67,System.out,QUALIFIED_NAME, line no: 56, 9.173780082235998E-4, insert, 0.34868421052631576, 0.0, 0.2
+scanner,SIMPLE_NAME, line no: 70,System.out,QUALIFIED_NAME, line no: 56, 9.173780082235998E-4, insert, 0.34868421052631576, 0.0, 0.2
+scanner,SIMPLE_NAME, line no: 64,java.util.Scanner,QUALIFIED_NAME, line no: 51, 9.161739564290097E-4, insert, 0.10526315789473684, 0.0, 0.35294117647058826
+scanner,SIMPLE_NAME, line no: 65,java.util.Scanner,QUALIFIED_NAME, line no: 51, 9.161739564290097E-4, insert, 0.10526315789473684, 0.0, 0.35294117647058826
+scanner,SIMPLE_NAME, line no: 66,java.util.Scanner,QUALIFIED_NAME, line no: 51, 9.161739564290097E-4, insert, 0.10526315789473684, 0.0, 0.35294117647058826
+scanner,SIMPLE_NAME, line no: 67,java.util.Scanner,QUALIFIED_NAME, line no: 51, 9.161739564290097E-4, insert, 0.10526315789473684, 0.0, 0.35294117647058826
+scanner,SIMPLE_NAME, line no: 70,java.util.Scanner,QUALIFIED_NAME, line no: 51, 9.161739564290097E-4, insert, 0.10526315789473684, 0.0, 0.35294117647058826
+String,SIMPLE_NAME, line no: 62,System.out,QUALIFIED_NAME, line no: 56, 9.14155041298687E-4, insert, 0.3464052287581699, 0.0, 0.2
+format,SIMPLE_NAME, line no: 62,System.out,QUALIFIED_NAME, line no: 56, 9.14155041298687E-4, insert, 0.3464052287581699, 0.0, 0.2
+String,SIMPLE_NAME, line no: 63,System.out,QUALIFIED_NAME, line no: 56, 9.14155041298687E-4, insert, 0.3464052287581699, 0.0, 0.2
+format,SIMPLE_NAME, line no: 63,System.out,QUALIFIED_NAME, line no: 56, 9.14155041298687E-4, insert, 0.3464052287581699, 0.0, 0.2
+String,SIMPLE_NAME, line no: 69,System.out,QUALIFIED_NAME, line no: 56, 9.14155041298687E-4, insert, 0.3464052287581699, 0.0, 0.2
+format,SIMPLE_NAME, line no: 69,System.out,QUALIFIED_NAME, line no: 56, 9.14155041298687E-4, insert, 0.3464052287581699, 0.0, 0.2
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,in,SIMPLE_NAME, line no: 53, 9.099857302036908E-4, insert, 0.12418300653594772, 0.0, 0.02
+nextDouble,SIMPLE_NAME, line no: 64,mainClass.output,QUALIFIED_NAME, line no: 56, 8.908615039291042E-4, insert, 0.34868421052631576, 0.0, 0.1875
+nextDouble,SIMPLE_NAME, line no: 65,mainClass.output,QUALIFIED_NAME, line no: 56, 8.908615039291042E-4, insert, 0.34868421052631576, 0.0, 0.1875
+nextDouble,SIMPLE_NAME, line no: 66,mainClass.output,QUALIFIED_NAME, line no: 56, 8.908615039291042E-4, insert, 0.34868421052631576, 0.0, 0.1875
+nextDouble,SIMPLE_NAME, line no: 67,mainClass.output,QUALIFIED_NAME, line no: 56, 8.908615039291042E-4, insert, 0.34868421052631576, 0.0, 0.1875
+nextDouble,SIMPLE_NAME, line no: 70,mainClass.output,QUALIFIED_NAME, line no: 56, 8.908615039291042E-4, insert, 0.34868421052631576, 0.0, 0.1875
+format,SIMPLE_NAME, line no: 62,mainClass.output,QUALIFIED_NAME, line no: 56, 8.876385370041914E-4, insert, 0.3464052287581699, 0.0, 0.1875
+format,SIMPLE_NAME, line no: 63,mainClass.output,QUALIFIED_NAME, line no: 56, 8.876385370041914E-4, insert, 0.3464052287581699, 0.0, 0.1875
+format,SIMPLE_NAME, line no: 69,mainClass.output,QUALIFIED_NAME, line no: 56, 8.876385370041914E-4, insert, 0.3464052287581699, 0.0, 0.1875
+scanner,SIMPLE_NAME, line no: 64,args.length,QUALIFIED_NAME, line no: 50, 8.788085474316063E-4, insert, 0.34868421052631576, 0.0, 0.18181818181818182
+nextDouble,SIMPLE_NAME, line no: 64,args.length,QUALIFIED_NAME, line no: 50, 8.788085474316063E-4, insert, 0.34868421052631576, 0.0, 0.18181818181818182
+scanner,SIMPLE_NAME, line no: 65,args.length,QUALIFIED_NAME, line no: 50, 8.788085474316063E-4, insert, 0.34868421052631576, 0.0, 0.18181818181818182
+nextDouble,SIMPLE_NAME, line no: 65,args.length,QUALIFIED_NAME, line no: 50, 8.788085474316063E-4, insert, 0.34868421052631576, 0.0, 0.18181818181818182
+scanner,SIMPLE_NAME, line no: 66,args.length,QUALIFIED_NAME, line no: 50, 8.788085474316063E-4, insert, 0.34868421052631576, 0.0, 0.18181818181818182
+nextDouble,SIMPLE_NAME, line no: 66,args.length,QUALIFIED_NAME, line no: 50, 8.788085474316063E-4, insert, 0.34868421052631576, 0.0, 0.18181818181818182
+scanner,SIMPLE_NAME, line no: 67,args.length,QUALIFIED_NAME, line no: 50, 8.788085474316063E-4, insert, 0.34868421052631576, 0.0, 0.18181818181818182
+nextDouble,SIMPLE_NAME, line no: 67,args.length,QUALIFIED_NAME, line no: 50, 8.788085474316063E-4, insert, 0.34868421052631576, 0.0, 0.18181818181818182
+scanner,SIMPLE_NAME, line no: 70,args.length,QUALIFIED_NAME, line no: 50, 8.788085474316063E-4, insert, 0.34868421052631576, 0.0, 0.18181818181818182
+nextDouble,SIMPLE_NAME, line no: 70,args.length,QUALIFIED_NAME, line no: 50, 8.788085474316063E-4, insert, 0.34868421052631576, 0.0, 0.18181818181818182
+format,SIMPLE_NAME, line no: 62,args.length,QUALIFIED_NAME, line no: 50, 8.755855805066934E-4, insert, 0.3464052287581699, 0.0, 0.18181818181818182
+format,SIMPLE_NAME, line no: 63,args.length,QUALIFIED_NAME, line no: 50, 8.755855805066934E-4, insert, 0.3464052287581699, 0.0, 0.18181818181818182
+format,SIMPLE_NAME, line no: 69,args.length,QUALIFIED_NAME, line no: 50, 8.755855805066934E-4, insert, 0.3464052287581699, 0.0, 0.18181818181818182
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,mainClass.output,QUALIFIED_NAME, line no: 56, 8.293022275563012E-4, insert, 0.3464052287581699, 0.0, 0.16
+output+=(String.format("\nThank you. Now enter student score (percent) >")); ,EXPRESSION_STATEMENT, line no: 68,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 7.983773740253516E-4, insert, 0.3422818791946309, 0.0, 0.2198581560283688
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,args.length,QUALIFIED_NAME, line no: 50, 7.929367359524216E-4, insert, 0.3464052287581699, 0.0, 0.14285714285714285
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,mainClass.output,QUALIFIED_NAME, line no: 56, 7.929367359524216E-4, insert, 0.3464052287581699, 0.0, 0.14285714285714285
+output+=(String.format("in that order  decreasing percentages > ")); ,EXPRESSION_STATEMENT, line no: 63,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 7.731020678042153E-4, insert, 0.3422818791946309, 0.0, 0.20567375886524822
+scanner,SIMPLE_NAME, line no: 64,mainClass.output,QUALIFIED_NAME, line no: 56, 7.582789824566266E-4, insert, 0.34868421052631576, 0.0, 0.125
+scanner,SIMPLE_NAME, line no: 65,mainClass.output,QUALIFIED_NAME, line no: 56, 7.582789824566266E-4, insert, 0.34868421052631576, 0.0, 0.125
+scanner,SIMPLE_NAME, line no: 66,mainClass.output,QUALIFIED_NAME, line no: 56, 7.582789824566266E-4, insert, 0.34868421052631576, 0.0, 0.125
+scanner,SIMPLE_NAME, line no: 67,mainClass.output,QUALIFIED_NAME, line no: 56, 7.582789824566266E-4, insert, 0.34868421052631576, 0.0, 0.125
+scanner,SIMPLE_NAME, line no: 70,mainClass.output,QUALIFIED_NAME, line no: 56, 7.582789824566266E-4, insert, 0.34868421052631576, 0.0, 0.125
+String,SIMPLE_NAME, line no: 62,mainClass.output,QUALIFIED_NAME, line no: 56, 7.550560155317138E-4, insert, 0.3464052287581699, 0.0, 0.125
+String,SIMPLE_NAME, line no: 63,mainClass.output,QUALIFIED_NAME, line no: 56, 7.550560155317138E-4, insert, 0.3464052287581699, 0.0, 0.125
+String,SIMPLE_NAME, line no: 69,mainClass.output,QUALIFIED_NAME, line no: 56, 7.550560155317138E-4, insert, 0.3464052287581699, 0.0, 0.125
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,args.length,QUALIFIED_NAME, line no: 50, 7.444494138139156E-4, insert, 0.3464052287581699, 0.0, 0.12
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,System.out,QUALIFIED_NAME, line no: 56, 7.444494138139156E-4, insert, 0.3464052287581699, 0.0, 0.12
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,args.length,QUALIFIED_NAME, line no: 50, 7.32327583279289E-4, insert, 0.3464052287581699, 0.0, 0.11428571428571428
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,mainClass.output,QUALIFIED_NAME, line no: 56, 7.32327583279289E-4, insert, 0.3464052287581699, 0.0, 0.11428571428571428
+output+=(String.format("Enter thresholds for A  B  C  D\n")); ,EXPRESSION_STATEMENT, line no: 62,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 7.09913802251375E-4, insert, 0.3422818791946309, 0.0, 0.1702127659574468
+score.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 70,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 7.09913802251375E-4, insert, 0.3422818791946309, 0.5, 0.1702127659574468
+C.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 6.846384960302388E-4, insert, 0.3422818791946309, 0.5, 0.15602836879432624
+A.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 6.720008429196707E-4, insert, 0.3422818791946309, 0.5, 0.14893617021276595
+B.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 6.720008429196707E-4, insert, 0.3422818791946309, 0.5, 0.14893617021276595
+D.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 67,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 6.720008429196707E-4, insert, 0.3422818791946309, 0.5, 0.14893617021276595
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,System.out,QUALIFIED_NAME, line no: 56, 6.717184306061564E-4, insert, 0.3464052287581699, 0.0, 0.08571428571428572
+String,SIMPLE_NAME, line no: 62,java.util,QUALIFIED_NAME, line no: 44, 6.470258128504357E-4, insert, 0.006535947712418301, 0.0, 0.2222222222222222
+format,SIMPLE_NAME, line no: 62,java.util,QUALIFIED_NAME, line no: 44, 6.470258128504357E-4, insert, 0.006535947712418301, 0.0, 0.2222222222222222
+String,SIMPLE_NAME, line no: 63,java.util,QUALIFIED_NAME, line no: 44, 6.470258128504357E-4, insert, 0.006535947712418301, 0.0, 0.2222222222222222
+format,SIMPLE_NAME, line no: 63,java.util,QUALIFIED_NAME, line no: 44, 6.470258128504357E-4, insert, 0.006535947712418301, 0.0, 0.2222222222222222
+String,SIMPLE_NAME, line no: 69,java.util,QUALIFIED_NAME, line no: 44, 6.470258128504357E-4, insert, 0.006535947712418301, 0.0, 0.2222222222222222
+format,SIMPLE_NAME, line no: 69,java.util,QUALIFIED_NAME, line no: 44, 6.470258128504357E-4, insert, 0.006535947712418301, 0.0, 0.2222222222222222
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,System.out,QUALIFIED_NAME, line no: 56, 6.4141385426959E-4, insert, 0.3464052287581699, 0.0, 0.07142857142857142
+scanner,SIMPLE_NAME, line no: 64,System.in,QUALIFIED_NAME, line no: 53, 6.388771794931088E-4, insert, 0.11842105263157894, 0.0, 0.2222222222222222
+scanner,SIMPLE_NAME, line no: 65,System.in,QUALIFIED_NAME, line no: 53, 6.388771794931088E-4, insert, 0.11842105263157894, 0.0, 0.2222222222222222
+scanner,SIMPLE_NAME, line no: 66,System.in,QUALIFIED_NAME, line no: 53, 6.388771794931088E-4, insert, 0.11842105263157894, 0.0, 0.2222222222222222
+scanner,SIMPLE_NAME, line no: 67,System.in,QUALIFIED_NAME, line no: 53, 6.388771794931088E-4, insert, 0.11842105263157894, 0.0, 0.2222222222222222
+scanner,SIMPLE_NAME, line no: 70,System.in,QUALIFIED_NAME, line no: 53, 6.388771794931088E-4, insert, 0.11842105263157894, 0.0, 0.2222222222222222
+nextDouble,SIMPLE_NAME, line no: 64,java.util,QUALIFIED_NAME, line no: 44, 6.010407640085653E-4, insert, 0.006578947368421052, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,java.util,QUALIFIED_NAME, line no: 44, 6.010407640085653E-4, insert, 0.006578947368421052, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,java.util,QUALIFIED_NAME, line no: 44, 6.010407640085653E-4, insert, 0.006578947368421052, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 67,java.util,QUALIFIED_NAME, line no: 44, 6.010407640085653E-4, insert, 0.006578947368421052, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 70,java.util,QUALIFIED_NAME, line no: 44, 6.010407640085653E-4, insert, 0.006578947368421052, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 64,System.in,QUALIFIED_NAME, line no: 53, 5.917367274140056E-4, insert, 0.11842105263157894, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,System.in,QUALIFIED_NAME, line no: 53, 5.917367274140056E-4, insert, 0.11842105263157894, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,System.in,QUALIFIED_NAME, line no: 53, 5.917367274140056E-4, insert, 0.11842105263157894, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 67,System.in,QUALIFIED_NAME, line no: 53, 5.917367274140056E-4, insert, 0.11842105263157894, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 70,System.in,QUALIFIED_NAME, line no: 53, 5.917367274140056E-4, insert, 0.11842105263157894, 0.0, 0.2
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,mainClass.scanner,QUALIFIED_NAME, line no: 51, 5.611958580845615E-4, insert, 0.09803921568627451, 0.0, 0.19047619047619047
+nextDouble,SIMPLE_NAME, line no: 64,java.util.Scanner,QUALIFIED_NAME, line no: 51, 5.418233075655433E-4, insert, 0.10526315789473684, 0.0, 0.17647058823529413
+nextDouble,SIMPLE_NAME, line no: 65,java.util.Scanner,QUALIFIED_NAME, line no: 51, 5.418233075655433E-4, insert, 0.10526315789473684, 0.0, 0.17647058823529413
+nextDouble,SIMPLE_NAME, line no: 66,java.util.Scanner,QUALIFIED_NAME, line no: 51, 5.418233075655433E-4, insert, 0.10526315789473684, 0.0, 0.17647058823529413
+nextDouble,SIMPLE_NAME, line no: 67,java.util.Scanner,QUALIFIED_NAME, line no: 51, 5.418233075655433E-4, insert, 0.10526315789473684, 0.0, 0.17647058823529413
+nextDouble,SIMPLE_NAME, line no: 70,java.util.Scanner,QUALIFIED_NAME, line no: 51, 5.418233075655433E-4, insert, 0.10526315789473684, 0.0, 0.17647058823529413
+String,SIMPLE_NAME, line no: 62,java.util.Scanner,QUALIFIED_NAME, line no: 51, 5.40728715025007E-4, insert, 0.10457516339869281, 0.0, 0.17647058823529413
+String,SIMPLE_NAME, line no: 63,java.util.Scanner,QUALIFIED_NAME, line no: 51, 5.40728715025007E-4, insert, 0.10457516339869281, 0.0, 0.17647058823529413
+String,SIMPLE_NAME, line no: 69,java.util.Scanner,QUALIFIED_NAME, line no: 51, 5.40728715025007E-4, insert, 0.10457516339869281, 0.0, 0.17647058823529413
+nextDouble,SIMPLE_NAME, line no: 64,mainClass.scanner,QUALIFIED_NAME, line no: 51, 5.325192709709835E-4, insert, 0.09868421052631579, 0.0, 0.17647058823529413
+nextDouble,SIMPLE_NAME, line no: 65,mainClass.scanner,QUALIFIED_NAME, line no: 51, 5.325192709709835E-4, insert, 0.09868421052631579, 0.0, 0.17647058823529413
+nextDouble,SIMPLE_NAME, line no: 66,mainClass.scanner,QUALIFIED_NAME, line no: 51, 5.325192709709835E-4, insert, 0.09868421052631579, 0.0, 0.17647058823529413
+nextDouble,SIMPLE_NAME, line no: 67,mainClass.scanner,QUALIFIED_NAME, line no: 51, 5.325192709709835E-4, insert, 0.09868421052631579, 0.0, 0.17647058823529413
+nextDouble,SIMPLE_NAME, line no: 70,mainClass.scanner,QUALIFIED_NAME, line no: 51, 5.325192709709835E-4, insert, 0.09868421052631579, 0.0, 0.17647058823529413
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,java.util.Scanner,QUALIFIED_NAME, line no: 51, 5.199314567548143E-4, insert, 0.10457516339869281, 0.0, 0.16666666666666666
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,java.util.Scanner,QUALIFIED_NAME, line no: 51, 4.633629142598906E-4, insert, 0.10457516339869281, 0.0, 0.14
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,mainClass.scanner,QUALIFIED_NAME, line no: 51, 4.541196883620272E-4, insert, 0.09803921568627451, 0.0, 0.14
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,i,SIMPLE_NAME, line no: 7, 4.4223554077906E-4, insert, 0.0392156862745098, 0.0, 0.023809523809523808
+format,SIMPLE_NAME, line no: 62,java.util.Scanner,QUALIFIED_NAME, line no: 51, 4.159451654038515E-4, insert, 0.10457516339869281, 0.0, 0.11764705882352941
+format,SIMPLE_NAME, line no: 63,java.util.Scanner,QUALIFIED_NAME, line no: 51, 4.159451654038515E-4, insert, 0.10457516339869281, 0.0, 0.11764705882352941
+format,SIMPLE_NAME, line no: 69,java.util.Scanner,QUALIFIED_NAME, line no: 51, 4.159451654038515E-4, insert, 0.10457516339869281, 0.0, 0.11764705882352941
+scanner,SIMPLE_NAME, line no: 64,java.util,QUALIFIED_NAME, line no: 44, 4.124789556921527E-4, insert, 0.006578947368421052, 0.0, 0.1111111111111111
+scanner,SIMPLE_NAME, line no: 65,java.util,QUALIFIED_NAME, line no: 44, 4.124789556921527E-4, insert, 0.006578947368421052, 0.0, 0.1111111111111111
+scanner,SIMPLE_NAME, line no: 66,java.util,QUALIFIED_NAME, line no: 44, 4.124789556921527E-4, insert, 0.006578947368421052, 0.0, 0.1111111111111111
+scanner,SIMPLE_NAME, line no: 67,java.util,QUALIFIED_NAME, line no: 44, 4.124789556921527E-4, insert, 0.006578947368421052, 0.0, 0.1111111111111111
+scanner,SIMPLE_NAME, line no: 70,java.util,QUALIFIED_NAME, line no: 44, 4.124789556921527E-4, insert, 0.006578947368421052, 0.0, 0.1111111111111111
+String,SIMPLE_NAME, line no: 62,mainClass.scanner,QUALIFIED_NAME, line no: 51, 4.067019395059882E-4, insert, 0.09803921568627451, 0.0, 0.11764705882352941
+format,SIMPLE_NAME, line no: 62,mainClass.scanner,QUALIFIED_NAME, line no: 51, 4.067019395059882E-4, insert, 0.09803921568627451, 0.0, 0.11764705882352941
+String,SIMPLE_NAME, line no: 63,mainClass.scanner,QUALIFIED_NAME, line no: 51, 4.067019395059882E-4, insert, 0.09803921568627451, 0.0, 0.11764705882352941
+format,SIMPLE_NAME, line no: 63,mainClass.scanner,QUALIFIED_NAME, line no: 51, 4.067019395059882E-4, insert, 0.09803921568627451, 0.0, 0.11764705882352941
+String,SIMPLE_NAME, line no: 69,mainClass.scanner,QUALIFIED_NAME, line no: 51, 4.067019395059882E-4, insert, 0.09803921568627451, 0.0, 0.11764705882352941
+format,SIMPLE_NAME, line no: 69,mainClass.scanner,QUALIFIED_NAME, line no: 51, 4.067019395059882E-4, insert, 0.09803921568627451, 0.0, 0.11764705882352941
+format,SIMPLE_NAME, line no: 62,System.in,QUALIFIED_NAME, line no: 53, 4.0208032655705643E-4, insert, 0.11764705882352941, 0.0, 0.1111111111111111
+format,SIMPLE_NAME, line no: 63,System.in,QUALIFIED_NAME, line no: 53, 4.0208032655705643E-4, insert, 0.11764705882352941, 0.0, 0.1111111111111111
+format,SIMPLE_NAME, line no: 69,System.in,QUALIFIED_NAME, line no: 53, 4.0208032655705643E-4, insert, 0.11764705882352941, 0.0, 0.1111111111111111
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,mainClass.scanner,QUALIFIED_NAME, line no: 51, 3.995714509562078E-4, insert, 0.09803921568627451, 0.0, 0.11428571428571428
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,System.in,QUALIFIED_NAME, line no: 53, 3.7851010051750483E-4, insert, 0.11764705882352941, 0.0, 0.1
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,System.in,QUALIFIED_NAME, line no: 53, 3.6840857507198274E-4, insert, 0.11764705882352941, 0.0, 0.09523809523809523
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,java.util.Scanner,QUALIFIED_NAME, line no: 51, 3.4820552418093854E-4, insert, 0.10457516339869281, 0.0, 0.08571428571428572
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,System.in,QUALIFIED_NAME, line no: 53, 3.4820552418093854E-4, insert, 0.11764705882352941, 0.0, 0.08571428571428572
+"\nThank you. Now enter student score (percent) >",STRING_LITERAL, line no: 69,java.util,QUALIFIED_NAME, line no: 44, 3.4532691954417536E-4, insert, 0.006535947712418301, 0.0, 0.08
+"in that order  decreasing percentages > ",STRING_LITERAL, line no: 63,java.util,QUALIFIED_NAME, line no: 44, 3.271441737422356E-4, insert, 0.006535947712418301, 0.0, 0.07142857142857142
+"Enter thresholds for A  B  C  D\n",STRING_LITERAL, line no: 62,java.util,QUALIFIED_NAME, line no: 44, 2.968395974056692E-4, insert, 0.006535947712418301, 0.0, 0.05714285714285714

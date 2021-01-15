@@ -1,0 +1,593 @@
+output+=(String.format("Please enter 3 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,output+=(String.format("Please enter 3 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62, 0.031966930027524, insert, 1.0, 1.0, 1.0
+n1.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,n1.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64, 0.031966930027524, insert, 1.0, 3.0, 1.0
+n2.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,n2.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65, 0.031966930027524, insert, 1.0, 3.0, 1.0
+n3.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,n3.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66, 0.031966930027524, insert, 1.0, 3.0, 1.0
+output+=(String.format(" %.0f is the median\n" median.value)); ,EXPRESSION_STATEMENT, line no: 78,output+=(String.format(" %.0f is the median\n" median.value)); ,EXPRESSION_STATEMENT, line no: 78, 0.031966930027524, insert, 1.0, 3.0, 1.0
+n1.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,n2.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65, 0.03134821525279773, insert, 1.0, 1.5, 0.967741935483871
+n1.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,n3.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66, 0.03134821525279773, insert, 1.0, 1.5, 0.967741935483871
+n2.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,n1.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64, 0.03134821525279773, insert, 1.0, 1.5, 0.967741935483871
+n2.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,n3.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66, 0.03134821525279773, insert, 1.0, 1.5, 0.967741935483871
+n3.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,n1.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64, 0.03134821525279773, insert, 1.0, 1.5, 0.967741935483871
+n3.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,n2.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65, 0.03134821525279773, insert, 1.0, 1.5, 0.967741935483871
+output+=(String.format("Please enter 3 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,output+=(String.format(" %.0f is the median\n" median.value)); ,EXPRESSION_STATEMENT, line no: 78, 0.02315442499290928, insert, 1.0, 1.0, 0.5405405405405406
+output+=(String.format(" %.0f is the median\n" median.value)); ,EXPRESSION_STATEMENT, line no: 78,output+=(String.format("Please enter 3 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62, 0.02315442499290928, insert, 1.0, 0.3333333333333333, 0.5405405405405406
+output+=(String.format("Please enter 3 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,n1.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64, 0.017193024528316964, insert, 1.0, 0.0, 0.22972972972972974
+output+=(String.format("Please enter 3 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,n2.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65, 0.017193024528316964, insert, 1.0, 0.0, 0.22972972972972974
+output+=(String.format("Please enter 3 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,n3.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66, 0.017193024528316964, insert, 1.0, 0.0, 0.22972972972972974
+n1.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,output+=(String.format("Please enter 3 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62, 0.017193024528316964, insert, 1.0, 0.0, 0.22972972972972974
+n2.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,output+=(String.format("Please enter 3 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62, 0.017193024528316964, insert, 1.0, 0.0, 0.22972972972972974
+n3.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,output+=(String.format("Please enter 3 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62, 0.017193024528316964, insert, 1.0, 0.0, 0.22972972972972974
+n1.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,output+=(String.format(" %.0f is the median\n" median.value)); ,EXPRESSION_STATEMENT, line no: 78, 0.0170490293480128, insert, 1.0, 0.6000000000000001, 0.2222222222222222
+n2.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,output+=(String.format(" %.0f is the median\n" median.value)); ,EXPRESSION_STATEMENT, line no: 78, 0.0170490293480128, insert, 1.0, 0.6000000000000001, 0.2222222222222222
+n3.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,output+=(String.format(" %.0f is the median\n" median.value)); ,EXPRESSION_STATEMENT, line no: 78, 0.0170490293480128, insert, 1.0, 0.6000000000000001, 0.2222222222222222
+output+=(String.format(" %.0f is the median\n" median.value)); ,EXPRESSION_STATEMENT, line no: 78,n1.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64, 0.0170490293480128, insert, 1.0, 0.6000000000000001, 0.2222222222222222
+output+=(String.format(" %.0f is the median\n" median.value)); ,EXPRESSION_STATEMENT, line no: 78,n2.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65, 0.0170490293480128, insert, 1.0, 0.6000000000000001, 0.2222222222222222
+output+=(String.format(" %.0f is the median\n" median.value)); ,EXPRESSION_STATEMENT, line no: 78,n3.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66, 0.0170490293480128, insert, 1.0, 0.6000000000000001, 0.2222222222222222
+String,SIMPLE_NAME, line no: 63,String,SIMPLE_NAME, line no: 49, 0.012276870059650322, insert, 0.3722627737226277, 0.0, 1.0
+format,SIMPLE_NAME, line no: 63,format,SIMPLE_NAME, line no: 63, 0.012276870059650322, insert, 1.0, 0.0, 1.0
+scanner,SIMPLE_NAME, line no: 64,scanner,SIMPLE_NAME, line no: 51, 0.012276870059650322, insert, 0.11764705882352941, 1.0, 1.0
+nextDouble,SIMPLE_NAME, line no: 64,nextDouble,SIMPLE_NAME, line no: 64, 0.012276870059650322, insert, 1.0, 0.0, 1.0
+scanner,SIMPLE_NAME, line no: 65,scanner,SIMPLE_NAME, line no: 51, 0.012276870059650322, insert, 0.11764705882352941, 1.0, 1.0
+nextDouble,SIMPLE_NAME, line no: 65,nextDouble,SIMPLE_NAME, line no: 64, 0.012276870059650322, insert, 1.0, 0.0, 1.0
+scanner,SIMPLE_NAME, line no: 66,scanner,SIMPLE_NAME, line no: 51, 0.012276870059650322, insert, 0.11764705882352941, 1.0, 1.0
+nextDouble,SIMPLE_NAME, line no: 66,nextDouble,SIMPLE_NAME, line no: 64, 0.012276870059650322, insert, 1.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 78,String,SIMPLE_NAME, line no: 49, 0.012276870059650322, insert, 0.3722627737226277, 0.0, 1.0
+format,SIMPLE_NAME, line no: 78,format,SIMPLE_NAME, line no: 63, 0.012276870059650322, insert, 1.0, 0.0, 1.0
+median,SIMPLE_NAME, line no: 78,median,SIMPLE_NAME, line no: 61, 0.012276870059650322, insert, 0.9637681159420289, 1.0, 1.0
+value,SIMPLE_NAME, line no: 78,value,SIMPLE_NAME, line no: 7, 0.012276870059650322, insert, 0.043478260869565216, 0.0, 1.0
+n1.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.011709060811924993, insert, 0.38345864661654133, 0.0, 0.3548387096774194
+n2.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.011709060811924993, insert, 0.38345864661654133, 0.0, 0.3548387096774194
+n3.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.011709060811924993, insert, 0.38345864661654133, 0.0, 0.3548387096774194
+output+=(String.format(" %.0f is the median\n" median.value)); ,EXPRESSION_STATEMENT, line no: 78,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.010383243437511555, insert, 0.38345864661654133, 0.5, 0.2857142857142857
+n1.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.009950608294281908, insert, 0.38345864661654133, 0.0, 0.2631578947368421
+n2.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.009950608294281908, insert, 0.38345864661654133, 0.0, 0.2631578947368421
+n3.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.009950608294281908, insert, 0.38345864661654133, 0.0, 0.2631578947368421
+n1.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,median.value=n2.value; ,EXPRESSION_STATEMENT, line no: 69, 0.009623418275567012, insert, 0.07518796992481203, 0.6000000000000001, 0.45161290322580644
+n1.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,median.value=n1.value; ,EXPRESSION_STATEMENT, line no: 71, 0.009623418275567012, insert, 0.07518796992481203, 1.5, 0.45161290322580644
+n1.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,median.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74, 0.009623418275567012, insert, 0.07518796992481203, 0.6000000000000001, 0.45161290322580644
+n2.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,median.value=n2.value; ,EXPRESSION_STATEMENT, line no: 69, 0.009623418275567012, insert, 0.07518796992481203, 1.5, 0.45161290322580644
+n2.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,median.value=n1.value; ,EXPRESSION_STATEMENT, line no: 71, 0.009623418275567012, insert, 0.07518796992481203, 0.6000000000000001, 0.45161290322580644
+n2.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,median.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74, 0.009623418275567012, insert, 0.07518796992481203, 0.6000000000000001, 0.45161290322580644
+n3.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,median.value=n2.value; ,EXPRESSION_STATEMENT, line no: 69, 0.009623418275567012, insert, 0.07518796992481203, 0.6000000000000001, 0.45161290322580644
+n3.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,median.value=n1.value; ,EXPRESSION_STATEMENT, line no: 71, 0.009623418275567012, insert, 0.07518796992481203, 0.6000000000000001, 0.45161290322580644
+n3.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,median.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74, 0.009623418275567012, insert, 0.07518796992481203, 1.5, 0.45161290322580644
+output+=(String.format("Please enter 3 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.009568642131790867, insert, 0.38345864661654133, 1.0, 0.24324324324324326
+nextDouble,SIMPLE_NAME, line no: 64,DoubleObj,SIMPLE_NAME, line no: 60, 0.009222095921278506, insert, 0.9779411764705882, 0.0, 0.6
+nextDouble,SIMPLE_NAME, line no: 65,DoubleObj,SIMPLE_NAME, line no: 60, 0.009222095921278506, insert, 0.9779411764705882, 0.0, 0.6
+nextDouble,SIMPLE_NAME, line no: 66,DoubleObj,SIMPLE_NAME, line no: 60, 0.009222095921278506, insert, 0.9779411764705882, 0.0, 0.6
+median.value,QUALIFIED_NAME, line no: 78,median,SIMPLE_NAME, line no: 61, 0.008593809041755225, insert, 0.9708029197080292, 0.5, 0.5
+n1.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.008154691744164168, insert, 0.09774436090225563, 0.5, 0.36
+n2.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.008154691744164168, insert, 0.09774436090225563, 0.5, 0.36
+n3.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.008154691744164168, insert, 0.09774436090225563, 0.5, 0.36
+n1.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.008081402611353811, insert, 0.11278195488721804, 0.5, 0.34615384615384615
+n2.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.008081402611353811, insert, 0.11278195488721804, 0.5, 0.34615384615384615
+n3.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.008081402611353811, insert, 0.11278195488721804, 0.5, 0.34615384615384615
+output+=(String.format("Please enter 3 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.008013494184505913, insert, 0.38345864661654133, 0.0, 0.16216216216216217
+median.value,QUALIFIED_NAME, line no: 78,value,SIMPLE_NAME, line no: 7, 0.007979965538772709, insert, 0.043795620437956206, 0.0, 0.4166666666666667
+output+=(String.format(" %.0f is the median\n" median.value)); ,EXPRESSION_STATEMENT, line no: 78,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.007947667816366868, insert, 0.38345864661654133, 0.0, 0.15873015873015872
+String,SIMPLE_NAME, line no: 63,median,SIMPLE_NAME, line no: 61, 0.007366122035790193, insert, 0.9708029197080292, 0.0, 0.3333333333333333
+format,SIMPLE_NAME, line no: 63,median,SIMPLE_NAME, line no: 61, 0.007366122035790193, insert, 0.9708029197080292, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 78,median,SIMPLE_NAME, line no: 61, 0.007366122035790193, insert, 0.9708029197080292, 0.0, 0.3333333333333333
+format,SIMPLE_NAME, line no: 78,median,SIMPLE_NAME, line no: 61, 0.007366122035790193, insert, 0.9708029197080292, 0.0, 0.3333333333333333
+median,SIMPLE_NAME, line no: 78,String,SIMPLE_NAME, line no: 49, 0.007330536905182511, insert, 0.3695652173913043, 0.0, 0.3333333333333333
+median,SIMPLE_NAME, line no: 78,format,SIMPLE_NAME, line no: 63, 0.007330536905182511, insert, 0.9927536231884058, 0.0, 0.3333333333333333
+format,SIMPLE_NAME, line no: 63,output,SIMPLE_NAME, line no: 49, 0.007294432283617053, insert, 0.3722627737226277, 0.0, 0.3333333333333333
+format,SIMPLE_NAME, line no: 78,output,SIMPLE_NAME, line no: 49, 0.007294432283617053, insert, 0.3722627737226277, 0.0, 0.3333333333333333
+scanner,SIMPLE_NAME, line no: 64,value,SIMPLE_NAME, line no: 7, 0.007015354319800183, insert, 0.04411764705882353, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 64,median,SIMPLE_NAME, line no: 61, 0.007015354319800183, insert, 0.9779411764705882, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 65,value,SIMPLE_NAME, line no: 7, 0.007015354319800183, insert, 0.04411764705882353, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 65,median,SIMPLE_NAME, line no: 61, 0.007015354319800183, insert, 0.9779411764705882, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 66,value,SIMPLE_NAME, line no: 7, 0.007015354319800183, insert, 0.04411764705882353, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 66,median,SIMPLE_NAME, line no: 61, 0.007015354319800183, insert, 0.9779411764705882, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 64,Scanner,SIMPLE_NAME, line no: 44, 0.006999879273506506, insert, 0.007352941176470588, 0.0, 0.8571428571428571
+scanner,SIMPLE_NAME, line no: 65,Scanner,SIMPLE_NAME, line no: 44, 0.006999879273506506, insert, 0.007352941176470588, 0.0, 0.8571428571428571
+scanner,SIMPLE_NAME, line no: 66,Scanner,SIMPLE_NAME, line no: 44, 0.006999879273506506, insert, 0.007352941176470588, 0.0, 0.8571428571428571
+median,SIMPLE_NAME, line no: 78,scanner,SIMPLE_NAME, line no: 51, 0.006944184058584819, insert, 0.11594202898550725, 0.0, 0.2857142857142857
+value,SIMPLE_NAME, line no: 78,scanner,SIMPLE_NAME, line no: 51, 0.006944184058584819, insert, 0.11594202898550725, 0.0, 0.2857142857142857
+output+=(String.format("Please enter 3 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.006885134959596156, insert, 0.11278195488721804, 0.0, 0.28378378378378377
+" %.0f is the median\n",STRING_LITERAL, line no: 78,median,SIMPLE_NAME, line no: 61, 0.006832345076674962, insert, 0.9708029197080292, 0.0, 0.2608695652173913
+median.value,QUALIFIED_NAME, line no: 78,scanner,SIMPLE_NAME, line no: 51, 0.006716433656721107, insert, 0.11678832116788321, 0.0, 0.25
+median.value,QUALIFIED_NAME, line no: 78,nextDouble,SIMPLE_NAME, line no: 64, 0.006716433656721107, insert, 0.9927007299270073, 0.0, 0.25
+output+=(String.format(" %.0f is the median\n" median.value)); ,EXPRESSION_STATEMENT, line no: 78,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.006617715339031284, insert, 0.11278195488721804, 0.0, 0.2698412698412698
+output+=(String.format("Please enter 3 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.006433661349168822, insert, 0.09774436090225563, 0.0, 0.2702702702702703
+output+=(String.format(" %.0f is the median\n" median.value)); ,EXPRESSION_STATEMENT, line no: 78,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.00642543305315144, insert, 0.09774436090225563, 0.0, 0.2698412698412698
+scanner,SIMPLE_NAME, line no: 64,nextDouble,SIMPLE_NAME, line no: 64, 0.006383972431018167, insert, 1.0, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 64,value,SIMPLE_NAME, line no: 7, 0.006383972431018167, insert, 0.04411764705882353, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 64,scanner,SIMPLE_NAME, line no: 51, 0.006383972431018167, insert, 0.11764705882352941, 0.0, 0.2
+scanner,SIMPLE_NAME, line no: 65,nextDouble,SIMPLE_NAME, line no: 64, 0.006383972431018167, insert, 1.0, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,value,SIMPLE_NAME, line no: 7, 0.006383972431018167, insert, 0.04411764705882353, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,scanner,SIMPLE_NAME, line no: 51, 0.006383972431018167, insert, 0.11764705882352941, 0.0, 0.2
+scanner,SIMPLE_NAME, line no: 66,nextDouble,SIMPLE_NAME, line no: 64, 0.006383972431018167, insert, 1.0, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,value,SIMPLE_NAME, line no: 7, 0.006383972431018167, insert, 0.04411764705882353, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,scanner,SIMPLE_NAME, line no: 51, 0.006383972431018167, insert, 0.11764705882352941, 0.0, 0.2
+value,SIMPLE_NAME, line no: 78,DoubleObj,SIMPLE_NAME, line no: 60, 0.006369738378775095, insert, 0.9637681159420289, 0.0, 0.2222222222222222
+nextDouble,SIMPLE_NAME, line no: 64,output,SIMPLE_NAME, line no: 49, 0.006347863989666255, insert, 0.375, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,output,SIMPLE_NAME, line no: 49, 0.006347863989666255, insert, 0.375, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,output,SIMPLE_NAME, line no: 49, 0.006347863989666255, insert, 0.375, 0.0, 0.2
+value,SIMPLE_NAME, line no: 78,nextDouble,SIMPLE_NAME, line no: 64, 0.006312802169802803, insert, 0.9855072463768116, 0.0, 0.2
+" %.0f is the median\n",STRING_LITERAL, line no: 78,scanner,SIMPLE_NAME, line no: 51, 0.006155967849650113, insert, 0.11678832116788321, 0.0, 0.17391304347826086
+String,SIMPLE_NAME, line no: 63,format,SIMPLE_NAME, line no: 63, 0.006138435029825161, insert, 1.0, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 63,value,SIMPLE_NAME, line no: 7, 0.006138435029825161, insert, 0.043795620437956206, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 63,String,SIMPLE_NAME, line no: 49, 0.006138435029825161, insert, 0.3722627737226277, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 78,format,SIMPLE_NAME, line no: 63, 0.006138435029825161, insert, 1.0, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 78,value,SIMPLE_NAME, line no: 7, 0.006138435029825161, insert, 0.043795620437956206, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 78,String,SIMPLE_NAME, line no: 49, 0.006138435029825161, insert, 0.3722627737226277, 0.0, 0.16666666666666666
+median.value,QUALIFIED_NAME, line no: 78,String,SIMPLE_NAME, line no: 49, 0.006138435029825161, insert, 0.3722627737226277, 0.0, 0.16666666666666666
+median.value,QUALIFIED_NAME, line no: 78,format,SIMPLE_NAME, line no: 63, 0.006138435029825161, insert, 1.0, 0.0, 0.16666666666666666
+median,SIMPLE_NAME, line no: 78,value,SIMPLE_NAME, line no: 7, 0.006138435029825161, insert, 0.043478260869565216, 0.0, 0.16666666666666666
+value,SIMPLE_NAME, line no: 78,median,SIMPLE_NAME, line no: 61, 0.006138435029825161, insert, 0.9637681159420289, 0.0, 0.16666666666666666
+value,SIMPLE_NAME, line no: 78,format,SIMPLE_NAME, line no: 63, 0.006102849899217479, insert, 0.9927536231884058, 0.0, 0.16666666666666666
+median,SIMPLE_NAME, line no: 78,n1,SIMPLE_NAME, line no: 60, 0.006067264768609797, insert, 0.9637681159420289, 0.0, 0.16666666666666666
+median,SIMPLE_NAME, line no: 78,n2,SIMPLE_NAME, line no: 60, 0.006067264768609797, insert, 0.9637681159420289, 0.0, 0.16666666666666666
+median,SIMPLE_NAME, line no: 78,n3,SIMPLE_NAME, line no: 60, 0.006067264768609797, insert, 0.9637681159420289, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 63,output,SIMPLE_NAME, line no: 49, 0.00606674527765202, insert, 0.3722627737226277, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 63,n1,SIMPLE_NAME, line no: 60, 0.00606674527765202, insert, 0.9708029197080292, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 63,n2,SIMPLE_NAME, line no: 60, 0.00606674527765202, insert, 0.9708029197080292, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 63,n3,SIMPLE_NAME, line no: 60, 0.00606674527765202, insert, 0.9708029197080292, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 78,output,SIMPLE_NAME, line no: 49, 0.00606674527765202, insert, 0.3722627737226277, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 78,n1,SIMPLE_NAME, line no: 60, 0.00606674527765202, insert, 0.9708029197080292, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 78,n2,SIMPLE_NAME, line no: 60, 0.00606674527765202, insert, 0.9708029197080292, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 78,n3,SIMPLE_NAME, line no: 60, 0.00606674527765202, insert, 0.9708029197080292, 0.0, 0.16666666666666666
+value,SIMPLE_NAME, line no: 78,output,SIMPLE_NAME, line no: 49, 0.0060316796380021145, insert, 0.3695652173913043, 0.0, 0.16666666666666666
+median.value,QUALIFIED_NAME, line no: 78,DoubleObj,SIMPLE_NAME, line no: 60, 0.005995055525478879, insert, 0.9708029197080292, 0.0, 0.16666666666666666
+scanner,SIMPLE_NAME, line no: 64,String,SIMPLE_NAME, line no: 49, 0.0059630511718301565, insert, 0.375, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 64,format,SIMPLE_NAME, line no: 63, 0.0059630511718301565, insert, 1.0, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 65,String,SIMPLE_NAME, line no: 49, 0.0059630511718301565, insert, 0.375, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 65,format,SIMPLE_NAME, line no: 63, 0.0059630511718301565, insert, 1.0, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 66,String,SIMPLE_NAME, line no: 49, 0.0059630511718301565, insert, 0.375, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 66,format,SIMPLE_NAME, line no: 63, 0.0059630511718301565, insert, 1.0, 0.0, 0.14285714285714285
+String,SIMPLE_NAME, line no: 63,scanner,SIMPLE_NAME, line no: 51, 0.005927206295743586, insert, 0.11678832116788321, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 63,scanner,SIMPLE_NAME, line no: 51, 0.005927206295743586, insert, 0.11678832116788321, 0.0, 0.14285714285714285
+String,SIMPLE_NAME, line no: 78,scanner,SIMPLE_NAME, line no: 51, 0.005927206295743586, insert, 0.11678832116788321, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 78,scanner,SIMPLE_NAME, line no: 51, 0.005927206295743586, insert, 0.11678832116788321, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 64,n1,SIMPLE_NAME, line no: 60, 0.005926942730478244, insert, 0.9779411764705882, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 64,n2,SIMPLE_NAME, line no: 60, 0.005926942730478244, insert, 0.9779411764705882, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 64,n3,SIMPLE_NAME, line no: 60, 0.005926942730478244, insert, 0.9779411764705882, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 65,n1,SIMPLE_NAME, line no: 60, 0.005926942730478244, insert, 0.9779411764705882, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 65,n2,SIMPLE_NAME, line no: 60, 0.005926942730478244, insert, 0.9779411764705882, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 65,n3,SIMPLE_NAME, line no: 60, 0.005926942730478244, insert, 0.9779411764705882, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 66,n1,SIMPLE_NAME, line no: 60, 0.005926942730478244, insert, 0.9779411764705882, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 66,n2,SIMPLE_NAME, line no: 60, 0.005926942730478244, insert, 0.9779411764705882, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 66,n3,SIMPLE_NAME, line no: 60, 0.005926942730478244, insert, 0.9779411764705882, 0.0, 0.14285714285714285
+" %.0f is the median\n",STRING_LITERAL, line no: 78,String,SIMPLE_NAME, line no: 49, 0.005871546550267545, insert, 0.3722627737226277, 0.0, 0.13043478260869565
+" %.0f is the median\n",STRING_LITERAL, line no: 78,format,SIMPLE_NAME, line no: 63, 0.005871546550267545, insert, 1.0, 0.0, 0.13043478260869565
+output+=(String.format(" %.0f is the median\n" median.value)); ,EXPRESSION_STATEMENT, line no: 78,median.value=n2.value; ,EXPRESSION_STATEMENT, line no: 69, 0.00583256267168859, insert, 0.07518796992481203, 1.5, 0.25396825396825395
+output+=(String.format(" %.0f is the median\n" median.value)); ,EXPRESSION_STATEMENT, line no: 78,median.value=n1.value; ,EXPRESSION_STATEMENT, line no: 71, 0.00583256267168859, insert, 0.07518796992481203, 1.5, 0.25396825396825395
+output+=(String.format(" %.0f is the median\n" median.value)); ,EXPRESSION_STATEMENT, line no: 78,median.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74, 0.00583256267168859, insert, 0.07518796992481203, 1.5, 0.25396825396825395
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,scanner,SIMPLE_NAME, line no: 51, 0.005658533151581026, insert, 0.11678832116788321, 0.0, 0.10638297872340426
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,nextDouble,SIMPLE_NAME, line no: 64, 0.005658533151581026, insert, 0.9927007299270073, 0.0, 0.10638297872340426
+nextDouble,SIMPLE_NAME, line no: 64,String,SIMPLE_NAME, line no: 49, 0.005647360227439148, insert, 0.375, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 64,median,SIMPLE_NAME, line no: 61, 0.005647360227439148, insert, 0.9779411764705882, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 64,format,SIMPLE_NAME, line no: 63, 0.005647360227439148, insert, 1.0, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 65,String,SIMPLE_NAME, line no: 49, 0.005647360227439148, insert, 0.375, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 65,median,SIMPLE_NAME, line no: 61, 0.005647360227439148, insert, 0.9779411764705882, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 65,format,SIMPLE_NAME, line no: 63, 0.005647360227439148, insert, 1.0, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 66,String,SIMPLE_NAME, line no: 49, 0.005647360227439148, insert, 0.375, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 66,median,SIMPLE_NAME, line no: 61, 0.005647360227439148, insert, 0.9779411764705882, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 66,format,SIMPLE_NAME, line no: 63, 0.005647360227439148, insert, 1.0, 0.0, 0.1
+scanner,SIMPLE_NAME, line no: 64,DoubleObj,SIMPLE_NAME, line no: 60, 0.0056208807037810785, insert, 0.9779411764705882, 0.0, 0.1111111111111111
+scanner,SIMPLE_NAME, line no: 65,DoubleObj,SIMPLE_NAME, line no: 60, 0.0056208807037810785, insert, 0.9779411764705882, 0.0, 0.1111111111111111
+scanner,SIMPLE_NAME, line no: 66,DoubleObj,SIMPLE_NAME, line no: 60, 0.0056208807037810785, insert, 0.9779411764705882, 0.0, 0.1111111111111111
+String,SIMPLE_NAME, line no: 63,nextDouble,SIMPLE_NAME, line no: 64, 0.005611515351352578, insert, 0.9927007299270073, 0.0, 0.1
+format,SIMPLE_NAME, line no: 63,nextDouble,SIMPLE_NAME, line no: 64, 0.005611515351352578, insert, 0.9927007299270073, 0.0, 0.1
+String,SIMPLE_NAME, line no: 78,nextDouble,SIMPLE_NAME, line no: 64, 0.005611515351352578, insert, 0.9927007299270073, 0.0, 0.1
+format,SIMPLE_NAME, line no: 78,nextDouble,SIMPLE_NAME, line no: 64, 0.005611515351352578, insert, 0.9927007299270073, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 64,n1,SIMPLE_NAME, line no: 60, 0.0056112517860872355, insert, 0.9779411764705882, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 64,n2,SIMPLE_NAME, line no: 60, 0.0056112517860872355, insert, 0.9779411764705882, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 64,n3,SIMPLE_NAME, line no: 60, 0.0056112517860872355, insert, 0.9779411764705882, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 65,n1,SIMPLE_NAME, line no: 60, 0.0056112517860872355, insert, 0.9779411764705882, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 65,n2,SIMPLE_NAME, line no: 60, 0.0056112517860872355, insert, 0.9779411764705882, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 65,n3,SIMPLE_NAME, line no: 60, 0.0056112517860872355, insert, 0.9779411764705882, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 66,n1,SIMPLE_NAME, line no: 60, 0.0056112517860872355, insert, 0.9779411764705882, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 66,n2,SIMPLE_NAME, line no: 60, 0.0056112517860872355, insert, 0.9779411764705882, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 66,n3,SIMPLE_NAME, line no: 60, 0.0056112517860872355, insert, 0.9779411764705882, 0.0, 0.1
+format,SIMPLE_NAME, line no: 63,DoubleObj,SIMPLE_NAME, line no: 60, 0.005585826523490536, insert, 0.9708029197080292, 0.0, 0.1111111111111111
+format,SIMPLE_NAME, line no: 78,DoubleObj,SIMPLE_NAME, line no: 60, 0.005585826523490536, insert, 0.9708029197080292, 0.0, 0.1111111111111111
+median,SIMPLE_NAME, line no: 78,nextDouble,SIMPLE_NAME, line no: 64, 0.005576189966223784, insert, 0.9855072463768116, 0.0, 0.1
+median,SIMPLE_NAME, line no: 78,DoubleObj,SIMPLE_NAME, line no: 60, 0.005551280374798406, insert, 0.9637681159420289, 0.0, 0.1111111111111111
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,median,SIMPLE_NAME, line no: 61, 0.005537652026906103, insert, 0.9708029197080292, 0.0, 0.0851063829787234
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,format,SIMPLE_NAME, line no: 63, 0.005537652026906103, insert, 1.0, 0.0, 0.0851063829787234
+" %.0f is the median\n",STRING_LITERAL, line no: 78,nextDouble,SIMPLE_NAME, line no: 64, 0.0055154354987118365, insert, 0.9927007299270073, 0.0, 0.08695652173913043
+median.value,QUALIFIED_NAME, line no: 78,output,SIMPLE_NAME, line no: 49, 0.005452901774669504, insert, 0.3722627737226277, 0.0, 0.08333333333333333
+median.value,QUALIFIED_NAME, line no: 78,n1,SIMPLE_NAME, line no: 60, 0.005452901774669504, insert, 0.9708029197080292, 0.0, 0.08333333333333333
+median.value,QUALIFIED_NAME, line no: 78,n2,SIMPLE_NAME, line no: 60, 0.005452901774669504, insert, 0.9708029197080292, 0.0, 0.08333333333333333
+median.value,QUALIFIED_NAME, line no: 78,n3,SIMPLE_NAME, line no: 60, 0.005452901774669504, insert, 0.9708029197080292, 0.0, 0.08333333333333333
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,DoubleObj,SIMPLE_NAME, line no: 60, 0.005394272522559822, insert, 0.9708029197080292, 0.0, 0.0851063829787234
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,value,SIMPLE_NAME, line no: 7, 0.005380926026144609, insert, 0.043795620437956206, 0.0, 0.06382978723404255
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,String,SIMPLE_NAME, line no: 49, 0.005380926026144609, insert, 0.3722627737226277, 0.0, 0.06382978723404255
+n1.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.005334282769569854, insert, 0.03007518796992481, 0.0, 0.25806451612903225
+n2.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.005334282769569854, insert, 0.03007518796992481, 0.0, 0.25806451612903225
+n3.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.005334282769569854, insert, 0.03007518796992481, 0.0, 0.25806451612903225
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,output,SIMPLE_NAME, line no: 49, 0.005309236273971469, insert, 0.3722627737226277, 0.0, 0.06382978723404255
+" %.0f is the median\n",STRING_LITERAL, line no: 78,value,SIMPLE_NAME, line no: 7, 0.005231014199329268, insert, 0.043795620437956206, 0.0, 0.043478260869565216
+" %.0f is the median\n",STRING_LITERAL, line no: 78,output,SIMPLE_NAME, line no: 49, 0.005159324447156127, insert, 0.3722627737226277, 0.0, 0.043478260869565216
+" %.0f is the median\n",STRING_LITERAL, line no: 78,n1,SIMPLE_NAME, line no: 60, 0.005159324447156127, insert, 0.9708029197080292, 0.0, 0.043478260869565216
+" %.0f is the median\n",STRING_LITERAL, line no: 78,n2,SIMPLE_NAME, line no: 60, 0.005159324447156127, insert, 0.9708029197080292, 0.0, 0.043478260869565216
+" %.0f is the median\n",STRING_LITERAL, line no: 78,n3,SIMPLE_NAME, line no: 60, 0.005159324447156127, insert, 0.9708029197080292, 0.0, 0.043478260869565216
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,n3,SIMPLE_NAME, line no: 60, 0.005152510273209975, insert, 0.9708029197080292, 0.0, 0.0425531914893617
+" %.0f is the median\n",STRING_LITERAL, line no: 78,DoubleObj,SIMPLE_NAME, line no: 60, 0.005087634694982987, insert, 0.9708029197080292, 0.0, 0.043478260869565216
+String,SIMPLE_NAME, line no: 63,println,SIMPLE_NAME, line no: 56, 0.005056687876498308, insert, 0.38686131386861317, 0.0, 0.42857142857142855
+String,SIMPLE_NAME, line no: 78,println,SIMPLE_NAME, line no: 56, 0.005056687876498308, insert, 0.38686131386861317, 0.0, 0.42857142857142855
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,n1,SIMPLE_NAME, line no: 60, 0.004995784272448482, insert, 0.9708029197080292, 0.0, 0.02127659574468085
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,n2,SIMPLE_NAME, line no: 60, 0.004995784272448482, insert, 0.9708029197080292, 0.0, 0.02127659574468085
+String,SIMPLE_NAME, line no: 63,args,SIMPLE_NAME, line no: 50, 0.004390997320604859, insert, 0.39416058394160586, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 63,length,SIMPLE_NAME, line no: 50, 0.004390997320604859, insert, 0.39416058394160586, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 63,System,SIMPLE_NAME, line no: 53, 0.004390997320604859, insert, 0.1386861313868613, 0.0, 0.3333333333333333
+format,SIMPLE_NAME, line no: 63,out,SIMPLE_NAME, line no: 56, 0.004390997320604859, insert, 0.39416058394160586, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 78,args,SIMPLE_NAME, line no: 50, 0.004390997320604859, insert, 0.39416058394160586, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 78,length,SIMPLE_NAME, line no: 50, 0.004390997320604859, insert, 0.39416058394160586, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 78,System,SIMPLE_NAME, line no: 53, 0.004390997320604859, insert, 0.1386861313868613, 0.0, 0.3333333333333333
+format,SIMPLE_NAME, line no: 78,out,SIMPLE_NAME, line no: 56, 0.004390997320604859, insert, 0.39416058394160586, 0.0, 0.3333333333333333
+median.value,QUALIFIED_NAME, line no: 78,mainClass,SIMPLE_NAME, line no: 48, 0.004390997320604859, insert, 0.3722627737226277, 0.0, 0.3333333333333333
+median,SIMPLE_NAME, line no: 78,mainClass,SIMPLE_NAME, line no: 48, 0.004376971064744897, insert, 0.3695652173913043, 0.0, 0.3333333333333333
+median,SIMPLE_NAME, line no: 78,length,SIMPLE_NAME, line no: 50, 0.004376971064744897, insert, 0.391304347826087, 0.0, 0.3333333333333333
+value,SIMPLE_NAME, line no: 78,length,SIMPLE_NAME, line no: 50, 0.004376971064744897, insert, 0.391304347826087, 0.0, 0.3333333333333333
+median.value=n1.value; ,EXPRESSION_STATEMENT, line no: 71,median.value=n1.value; ,EXPRESSION_STATEMENT, line no: 71, 0.004330127018922193, insert, 1.0, 3.0, 1.0
+median.value=n1.value; ,EXPRESSION_STATEMENT, line no: 71,median.value=n2.value; ,EXPRESSION_STATEMENT, line no: 69, 0.004217167183645962, insert, 1.0, 1.5, 0.9565217391304348
+median.value=n1.value; ,EXPRESSION_STATEMENT, line no: 71,median.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74, 0.004217167183645962, insert, 1.0, 1.5, 0.9565217391304348
+median.value,QUALIFIED_NAME, line no: 78,median_9c9308d4_007,SIMPLE_NAME, line no: 48, 0.004190077357277505, insert, 0.3722627737226277, 0.0, 0.3157894736842105
+median,SIMPLE_NAME, line no: 78,median_9c9308d4_007,SIMPLE_NAME, line no: 48, 0.004176570592375319, insert, 0.3695652173913043, 0.0, 0.3157894736842105
+nextDouble,SIMPLE_NAME, line no: 64,exec,SIMPLE_NAME, line no: 55, 0.004123584002388432, insert, 0.3897058823529412, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 64,println,SIMPLE_NAME, line no: 56, 0.004123584002388432, insert, 0.3897058823529412, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 65,exec,SIMPLE_NAME, line no: 55, 0.004123584002388432, insert, 0.3897058823529412, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 65,println,SIMPLE_NAME, line no: 56, 0.004123584002388432, insert, 0.3897058823529412, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 66,exec,SIMPLE_NAME, line no: 55, 0.004123584002388432, insert, 0.3897058823529412, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 66,println,SIMPLE_NAME, line no: 56, 0.004123584002388432, insert, 0.3897058823529412, 0.0, 0.3
+output+=(String.format("Please enter 3 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,median.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74, 0.004071707323969121, insert, 0.07518796992481203, 0.0, 0.16216216216216217
+scanner,SIMPLE_NAME, line no: 64,args,SIMPLE_NAME, line no: 50, 0.00405446212894334, insert, 0.39705882352941174, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 64,System,SIMPLE_NAME, line no: 53, 0.00405446212894334, insert, 0.13970588235294118, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 65,args,SIMPLE_NAME, line no: 50, 0.00405446212894334, insert, 0.39705882352941174, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 65,System,SIMPLE_NAME, line no: 53, 0.00405446212894334, insert, 0.13970588235294118, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 66,args,SIMPLE_NAME, line no: 50, 0.00405446212894334, insert, 0.39705882352941174, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 66,System,SIMPLE_NAME, line no: 53, 0.00405446212894334, insert, 0.13970588235294118, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 64,println,SIMPLE_NAME, line no: 56, 0.004018353687591428, insert, 0.3897058823529412, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 65,println,SIMPLE_NAME, line no: 56, 0.004018353687591428, insert, 0.3897058823529412, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 66,println,SIMPLE_NAME, line no: 56, 0.004018353687591428, insert, 0.3897058823529412, 0.0, 0.2857142857142857
+format,SIMPLE_NAME, line no: 63,println,SIMPLE_NAME, line no: 56, 0.00400438472852828, insert, 0.38686131386861317, 0.0, 0.2857142857142857
+format,SIMPLE_NAME, line no: 78,println,SIMPLE_NAME, line no: 56, 0.00400438472852828, insert, 0.38686131386861317, 0.0, 0.2857142857142857
+median,SIMPLE_NAME, line no: 78,println,SIMPLE_NAME, line no: 56, 0.003990618218147206, insert, 0.38405797101449274, 0.0, 0.2857142857142857
+output+=(String.format("Please enter 3 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,median.value=n2.value; ,EXPRESSION_STATEMENT, line no: 69, 0.003812515999421629, insert, 0.07518796992481203, 0.0, 0.14864864864864866
+output+=(String.format("Please enter 3 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,median.value=n1.value; ,EXPRESSION_STATEMENT, line no: 71, 0.003812515999421629, insert, 0.07518796992481203, 0.0, 0.14864864864864866
+" %.0f is the median\n",STRING_LITERAL, line no: 78,median_9c9308d4_007,SIMPLE_NAME, line no: 48, 0.0037855306093164875, insert, 0.3722627737226277, 0.0, 0.2608695652173913
+median.value,QUALIFIED_NAME, line no: 78,println,SIMPLE_NAME, line no: 56, 0.003741308941535773, insert, 0.38686131386861317, 0.0, 0.25
+value,SIMPLE_NAME, line no: 78,java,SIMPLE_NAME, line no: 44, 0.0036581514264697195, insert, 0.014492753623188406, 0.0, 0.4
+scanner,SIMPLE_NAME, line no: 64,mainClass,SIMPLE_NAME, line no: 48, 0.0035867718409566623, insert, 0.375, 0.0, 0.2222222222222222
+scanner,SIMPLE_NAME, line no: 65,mainClass,SIMPLE_NAME, line no: 48, 0.0035867718409566623, insert, 0.375, 0.0, 0.2222222222222222
+scanner,SIMPLE_NAME, line no: 66,mainClass,SIMPLE_NAME, line no: 48, 0.0035867718409566623, insert, 0.375, 0.0, 0.2222222222222222
+String,SIMPLE_NAME, line no: 63,mainClass,SIMPLE_NAME, line no: 48, 0.0035725393166281716, insert, 0.3722627737226277, 0.0, 0.2222222222222222
+format,SIMPLE_NAME, line no: 63,mainClass,SIMPLE_NAME, line no: 48, 0.0035725393166281716, insert, 0.3722627737226277, 0.0, 0.2222222222222222
+String,SIMPLE_NAME, line no: 78,mainClass,SIMPLE_NAME, line no: 48, 0.0035725393166281716, insert, 0.3722627737226277, 0.0, 0.2222222222222222
+format,SIMPLE_NAME, line no: 78,mainClass,SIMPLE_NAME, line no: 48, 0.0035725393166281716, insert, 0.3722627737226277, 0.0, 0.2222222222222222
+value,SIMPLE_NAME, line no: 78,mainClass,SIMPLE_NAME, line no: 48, 0.003558513060768209, insert, 0.3695652173913043, 0.0, 0.2222222222222222
+nextDouble,SIMPLE_NAME, line no: 64,mainClass,SIMPLE_NAME, line no: 48, 0.0034230802401613246, insert, 0.375, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 64,length,SIMPLE_NAME, line no: 50, 0.0034230802401613246, insert, 0.39705882352941174, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 64,System,SIMPLE_NAME, line no: 53, 0.0034230802401613246, insert, 0.13970588235294118, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 64,out,SIMPLE_NAME, line no: 56, 0.0034230802401613246, insert, 0.39705882352941174, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,mainClass,SIMPLE_NAME, line no: 48, 0.0034230802401613246, insert, 0.375, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,length,SIMPLE_NAME, line no: 50, 0.0034230802401613246, insert, 0.39705882352941174, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,System,SIMPLE_NAME, line no: 53, 0.0034230802401613246, insert, 0.13970588235294118, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,out,SIMPLE_NAME, line no: 56, 0.0034230802401613246, insert, 0.39705882352941174, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,mainClass,SIMPLE_NAME, line no: 48, 0.0034230802401613246, insert, 0.375, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,length,SIMPLE_NAME, line no: 50, 0.0034230802401613246, insert, 0.39705882352941174, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,System,SIMPLE_NAME, line no: 53, 0.0034230802401613246, insert, 0.13970588235294118, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,out,SIMPLE_NAME, line no: 56, 0.0034230802401613246, insert, 0.39705882352941174, 0.0, 0.2
+value,SIMPLE_NAME, line no: 78,args,SIMPLE_NAME, line no: 50, 0.003394821459972871, insert, 0.391304347826087, 0.0, 0.2
+value,SIMPLE_NAME, line no: 78,out,SIMPLE_NAME, line no: 56, 0.003394821459972871, insert, 0.391304347826087, 0.0, 0.2
+value,SIMPLE_NAME, line no: 78,exec,SIMPLE_NAME, line no: 55, 0.00335923632936519, insert, 0.38405797101449274, 0.0, 0.2
+" %.0f is the median\n",STRING_LITERAL, line no: 78,System,SIMPLE_NAME, line no: 53, 0.0032166880105513507, insert, 0.1386861313868613, 0.0, 0.17391304347826086
+String,SIMPLE_NAME, line no: 63,util,SIMPLE_NAME, line no: 44, 0.00317227153366147, insert, 0.014598540145985401, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 78,util,SIMPLE_NAME, line no: 44, 0.00317227153366147, insert, 0.014598540145985401, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 63,out,SIMPLE_NAME, line no: 56, 0.0031633103146398276, insert, 0.39416058394160586, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 63,args,SIMPLE_NAME, line no: 50, 0.0031633103146398276, insert, 0.39416058394160586, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 63,length,SIMPLE_NAME, line no: 50, 0.0031633103146398276, insert, 0.39416058394160586, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 63,System,SIMPLE_NAME, line no: 53, 0.0031633103146398276, insert, 0.1386861313868613, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 78,out,SIMPLE_NAME, line no: 56, 0.0031633103146398276, insert, 0.39416058394160586, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 78,args,SIMPLE_NAME, line no: 50, 0.0031633103146398276, insert, 0.39416058394160586, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 78,length,SIMPLE_NAME, line no: 50, 0.0031633103146398276, insert, 0.39416058394160586, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 78,System,SIMPLE_NAME, line no: 53, 0.0031633103146398276, insert, 0.1386861313868613, 0.0, 0.16666666666666666
+median.value,QUALIFIED_NAME, line no: 78,length,SIMPLE_NAME, line no: 50, 0.0031633103146398276, insert, 0.39416058394160586, 0.0, 0.16666666666666666
+median,SIMPLE_NAME, line no: 78,args,SIMPLE_NAME, line no: 50, 0.0031492840587798655, insert, 0.391304347826087, 0.0, 0.16666666666666666
+median,SIMPLE_NAME, line no: 78,System,SIMPLE_NAME, line no: 53, 0.0031492840587798655, insert, 0.13768115942028986, 0.0, 0.16666666666666666
+value,SIMPLE_NAME, line no: 78,System,SIMPLE_NAME, line no: 53, 0.0031492840587798655, insert, 0.13768115942028986, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 63,in,SIMPLE_NAME, line no: 53, 0.0031364266575748994, insert, 0.1386861313868613, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 78,in,SIMPLE_NAME, line no: 53, 0.0031364266575748994, insert, 0.1386861313868613, 0.0, 0.3333333333333333
+median,SIMPLE_NAME, line no: 78,in,SIMPLE_NAME, line no: 53, 0.003131491493476024, insert, 0.13768115942028986, 0.0, 0.3333333333333333
+median.value,QUALIFIED_NAME, line no: 78,exec,SIMPLE_NAME, line no: 55, 0.003127465438553257, insert, 0.38686131386861317, 0.0, 0.16666666666666666
+median,SIMPLE_NAME, line no: 78,exec,SIMPLE_NAME, line no: 55, 0.003113698928172183, insert, 0.38405797101449274, 0.0, 0.16666666666666666
+scanner,SIMPLE_NAME, line no: 64,length,SIMPLE_NAME, line no: 50, 0.0030021589809733134, insert, 0.39705882352941174, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 65,length,SIMPLE_NAME, line no: 50, 0.0030021589809733134, insert, 0.39705882352941174, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 66,length,SIMPLE_NAME, line no: 50, 0.0030021589809733134, insert, 0.39705882352941174, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 64,exec,SIMPLE_NAME, line no: 55, 0.002966050539621401, insert, 0.3897058823529412, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 65,exec,SIMPLE_NAME, line no: 55, 0.002966050539621401, insert, 0.3897058823529412, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 66,exec,SIMPLE_NAME, line no: 55, 0.002966050539621401, insert, 0.3897058823529412, 0.0, 0.14285714285714285
+median.value,QUALIFIED_NAME, line no: 78,median.value,QUALIFIED_NAME, line no: 69, 0.0029417420270727605, insert, 0.08759124087591241, 2.0, 1.0
+value,SIMPLE_NAME, line no: 78,println,SIMPLE_NAME, line no: 56, 0.0029383150701771787, insert, 0.38405797101449274, 0.0, 0.14285714285714285
+median.value=n1.value; ,EXPRESSION_STATEMENT, line no: 71,n1.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64, 0.002905375548180052, insert, 1.0, 1.5, 0.45161290322580644
+median.value=n1.value; ,EXPRESSION_STATEMENT, line no: 71,n2.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65, 0.002905375548180052, insert, 1.0, 0.6000000000000001, 0.45161290322580644
+median.value=n1.value; ,EXPRESSION_STATEMENT, line no: 71,n3.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66, 0.002905375548180052, insert, 1.0, 0.6000000000000001, 0.45161290322580644
+" %.0f is the median\n",STRING_LITERAL, line no: 78,mainClass,SIMPLE_NAME, line no: 48, 0.002896421835082212, insert, 0.3722627737226277, 0.0, 0.13043478260869565
+" %.0f is the median\n",STRING_LITERAL, line no: 78,println,SIMPLE_NAME, line no: 56, 0.0028605769589956417, insert, 0.38686131386861317, 0.0, 0.13043478260869565
+String,SIMPLE_NAME, line no: 63,Scanner,SIMPLE_NAME, line no: 44, 0.0027856589415848902, insert, 0.0072992700729927005, 0.0, 0.2857142857142857
+String,SIMPLE_NAME, line no: 78,Scanner,SIMPLE_NAME, line no: 44, 0.0027856589415848902, insert, 0.0072992700729927005, 0.0, 0.2857142857142857
+median,SIMPLE_NAME, line no: 78,Scanner,SIMPLE_NAME, line no: 44, 0.0027807237774860145, insert, 0.007246376811594203, 0.0, 0.2857142857142857
+value,SIMPLE_NAME, line no: 78,Scanner,SIMPLE_NAME, line no: 44, 0.0027807237774860145, insert, 0.007246376811594203, 0.0, 0.2857142857142857
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,mainClass,SIMPLE_NAME, line no: 48, 0.002719253312482263, insert, 0.3722627737226277, 0.0, 0.10638297872340426
+scanner,SIMPLE_NAME, line no: 64,median_9c9308d4_007,SIMPLE_NAME, line no: 48, 0.002653020217224744, insert, 0.375, 0.0, 0.10526315789473684
+scanner,SIMPLE_NAME, line no: 65,median_9c9308d4_007,SIMPLE_NAME, line no: 48, 0.002653020217224744, insert, 0.375, 0.0, 0.10526315789473684
+scanner,SIMPLE_NAME, line no: 66,median_9c9308d4_007,SIMPLE_NAME, line no: 48, 0.002653020217224744, insert, 0.375, 0.0, 0.10526315789473684
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,median_9c9308d4_007,SIMPLE_NAME, line no: 48, 0.0026475635603091215, insert, 0.3722627737226277, 0.0, 0.10638297872340426
+String,SIMPLE_NAME, line no: 63,median_9c9308d4_007,SIMPLE_NAME, line no: 48, 0.0026393148234269376, insert, 0.3722627737226277, 0.0, 0.10526315789473684
+format,SIMPLE_NAME, line no: 63,median_9c9308d4_007,SIMPLE_NAME, line no: 48, 0.0026393148234269376, insert, 0.3722627737226277, 0.0, 0.10526315789473684
+String,SIMPLE_NAME, line no: 78,median_9c9308d4_007,SIMPLE_NAME, line no: 48, 0.0026393148234269376, insert, 0.3722627737226277, 0.0, 0.10526315789473684
+format,SIMPLE_NAME, line no: 78,median_9c9308d4_007,SIMPLE_NAME, line no: 48, 0.0026393148234269376, insert, 0.3722627737226277, 0.0, 0.10526315789473684
+" %.0f is the median\n",STRING_LITERAL, line no: 78,length,SIMPLE_NAME, line no: 50, 0.002576155659613073, insert, 0.39416058394160586, 0.0, 0.08695652173913043
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,length,SIMPLE_NAME, line no: 50, 0.002562527311720769, insert, 0.39416058394160586, 0.0, 0.0851063829787234
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,System,SIMPLE_NAME, line no: 53, 0.002562527311720769, insert, 0.1386861313868613, 0.0, 0.0851063829787234
+median.value,QUALIFIED_NAME, line no: 78,java,SIMPLE_NAME, line no: 44, 0.002558428030678954, insert, 0.014598540145985401, 0.0, 0.25
+median.value,QUALIFIED_NAME, line no: 78,args,SIMPLE_NAME, line no: 50, 0.0025494668116573115, insert, 0.39416058394160586, 0.0, 0.08333333333333333
+median.value,QUALIFIED_NAME, line no: 78,System,SIMPLE_NAME, line no: 53, 0.0025494668116573115, insert, 0.1386861313868613, 0.0, 0.08333333333333333
+median.value,QUALIFIED_NAME, line no: 78,out,SIMPLE_NAME, line no: 56, 0.0025494668116573115, insert, 0.39416058394160586, 0.0, 0.08333333333333333
+" %.0f is the median\n",STRING_LITERAL, line no: 78,exec,SIMPLE_NAME, line no: 55, 0.002540310783526503, insert, 0.38686131386861317, 0.0, 0.08695652173913043
+median.value,QUALIFIED_NAME, line no: 78,Scanner,SIMPLE_NAME, line no: 44, 0.0025225831545923837, insert, 0.0072992700729927005, 0.0, 0.25
+output+=(String.format(" %.0f is the median\n" median.value)); ,EXPRESSION_STATEMENT, line no: 78,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.0025156932402612877, insert, 0.03007518796992481, 0.0, 0.1111111111111111
+median.value=n1.value; ,EXPRESSION_STATEMENT, line no: 71,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.0024625244090218388, insert, 0.9, 0.0, 0.34782608695652173
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,args,SIMPLE_NAME, line no: 50, 0.002405801310959276, insert, 0.39416058394160586, 0.0, 0.06382978723404255
+median.value=n1.value; ,EXPRESSION_STATEMENT, line no: 71,output+=(String.format(" %.0f is the median\n" median.value)); ,EXPRESSION_STATEMENT, line no: 78, 0.0023918796866427357, insert, 1.0, 1.5, 0.25396825396825395
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,exec,SIMPLE_NAME, line no: 55, 0.0023699564348727054, insert, 0.38686131386861317, 0.0, 0.06382978723404255
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,println,SIMPLE_NAME, line no: 56, 0.0023699564348727054, insert, 0.38686131386861317, 0.0, 0.06382978723404255
+median.value=n1.value; ,EXPRESSION_STATEMENT, line no: 71,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.002286307065990918, insert, 0.9, 0.0, 0.28
+nextDouble,SIMPLE_NAME, line no: 64,median_9c9308d4_007,SIMPLE_NAME, line no: 48, 0.002265329583762103, insert, 0.375, 0.0, 0.05263157894736842
+nextDouble,SIMPLE_NAME, line no: 65,median_9c9308d4_007,SIMPLE_NAME, line no: 48, 0.002265329583762103, insert, 0.375, 0.0, 0.05263157894736842
+nextDouble,SIMPLE_NAME, line no: 66,median_9c9308d4_007,SIMPLE_NAME, line no: 48, 0.002265329583762103, insert, 0.375, 0.0, 0.05263157894736842
+median.value=n1.value; ,EXPRESSION_STATEMENT, line no: 71,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.0022583277837148054, insert, 0.9, 0.0, 0.2692307692307692
+" %.0f is the median\n",STRING_LITERAL, line no: 78,args,SIMPLE_NAME, line no: 50, 0.002255889484143934, insert, 0.39416058394160586, 0.0, 0.043478260869565216
+" %.0f is the median\n",STRING_LITERAL, line no: 78,out,SIMPLE_NAME, line no: 56, 0.002255889484143934, insert, 0.39416058394160586, 0.0, 0.043478260869565216
+value,SIMPLE_NAME, line no: 78,n1.value,QUALIFIED_NAME, line no: 64, 0.0022542697055285828, insert, 0.9782608695652174, 1.0, 0.625
+value,SIMPLE_NAME, line no: 78,n2.value,QUALIFIED_NAME, line no: 65, 0.0022542697055285828, insert, 0.9782608695652174, 1.0, 0.625
+value,SIMPLE_NAME, line no: 78,n3.value,QUALIFIED_NAME, line no: 66, 0.0022542697055285828, insert, 0.9782608695652174, 1.0, 0.625
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,out,SIMPLE_NAME, line no: 56, 0.0022490753101977825, insert, 0.39416058394160586, 0.0, 0.0425531914893617
+median.value=n1.value; ,EXPRESSION_STATEMENT, line no: 71,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.0022425499929575993, insert, 0.9, 0.0, 0.2631578947368421
+value,SIMPLE_NAME, line no: 78,median_9c9308d4_007,SIMPLE_NAME, line no: 48, 0.0022381174250621105, insert, 0.3695652173913043, 0.0, 0.05263157894736842
+nextDouble,SIMPLE_NAME, line no: 64,util,SIMPLE_NAME, line no: 44, 0.002195393234196293, insert, 0.014705882352941176, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,util,SIMPLE_NAME, line no: 44, 0.002195393234196293, insert, 0.014705882352941176, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,util,SIMPLE_NAME, line no: 44, 0.002195393234196293, insert, 0.014705882352941176, 0.0, 0.2
+median.value,QUALIFIED_NAME, line no: 78,n1.value,QUALIFIED_NAME, line no: 64, 0.002189128464672029, insert, 0.9854014598540146, 0.6666666666666666, 0.5833333333333334
+median.value,QUALIFIED_NAME, line no: 78,n2.value,QUALIFIED_NAME, line no: 65, 0.002189128464672029, insert, 0.9854014598540146, 0.6666666666666666, 0.5833333333333334
+median.value,QUALIFIED_NAME, line no: 78,n3.value,QUALIFIED_NAME, line no: 66, 0.002189128464672029, insert, 0.9854014598540146, 0.6666666666666666, 0.5833333333333334
+value,SIMPLE_NAME, line no: 78,util,SIMPLE_NAME, line no: 44, 0.0021849270193116804, insert, 0.014492753623188406, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 64,Scanner,SIMPLE_NAME, line no: 44, 0.00215928479284438, insert, 0.007352941176470588, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,Scanner,SIMPLE_NAME, line no: 44, 0.00215928479284438, insert, 0.007352941176470588, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,Scanner,SIMPLE_NAME, line no: 44, 0.00215928479284438, insert, 0.007352941176470588, 0.0, 0.2
+median.value=n1.value; ,EXPRESSION_STATEMENT, line no: 71,output+=(String.format("Please enter 3 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62, 0.0021182513254727484, insert, 1.0, 0.0, 0.14864864864864866
+median,SIMPLE_NAME, line no: 78,median.value,QUALIFIED_NAME, line no: 69, 0.0020506926304666635, insert, 0.08695652173913043, 1.0, 0.5
+format,SIMPLE_NAME, line no: 63,java,SIMPLE_NAME, line no: 44, 0.0019445845276964376, insert, 0.014598540145985401, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 63,util,SIMPLE_NAME, line no: 44, 0.0019445845276964376, insert, 0.014598540145985401, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 78,java,SIMPLE_NAME, line no: 44, 0.0019445845276964376, insert, 0.014598540145985401, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 78,util,SIMPLE_NAME, line no: 44, 0.0019445845276964376, insert, 0.014598540145985401, 0.0, 0.16666666666666666
+median.value,QUALIFIED_NAME, line no: 78,util,SIMPLE_NAME, line no: 44, 0.0019445845276964376, insert, 0.014598540145985401, 0.0, 0.16666666666666666
+output+=(String.format("Please enter 3 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.0019397125190446388, insert, 0.03007518796992481, 0.0, 0.08108108108108109
+median,SIMPLE_NAME, line no: 78,java,SIMPLE_NAME, line no: 44, 0.0019393896181186742, insert, 0.014492753623188406, 0.0, 0.16666666666666666
+median,SIMPLE_NAME, line no: 78,util,SIMPLE_NAME, line no: 44, 0.0019393896181186742, insert, 0.014492753623188406, 0.0, 0.16666666666666666
+median.value,QUALIFIED_NAME, line no: 78,in,SIMPLE_NAME, line no: 53, 0.0019087396516098674, insert, 0.1386861313868613, 0.0, 0.16666666666666666
+value,SIMPLE_NAME, line no: 78,median.value,QUALIFIED_NAME, line no: 69, 0.0019036055291130256, insert, 0.08695652173913043, 1.0, 0.4166666666666667
+scanner,SIMPLE_NAME, line no: 64,java,SIMPLE_NAME, line no: 44, 0.0017744719750082817, insert, 0.014705882352941176, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 65,java,SIMPLE_NAME, line no: 44, 0.0017744719750082817, insert, 0.014705882352941176, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 66,java,SIMPLE_NAME, line no: 44, 0.0017744719750082817, insert, 0.014705882352941176, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 64,in,SIMPLE_NAME, line no: 53, 0.001738363533656369, insert, 0.13970588235294118, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 65,in,SIMPLE_NAME, line no: 53, 0.001738363533656369, insert, 0.13970588235294118, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 66,in,SIMPLE_NAME, line no: 53, 0.001738363533656369, insert, 0.13970588235294118, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 63,Scanner,SIMPLE_NAME, line no: 44, 0.0017333557936148626, insert, 0.0072992700729927005, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 78,Scanner,SIMPLE_NAME, line no: 44, 0.0017333557936148626, insert, 0.0072992700729927005, 0.0, 0.14285714285714285
+nextDouble,SIMPLE_NAME, line no: 64,n1.value,QUALIFIED_NAME, line no: 64, 0.0016975581932696343, insert, 0.9926470588235294, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 64,n2.value,QUALIFIED_NAME, line no: 65, 0.0016975581932696343, insert, 0.9926470588235294, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 64,n3.value,QUALIFIED_NAME, line no: 66, 0.0016975581932696343, insert, 0.9926470588235294, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 65,n1.value,QUALIFIED_NAME, line no: 64, 0.0016975581932696343, insert, 0.9926470588235294, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 65,n2.value,QUALIFIED_NAME, line no: 65, 0.0016975581932696343, insert, 0.9926470588235294, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 65,n3.value,QUALIFIED_NAME, line no: 66, 0.0016975581932696343, insert, 0.9926470588235294, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 66,n1.value,QUALIFIED_NAME, line no: 64, 0.0016975581932696343, insert, 0.9926470588235294, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 66,n2.value,QUALIFIED_NAME, line no: 65, 0.0016975581932696343, insert, 0.9926470588235294, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 66,n3.value,QUALIFIED_NAME, line no: 66, 0.0016975581932696343, insert, 0.9926470588235294, 0.0, 0.3
+" %.0f is the median\n",STRING_LITERAL, line no: 78,Scanner,SIMPLE_NAME, line no: 44, 0.001641851172052252, insert, 0.0072992700729927005, 0.0, 0.13043478260869565
+" %.0f is the median\n",STRING_LITERAL, line no: 78,median.value,QUALIFIED_NAME, line no: 69, 0.0016371433889796232, insert, 0.08759124087591241, 0.0, 0.2608695652173913
+scanner,SIMPLE_NAME, line no: 64,median.value,QUALIFIED_NAME, line no: 69, 0.0016179581148900184, insert, 0.08823529411764706, 0.0, 0.25
+nextDouble,SIMPLE_NAME, line no: 64,median.value,QUALIFIED_NAME, line no: 69, 0.0016179581148900184, insert, 0.08823529411764706, 0.0, 0.25
+scanner,SIMPLE_NAME, line no: 65,median.value,QUALIFIED_NAME, line no: 69, 0.0016179581148900184, insert, 0.08823529411764706, 0.0, 0.25
+nextDouble,SIMPLE_NAME, line no: 65,median.value,QUALIFIED_NAME, line no: 69, 0.0016179581148900184, insert, 0.08823529411764706, 0.0, 0.25
+scanner,SIMPLE_NAME, line no: 66,median.value,QUALIFIED_NAME, line no: 69, 0.0016179581148900184, insert, 0.08823529411764706, 0.0, 0.25
+nextDouble,SIMPLE_NAME, line no: 66,median.value,QUALIFIED_NAME, line no: 69, 0.0016179581148900184, insert, 0.08823529411764706, 0.0, 0.25
+scanner,SIMPLE_NAME, line no: 64,n1.value,QUALIFIED_NAME, line no: 64, 0.0016093059324574514, insert, 0.9926470588235294, 0.0, 0.25
+scanner,SIMPLE_NAME, line no: 64,n2.value,QUALIFIED_NAME, line no: 65, 0.0016093059324574514, insert, 0.9926470588235294, 0.0, 0.25
+scanner,SIMPLE_NAME, line no: 64,n3.value,QUALIFIED_NAME, line no: 66, 0.0016093059324574514, insert, 0.9926470588235294, 0.0, 0.25
+scanner,SIMPLE_NAME, line no: 65,n1.value,QUALIFIED_NAME, line no: 64, 0.0016093059324574514, insert, 0.9926470588235294, 0.0, 0.25
+scanner,SIMPLE_NAME, line no: 65,n2.value,QUALIFIED_NAME, line no: 65, 0.0016093059324574514, insert, 0.9926470588235294, 0.0, 0.25
+scanner,SIMPLE_NAME, line no: 65,n3.value,QUALIFIED_NAME, line no: 66, 0.0016093059324574514, insert, 0.9926470588235294, 0.0, 0.25
+scanner,SIMPLE_NAME, line no: 66,n1.value,QUALIFIED_NAME, line no: 64, 0.0016093059324574514, insert, 0.9926470588235294, 0.0, 0.25
+scanner,SIMPLE_NAME, line no: 66,n2.value,QUALIFIED_NAME, line no: 65, 0.0016093059324574514, insert, 0.9926470588235294, 0.0, 0.25
+scanner,SIMPLE_NAME, line no: 66,n3.value,QUALIFIED_NAME, line no: 66, 0.0016093059324574514, insert, 0.9926470588235294, 0.0, 0.25
+median.value=n1.value; ,EXPRESSION_STATEMENT, line no: 71,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.0015964990052374, insert, 0.4, 0.0, 0.34782608695652173
+output+=(String.format(" %.0f is the median\n" median.value)); ,EXPRESSION_STATEMENT, line no: 78,if (n2.value >= n3.value) {   median.value=n3.value; }  else {   median.value=n2.value; } ,IF_STATEMENT, line no: 73, 0.0014826379816446713, insert, 1.0, 1.6, 0.3333333333333333
+String,SIMPLE_NAME, line no: 63,median.value,QUALIFIED_NAME, line no: 69, 0.0014708710135363802, insert, 0.08759124087591241, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 63,median.value,QUALIFIED_NAME, line no: 69, 0.0014708710135363802, insert, 0.08759124087591241, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 78,median.value,QUALIFIED_NAME, line no: 69, 0.0014708710135363802, insert, 0.08759124087591241, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 78,median.value,QUALIFIED_NAME, line no: 69, 0.0014708710135363802, insert, 0.08759124087591241, 0.0, 0.16666666666666666
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,Scanner,SIMPLE_NAME, line no: 44, 0.0014646826494523026, insert, 0.0072992700729927005, 0.0, 0.10638297872340426
+String,SIMPLE_NAME, line no: 63,i,SIMPLE_NAME, line no: 7, 0.0014427562624844538, insert, 0.043795620437956206, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 78,i,SIMPLE_NAME, line no: 7, 0.0014427562624844538, insert, 0.043795620437956206, 0.0, 0.16666666666666666
+median,SIMPLE_NAME, line no: 78,i,SIMPLE_NAME, line no: 7, 0.0014411977896111245, insert, 0.043478260869565216, 0.0, 0.16666666666666666
+nextDouble,SIMPLE_NAME, line no: 64,in,SIMPLE_NAME, line no: 53, 0.0014226725892653607, insert, 0.13970588235294118, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 65,in,SIMPLE_NAME, line no: 53, 0.0014226725892653607, insert, 0.13970588235294118, 0.0, 0.1
+nextDouble,SIMPLE_NAME, line no: 66,in,SIMPLE_NAME, line no: 53, 0.0014226725892653607, insert, 0.13970588235294118, 0.0, 0.1
+output+=(String.format("Please enter 3 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,if (n2.value >= n3.value) {   median.value=n3.value; }  else {   median.value=n2.value; } ,IF_STATEMENT, line no: 73, 0.0014002692048866341, insert, 1.0, 0.0, 0.2777777777777778
+String,SIMPLE_NAME, line no: 63,n1.value,QUALIFIED_NAME, line no: 64, 0.0013801494072270197, insert, 0.9854014598540146, 0.0, 0.125
+String,SIMPLE_NAME, line no: 63,n2.value,QUALIFIED_NAME, line no: 65, 0.0013801494072270197, insert, 0.9854014598540146, 0.0, 0.125
+String,SIMPLE_NAME, line no: 63,n3.value,QUALIFIED_NAME, line no: 66, 0.0013801494072270197, insert, 0.9854014598540146, 0.0, 0.125
+format,SIMPLE_NAME, line no: 63,n1.value,QUALIFIED_NAME, line no: 64, 0.0013801494072270197, insert, 0.9854014598540146, 0.0, 0.125
+format,SIMPLE_NAME, line no: 63,n2.value,QUALIFIED_NAME, line no: 65, 0.0013801494072270197, insert, 0.9854014598540146, 0.0, 0.125
+format,SIMPLE_NAME, line no: 63,n3.value,QUALIFIED_NAME, line no: 66, 0.0013801494072270197, insert, 0.9854014598540146, 0.0, 0.125
+String,SIMPLE_NAME, line no: 78,n1.value,QUALIFIED_NAME, line no: 64, 0.0013801494072270197, insert, 0.9854014598540146, 0.0, 0.125
+String,SIMPLE_NAME, line no: 78,n2.value,QUALIFIED_NAME, line no: 65, 0.0013801494072270197, insert, 0.9854014598540146, 0.0, 0.125
+String,SIMPLE_NAME, line no: 78,n3.value,QUALIFIED_NAME, line no: 66, 0.0013801494072270197, insert, 0.9854014598540146, 0.0, 0.125
+format,SIMPLE_NAME, line no: 78,n1.value,QUALIFIED_NAME, line no: 64, 0.0013801494072270197, insert, 0.9854014598540146, 0.0, 0.125
+format,SIMPLE_NAME, line no: 78,n2.value,QUALIFIED_NAME, line no: 65, 0.0013801494072270197, insert, 0.9854014598540146, 0.0, 0.125
+format,SIMPLE_NAME, line no: 78,n3.value,QUALIFIED_NAME, line no: 66, 0.0013801494072270197, insert, 0.9854014598540146, 0.0, 0.125
+median,SIMPLE_NAME, line no: 78,n1.value,QUALIFIED_NAME, line no: 64, 0.0013717470974067547, insert, 0.9782608695652174, 0.0, 0.125
+median,SIMPLE_NAME, line no: 78,n2.value,QUALIFIED_NAME, line no: 65, 0.0013717470974067547, insert, 0.9782608695652174, 0.0, 0.125
+median,SIMPLE_NAME, line no: 78,n3.value,QUALIFIED_NAME, line no: 66, 0.0013717470974067547, insert, 0.9782608695652174, 0.0, 0.125
+n1.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,if (true) return; ,IF_STATEMENT, line no: 79, 0.0013710415744241046, insert, 1.0, 0.0, 0.25806451612903225
+n2.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,if (true) return; ,IF_STATEMENT, line no: 79, 0.0013710415744241046, insert, 1.0, 0.0, 0.25806451612903225
+n3.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,if (true) return; ,IF_STATEMENT, line no: 79, 0.0013710415744241046, insert, 1.0, 0.0, 0.25806451612903225
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,median.value,QUALIFIED_NAME, line no: 69, 0.0013644675785145996, insert, 0.08759124087591241, 0.0, 0.10638297872340426
+" %.0f is the median\n",STRING_LITERAL, line no: 78,util,SIMPLE_NAME, line no: 44, 0.001357429872669683, insert, 0.014598540145985401, 0.0, 0.08695652173913043
+" %.0f is the median\n",STRING_LITERAL, line no: 78,in,SIMPLE_NAME, line no: 53, 0.001321584996583113, insert, 0.1386861313868613, 0.0, 0.08695652173913043
+" %.0f is the median\n",STRING_LITERAL, line no: 78,n1.value,QUALIFIED_NAME, line no: 64, 0.0013130009479134022, insert, 0.9854014598540146, 0.0, 0.08695652173913043
+" %.0f is the median\n",STRING_LITERAL, line no: 78,n2.value,QUALIFIED_NAME, line no: 65, 0.0013130009479134022, insert, 0.9854014598540146, 0.0, 0.08695652173913043
+" %.0f is the median\n",STRING_LITERAL, line no: 78,n3.value,QUALIFIED_NAME, line no: 66, 0.0013130009479134022, insert, 0.9854014598540146, 0.0, 0.08695652173913043
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,n3.value,QUALIFIED_NAME, line no: 66, 0.001309735369344959, insert, 0.9854014598540146, 0.0, 0.0851063829787234
+n2.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,if (n2.value >= n3.value) {   median.value=n3.value; }  else {   median.value=n2.value; } ,IF_STATEMENT, line no: 73, 0.0013014266727769891, insert, 1.0, 1.6, 0.2111111111111111
+n1.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,if (n2.value >= n3.value) {   median.value=n3.value; }  else {   median.value=n2.value; } ,IF_STATEMENT, line no: 73, 0.001284952917425382, insert, 1.0, 0.6666666666666666, 0.2
+n3.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,if (n2.value >= n3.value) {   median.value=n3.value; }  else {   median.value=n2.value; } ,IF_STATEMENT, line no: 73, 0.001284952917425382, insert, 1.0, 1.6, 0.2
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,n1.value,QUALIFIED_NAME, line no: 64, 0.0012721812158078597, insert, 0.9854014598540146, 0.0, 0.06382978723404255
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,n2.value,QUALIFIED_NAME, line no: 65, 0.0012721812158078597, insert, 0.9854014598540146, 0.0, 0.06382978723404255
+output+=(String.format("Please enter 3 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,if (true) return; ,IF_STATEMENT, line no: 79, 0.0012288531019036917, insert, 1.0, 0.0, 0.16216216216216217
+output+=(String.format(" %.0f is the median\n" median.value)); ,EXPRESSION_STATEMENT, line no: 78,if (true) return; ,IF_STATEMENT, line no: 79, 0.0012237646832622684, insert, 1.0, 0.0, 0.15873015873015872
+output+=(String.format("Please enter 3 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,if (n1.value >= n2.value || n1.value >= n3.value) {   if (n2.value >= n3.value && n1.value >= n2.value) {     median.value=n2.value;   }  else {     median.value=n1.value;   } }  else if (n2.value >= n3.value) {   median.value=n3.value; }  else {   median.value=n2.value; } ,IF_STATEMENT, line no: 67, 0.0011886355594937208, insert, 1.0, 0.0, 0.13503649635036497
+output+=(String.format(" %.0f is the median\n" median.value)); ,EXPRESSION_STATEMENT, line no: 78,if (n1.value >= n2.value || n1.value >= n3.value) {   if (n2.value >= n3.value && n1.value >= n2.value) {     median.value=n2.value;   }  else {     median.value=n1.value;   } }  else if (n2.value >= n3.value) {   median.value=n3.value; }  else {   median.value=n2.value; } ,IF_STATEMENT, line no: 67, 0.00118322447196947, insert, 1.0, 1.6666666666666665, 0.13138686131386862
+value,SIMPLE_NAME, line no: 78,true,BOOLEAN_LITERAL, line no: 79, 0.0011531173984072728, insert, 0.9637681159420289, 0.0, 0.4
+n1.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,if (n1.value >= n2.value || n1.value >= n3.value) {   if (n2.value >= n3.value && n1.value >= n2.value) {     median.value=n2.value;   }  else {     median.value=n1.value;   } }  else if (n2.value >= n3.value) {   median.value=n3.value; }  else {   median.value=n2.value; } ,IF_STATEMENT, line no: 67, 0.001112880334154212, insert, 1.0, 1.6666666666666665, 0.08394160583941605
+n2.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,if (n1.value >= n2.value || n1.value >= n3.value) {   if (n2.value >= n3.value && n1.value >= n2.value) {     median.value=n2.value;   }  else {     median.value=n1.value;   } }  else if (n2.value >= n3.value) {   median.value=n3.value; }  else {   median.value=n2.value; } ,IF_STATEMENT, line no: 67, 0.001112880334154212, insert, 1.0, 1.6666666666666665, 0.08394160583941605
+n3.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,if (n1.value >= n2.value || n1.value >= n3.value) {   if (n2.value >= n3.value && n1.value >= n2.value) {     median.value=n2.value;   }  else {     median.value=n1.value;   } }  else if (n2.value >= n3.value) {   median.value=n3.value; }  else {   median.value=n2.value; } ,IF_STATEMENT, line no: 67, 0.001112880334154212, insert, 1.0, 1.6666666666666665, 0.08394160583941605
+String,SIMPLE_NAME, line no: 63,true,BOOLEAN_LITERAL, line no: 79, 0.0010845651724532392, insert, 0.9708029197080292, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 78,true,BOOLEAN_LITERAL, line no: 79, 0.0010845651724532392, insert, 0.9708029197080292, 0.0, 0.3333333333333333
+nextDouble,SIMPLE_NAME, line no: 64,true,BOOLEAN_LITERAL, line no: 79, 0.0010529590658001535, insert, 0.9779411764705882, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 65,true,BOOLEAN_LITERAL, line no: 79, 0.0010529590658001535, insert, 0.9779411764705882, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 66,true,BOOLEAN_LITERAL, line no: 79, 0.0010529590658001535, insert, 0.9779411764705882, 0.0, 0.3
+median.value,QUALIFIED_NAME, line no: 78,args.length,QUALIFIED_NAME, line no: 50, 0.0010435668796769063, insert, 0.38686131386861317, 0.0, 0.3333333333333333
+" %.0f is the median\n",STRING_LITERAL, line no: 78,java,SIMPLE_NAME, line no: 44, 0.0010371636972005445, insert, 0.014598540145985401, 0.0, 0.043478260869565216
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,java,SIMPLE_NAME, line no: 44, 0.0010303495232543926, insert, 0.014598540145985401, 0.0, 0.0425531914893617
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,util,SIMPLE_NAME, line no: 44, 0.0010303495232543926, insert, 0.014598540145985401, 0.0, 0.0425531914893617
+median.value,QUALIFIED_NAME, line no: 78,mainClass.output,QUALIFIED_NAME, line no: 56, 0.0010067951043384968, insert, 0.38686131386861317, 0.0, 0.3125
+nextDouble,SIMPLE_NAME, line no: 64,System.out,QUALIFIED_NAME, line no: 56, 9.880792337991448E-4, insert, 0.3897058823529412, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 65,System.out,QUALIFIED_NAME, line no: 56, 9.880792337991448E-4, insert, 0.3897058823529412, 0.0, 0.3
+nextDouble,SIMPLE_NAME, line no: 66,System.out,QUALIFIED_NAME, line no: 56, 9.880792337991448E-4, insert, 0.3897058823529412, 0.0, 0.3
+String,SIMPLE_NAME, line no: 63,System.in,QUALIFIED_NAME, line no: 53, 9.390670412456112E-4, insert, 0.13138686131386862, 0.0, 0.4444444444444444
+String,SIMPLE_NAME, line no: 78,System.in,QUALIFIED_NAME, line no: 53, 9.390670412456112E-4, insert, 0.13138686131386862, 0.0, 0.4444444444444444
+String,SIMPLE_NAME, line no: 63,args.length,QUALIFIED_NAME, line no: 50, 9.36594442328806E-4, insert, 0.38686131386861317, 0.0, 0.2727272727272727
+String,SIMPLE_NAME, line no: 78,args.length,QUALIFIED_NAME, line no: 50, 9.36594442328806E-4, insert, 0.38686131386861317, 0.0, 0.2727272727272727
+value,SIMPLE_NAME, line no: 78,args.length,QUALIFIED_NAME, line no: 50, 9.332957577327018E-4, insert, 0.38405797101449274, 0.0, 0.2727272727272727
+format,SIMPLE_NAME, line no: 63,true,BOOLEAN_LITERAL, line no: 79, 9.002160054233461E-4, insert, 0.9708029197080292, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 78,true,BOOLEAN_LITERAL, line no: 79, 9.002160054233461E-4, insert, 0.9708029197080292, 0.0, 0.16666666666666666
+median.value,QUALIFIED_NAME, line no: 78,true,BOOLEAN_LITERAL, line no: 79, 9.002160054233461E-4, insert, 0.9708029197080292, 0.0, 0.16666666666666666
+median.value,QUALIFIED_NAME, line no: 78,System.out,QUALIFIED_NAME, line no: 56, 8.964797783232682E-4, insert, 0.38686131386861317, 0.0, 0.25
+median,SIMPLE_NAME, line no: 78,true,BOOLEAN_LITERAL, line no: 79, 8.950285645654226E-4, insert, 0.9637681159420289, 0.0, 0.16666666666666666
+scanner,SIMPLE_NAME, line no: 64,true,BOOLEAN_LITERAL, line no: 79, 8.791441368862544E-4, insert, 0.9779411764705882, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 65,true,BOOLEAN_LITERAL, line no: 79, 8.791441368862544E-4, insert, 0.9779411764705882, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 66,true,BOOLEAN_LITERAL, line no: 79, 8.791441368862544E-4, insert, 0.9779411764705882, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 64,mainClass.scanner,QUALIFIED_NAME, line no: 51, 8.738704256892612E-4, insert, 0.11029411764705882, 1.0, 0.4117647058823529
+scanner,SIMPLE_NAME, line no: 65,mainClass.scanner,QUALIFIED_NAME, line no: 51, 8.738704256892612E-4, insert, 0.11029411764705882, 1.0, 0.4117647058823529
+scanner,SIMPLE_NAME, line no: 66,mainClass.scanner,QUALIFIED_NAME, line no: 51, 8.738704256892612E-4, insert, 0.11029411764705882, 1.0, 0.4117647058823529
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,in,SIMPLE_NAME, line no: 53, 8.377786464063288E-4, insert, 0.1386861313868613, 0.0, 0.02127659574468085
+median.value,QUALIFIED_NAME, line no: 78,i,SIMPLE_NAME, line no: 7, 8.289127595019378E-4, insert, 0.043795620437956206, 0.0, 0.08333333333333333
+" %.0f is the median\n",STRING_LITERAL, line no: 78,true,BOOLEAN_LITERAL, line no: 79, 8.12049012496006E-4, insert, 0.9708029197080292, 0.0, 0.08695652173913043
+scanner,SIMPLE_NAME, line no: 64,System.out,QUALIFIED_NAME, line no: 56, 8.115747121747792E-4, insert, 0.3897058823529412, 0.0, 0.2
+scanner,SIMPLE_NAME, line no: 65,System.out,QUALIFIED_NAME, line no: 56, 8.115747121747792E-4, insert, 0.3897058823529412, 0.0, 0.2
+scanner,SIMPLE_NAME, line no: 66,System.out,QUALIFIED_NAME, line no: 56, 8.115747121747792E-4, insert, 0.3897058823529412, 0.0, 0.2
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,true,BOOLEAN_LITERAL, line no: 79, 8.100025832597816E-4, insert, 0.9708029197080292, 0.0, 0.0851063829787234
+String,SIMPLE_NAME, line no: 63,System.out,QUALIFIED_NAME, line no: 56, 8.082275175110855E-4, insert, 0.38686131386861317, 0.0, 0.2
+format,SIMPLE_NAME, line no: 63,System.out,QUALIFIED_NAME, line no: 56, 8.082275175110855E-4, insert, 0.38686131386861317, 0.0, 0.2
+String,SIMPLE_NAME, line no: 78,System.out,QUALIFIED_NAME, line no: 56, 8.082275175110855E-4, insert, 0.38686131386861317, 0.0, 0.2
+format,SIMPLE_NAME, line no: 78,System.out,QUALIFIED_NAME, line no: 56, 8.082275175110855E-4, insert, 0.38686131386861317, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 64,mainClass.output,QUALIFIED_NAME, line no: 56, 7.895116469717335E-4, insert, 0.3897058823529412, 0.0, 0.1875
+nextDouble,SIMPLE_NAME, line no: 65,mainClass.output,QUALIFIED_NAME, line no: 56, 7.895116469717335E-4, insert, 0.3897058823529412, 0.0, 0.1875
+nextDouble,SIMPLE_NAME, line no: 66,mainClass.output,QUALIFIED_NAME, line no: 56, 7.895116469717335E-4, insert, 0.3897058823529412, 0.0, 0.1875
+format,SIMPLE_NAME, line no: 63,mainClass.output,QUALIFIED_NAME, line no: 56, 7.861644523080398E-4, insert, 0.38686131386861317, 0.0, 0.1875
+format,SIMPLE_NAME, line no: 78,mainClass.output,QUALIFIED_NAME, line no: 56, 7.861644523080398E-4, insert, 0.38686131386861317, 0.0, 0.1875
+median,SIMPLE_NAME, line no: 78,mainClass.output,QUALIFIED_NAME, line no: 56, 7.828657677119357E-4, insert, 0.38405797101449274, 0.0, 0.1875
+value,SIMPLE_NAME, line no: 78,mainClass.output,QUALIFIED_NAME, line no: 56, 7.828657677119357E-4, insert, 0.38405797101449274, 0.0, 0.1875
+scanner,SIMPLE_NAME, line no: 64,args.length,QUALIFIED_NAME, line no: 50, 7.794829809703491E-4, insert, 0.3897058823529412, 0.0, 0.18181818181818182
+nextDouble,SIMPLE_NAME, line no: 64,args.length,QUALIFIED_NAME, line no: 50, 7.794829809703491E-4, insert, 0.3897058823529412, 0.0, 0.18181818181818182
+scanner,SIMPLE_NAME, line no: 65,args.length,QUALIFIED_NAME, line no: 50, 7.794829809703491E-4, insert, 0.3897058823529412, 0.0, 0.18181818181818182
+nextDouble,SIMPLE_NAME, line no: 65,args.length,QUALIFIED_NAME, line no: 50, 7.794829809703491E-4, insert, 0.3897058823529412, 0.0, 0.18181818181818182
+scanner,SIMPLE_NAME, line no: 66,args.length,QUALIFIED_NAME, line no: 50, 7.794829809703491E-4, insert, 0.3897058823529412, 0.0, 0.18181818181818182
+nextDouble,SIMPLE_NAME, line no: 66,args.length,QUALIFIED_NAME, line no: 50, 7.794829809703491E-4, insert, 0.3897058823529412, 0.0, 0.18181818181818182
+scanner,SIMPLE_NAME, line no: 64,java.util.Scanner,QUALIFIED_NAME, line no: 51, 7.786964189310248E-4, insert, 0.11764705882352941, 0.0, 0.35294117647058826
+scanner,SIMPLE_NAME, line no: 65,java.util.Scanner,QUALIFIED_NAME, line no: 51, 7.786964189310248E-4, insert, 0.11764705882352941, 0.0, 0.35294117647058826
+scanner,SIMPLE_NAME, line no: 66,java.util.Scanner,QUALIFIED_NAME, line no: 51, 7.786964189310248E-4, insert, 0.11764705882352941, 0.0, 0.35294117647058826
+format,SIMPLE_NAME, line no: 63,args.length,QUALIFIED_NAME, line no: 50, 7.761357863066554E-4, insert, 0.38686131386861317, 0.0, 0.18181818181818182
+format,SIMPLE_NAME, line no: 78,args.length,QUALIFIED_NAME, line no: 50, 7.761357863066554E-4, insert, 0.38686131386861317, 0.0, 0.18181818181818182
+median,SIMPLE_NAME, line no: 78,args.length,QUALIFIED_NAME, line no: 50, 7.728371017105514E-4, insert, 0.38405797101449274, 0.0, 0.18181818181818182
+median.value,QUALIFIED_NAME, line no: 78,mainClass.scanner,QUALIFIED_NAME, line no: 51, 7.689706080214241E-4, insert, 0.10948905109489052, 0.0, 0.35294117647058826
+" %.0f is the median\n",STRING_LITERAL, line no: 78,System.out,QUALIFIED_NAME, line no: 56, 7.621828596960336E-4, insert, 0.38686131386861317, 0.0, 0.17391304347826086
+median.value,QUALIFIED_NAME, line no: 78,java.util,QUALIFIED_NAME, line no: 44, 7.515399339236979E-4, insert, 0.0072992700729927005, 0.0, 0.3333333333333333
+value,SIMPLE_NAME, line no: 78,java.util,QUALIFIED_NAME, line no: 44, 7.503573866156606E-4, insert, 0.007246376811594203, 0.0, 0.3333333333333333
+median,SIMPLE_NAME, line no: 78,System.in,QUALIFIED_NAME, line no: 53, 7.418305981313917E-4, insert, 0.13043478260869565, 0.0, 0.3333333333333333
+output+=(String.format("Please enter 3 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 7.049902886111841E-4, insert, 0.38345864661654133, 0.0, 0.2198581560283688
+" %.0f is the median\n",STRING_LITERAL, line no: 78,args.length,QUALIFIED_NAME, line no: 50, 6.854417633376138E-4, insert, 0.38686131386861317, 0.0, 0.13043478260869565
+" %.0f is the median\n",STRING_LITERAL, line no: 78,mainClass.output,QUALIFIED_NAME, line no: 56, 6.854417633376138E-4, insert, 0.38686131386861317, 0.0, 0.13043478260869565
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,mainClass.output,QUALIFIED_NAME, line no: 56, 6.805433954849486E-4, insert, 0.38686131386861317, 0.0, 0.1276595744680851
+scanner,SIMPLE_NAME, line no: 64,mainClass.output,QUALIFIED_NAME, line no: 56, 6.79196320956505E-4, insert, 0.3897058823529412, 0.0, 0.125
+scanner,SIMPLE_NAME, line no: 65,mainClass.output,QUALIFIED_NAME, line no: 56, 6.79196320956505E-4, insert, 0.3897058823529412, 0.0, 0.125
+scanner,SIMPLE_NAME, line no: 66,mainClass.output,QUALIFIED_NAME, line no: 56, 6.79196320956505E-4, insert, 0.3897058823529412, 0.0, 0.125
+String,SIMPLE_NAME, line no: 63,mainClass.output,QUALIFIED_NAME, line no: 56, 6.758491262928113E-4, insert, 0.38686131386861317, 0.0, 0.125
+String,SIMPLE_NAME, line no: 78,mainClass.output,QUALIFIED_NAME, line no: 56, 6.758491262928113E-4, insert, 0.38686131386861317, 0.0, 0.125
+median.value,QUALIFIED_NAME, line no: 78,java.util.Scanner,QUALIFIED_NAME, line no: 51, 6.737334466468916E-4, insert, 0.11678832116788321, 0.0, 0.29411764705882354
+output+=(String.format(" %.0f is the median\n" median.value)); ,EXPRESSION_STATEMENT, line no: 78,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 6.734447996400209E-4, insert, 0.38345864661654133, 0.0, 0.19858156028368795
+output+=(String.format(" %.0f is the median\n" median.value)); ,EXPRESSION_STATEMENT, line no: 78,if (n2.value >= n3.value && n1.value >= n2.value) {   median.value=n2.value; }  else {   median.value=n1.value; } ,IF_STATEMENT, line no: 68, 6.614274705081492E-4, insert, 0.24812030075187969, 1.6666666666666665, 0.2807017543859649
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,args.length,QUALIFIED_NAME, line no: 50, 6.429892419478495E-4, insert, 0.38686131386861317, 0.0, 0.10638297872340426
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,System.out,QUALIFIED_NAME, line no: 56, 6.429892419478495E-4, insert, 0.38686131386861317, 0.0, 0.10638297872340426
+median,SIMPLE_NAME, line no: 78,System.out,QUALIFIED_NAME, line no: 56, 6.284243112906158E-4, insert, 0.38405797101449274, 0.0, 0.1
+value,SIMPLE_NAME, line no: 78,System.out,QUALIFIED_NAME, line no: 56, 6.284243112906158E-4, insert, 0.38405797101449274, 0.0, 0.1
+" %.0f is the median\n",STRING_LITERAL, line no: 78,java.util.Scanner,QUALIFIED_NAME, line no: 51, 6.15049078843394E-4, insert, 0.11678832116788321, 0.0, 0.2608695652173913
+" %.0f is the median\n",STRING_LITERAL, line no: 78,System.in,QUALIFIED_NAME, line no: 53, 6.15049078843394E-4, insert, 0.13138686131386862, 0.0, 0.2608695652173913
+n1.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 6.103538216976944E-4, insert, 0.38345864661654133, 0.5, 0.15602836879432624
+n2.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 6.103538216976944E-4, insert, 0.38345864661654133, 0.5, 0.15602836879432624
+n3.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 6.103538216976944E-4, insert, 0.38345864661654133, 0.5, 0.15602836879432624
+output+=(String.format("Please enter 3 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,if (n2.value >= n3.value && n1.value >= n2.value) {   median.value=n2.value; }  else {   median.value=n1.value; } ,IF_STATEMENT, line no: 68, 6.094050851872835E-4, insert, 0.24812030075187969, 0.0, 0.24561403508771928
+median.value,QUALIFIED_NAME, line no: 78,System.in,QUALIFIED_NAME, line no: 53, 5.958638047537891E-4, insert, 0.13138686131386862, 0.0, 0.25
+value,SIMPLE_NAME, line no: 78,java.util.Scanner,QUALIFIED_NAME, line no: 51, 5.687869494800529E-4, insert, 0.11594202898550725, 0.0, 0.23529411764705882
+median,SIMPLE_NAME, line no: 78,mainClass.scanner,QUALIFIED_NAME, line no: 51, 5.60260160995784E-4, insert, 0.10869565217391304, 0.0, 0.23529411764705882
+String,SIMPLE_NAME, line no: 63,java.util,QUALIFIED_NAME, line no: 44, 5.55423798785514E-4, insert, 0.0072992700729927005, 0.0, 0.2222222222222222
+format,SIMPLE_NAME, line no: 63,java.util,QUALIFIED_NAME, line no: 44, 5.55423798785514E-4, insert, 0.0072992700729927005, 0.0, 0.2222222222222222
+String,SIMPLE_NAME, line no: 78,java.util,QUALIFIED_NAME, line no: 44, 5.55423798785514E-4, insert, 0.0072992700729927005, 0.0, 0.2222222222222222
+format,SIMPLE_NAME, line no: 78,java.util,QUALIFIED_NAME, line no: 44, 5.55423798785514E-4, insert, 0.0072992700729927005, 0.0, 0.2222222222222222
+scanner,SIMPLE_NAME, line no: 64,System.in,QUALIFIED_NAME, line no: 53, 5.47971554062573E-4, insert, 0.1323529411764706, 0.0, 0.2222222222222222
+scanner,SIMPLE_NAME, line no: 65,System.in,QUALIFIED_NAME, line no: 53, 5.47971554062573E-4, insert, 0.1323529411764706, 0.0, 0.2222222222222222
+scanner,SIMPLE_NAME, line no: 66,System.in,QUALIFIED_NAME, line no: 53, 5.47971554062573E-4, insert, 0.1323529411764706, 0.0, 0.2222222222222222
+" %.0f is the median\n",STRING_LITERAL, line no: 78,i,SIMPLE_NAME, line no: 7, 5.353354319885605E-4, insert, 0.043795620437956206, 0.0, 0.043478260869565216
+" %.0f is the median\n",STRING_LITERAL, line no: 78,mainClass.scanner,QUALIFIED_NAME, line no: 51, 5.297189546687033E-4, insert, 0.10948905109489052, 0.0, 0.21739130434782608
+n2.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 65,if (n2.value >= n3.value && n1.value >= n2.value) {   median.value=n2.value; }  else {   median.value=n1.value; } ,IF_STATEMENT, line no: 68, 5.183659108757686E-4, insert, 0.24812030075187969, 1.6666666666666665, 0.18421052631578946
+nextDouble,SIMPLE_NAME, line no: 64,java.util,QUALIFIED_NAME, line no: 44, 5.174005094675031E-4, insert, 0.007352941176470588, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,java.util,QUALIFIED_NAME, line no: 44, 5.174005094675031E-4, insert, 0.007352941176470588, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,java.util,QUALIFIED_NAME, line no: 44, 5.174005094675031E-4, insert, 0.007352941176470588, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 64,System.in,QUALIFIED_NAME, line no: 53, 5.087483270349362E-4, insert, 0.1323529411764706, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 65,System.in,QUALIFIED_NAME, line no: 53, 5.087483270349362E-4, insert, 0.1323529411764706, 0.0, 0.2
+nextDouble,SIMPLE_NAME, line no: 66,System.in,QUALIFIED_NAME, line no: 53, 5.087483270349362E-4, insert, 0.1323529411764706, 0.0, 0.2
+n1.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 64,if (n2.value >= n3.value && n1.value >= n2.value) {   median.value=n2.value; }  else {   median.value=n1.value; } ,IF_STATEMENT, line no: 68, 5.053603145455521E-4, insert, 0.24812030075187969, 1.6666666666666665, 0.17543859649122806
+n3.value=scanner.nextDouble(); ,EXPRESSION_STATEMENT, line no: 66,if (n2.value >= n3.value && n1.value >= n2.value) {   median.value=n2.value; }  else {   median.value=n1.value; } ,IF_STATEMENT, line no: 68, 5.053603145455521E-4, insert, 0.24812030075187969, 1.6666666666666665, 0.17543859649122806
+nextDouble,SIMPLE_NAME, line no: 64,java.util.Scanner,QUALIFIED_NAME, line no: 51, 4.6721785135861487E-4, insert, 0.11764705882352941, 0.0, 0.17647058823529413
+nextDouble,SIMPLE_NAME, line no: 65,java.util.Scanner,QUALIFIED_NAME, line no: 51, 4.6721785135861487E-4, insert, 0.11764705882352941, 0.0, 0.17647058823529413
+nextDouble,SIMPLE_NAME, line no: 66,java.util.Scanner,QUALIFIED_NAME, line no: 51, 4.6721785135861487E-4, insert, 0.11764705882352941, 0.0, 0.17647058823529413
+String,SIMPLE_NAME, line no: 63,java.util.Scanner,QUALIFIED_NAME, line no: 51, 4.6608106826528494E-4, insert, 0.11678832116788321, 0.0, 0.17647058823529413
+String,SIMPLE_NAME, line no: 78,java.util.Scanner,QUALIFIED_NAME, line no: 51, 4.6608106826528494E-4, insert, 0.11678832116788321, 0.0, 0.17647058823529413
+median,SIMPLE_NAME, line no: 78,java.util.Scanner,QUALIFIED_NAME, line no: 51, 4.649607602892496E-4, insert, 0.11594202898550725, 0.0, 0.17647058823529413
+nextDouble,SIMPLE_NAME, line no: 64,mainClass.scanner,QUALIFIED_NAME, line no: 51, 4.58565668926048E-4, insert, 0.11029411764705882, 0.0, 0.17647058823529413
+nextDouble,SIMPLE_NAME, line no: 65,mainClass.scanner,QUALIFIED_NAME, line no: 51, 4.58565668926048E-4, insert, 0.11029411764705882, 0.0, 0.17647058823529413
+nextDouble,SIMPLE_NAME, line no: 66,mainClass.scanner,QUALIFIED_NAME, line no: 51, 4.58565668926048E-4, insert, 0.11029411764705882, 0.0, 0.17647058823529413
+value,SIMPLE_NAME, line no: 78,mainClass.scanner,QUALIFIED_NAME, line no: 51, 4.564339718049807E-4, insert, 0.10869565217391304, 0.0, 0.17647058823529413
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,mainClass.scanner,QUALIFIED_NAME, line no: 51, 4.0889254763629764E-4, insert, 0.10948905109489052, 0.0, 0.14893617021276595
+" %.0f is the median\n",STRING_LITERAL, line no: 78,java.util,QUALIFIED_NAME, line no: 44, 3.9341481758440537E-4, insert, 0.0072992700729927005, 0.0, 0.13043478260869565
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,java.util.Scanner,QUALIFIED_NAME, line no: 51, 3.7992742191546937E-4, insert, 0.11678832116788321, 0.0, 0.1276595744680851
+format,SIMPLE_NAME, line no: 63,java.util.Scanner,QUALIFIED_NAME, line no: 51, 3.6225487907448167E-4, insert, 0.11678832116788321, 0.0, 0.11764705882352941
+format,SIMPLE_NAME, line no: 78,java.util.Scanner,QUALIFIED_NAME, line no: 51, 3.6225487907448167E-4, insert, 0.11678832116788321, 0.0, 0.11764705882352941
+scanner,SIMPLE_NAME, line no: 64,java.util,QUALIFIED_NAME, line no: 44, 3.6050760135695597E-4, insert, 0.007352941176470588, 0.0, 0.1111111111111111
+scanner,SIMPLE_NAME, line no: 65,java.util,QUALIFIED_NAME, line no: 44, 3.6050760135695597E-4, insert, 0.007352941176470588, 0.0, 0.1111111111111111
+scanner,SIMPLE_NAME, line no: 66,java.util,QUALIFIED_NAME, line no: 44, 3.6050760135695597E-4, insert, 0.007352941176470588, 0.0, 0.1111111111111111
+median,SIMPLE_NAME, line no: 78,java.util,QUALIFIED_NAME, line no: 44, 3.581251163392926E-4, insert, 0.007246376811594203, 0.0, 0.1111111111111111
+String,SIMPLE_NAME, line no: 63,mainClass.scanner,QUALIFIED_NAME, line no: 51, 3.536658512582108E-4, insert, 0.10948905109489052, 0.0, 0.11764705882352941
+format,SIMPLE_NAME, line no: 63,mainClass.scanner,QUALIFIED_NAME, line no: 51, 3.536658512582108E-4, insert, 0.10948905109489052, 0.0, 0.11764705882352941
+String,SIMPLE_NAME, line no: 78,mainClass.scanner,QUALIFIED_NAME, line no: 51, 3.536658512582108E-4, insert, 0.10948905109489052, 0.0, 0.11764705882352941
+format,SIMPLE_NAME, line no: 78,mainClass.scanner,QUALIFIED_NAME, line no: 51, 3.536658512582108E-4, insert, 0.10948905109489052, 0.0, 0.11764705882352941
+format,SIMPLE_NAME, line no: 63,System.in,QUALIFIED_NAME, line no: 53, 3.5071863583105905E-4, insert, 0.13138686131386862, 0.0, 0.1111111111111111
+format,SIMPLE_NAME, line no: 78,System.in,QUALIFIED_NAME, line no: 53, 3.5071863583105905E-4, insert, 0.13138686131386862, 0.0, 0.1111111111111111
+value,SIMPLE_NAME, line no: 78,System.in,QUALIFIED_NAME, line no: 53, 3.4959832785502374E-4, insert, 0.13043478260869565, 0.0, 0.1111111111111111
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,System.in,QUALIFIED_NAME, line no: 53, 3.0481911484127127E-4, insert, 0.13138686131386862, 0.0, 0.0851063829787234
+"Please enter 3 numbers separated by spaces > ",STRING_LITERAL, line no: 63,java.util,QUALIFIED_NAME, line no: 44, 2.7585398912044305E-4, insert, 0.0072992700729927005, 0.0, 0.06382978723404255

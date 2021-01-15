@@ -1,0 +1,282 @@
+output+=(String.format("Enter an integer > ")); ,EXPRESSION_STATEMENT, line no: 61,output+=(String.format("Enter an integer > ")); ,EXPRESSION_STATEMENT, line no: 61, 0.020375, insert, 1.0, 1.0, 1.0
+num.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 62,num.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 62, 0.020375, insert, 1.0, 3.0, 1.0
+output+=(String.format("That's all  have a nice day!\n")); ,EXPRESSION_STATEMENT, line no: 77,output+=(String.format("That's all  have a nice day!\n")); ,EXPRESSION_STATEMENT, line no: 77, 0.020375, insert, 1.0, 1.0, 1.0
+output+=(String.format("Enter an integer > ")); ,EXPRESSION_STATEMENT, line no: 61,output+=(String.format("That's all  have a nice day!\n")); ,EXPRESSION_STATEMENT, line no: 77, 0.015816525423728814, insert, 1.0, 1.0, 0.6271186440677966
+output+=(String.format("That's all  have a nice day!\n")); ,EXPRESSION_STATEMENT, line no: 77,output+=(String.format("Enter an integer > ")); ,EXPRESSION_STATEMENT, line no: 61, 0.015816525423728814, insert, 1.0, 1.0, 0.6271186440677966
+output+=(String.format("Enter an integer > ")); ,EXPRESSION_STATEMENT, line no: 61,output+=(String.format("%d\n" num.value)); ,EXPRESSION_STATEMENT, line no: 70, 0.0119703125, insert, 0.5, 1.0, 0.6458333333333334
+output+=(String.format("Enter an integer > ")); ,EXPRESSION_STATEMENT, line no: 61,num.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 62, 0.0114609375, insert, 1.0, 0.0, 0.2708333333333333
+num.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 62,output+=(String.format("Enter an integer > ")); ,EXPRESSION_STATEMENT, line no: 61, 0.0114609375, insert, 1.0, 0.0, 0.2708333333333333
+output+=(String.format("That's all  have a nice day!\n")); ,EXPRESSION_STATEMENT, line no: 77,output+=(String.format("%d\n" num.value)); ,EXPRESSION_STATEMENT, line no: 70, 0.01070550847457627, insert, 0.5, 1.0, 0.5423728813559322
+num.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 62,output+=(String.format("That's all  have a nice day!\n")); ,EXPRESSION_STATEMENT, line no: 77, 0.010636440677966102, insert, 1.0, 0.0, 0.2033898305084746
+output+=(String.format("That's all  have a nice day!\n")); ,EXPRESSION_STATEMENT, line no: 77,num.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 62, 0.010636440677966102, insert, 1.0, 0.0, 0.2033898305084746
+num.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 62,num.value=(Math.abs(num.value)); ,EXPRESSION_STATEMENT, line no: 64, 0.010372727272727271, insert, 0.5, 1.3333333333333333, 0.5151515151515151
+output+=(String.format("Enter an integer > ")); ,EXPRESSION_STATEMENT, line no: 61,output+=(String.format("%d\n" num.value % 10)); ,EXPRESSION_STATEMENT, line no: 66, 0.009763020833333334, insert, 0.16666666666666666, 1.0, 0.6875
+num.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 62,num.value=num.value - 2 * num.value; ,EXPRESSION_STATEMENT, line no: 69, 0.009361486486486487, insert, 0.5, 1.3333333333333333, 0.43243243243243246
+output+=(String.format("That's all  have a nice day!\n")); ,EXPRESSION_STATEMENT, line no: 77,output+=(String.format("%d\n" num.value % 10)); ,EXPRESSION_STATEMENT, line no: 66, 0.008196045197740113, insert, 0.16666666666666666, 1.0, 0.559322033898305
+num.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 62,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.007935878489326765, insert, 0.40476190476190477, 0.0, 0.3793103448275862
+output+=(String.format("Enter an integer > ")); ,EXPRESSION_STATEMENT, line no: 61,num.value=(Math.abs(num.value)); ,EXPRESSION_STATEMENT, line no: 64, 0.007895312500000001, insert, 0.5, 0.0, 0.3125
+String,SIMPLE_NAME, line no: 61,String,SIMPLE_NAME, line no: 49, 0.007825, insert, 0.3923076923076923, 0.0, 1.0
+format,SIMPLE_NAME, line no: 61,format,SIMPLE_NAME, line no: 61, 0.007825, insert, 1.0, 0.0, 1.0
+scanner,SIMPLE_NAME, line no: 62,scanner,SIMPLE_NAME, line no: 51, 0.007825, insert, 0.13178294573643412, 1.0, 1.0
+nextInt,SIMPLE_NAME, line no: 62,nextInt,SIMPLE_NAME, line no: 62, 0.007825, insert, 1.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 77,String,SIMPLE_NAME, line no: 49, 0.007825, insert, 0.3923076923076923, 0.0, 1.0
+format,SIMPLE_NAME, line no: 77,format,SIMPLE_NAME, line no: 61, 0.007825, insert, 1.0, 0.0, 1.0
+num.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 62,output+=(String.format("%d\n" num.value)); ,EXPRESSION_STATEMENT, line no: 70, 0.007486627906976745, insert, 0.5, 1.5, 0.27906976744186046
+output+=(String.format("That's all  have a nice day!\n")); ,EXPRESSION_STATEMENT, line no: 77,num.value=(Math.abs(num.value)); ,EXPRESSION_STATEMENT, line no: 64, 0.007390254237288136, insert, 0.5, 0.0, 0.2711864406779661
+output+=(String.format("Enter an integer > ")); ,EXPRESSION_STATEMENT, line no: 61,num.value=num.value - 2 * num.value; ,EXPRESSION_STATEMENT, line no: 69, 0.0073859375, insert, 0.5, 0.0, 0.2708333333333333
+output+=(String.format("Enter an integer > ")); ,EXPRESSION_STATEMENT, line no: 61,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.007373809523809524, insert, 0.40476190476190477, 1.0, 0.3333333333333333
+output+=(String.format("That's all  have a nice day!\n")); ,EXPRESSION_STATEMENT, line no: 77,num.value=num.value - 2 * num.value; ,EXPRESSION_STATEMENT, line no: 69, 0.00697584745762712, insert, 0.5, 0.0, 0.23728813559322035
+num.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 62,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.006837625313283208, insert, 0.40476190476190477, 0.0, 0.2894736842105263
+num.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 62,num.value/=10; ,EXPRESSION_STATEMENT, line no: 67, 0.006416954022988506, insert, 0.16666666666666666, 1.3333333333333333, 0.41379310344827586
+output+=(String.format("That's all  have a nice day!\n")); ,EXPRESSION_STATEMENT, line no: 77,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.006406860371267152, insert, 0.40476190476190477, 1.0, 0.2542372881355932
+output+=(String.format("Enter an integer > ")); ,EXPRESSION_STATEMENT, line no: 61,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.005590997023809524, insert, 0.40476190476190477, 0.0, 0.1875
+num.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 62,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.005306555555555556, insert, 0.1111111111111111, 0.5, 0.36
+num.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 62,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.005201968864468864, insert, 0.11904761904761904, 0.5, 0.34615384615384615
+output+=(String.format("That's all  have a nice day!\n")); ,EXPRESSION_STATEMENT, line no: 77,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.0051636400322841, insert, 0.40476190476190477, 0.0, 0.15254237288135594
+nextInt,SIMPLE_NAME, line no: 62,IntObj,SIMPLE_NAME, line no: 60, 0.0050693521594684385, insert, 0.9767441860465116, 0.0, 0.42857142857142855
+output+=(String.format("Enter an integer > ")); ,EXPRESSION_STATEMENT, line no: 61,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.004817555555555556, insert, 0.1111111111111111, 0.0, 0.32
+output+=(String.format("Enter an integer > ")); ,EXPRESSION_STATEMENT, line no: 61,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.004731776556776557, insert, 0.11904761904761904, 0.0, 0.3076923076923077
+format,SIMPLE_NAME, line no: 61,output,SIMPLE_NAME, line no: 49, 0.004646846153846154, insert, 0.3923076923076923, 0.0, 0.3333333333333333
+format,SIMPLE_NAME, line no: 77,output,SIMPLE_NAME, line no: 49, 0.004646846153846154, insert, 0.3923076923076923, 0.0, 0.3333333333333333
+output+=(String.format("That's all  have a nice day!\n")); ,EXPRESSION_STATEMENT, line no: 77,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.004492695722356739, insert, 0.11904761904761904, 0.0, 0.288135593220339
+scanner,SIMPLE_NAME, line no: 62,nextInt,SIMPLE_NAME, line no: 62, 0.0044714285714285715, insert, 1.0, 0.0, 0.2857142857142857
+nextInt,SIMPLE_NAME, line no: 62,String,SIMPLE_NAME, line no: 49, 0.0044714285714285715, insert, 0.3953488372093023, 0.0, 0.2857142857142857
+nextInt,SIMPLE_NAME, line no: 62,scanner,SIMPLE_NAME, line no: 51, 0.0044714285714285715, insert, 0.13178294573643412, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 62,Scanner,SIMPLE_NAME, line no: 44, 0.004461029900332226, insert, 0.007751937984496124, 0.0, 0.8571428571428571
+String,SIMPLE_NAME, line no: 61,nextInt,SIMPLE_NAME, line no: 62, 0.004447351648351648, insert, 0.9923076923076923, 0.0, 0.2857142857142857
+String,SIMPLE_NAME, line no: 77,nextInt,SIMPLE_NAME, line no: 62, 0.004447351648351648, insert, 0.9923076923076923, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 62,value,SIMPLE_NAME, line no: 7, 0.004447165005537098, insert, 0.046511627906976744, 0.0, 0.2857142857142857
+nextInt,SIMPLE_NAME, line no: 62,output,SIMPLE_NAME, line no: 49, 0.004447165005537098, insert, 0.3953488372093023, 0.0, 0.2857142857142857
+num.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 62,output+=(String.format("%d\n" num.value % 10)); ,EXPRESSION_STATEMENT, line no: 66, 0.004414583333333334, insert, 0.16666666666666666, 1.5, 0.25
+"Enter an integer > ",STRING_LITERAL, line no: 61,String,SIMPLE_NAME, line no: 49, 0.0042478571428571435, insert, 0.3923076923076923, 0.0, 0.23809523809523808
+"Enter an integer > ",STRING_LITERAL, line no: 61,scanner,SIMPLE_NAME, line no: 51, 0.00422378021978022, insert, 0.13076923076923078, 0.0, 0.23809523809523808
+output+=(String.format("That's all  have a nice day!\n")); ,EXPRESSION_STATEMENT, line no: 77,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.004220809792843692, insert, 0.1111111111111111, 0.0, 0.2711864406779661
+"Enter an integer > ",STRING_LITERAL, line no: 61,nextInt,SIMPLE_NAME, line no: 62, 0.004000208791208792, insert, 0.9923076923076923, 0.0, 0.19047619047619047
+String,SIMPLE_NAME, line no: 61,format,SIMPLE_NAME, line no: 61, 0.0039125, insert, 1.0, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 61,String,SIMPLE_NAME, line no: 49, 0.0039125, insert, 0.3923076923076923, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 77,format,SIMPLE_NAME, line no: 61, 0.0039125, insert, 1.0, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 77,String,SIMPLE_NAME, line no: 49, 0.0039125, insert, 0.3923076923076923, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 61,output,SIMPLE_NAME, line no: 49, 0.0038643461538461544, insert, 0.3923076923076923, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 61,num,SIMPLE_NAME, line no: 60, 0.0038643461538461544, insert, 0.9692307692307692, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 61,value,SIMPLE_NAME, line no: 7, 0.0038643461538461544, insert, 0.046153846153846156, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 61,num,SIMPLE_NAME, line no: 60, 0.0038643461538461544, insert, 0.9692307692307692, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 77,output,SIMPLE_NAME, line no: 49, 0.0038643461538461544, insert, 0.3923076923076923, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 77,num,SIMPLE_NAME, line no: 60, 0.0038643461538461544, insert, 0.9692307692307692, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 77,value,SIMPLE_NAME, line no: 7, 0.0038643461538461544, insert, 0.046153846153846156, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 77,num,SIMPLE_NAME, line no: 60, 0.0038643461538461544, insert, 0.9692307692307692, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 61,IntObj,SIMPLE_NAME, line no: 60, 0.0038161923076923078, insert, 0.9692307692307692, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 61,IntObj,SIMPLE_NAME, line no: 60, 0.0038161923076923078, insert, 0.9692307692307692, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 77,IntObj,SIMPLE_NAME, line no: 60, 0.0038161923076923078, insert, 0.9692307692307692, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 77,IntObj,SIMPLE_NAME, line no: 60, 0.0038161923076923078, insert, 0.9692307692307692, 0.0, 0.16666666666666666
+"Enter an integer > ",STRING_LITERAL, line no: 61,format,SIMPLE_NAME, line no: 61, 0.0038007142857142857, insert, 1.0, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 62,String,SIMPLE_NAME, line no: 49, 0.0038007142857142857, insert, 0.3953488372093023, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 62,format,SIMPLE_NAME, line no: 61, 0.0038007142857142857, insert, 1.0, 0.0, 0.14285714285714285
+nextInt,SIMPLE_NAME, line no: 62,format,SIMPLE_NAME, line no: 61, 0.0038007142857142857, insert, 1.0, 0.0, 0.14285714285714285
+String,SIMPLE_NAME, line no: 61,scanner,SIMPLE_NAME, line no: 51, 0.0037766373626373626, insert, 0.13076923076923078, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 61,scanner,SIMPLE_NAME, line no: 51, 0.0037766373626373626, insert, 0.13076923076923078, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 61,nextInt,SIMPLE_NAME, line no: 62, 0.0037766373626373626, insert, 0.9923076923076923, 0.0, 0.14285714285714285
+String,SIMPLE_NAME, line no: 77,scanner,SIMPLE_NAME, line no: 51, 0.0037766373626373626, insert, 0.13076923076923078, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 77,scanner,SIMPLE_NAME, line no: 51, 0.0037766373626373626, insert, 0.13076923076923078, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 77,nextInt,SIMPLE_NAME, line no: 62, 0.0037766373626373626, insert, 0.9923076923076923, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 62,num,SIMPLE_NAME, line no: 60, 0.0037764507198228127, insert, 0.9767441860465116, 0.0, 0.14285714285714285
+nextInt,SIMPLE_NAME, line no: 62,value,SIMPLE_NAME, line no: 7, 0.0037764507198228127, insert, 0.046511627906976744, 0.0, 0.14285714285714285
+nextInt,SIMPLE_NAME, line no: 62,num,SIMPLE_NAME, line no: 60, 0.0037764507198228127, insert, 0.9767441860465116, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 62,IntObj,SIMPLE_NAME, line no: 60, 0.003727923588039867, insert, 0.9767441860465116, 0.0, 0.14285714285714285
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,scanner,SIMPLE_NAME, line no: 51, 0.0036927980769230775, insert, 0.13076923076923078, 0.0, 0.125
+num.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 62,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.0036311439518336075, insert, 0.031746031746031744, 0.3333333333333333, 0.27586206896551724
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,String,SIMPLE_NAME, line no: 49, 0.0035701562500000004, insert, 0.3923076923076923, 0.0, 0.09375
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,nextInt,SIMPLE_NAME, line no: 62, 0.0035460793269230773, insert, 0.9923076923076923, 0.0, 0.09375
+"Enter an integer > ",STRING_LITERAL, line no: 61,value,SIMPLE_NAME, line no: 7, 0.003528989010989011, insert, 0.046153846153846156, 0.0, 0.09523809523809523
+"Enter an integer > ",STRING_LITERAL, line no: 61,output,SIMPLE_NAME, line no: 49, 0.003528989010989011, insert, 0.3923076923076923, 0.0, 0.09523809523809523
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,value,SIMPLE_NAME, line no: 7, 0.003522002403846154, insert, 0.046153846153846156, 0.0, 0.09375
+"Enter an integer > ",STRING_LITERAL, line no: 61,IntObj,SIMPLE_NAME, line no: 60, 0.003480835164835165, insert, 0.9692307692307692, 0.0, 0.09523809523809523
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,format,SIMPLE_NAME, line no: 61, 0.0034234375000000003, insert, 1.0, 0.0, 0.0625
+nextInt,SIMPLE_NAME, line no: 62,length,SIMPLE_NAME, line no: 50, 0.0033223754152823925, insert, 0.4186046511627907, 0.0, 0.42857142857142855
+"Enter an integer > ",STRING_LITERAL, line no: 61,num,SIMPLE_NAME, line no: 60, 0.003305417582417583, insert, 0.9692307692307692, 0.0, 0.047619047619047616
+nextInt,SIMPLE_NAME, line no: 62,println,SIMPLE_NAME, line no: 56, 0.0032981118493909194, insert, 0.4108527131782946, 0.0, 0.42857142857142855
+String,SIMPLE_NAME, line no: 61,println,SIMPLE_NAME, line no: 56, 0.0032882197802197805, insert, 0.4076923076923077, 0.0, 0.42857142857142855
+String,SIMPLE_NAME, line no: 77,println,SIMPLE_NAME, line no: 56, 0.0032882197802197805, insert, 0.4076923076923077, 0.0, 0.42857142857142855
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,output,SIMPLE_NAME, line no: 49, 0.0032285649038461543, insert, 0.3923076923076923, 0.0, 0.03125
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,num,SIMPLE_NAME, line no: 60, 0.0032285649038461543, insert, 0.9692307692307692, 0.0, 0.03125
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,IntObj,SIMPLE_NAME, line no: 60, 0.003180411057692308, insert, 0.9692307692307692, 0.0, 0.03125
+format,SIMPLE_NAME, line no: 61,Math,SIMPLE_NAME, line no: 64, 0.0031781538461538457, insert, 0.5153846153846153, 0.0, 0.3333333333333333
+format,SIMPLE_NAME, line no: 77,Math,SIMPLE_NAME, line no: 64, 0.0031781538461538457, insert, 0.5153846153846153, 0.0, 0.3333333333333333
+output+=(String.format("Enter an integer > ")); ,EXPRESSION_STATEMENT, line no: 61,num.value/=10; ,EXPRESSION_STATEMENT, line no: 67, 0.0028864583333333333, insert, 0.16666666666666666, 0.0, 0.125
+String,SIMPLE_NAME, line no: 61,args,SIMPLE_NAME, line no: 50, 0.0028651538461538463, insert, 0.4153846153846154, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 61,length,SIMPLE_NAME, line no: 50, 0.0028651538461538463, insert, 0.4153846153846154, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 61,System,SIMPLE_NAME, line no: 53, 0.0028651538461538463, insert, 0.13846153846153847, 0.0, 0.3333333333333333
+format,SIMPLE_NAME, line no: 61,out,SIMPLE_NAME, line no: 56, 0.0028651538461538463, insert, 0.4153846153846154, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 77,args,SIMPLE_NAME, line no: 50, 0.0028651538461538463, insert, 0.4153846153846154, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 77,length,SIMPLE_NAME, line no: 50, 0.0028651538461538463, insert, 0.4153846153846154, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 77,System,SIMPLE_NAME, line no: 53, 0.0028651538461538463, insert, 0.13846153846153847, 0.0, 0.3333333333333333
+format,SIMPLE_NAME, line no: 77,out,SIMPLE_NAME, line no: 56, 0.0028651538461538463, insert, 0.4153846153846154, 0.0, 0.3333333333333333
+output+=(String.format("That's all  have a nice day!\n")); ,EXPRESSION_STATEMENT, line no: 77,num.value/=10; ,EXPRESSION_STATEMENT, line no: 67, 0.002808757062146893, insert, 0.16666666666666666, 0.0, 0.11864406779661017
+scanner,SIMPLE_NAME, line no: 62,args,SIMPLE_NAME, line no: 50, 0.0026516611295681063, insert, 0.4186046511627907, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 62,System,SIMPLE_NAME, line no: 53, 0.0026516611295681063, insert, 0.13953488372093023, 0.0, 0.2857142857142857
+scanner,SIMPLE_NAME, line no: 62,println,SIMPLE_NAME, line no: 56, 0.002627397563676633, insert, 0.4108527131782946, 0.0, 0.2857142857142857
+nextInt,SIMPLE_NAME, line no: 62,exec,SIMPLE_NAME, line no: 55, 0.002627397563676633, insert, 0.4108527131782946, 0.0, 0.2857142857142857
+format,SIMPLE_NAME, line no: 61,println,SIMPLE_NAME, line no: 56, 0.0026175054945054947, insert, 0.4076923076923077, 0.0, 0.2857142857142857
+format,SIMPLE_NAME, line no: 77,println,SIMPLE_NAME, line no: 56, 0.0026175054945054947, insert, 0.4076923076923077, 0.0, 0.2857142857142857
+String,SIMPLE_NAME, line no: 61,Math,SIMPLE_NAME, line no: 64, 0.002395653846153846, insert, 0.5153846153846153, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 61,abs,SIMPLE_NAME, line no: 64, 0.002395653846153846, insert, 0.5153846153846153, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 77,Math,SIMPLE_NAME, line no: 64, 0.002395653846153846, insert, 0.5153846153846153, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 77,abs,SIMPLE_NAME, line no: 64, 0.002395653846153846, insert, 0.5153846153846153, 0.0, 0.16666666666666666
+scanner,SIMPLE_NAME, line no: 62,mainClass,SIMPLE_NAME, line no: 48, 0.0023535658914728684, insert, 0.3953488372093023, 0.0, 0.2222222222222222
+String,SIMPLE_NAME, line no: 61,mainClass,SIMPLE_NAME, line no: 48, 0.00234348717948718, insert, 0.3923076923076923, 0.0, 0.2222222222222222
+format,SIMPLE_NAME, line no: 61,mainClass,SIMPLE_NAME, line no: 48, 0.00234348717948718, insert, 0.3923076923076923, 0.0, 0.2222222222222222
+String,SIMPLE_NAME, line no: 77,mainClass,SIMPLE_NAME, line no: 48, 0.00234348717948718, insert, 0.3923076923076923, 0.0, 0.2222222222222222
+format,SIMPLE_NAME, line no: 77,mainClass,SIMPLE_NAME, line no: 48, 0.00234348717948718, insert, 0.3923076923076923, 0.0, 0.2222222222222222
+scanner,SIMPLE_NAME, line no: 62,Math,SIMPLE_NAME, line no: 64, 0.0022963732004429678, insert, 0.5193798449612403, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 62,abs,SIMPLE_NAME, line no: 64, 0.0022963732004429678, insert, 0.5193798449612403, 0.0, 0.14285714285714285
+nextInt,SIMPLE_NAME, line no: 62,Math,SIMPLE_NAME, line no: 64, 0.0022963732004429678, insert, 0.5193798449612403, 0.0, 0.14285714285714285
+"Enter an integer > ",STRING_LITERAL, line no: 61,println,SIMPLE_NAME, line no: 56, 0.0021703626373626374, insert, 0.4076923076923077, 0.0, 0.19047619047619047
+String,SIMPLE_NAME, line no: 61,out,SIMPLE_NAME, line no: 56, 0.0020826538461538465, insert, 0.4153846153846154, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 61,args,SIMPLE_NAME, line no: 50, 0.0020826538461538465, insert, 0.4153846153846154, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 61,length,SIMPLE_NAME, line no: 50, 0.0020826538461538465, insert, 0.4153846153846154, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 61,System,SIMPLE_NAME, line no: 53, 0.0020826538461538465, insert, 0.13846153846153847, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 77,out,SIMPLE_NAME, line no: 56, 0.0020826538461538465, insert, 0.4153846153846154, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 77,args,SIMPLE_NAME, line no: 50, 0.0020826538461538465, insert, 0.4153846153846154, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 77,length,SIMPLE_NAME, line no: 50, 0.0020826538461538465, insert, 0.4153846153846154, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 77,System,SIMPLE_NAME, line no: 53, 0.0020826538461538465, insert, 0.13846153846153847, 0.0, 0.16666666666666666
+"Enter an integer > ",STRING_LITERAL, line no: 61,Math,SIMPLE_NAME, line no: 64, 0.0020602967032967035, insert, 0.5153846153846153, 0.0, 0.09523809523809523
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,Math,SIMPLE_NAME, line no: 64, 0.002053310096153846, insert, 0.5153846153846153, 0.0, 0.09375
+String,SIMPLE_NAME, line no: 61,util,SIMPLE_NAME, line no: 44, 0.0020224615384615385, insert, 0.015384615384615385, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 77,util,SIMPLE_NAME, line no: 44, 0.0020224615384615385, insert, 0.015384615384615385, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 61,in,SIMPLE_NAME, line no: 53, 0.0019983846153846154, insert, 0.13846153846153847, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 77,in,SIMPLE_NAME, line no: 53, 0.0019983846153846154, insert, 0.13846153846153847, 0.0, 0.3333333333333333
+scanner,SIMPLE_NAME, line no: 62,length,SIMPLE_NAME, line no: 50, 0.001980946843853821, insert, 0.4186046511627907, 0.0, 0.14285714285714285
+nextInt,SIMPLE_NAME, line no: 62,System,SIMPLE_NAME, line no: 53, 0.001980946843853821, insert, 0.13953488372093023, 0.0, 0.14285714285714285
+nextInt,SIMPLE_NAME, line no: 62,out,SIMPLE_NAME, line no: 56, 0.001980946843853821, insert, 0.4186046511627907, 0.0, 0.14285714285714285
+"Enter an integer > ",STRING_LITERAL, line no: 61,mainClass,SIMPLE_NAME, line no: 48, 0.001970868131868132, insert, 0.3923076923076923, 0.0, 0.14285714285714285
+"Enter an integer > ",STRING_LITERAL, line no: 61,length,SIMPLE_NAME, line no: 50, 0.001970868131868132, insert, 0.4153846153846154, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 62,exec,SIMPLE_NAME, line no: 55, 0.001956683277962348, insert, 0.4108527131782946, 0.0, 0.14285714285714285
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,abs,SIMPLE_NAME, line no: 64, 0.001906591346153846, insert, 0.5153846153846153, 0.0, 0.0625
+"Enter an integer > ",STRING_LITERAL, line no: 61,abs,SIMPLE_NAME, line no: 64, 0.0018367252747252746, insert, 0.5153846153846153, 0.0, 0.047619047619047616
+nextInt,SIMPLE_NAME, line no: 62,mainClass,SIMPLE_NAME, line no: 48, 0.001831899224806202, insert, 0.3953488372093023, 0.0, 0.1111111111111111
+nextInt,SIMPLE_NAME, line no: 62,Scanner,SIMPLE_NAME, line no: 44, 0.0017781727574750828, insert, 0.007751937984496124, 0.0, 0.2857142857142857
+String,SIMPLE_NAME, line no: 61,Scanner,SIMPLE_NAME, line no: 44, 0.0017748131868131867, insert, 0.007692307692307693, 0.0, 0.2857142857142857
+String,SIMPLE_NAME, line no: 77,Scanner,SIMPLE_NAME, line no: 44, 0.0017748131868131867, insert, 0.007692307692307693, 0.0, 0.2857142857142857
+"Enter an integer > ",STRING_LITERAL, line no: 61,args,SIMPLE_NAME, line no: 50, 0.0017472967032967036, insert, 0.4153846153846154, 0.0, 0.09523809523809523
+"Enter an integer > ",STRING_LITERAL, line no: 61,System,SIMPLE_NAME, line no: 53, 0.0017472967032967036, insert, 0.13846153846153847, 0.0, 0.09523809523809523
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,mainClass,SIMPLE_NAME, line no: 48, 0.0017403100961538463, insert, 0.3923076923076923, 0.0, 0.09375
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,length,SIMPLE_NAME, line no: 50, 0.0017403100961538463, insert, 0.4153846153846154, 0.0, 0.09375
+"Enter an integer > ",STRING_LITERAL, line no: 61,exec,SIMPLE_NAME, line no: 55, 0.0017232197802197803, insert, 0.4076923076923077, 0.0, 0.09523809523809523
+String,SIMPLE_NAME, line no: 61,digits_48b82975_000,SIMPLE_NAME, line no: 48, 0.0017221336032388665, insert, 0.3923076923076923, 0.0, 0.10526315789473684
+String,SIMPLE_NAME, line no: 77,digits_48b82975_000,SIMPLE_NAME, line no: 48, 0.0017221336032388665, insert, 0.3923076923076923, 0.0, 0.10526315789473684
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,println,SIMPLE_NAME, line no: 56, 0.0017162331730769232, insert, 0.4076923076923077, 0.0, 0.09375
+"Enter an integer > ",STRING_LITERAL, line no: 61,digits_48b82975_000,SIMPLE_NAME, line no: 48, 0.0016750659340659343, insert, 0.3923076923076923, 0.0, 0.09523809523809523
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,args,SIMPLE_NAME, line no: 50, 0.0015935913461538466, insert, 0.4153846153846154, 0.0, 0.0625
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,System,SIMPLE_NAME, line no: 53, 0.0015935913461538466, insert, 0.13846153846153847, 0.0, 0.0625
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,exec,SIMPLE_NAME, line no: 55, 0.0015695144230769233, insert, 0.4076923076923077, 0.0, 0.0625
+"Enter an integer > ",STRING_LITERAL, line no: 61,Scanner,SIMPLE_NAME, line no: 44, 0.0015512417582417583, insert, 0.007692307692307693, 0.0, 0.23809523809523808
+output+=(String.format("Enter an integer > ")); ,EXPRESSION_STATEMENT, line no: 61,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.0015321676587301588, insert, 0.031746031746031744, 0.0, 0.10416666666666667
+"Enter an integer > ",STRING_LITERAL, line no: 61,out,SIMPLE_NAME, line no: 56, 0.001523725274725275, insert, 0.4153846153846154, 0.0, 0.047619047619047616
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,digits_48b82975_000,SIMPLE_NAME, line no: 48, 0.0015213605769230773, insert, 0.3923076923076923, 0.0, 0.0625
+output+=(String.format("That's all  have a nice day!\n")); ,EXPRESSION_STATEMENT, line no: 77,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.0015019504977132098, insert, 0.031746031746031744, 0.0, 0.1016949152542373
+scanner,SIMPLE_NAME, line no: 62,digits_48b82975_000,SIMPLE_NAME, line no: 48, 0.001484547123623011, insert, 0.3953488372093023, 0.0, 0.05263157894736842
+nextInt,SIMPLE_NAME, line no: 62,digits_48b82975_000,SIMPLE_NAME, line no: 48, 0.001484547123623011, insert, 0.3953488372093023, 0.0, 0.05263157894736842
+format,SIMPLE_NAME, line no: 61,digits_48b82975_000,SIMPLE_NAME, line no: 48, 0.0014750283400809718, insert, 0.3923076923076923, 0.0, 0.05263157894736842
+format,SIMPLE_NAME, line no: 77,digits_48b82975_000,SIMPLE_NAME, line no: 48, 0.0014750283400809718, insert, 0.3923076923076923, 0.0, 0.05263157894736842
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,out,SIMPLE_NAME, line no: 56, 0.0014468725961538464, insert, 0.4153846153846154, 0.0, 0.03125
+format,SIMPLE_NAME, line no: 61,java,SIMPLE_NAME, line no: 44, 0.0012399615384615385, insert, 0.015384615384615385, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 61,util,SIMPLE_NAME, line no: 44, 0.0012399615384615385, insert, 0.015384615384615385, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 77,java,SIMPLE_NAME, line no: 44, 0.0012399615384615385, insert, 0.015384615384615385, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 77,util,SIMPLE_NAME, line no: 44, 0.0012399615384615385, insert, 0.015384615384615385, 0.0, 0.16666666666666666
+scanner,SIMPLE_NAME, line no: 62,java,SIMPLE_NAME, line no: 44, 0.0011317220376522703, insert, 0.015503875968992248, 0.0, 0.14285714285714285
+nextInt,SIMPLE_NAME, line no: 62,util,SIMPLE_NAME, line no: 44, 0.0011317220376522703, insert, 0.015503875968992248, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 62,in,SIMPLE_NAME, line no: 53, 0.0011074584717607973, insert, 0.13953488372093023, 0.0, 0.14285714285714285
+nextInt,SIMPLE_NAME, line no: 62,in,SIMPLE_NAME, line no: 53, 0.0011074584717607973, insert, 0.13953488372093023, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 61,Scanner,SIMPLE_NAME, line no: 44, 0.0011040989010989012, insert, 0.007692307692307693, 0.0, 0.14285714285714285
+format,SIMPLE_NAME, line no: 77,Scanner,SIMPLE_NAME, line no: 44, 0.0011040989010989012, insert, 0.007692307692307693, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 62,num.value,QUALIFIED_NAME, line no: 62, 9.941860465116279E-4, insert, 0.9922480620155039, 0.0, 0.2222222222222222
+nextInt,SIMPLE_NAME, line no: 62,num.value,QUALIFIED_NAME, line no: 62, 9.941860465116279E-4, insert, 0.9922480620155039, 0.0, 0.2222222222222222
+format,SIMPLE_NAME, line no: 61,num.value,QUALIFIED_NAME, line no: 62, 9.884615384615385E-4, insert, 0.9846153846153847, 0.0, 0.2222222222222222
+format,SIMPLE_NAME, line no: 77,num.value,QUALIFIED_NAME, line no: 62, 9.884615384615385E-4, insert, 0.9846153846153847, 0.0, 0.2222222222222222
+String,SIMPLE_NAME, line no: 61,i,SIMPLE_NAME, line no: 7, 9.269615384615384E-4, insert, 0.046153846153846156, 0.0, 0.16666666666666666
+String,SIMPLE_NAME, line no: 77,i,SIMPLE_NAME, line no: 7, 9.269615384615384E-4, insert, 0.046153846153846156, 0.0, 0.16666666666666666
+"Enter an integer > ",STRING_LITERAL, line no: 61,util,SIMPLE_NAME, line no: 44, 9.046043956043956E-4, insert, 0.015384615384615385, 0.0, 0.09523809523809523
+"Enter an integer > ",STRING_LITERAL, line no: 61,num.value,QUALIFIED_NAME, line no: 62, 8.991758241758242E-4, insert, 0.9846153846153847, 0.0, 0.14285714285714285
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,java,SIMPLE_NAME, line no: 44, 8.976177884615385E-4, insert, 0.015384615384615385, 0.0, 0.09375
+num.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 62,if (true) return; ,IF_STATEMENT, line no: 78, 8.906896551724138E-4, insert, 1.0, 0.0, 0.27586206896551724
+"Enter an integer > ",STRING_LITERAL, line no: 61,in,SIMPLE_NAME, line no: 53, 8.805274725274725E-4, insert, 0.13846153846153847, 0.0, 0.09523809523809523
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,Scanner,SIMPLE_NAME, line no: 44, 8.735408653846154E-4, insert, 0.007692307692307693, 0.0, 0.09375
+String,SIMPLE_NAME, line no: 61,num.value,QUALIFIED_NAME, line no: 62, 8.634615384615385E-4, insert, 0.9846153846153847, 0.0, 0.1111111111111111
+String,SIMPLE_NAME, line no: 77,num.value,QUALIFIED_NAME, line no: 62, 8.634615384615385E-4, insert, 0.9846153846153847, 0.0, 0.1111111111111111
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,num.value,QUALIFIED_NAME, line no: 62, 8.439302884615385E-4, insert, 0.9846153846153847, 0.0, 0.09375
+output+=(String.format("Enter an integer > ")); ,EXPRESSION_STATEMENT, line no: 61,if (true) return; ,IF_STATEMENT, line no: 78, 8.26875E-4, insert, 1.0, 0.0, 0.20833333333333334
+output+=(String.format("That's all  have a nice day!\n")); ,EXPRESSION_STATEMENT, line no: 77,if (true) return; ,IF_STATEMENT, line no: 78, 7.901694915254237E-4, insert, 1.0, 0.0, 0.1694915254237288
+output+=(String.format("That's all  have a nice day!\n")); ,EXPRESSION_STATEMENT, line no: 77,if (num.value < 0) {   num.value=(Math.abs(num.value));   while (num.value > 10) {     output+=(String.format("%d\n" num.value % 10));     num.value/=10;   }   num.value=num.value - 2 * num.value;   output+=(String.format("%d\n" num.value)); }  else {   while (num.value != 0) {     output+=(String.format("%d\n" num.value % 10));     num.value/=10;   } } ,IF_STATEMENT, line no: 63, 7.574157303370787E-4, insert, 1.0, 1.0, 0.1348314606741573
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,util,SIMPLE_NAME, line no: 44, 7.508990384615385E-4, insert, 0.015384615384615385, 0.0, 0.0625
+output+=(String.format("Enter an integer > ")); ,EXPRESSION_STATEMENT, line no: 61,if (num.value < 0) {   num.value=(Math.abs(num.value));   while (num.value > 10) {     output+=(String.format("%d\n" num.value % 10));     num.value/=10;   }   num.value=num.value - 2 * num.value;   output+=(String.format("%d\n" num.value)); }  else {   while (num.value != 0) {     output+=(String.format("%d\n" num.value % 10));     num.value/=10;   } } ,IF_STATEMENT, line no: 63, 7.414887640449438E-4, insert, 1.0, 1.0, 0.11797752808988764
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,in,SIMPLE_NAME, line no: 53, 7.268221153846155E-4, insert, 0.13846153846153847, 0.0, 0.0625
+num.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 62,if (num.value < 0) {   num.value=(Math.abs(num.value));   while (num.value > 10) {     output+=(String.format("%d\n" num.value % 10));     num.value/=10;   }   num.value=num.value - 2 * num.value;   output+=(String.format("%d\n" num.value)); }  else {   while (num.value != 0) {     output+=(String.format("%d\n" num.value % 10));     num.value/=10;   } } ,IF_STATEMENT, line no: 63, 6.990168539325844E-4, insert, 1.0, 1.5, 0.07303370786516854
+String,SIMPLE_NAME, line no: 61,true,BOOLEAN_LITERAL, line no: 78, 6.905384615384616E-4, insert, 0.9692307692307692, 0.0, 0.3333333333333333
+String,SIMPLE_NAME, line no: 77,true,BOOLEAN_LITERAL, line no: 78, 6.905384615384616E-4, insert, 0.9692307692307692, 0.0, 0.3333333333333333
+"Enter an integer > ",STRING_LITERAL, line no: 61,java,SIMPLE_NAME, line no: 44, 6.810329670329671E-4, insert, 0.015384615384615385, 0.0, 0.047619047619047616
+nextInt,SIMPLE_NAME, line no: 62,args.length,QUALIFIED_NAME, line no: 50, 6.149577167019026E-4, insert, 0.4108527131782946, 0.0, 0.2727272727272727
+String,SIMPLE_NAME, line no: 61,args.length,QUALIFIED_NAME, line no: 50, 6.125874125874125E-4, insert, 0.4076923076923077, 0.0, 0.2727272727272727
+String,SIMPLE_NAME, line no: 77,args.length,QUALIFIED_NAME, line no: 50, 6.125874125874125E-4, insert, 0.4076923076923077, 0.0, 0.2727272727272727
+String,SIMPLE_NAME, line no: 61,System.in,QUALIFIED_NAME, line no: 53, 5.980769230769231E-4, insert, 0.13076923076923078, 0.0, 0.4444444444444444
+String,SIMPLE_NAME, line no: 77,System.in,QUALIFIED_NAME, line no: 53, 5.980769230769231E-4, insert, 0.13076923076923078, 0.0, 0.4444444444444444
+format,SIMPLE_NAME, line no: 61,true,BOOLEAN_LITERAL, line no: 78, 5.730384615384615E-4, insert, 0.9692307692307692, 0.0, 0.16666666666666666
+format,SIMPLE_NAME, line no: 77,true,BOOLEAN_LITERAL, line no: 78, 5.730384615384615E-4, insert, 0.9692307692307692, 0.0, 0.16666666666666666
+scanner,SIMPLE_NAME, line no: 62,mainClass.scanner,QUALIFIED_NAME, line no: 51, 5.620725034199725E-4, insert, 0.12403100775193798, 1.0, 0.4117647058823529
+scanner,SIMPLE_NAME, line no: 62,true,BOOLEAN_LITERAL, line no: 78, 5.597840531561462E-4, insert, 0.9767441860465116, 0.0, 0.14285714285714285
+nextInt,SIMPLE_NAME, line no: 62,true,BOOLEAN_LITERAL, line no: 78, 5.597840531561462E-4, insert, 0.9767441860465116, 0.0, 0.14285714285714285
+"Enter an integer > ",STRING_LITERAL, line no: 61,true,BOOLEAN_LITERAL, line no: 78, 5.562527472527472E-4, insert, 0.9692307692307692, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 62,System.out,QUALIFIED_NAME, line no: 56, 5.331395348837209E-4, insert, 0.4108527131782946, 0.0, 0.2
+nextInt,SIMPLE_NAME, line no: 62,System.out,QUALIFIED_NAME, line no: 56, 5.331395348837209E-4, insert, 0.4108527131782946, 0.0, 0.2
+String,SIMPLE_NAME, line no: 61,System.out,QUALIFIED_NAME, line no: 56, 5.307692307692308E-4, insert, 0.4076923076923077, 0.0, 0.2
+format,SIMPLE_NAME, line no: 61,System.out,QUALIFIED_NAME, line no: 56, 5.307692307692308E-4, insert, 0.4076923076923077, 0.0, 0.2
+String,SIMPLE_NAME, line no: 77,System.out,QUALIFIED_NAME, line no: 56, 5.307692307692308E-4, insert, 0.4076923076923077, 0.0, 0.2
+format,SIMPLE_NAME, line no: 77,System.out,QUALIFIED_NAME, line no: 56, 5.307692307692308E-4, insert, 0.4076923076923077, 0.0, 0.2
+"Enter an integer > ",STRING_LITERAL, line no: 61,mainClass.output,QUALIFIED_NAME, line no: 56, 5.200549450549449E-4, insert, 0.4076923076923077, 0.0, 0.19047619047619047
+nextInt,SIMPLE_NAME, line no: 62,mainClass.output,QUALIFIED_NAME, line no: 56, 5.19077034883721E-4, insert, 0.4108527131782946, 0.0, 0.1875
+format,SIMPLE_NAME, line no: 61,mainClass.output,QUALIFIED_NAME, line no: 56, 5.167067307692307E-4, insert, 0.4076923076923077, 0.0, 0.1875
+format,SIMPLE_NAME, line no: 77,mainClass.output,QUALIFIED_NAME, line no: 56, 5.167067307692307E-4, insert, 0.4076923076923077, 0.0, 0.1875
+scanner,SIMPLE_NAME, line no: 62,args.length,QUALIFIED_NAME, line no: 50, 5.126849894291754E-4, insert, 0.4108527131782946, 0.0, 0.18181818181818182
+format,SIMPLE_NAME, line no: 61,args.length,QUALIFIED_NAME, line no: 50, 5.103146853146853E-4, insert, 0.4076923076923077, 0.0, 0.18181818181818182
+format,SIMPLE_NAME, line no: 77,args.length,QUALIFIED_NAME, line no: 50, 5.103146853146853E-4, insert, 0.4076923076923077, 0.0, 0.18181818181818182
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,true,BOOLEAN_LITERAL, line no: 78, 4.996009615384616E-4, insert, 0.9692307692307692, 0.0, 0.0625
+scanner,SIMPLE_NAME, line no: 62,java.util.Scanner,QUALIFIED_NAME, line no: 51, 4.958960328317373E-4, insert, 0.12403100775193798, 0.0, 0.35294117647058826
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,args.length,QUALIFIED_NAME, line no: 50, 4.815504807692308E-4, insert, 0.4076923076923077, 0.0, 0.15625
+"Enter an integer > ",STRING_LITERAL, line no: 61,args.length,QUALIFIED_NAME, line no: 50, 4.664835164835165E-4, insert, 0.4076923076923077, 0.0, 0.14285714285714285
+"Enter an integer > ",STRING_LITERAL, line no: 61,System.out,QUALIFIED_NAME, line no: 56, 4.664835164835165E-4, insert, 0.4076923076923077, 0.0, 0.14285714285714285
+scanner,SIMPLE_NAME, line no: 62,mainClass.output,QUALIFIED_NAME, line no: 56, 4.4876453488372096E-4, insert, 0.4108527131782946, 0.0, 0.125
+String,SIMPLE_NAME, line no: 61,mainClass.output,QUALIFIED_NAME, line no: 56, 4.4639423076923073E-4, insert, 0.4076923076923077, 0.0, 0.125
+String,SIMPLE_NAME, line no: 77,mainClass.output,QUALIFIED_NAME, line no: 56, 4.4639423076923073E-4, insert, 0.4076923076923077, 0.0, 0.125
+output+=(String.format("That's all  have a nice day!\n")); ,EXPRESSION_STATEMENT, line no: 77,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 4.292553191489362E-4, insert, 0.40476190476190477, 0.0, 0.18439716312056736
+"Enter an integer > ",STRING_LITERAL, line no: 61,mainClass.scanner,QUALIFIED_NAME, line no: 51, 4.195054945054944E-4, insert, 0.12307692307692308, 0.0, 0.2857142857142857
+"Enter an integer > ",STRING_LITERAL, line no: 61,java.util.Scanner,QUALIFIED_NAME, line no: 51, 4.195054945054944E-4, insert, 0.12307692307692308, 0.0, 0.2857142857142857
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,mainClass.output,QUALIFIED_NAME, line no: 56, 4.1123798076923076E-4, insert, 0.4076923076923077, 0.0, 0.09375
+output+=(String.format("Enter an integer > ")); ,EXPRESSION_STATEMENT, line no: 61,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 4.024468085106383E-4, insert, 0.40476190476190477, 0.0, 0.15602836879432624
+num.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 62,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 4.024468085106383E-4, insert, 0.40476190476190477, 0.5, 0.15602836879432624
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,System.out,QUALIFIED_NAME, line no: 56, 3.760817307692308E-4, insert, 0.4076923076923077, 0.0, 0.0625
+"Enter an integer > ",STRING_LITERAL, line no: 61,i,SIMPLE_NAME, line no: 7, 3.68032967032967E-4, insert, 0.046153846153846156, 0.0, 0.047619047619047616
+String,SIMPLE_NAME, line no: 61,java.util,QUALIFIED_NAME, line no: 44, 3.5384615384615386E-4, insert, 0.007692307692307693, 0.0, 0.2222222222222222
+format,SIMPLE_NAME, line no: 61,java.util,QUALIFIED_NAME, line no: 44, 3.5384615384615386E-4, insert, 0.007692307692307693, 0.0, 0.2222222222222222
+String,SIMPLE_NAME, line no: 77,java.util,QUALIFIED_NAME, line no: 44, 3.5384615384615386E-4, insert, 0.007692307692307693, 0.0, 0.2222222222222222
+format,SIMPLE_NAME, line no: 77,java.util,QUALIFIED_NAME, line no: 44, 3.5384615384615386E-4, insert, 0.007692307692307693, 0.0, 0.2222222222222222
+scanner,SIMPLE_NAME, line no: 62,System.in,QUALIFIED_NAME, line no: 53, 3.488372093023256E-4, insert, 0.13178294573643412, 0.0, 0.2222222222222222
+nextInt,SIMPLE_NAME, line no: 62,System.in,QUALIFIED_NAME, line no: 53, 3.488372093023256E-4, insert, 0.13178294573643412, 0.0, 0.2222222222222222
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,java.util.Scanner,QUALIFIED_NAME, line no: 51, 3.4417067307692306E-4, insert, 0.12307692307692308, 0.0, 0.21875
+"Enter an integer > ",STRING_LITERAL, line no: 61,System.in,QUALIFIED_NAME, line no: 53, 3.1236263736263733E-4, insert, 0.13076923076923078, 0.0, 0.19047619047619047
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,mainClass.scanner,QUALIFIED_NAME, line no: 51, 3.0901442307692303E-4, insert, 0.12307692307692308, 0.0, 0.1875
+String,SIMPLE_NAME, line no: 61,java.util.Scanner,QUALIFIED_NAME, line no: 51, 2.9660633484162896E-4, insert, 0.12307692307692308, 0.0, 0.17647058823529413
+String,SIMPLE_NAME, line no: 77,java.util.Scanner,QUALIFIED_NAME, line no: 51, 2.9660633484162896E-4, insert, 0.12307692307692308, 0.0, 0.17647058823529413
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,i,SIMPLE_NAME, line no: 7, 2.911802884615385E-4, insert, 0.046153846153846156, 0.0, 0.03125
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,java.util,QUALIFIED_NAME, line no: 44, 2.444711538461538E-4, insert, 0.007692307692307693, 0.0, 0.125
+"That's all  have a nice day!\n",STRING_LITERAL, line no: 77,System.in,QUALIFIED_NAME, line no: 53, 2.3870192307692308E-4, insert, 0.13076923076923078, 0.0, 0.125
+nextInt,SIMPLE_NAME, line no: 62,mainClass.scanner,QUALIFIED_NAME, line no: 51, 2.3119015047879616E-4, insert, 0.12403100775193798, 0.0, 0.11764705882352941
+nextInt,SIMPLE_NAME, line no: 62,java.util.Scanner,QUALIFIED_NAME, line no: 51, 2.3119015047879616E-4, insert, 0.12403100775193798, 0.0, 0.11764705882352941
+String,SIMPLE_NAME, line no: 61,mainClass.scanner,QUALIFIED_NAME, line no: 51, 2.3042986425339366E-4, insert, 0.12307692307692308, 0.0, 0.11764705882352941
+format,SIMPLE_NAME, line no: 61,mainClass.scanner,QUALIFIED_NAME, line no: 51, 2.3042986425339366E-4, insert, 0.12307692307692308, 0.0, 0.11764705882352941
+format,SIMPLE_NAME, line no: 61,java.util.Scanner,QUALIFIED_NAME, line no: 51, 2.3042986425339366E-4, insert, 0.12307692307692308, 0.0, 0.11764705882352941
+String,SIMPLE_NAME, line no: 77,mainClass.scanner,QUALIFIED_NAME, line no: 51, 2.3042986425339366E-4, insert, 0.12307692307692308, 0.0, 0.11764705882352941
+format,SIMPLE_NAME, line no: 77,mainClass.scanner,QUALIFIED_NAME, line no: 51, 2.3042986425339366E-4, insert, 0.12307692307692308, 0.0, 0.11764705882352941
+format,SIMPLE_NAME, line no: 77,java.util.Scanner,QUALIFIED_NAME, line no: 51, 2.3042986425339366E-4, insert, 0.12307692307692308, 0.0, 0.11764705882352941
+scanner,SIMPLE_NAME, line no: 62,java.util,QUALIFIED_NAME, line no: 44, 2.2965116279069766E-4, insert, 0.007751937984496124, 0.0, 0.1111111111111111
+nextInt,SIMPLE_NAME, line no: 62,java.util,QUALIFIED_NAME, line no: 44, 2.2965116279069766E-4, insert, 0.007751937984496124, 0.0, 0.1111111111111111
+format,SIMPLE_NAME, line no: 61,System.in,QUALIFIED_NAME, line no: 53, 2.230769230769231E-4, insert, 0.13076923076923078, 0.0, 0.1111111111111111
+format,SIMPLE_NAME, line no: 77,System.in,QUALIFIED_NAME, line no: 53, 2.230769230769231E-4, insert, 0.13076923076923078, 0.0, 0.1111111111111111
+"Enter an integer > ",STRING_LITERAL, line no: 61,java.util,QUALIFIED_NAME, line no: 44, 2.10989010989011E-4, insert, 0.007692307692307693, 0.0, 0.09523809523809523
