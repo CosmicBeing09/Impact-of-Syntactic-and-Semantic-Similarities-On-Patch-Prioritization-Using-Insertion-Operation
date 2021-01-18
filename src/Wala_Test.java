@@ -4,47 +4,6 @@ import java.util.Collection;
 import java.util.Iterator;
 import java.util.Properties;
 
-import com.ibm.wala.core.tests.callGraph.CallGraphTestUtil;
-import com.ibm.wala.ipa.callgraph.*;
-import com.ibm.wala.ipa.callgraph.impl.Util;
-import com.ibm.wala.ipa.cha.ClassHierarchy;
-import com.ibm.wala.ipa.cha.ClassHierarchyFactory;
-import com.ibm.wala.ipa.slicer.HeapStatement;
-import com.ibm.wala.ipa.slicer.NormalReturnCaller;
-import com.ibm.wala.ipa.slicer.NormalStatement;
-import com.ibm.wala.ipa.slicer.ParamCallee;
-import com.ibm.wala.ipa.slicer.ParamCaller;
-import com.ibm.wala.ipa.slicer.SDG;
-import com.ibm.wala.ipa.slicer.Slicer;
-import com.ibm.wala.ipa.slicer.Slicer.ControlDependenceOptions;
-import com.ibm.wala.ipa.slicer.Slicer.DataDependenceOptions;
-import com.ibm.wala.ipa.slicer.Statement;
-import com.ibm.wala.ipa.slicer.Statement.Kind;
-import com.ibm.wala.properties.WalaProperties;
-import com.ibm.wala.ssa.SSAAbstractInvokeInstruction;
-import com.ibm.wala.ssa.SSAInstruction;
-import com.ibm.wala.ssa.SSAInvokeInstruction;
-import com.ibm.wala.types.Descriptor;
-import com.ibm.wala.types.TypeReference;
-import com.ibm.wala.util.CancelException;
-import com.ibm.wala.util.WalaException;
-import com.ibm.wala.util.config.AnalysisScopeReader;
-import com.ibm.wala.util.debug.Assertions;
-import com.ibm.wala.util.graph.Graph;
-import com.ibm.wala.util.graph.GraphIntegrity;
-import com.ibm.wala.util.graph.GraphIntegrity.UnsoundGraphException;
-import com.ibm.wala.util.graph.GraphSlicer;
-import com.ibm.wala.util.io.CommandLine;
-import com.ibm.wala.util.io.FileProvider;
-import com.ibm.wala.util.strings.Atom;
-import com.ibm.wala.viz.DotUtil;
-import com.ibm.wala.viz.NodeDecorator;
-import com.ibm.wala.viz.PDFViewUtil;
-import org.eclipse.jdt.core.dom.ASTNode;
-
-import static com.ibm.wala.ipa.slicer.SlicerUtil.findCallTo;
-
-
 public class Wala_Test {
 //    public static void main(String[] args) throws WalaException, IllegalArgumentException, CancelException, IOException {
 //        Properties p = CommandLine.parse(args);
@@ -104,5 +63,5 @@ public class Wala_Test {
 //        Assertions.UNREACHABLE("unknown control datapendence option: " + d);
 //        return null;
 //    }
-    }
+}
 

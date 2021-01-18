@@ -4,10 +4,10 @@ import java.io.IOException;
 public class Main {
     public static void main(String[] args) throws IOException {
         Program program = Program.createProgram();
-        program.sourceFilesDirectory = "solved/digits_07045530_002/src/main"; //"grade001/src/main";//"digit003/src/main"; //"syl002/src/main";//
-        program.sourceClassFilesDirectory = "solved/digits_07045530_002/bin"; //"grade001/bin";//"syl002/bin";//
-        program.testFilesDirectory = "solved/digits_07045530_002/src/test"; //"grade001/src/test";//"syl002/src/test";//
-        program.testClassFilesDirectory = "solved/digits_07045530_002/test"; //"grade001/test";//"syl002/test";//
+        program.sourceFilesDirectory = "solved/smallest_818f8cf4_003/src/main"; //"grade001/src/main";//"digit003/src/main"; //"syl002/src/main";//
+        program.sourceClassFilesDirectory = "solved/smallest_818f8cf4_003/bin"; //"grade001/bin";//"syl002/bin";//
+        program.testFilesDirectory = "solved/smallest_818f8cf4_003/src/test"; //"grade001/src/test";//"syl002/src/test";//
+        program.testClassFilesDirectory = "solved/smallest_818f8cf4_003/test"; //"grade001/test";//"syl002/test";//
 
         scanDirectory(new File(program.sourceFilesDirectory));
         System.out.println("END");

@@ -15,6 +15,7 @@ public class AllRunMain {
         try {
             // listOfFiles.length
             for (int i = 0; i < listOfFiles.length ; i++) {
+                //for (int i = 0; i < listOfFiles.length ; i++) {
                 if (listOfFiles[i].isDirectory()) {
                     String project = folder.getName()+ "/" + listOfFiles[i].getName() + "/";
                     Program program = Program.createProgram();
