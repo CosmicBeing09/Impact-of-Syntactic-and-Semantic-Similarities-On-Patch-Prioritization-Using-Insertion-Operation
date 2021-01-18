@@ -13,6 +13,8 @@ public class CandidatePatch implements Serializable, Comparable <CandidatePatch>
     double variableScore;
     double LCS;
     double cosineScore;
+    double jaroWinklerDistance;
+    double jaccardDistance;
 
     @Override
     public int compareTo(CandidatePatch o) {
