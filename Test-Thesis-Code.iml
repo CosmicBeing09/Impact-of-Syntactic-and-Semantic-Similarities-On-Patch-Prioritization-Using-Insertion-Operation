@@ -168,15 +168,6 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../../jarFiles/java-string-similarity-2.0.0.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
           <root url="jar://$MODULE_DIR$/../Impact-Analysis-of-Syntactic-and-Semantic-Similarities-on-Patch-Prioritization/lib/org.eclipse.core.commands-3.9.300.jar!/" />
         </CLASSES>
         <JAVADOC />
@@ -184,5 +175,14 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="com.gzoltar-1.6.1-java7-jar-with-dependencies" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../java-string-similarity-2.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
