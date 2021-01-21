@@ -1,5 +1,4 @@
 import info.debatty.java.stringsimilarity.Cosine;
-import jdk.nashorn.internal.ir.debug.ASTWriter;
 import org.eclipse.jdt.core.dom.rewrite.ASTRewrite;
 import org.eclipse.jface.text.BadLocationException;
 import org.eclipse.jface.text.Document;

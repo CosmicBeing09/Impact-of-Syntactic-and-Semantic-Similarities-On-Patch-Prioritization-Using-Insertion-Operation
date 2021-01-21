@@ -248,9 +248,9 @@ public class PatchGenerator {
             }
 
         } catch(Exception e) {
-            e.printStackTrace();
+           // e.printStackTrace();
         } catch(StackOverflowError overflow) {
-            overflow.printStackTrace();
+           // overflow.printStackTrace();
         }
     }
 

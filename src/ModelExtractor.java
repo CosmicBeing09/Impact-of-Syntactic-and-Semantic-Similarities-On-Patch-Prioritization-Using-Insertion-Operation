@@ -227,6 +227,9 @@ public class ModelExtractor {
         return cosine.similarity(faultyNode,fixingIngredient);
     }
 
+    boolean isAntiPattern(String fixingIngredient){
+        return fixingIngredient.contains("return");
+    }
     public String getNodeType(ASTNode node) {
         if(node.getNodeType()==ASTNode.ANNOTATION_TYPE_DECLARATION) {
             return "ANNOTATION_TYPE_DECLARATION";
