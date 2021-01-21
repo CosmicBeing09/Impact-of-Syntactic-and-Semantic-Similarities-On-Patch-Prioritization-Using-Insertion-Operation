@@ -94,7 +94,7 @@ public class PatchGenerator {
 
         }
 
-//        File resfile = new File("D:\\PDF\\thesisPaper\\results\\insertOperation\\metricVar.csv");
+//        File resfile = new File("D:\\PDF\\thesisPaper\\results\\insertOperation\\cos0.csv");
 //        FileWriter fileWrite = null;
 //        WriteChangedAstToFile writeChangedAstToFile = WriteChangedAstToFile.createWriteChangedAstToFile();
 //
