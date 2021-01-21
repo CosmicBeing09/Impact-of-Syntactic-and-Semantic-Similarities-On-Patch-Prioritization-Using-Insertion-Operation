@@ -55,37 +55,35 @@ public class InsertionHandler {
                 candidatePatch.mutationOperation = "insert";
                 if (fixingIngredient.node.getNodeType() == ASTNode.SIMPLE_NAME) {
 
-                    //candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore;
-                    //candidatePatch.score = faultyNode.suspiciousValue+Frequency.methodInvocationSimpleNameFrequency+candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaroWinklerDistance;
-                    //candidatePatch.score = faultyNode.suspiciousValue + Frequency.methodInvocationSimpleNameFrequency + candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaccardDistance;
-                    candidatePatch.score = faultyNode.suspiciousValue + Frequency.methodInvocationSimpleNameFrequency + candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore;
-                    //candidatePatch.score = faultyNode.suspiciousValue + Frequency.methodInvocationSimpleNameFrequency + candidatePatch.genealogyScore + candidatePatch.LCS;
-                    //candidatePatch.score = faultyNode.suspiciousValue + Frequency.methodInvocationSimpleNameFrequency + candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.variableScore;
+//                    candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore;
+//                    candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaccardDistance;
+//                    candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaroWinklerDistance;
+
+//                    candidatePatch.score = faultyNode.suspiciousValue * Frequency.methodInvocationSimpleNameFrequency * (candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaroWinklerDistance);
+//                    candidatePatch.score = faultyNode.suspiciousValue * Frequency.methodInvocationSimpleNameFrequency * (candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaccardDistance);
+                    candidatePatch.score = faultyNode.suspiciousValue * Frequency.methodInvocationSimpleNameFrequency * (candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore);
 
                 } else if (fixingIngredient.node.getNodeType() == ASTNode.QUALIFIED_NAME) {
 
-                    //candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore;
-                    //candidatePatch.score = faultyNode.suspiciousValue+Frequency.methodInvocationQualifiedNameFrequency+candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaroWinklerDistance;
-                    //candidatePatch.score = faultyNode.suspiciousValue + Frequency.methodInvocationQualifiedNameFrequency + candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaccardDistance;
-                    candidatePatch.score = faultyNode.suspiciousValue + Frequency.methodInvocationQualifiedNameFrequency + candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore;
-                    //candidatePatch.score = faultyNode.suspiciousValue + Frequency.methodInvocationQualifiedNameFrequency + candidatePatch.genealogyScore + candidatePatch.LCS;
-                    //candidatePatch.score = faultyNode.suspiciousValue + Frequency.methodInvocationQualifiedNameFrequency + candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.variableScore;
+//                    candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore;
+//                    candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaccardDistance;
+                    //candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaroWinklerDistance;
+
+//                    candidatePatch.score = faultyNode.suspiciousValue * Frequency.methodInvocationQualifiedNameFrequency * (candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaroWinklerDistance);
+//                    candidatePatch.score = faultyNode.suspiciousValue * Frequency.methodInvocationQualifiedNameFrequency * (candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaccardDistance);
+                    candidatePatch.score = faultyNode.suspiciousValue * Frequency.methodInvocationQualifiedNameFrequency * (candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore);
 
                 } else if (fixingIngredient.node.getNodeType() == ASTNode.BOOLEAN_LITERAL) {
 
-                    //candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore;
-                    //candidatePatch.score = faultyNode.suspiciousValue+Frequency.methodInvocationBooleanLiteralFrequency+candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaroWinklerDistance;
-                    //candidatePatch.score = faultyNode.suspiciousValue + Frequency.methodInvocationBooleanLiteralFrequency + candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaccardDistance;
-                    candidatePatch.score = faultyNode.suspiciousValue + Frequency.methodInvocationBooleanLiteralFrequency + candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore;
-                    //candidatePatch.score = faultyNode.suspiciousValue + Frequency.methodInvocationBooleanLiteralFrequency + candidatePatch.genealogyScore + candidatePatch.LCS;
-                    //candidatePatch.score = faultyNode.suspiciousValue + Frequency.methodInvocationBooleanLiteralFrequency + candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.variableScore;
+//                    candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore;
+//                    candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaccardDistance;
+//                    candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaroWinklerDistance;
 
+//                    candidatePatch.score = faultyNode.suspiciousValue * Frequency.methodInvocationBooleanLiteralFrequency * (candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaroWinklerDistance);
+//                    candidatePatch.score = faultyNode.suspiciousValue * Frequency.methodInvocationBooleanLiteralFrequency * (candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaccardDistance);
+                    candidatePatch.score = faultyNode.suspiciousValue * Frequency.methodInvocationBooleanLiteralFrequency * (candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore);
                 }
 
-//                if(candidatePatch.LCS>0 && candidatePatch.genealogyScore>0 && candidatePatch.cosineScore>0) {
-//                    this.patchListUpdater.updatePatchList(candidatePatch);
-//
-//                }
 //
 //                if (candidatePatch.genealogyScore > 0 && candidatePatch.LCS > 0 && candidatePatch.jaroWinklerDistance > 0) {
 //
@@ -107,10 +105,6 @@ public class InsertionHandler {
 //                    this.patchListUpdater.updatePatchList(candidatePatch);
 //                }
 
-//                if (candidatePatch.genealogyScore > 0 && candidatePatch.LCS > 0 && candidatePatch.variableScore > 0) {
-//
-//                    this.patchListUpdater.updatePatchList(candidatePatch);
-//                }
             }
         }
     }
@@ -149,29 +143,24 @@ public class InsertionHandler {
                 candidatePatch.mutationOperation = "insert";
                 if (fixingIngredient.node.getNodeType() == ASTNode.IF_STATEMENT) {
 
-                    //candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore;
-                    //candidatePatch.score = faultyNode.suspiciousValue+Frequency.methodDeclarationIfFrequency+candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaroWinklerDistance;
-                    //candidatePatch.score = faultyNode.suspiciousValue + Frequency.methodDeclarationIfFrequency + candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaccardDistance;
-                    candidatePatch.score = faultyNode.suspiciousValue + Frequency.methodDeclarationIfFrequency + candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore;
-                    //candidatePatch.score = faultyNode.suspiciousValue + Frequency.methodDeclarationIfFrequency + candidatePatch.genealogyScore + candidatePatch.LCS;
-                    //candidatePatch.score = faultyNode.suspiciousValue + Frequency.methodDeclarationIfFrequency + candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.variableScore;
+//                    candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore;
+//                    candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaccardDistance;
+//                    candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaroWinklerDistance;
+
+//                    candidatePatch.score = faultyNode.suspiciousValue * Frequency.methodDeclarationIfFrequency * (candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaroWinklerDistance);
+//                    candidatePatch.score = faultyNode.suspiciousValue * Frequency.methodDeclarationIfFrequency * (candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaccardDistance);
+                    candidatePatch.score = faultyNode.suspiciousValue * Frequency.methodDeclarationIfFrequency * (candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore);
 
                 } else if (fixingIngredient.node.getNodeType() == ASTNode.EXPRESSION_STATEMENT) {
 
-//                  candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore;
-                    //candidatePatch.score = faultyNode.suspiciousValue+Frequency.methodDeclarationExpressionFrequency+candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaroWinklerDistance;
-                    //candidatePatch.score = faultyNode.suspiciousValue + Frequency.methodDeclarationExpressionFrequency + candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaccardDistance;
-                    candidatePatch.score = faultyNode.suspiciousValue + Frequency.methodDeclarationExpressionFrequency + candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore;
-                    //candidatePatch.score = faultyNode.suspiciousValue + Frequency.methodDeclarationExpressionFrequency + candidatePatch.genealogyScore + candidatePatch.LCS;
-                    //candidatePatch.score = faultyNode.suspiciousValue + Frequency.methodDeclarationExpressionFrequency + candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.variableScore;
+//                    candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore;
+//                    candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaccardDistance;
+//                    candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaroWinklerDistance;
 
+//                    candidatePatch.score = faultyNode.suspiciousValue * Frequency.methodDeclarationExpressionFrequency * (candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaroWinklerDistance);
+//                    candidatePatch.score = faultyNode.suspiciousValue * Frequency.methodDeclarationExpressionFrequency * (candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaccardDistance);
+                    candidatePatch.score = faultyNode.suspiciousValue * Frequency.methodDeclarationExpressionFrequency * (candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore);
                 }
-
-//                if (candidatePatch.LCS > 0 && candidatePatch.genealogyScore > 0 && candidatePatch.cosineScore > 0) {
-////                if(candidatePatch.LCS>0 && candidatePatch.genealogyScore>0) {
-//                    this.patchListUpdater.updatePatchList(candidatePatch);
-//
-//                }
 
 //                if (candidatePatch.genealogyScore > 0 && candidatePatch.LCS > 0 && candidatePatch.jaroWinklerDistance > 0) {
 //
@@ -193,10 +182,6 @@ public class InsertionHandler {
 //                    this.patchListUpdater.updatePatchList(candidatePatch);
 //                }
 
-//                if (candidatePatch.genealogyScore > 0 && candidatePatch.LCS > 0 && candidatePatch.variableScore > 0) {
-//
-//                    this.patchListUpdater.updatePatchList(candidatePatch);
-//                }
             }
         }
     }
@@ -235,26 +220,25 @@ public class InsertionHandler {
                 candidatePatch.mutationOperation = "insert";
                 if (fixingIngredient.node.getNodeType() == ASTNode.IF_STATEMENT) {
 
-//                  candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore;
-                    //candidatePatch.score = faultyNode.suspiciousValue+Frequency.ifIfFrequency+candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaroWinklerDistance;
-                    //candidatePatch.score = faultyNode.suspiciousValue + Frequency.ifIfFrequency + candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaccardDistance;
-                    candidatePatch.score = faultyNode.suspiciousValue + Frequency.ifIfFrequency + candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore;
-                    //candidatePatch.score = faultyNode.suspiciousValue + Frequency.ifIfFrequency + candidatePatch.genealogyScore + candidatePatch.LCS;
-                    //candidatePatch.score = faultyNode.suspiciousValue + Frequency.ifIfFrequency + candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.variableScore;
+//                    candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore;
+//                    candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaccardDistance;
+//                    candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaroWinklerDistance;
+
+//                    candidatePatch.score = faultyNode.suspiciousValue * Frequency.ifIfFrequency * (candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaroWinklerDistance);
+//                    candidatePatch.score = faultyNode.suspiciousValue * Frequency.ifIfFrequency * (candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaccardDistance);
+                    candidatePatch.score = faultyNode.suspiciousValue * Frequency.ifIfFrequency * (candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore);
 
                 } else if (fixingIngredient.node.getNodeType() == ASTNode.EXPRESSION_STATEMENT) {
 
 //                    candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore;
-                    //candidatePatch.score = faultyNode.suspiciousValue+Frequency.ifExpressionFrequency+candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaroWinklerDistance;
-                    //candidatePatch.score = faultyNode.suspiciousValue + Frequency.ifExpressionFrequency + candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaccardDistance;
-                    candidatePatch.score = faultyNode.suspiciousValue + Frequency.ifExpressionFrequency + candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore;
-                    //candidatePatch.score = faultyNode.suspiciousValue + Frequency.ifExpressionFrequency + candidatePatch.genealogyScore + candidatePatch.LCS;
-                    //candidatePatch.score = faultyNode.suspiciousValue + Frequency.ifExpressionFrequency + candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.variableScore;
+//                    candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaccardDistance;
+//                    candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaroWinklerDistance;
+
+//                    candidatePatch.score = faultyNode.suspiciousValue * Frequency.ifExpressionFrequency * (candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaroWinklerDistance);
+//                    candidatePatch.score = faultyNode.suspiciousValue * Frequency.ifExpressionFrequency * (candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaccardDistance);
+                    candidatePatch.score = faultyNode.suspiciousValue * Frequency.ifExpressionFrequency * (candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore);
+
                 }
-//                if (candidatePatch.LCS > 0 && candidatePatch.genealogyScore > 0 && candidatePatch.cosineScore > 0) {
-//                    this.patchListUpdater.updatePatchList(candidatePatch);
-//
-//                }
 
 //                if (candidatePatch.genealogyScore > 0 && candidatePatch.LCS > 0 && candidatePatch.jaroWinklerDistance > 0) {
 //
@@ -276,10 +260,6 @@ public class InsertionHandler {
 //                    this.patchListUpdater.updatePatchList(candidatePatch);
 //                }
 
-//                if (candidatePatch.genealogyScore > 0 && candidatePatch.LCS > 0 && candidatePatch.variableScore > 0) {
-//
-//                    this.patchListUpdater.updatePatchList(candidatePatch);
-//                }
             }
         }
     }
@@ -317,16 +297,13 @@ public class InsertionHandler {
                 double dependencyScore = 1;
                 candidatePatch.mutationOperation = "insert";
 
-                //candidatePatch.score = faultyNode.suspiciousValue+Frequency.tryExpressionFrequency+candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaroWinklerDistance;
-                //candidatePatch.score = faultyNode.suspiciousValue + Frequency.tryExpressionFrequency + candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaccardDistance;
-                candidatePatch.score = faultyNode.suspiciousValue + Frequency.tryExpressionFrequency + candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore;
-                //candidatePatch.score = faultyNode.suspiciousValue + Frequency.tryExpressionFrequency + candidatePatch.genealogyScore + candidatePatch.LCS;
-                //candidatePatch.score = faultyNode.suspiciousValue + Frequency.tryExpressionFrequency + candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.variableScore;
+//                    candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore;
+//                    candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaccardDistance;
+//                candidatePatch.score = candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaroWinklerDistance;
 
-//                if (candidatePatch.LCS > 0 && candidatePatch.genealogyScore > 0 && candidatePatch.cosineScore > 0) {
-//                    this.patchListUpdater.updatePatchList(candidatePatch);
-//
-//                }
+//                candidatePatch.score = faultyNode.suspiciousValue * Frequency.tryExpressionFrequency * (candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaroWinklerDistance);
+//                candidatePatch.score = faultyNode.suspiciousValue * Frequency.tryExpressionFrequency * (candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.jaccardDistance);
+                candidatePatch.score = faultyNode.suspiciousValue * Frequency.tryExpressionFrequency * (candidatePatch.genealogyScore + candidatePatch.LCS + candidatePatch.cosineScore);
 
 //                if (candidatePatch.genealogyScore > 0 && candidatePatch.LCS > 0 && candidatePatch.jaroWinklerDistance > 0) {
 //
@@ -344,11 +321,6 @@ public class InsertionHandler {
                 }
 
 //                if (candidatePatch.genealogyScore > 0 && candidatePatch.LCS > 0) {
-//
-//                    this.patchListUpdater.updatePatchList(candidatePatch);
-//                }
-
-//                if (candidatePatch.genealogyScore > 0 && candidatePatch.LCS > 0 && candidatePatch.variableScore > 0) {
 //
 //                    this.patchListUpdater.updatePatchList(candidatePatch);
 //                }
