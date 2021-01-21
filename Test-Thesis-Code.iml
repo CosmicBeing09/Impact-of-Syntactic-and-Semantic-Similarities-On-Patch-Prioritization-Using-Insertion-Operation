@@ -15,16 +15,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../Impact-Analysis-of-Syntactic-and-Semantic-Similarities-on-Patch-Prioritization/lib/junit-4.6.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../java-string-similarity-2.0.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/com.gzoltar-1.6.1-java7-jar-with-dependencies.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -51,7 +42,16 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../Impact-Analysis-of-Syntactic-and-Semantic-Similarities-on-Patch-Prioritization/lib/org.eclipse.core.commands-3.9.300.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Impact-Analysis-of-Syntactic-and-Semantic-Similarities-on-Patch-Prioritization/lib/junit-4.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../Impact-Analysis-of-Syntactic-and-Semantic-Similarities-on-Patch-Prioritization/lib/org.eclipse.jdt.core-3.14.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -150,15 +150,6 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../Impact-Analysis-of-Syntactic-and-Semantic-Similarities-on-Patch-Prioritization/lib/org.eclipse.jdt.core-3.14.0.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
           <root url="jar://$MODULE_DIR$/../Impact-Analysis-of-Syntactic-and-Semantic-Similarities-on-Patch-Prioritization/lib/org.eclipse.osgi-3.13.300.jar!/" />
         </CLASSES>
         <JAVADOC />
@@ -174,5 +165,24 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../jarFiles/java-string-similarity-2.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../Impact-Analysis-of-Syntactic-and-Semantic-Similarities-on-Patch-Prioritization/lib/org.eclipse.core.commands-3.9.300.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="com.gzoltar-1.6.1-java7-jar-with-dependencies" level="project" />
   </component>
 </module>

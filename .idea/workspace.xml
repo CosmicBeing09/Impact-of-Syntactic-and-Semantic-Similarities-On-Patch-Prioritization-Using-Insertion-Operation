@@ -5,30 +5,48 @@
       <artifact name="Test-Thesis-Code:jar" />
     </artifacts-to-build>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="91a8272d-02dc-4ede-89a4-add3dc7b1242" name="Default Changelist" comment="">
+    <list default="true" id="91a8272d-02dc-4ede-89a4-add3dc7b1242" name="Default Changelist" comment="Add metrics for patch prioritization">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test-Thesis-Code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Test-Thesis-Code.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/correct_patch/solved/digits_07045530_002/src/main/java/introclassJava/194/digits_07045530_002.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/correct_patch/solved/median_0cdfa335_003/src/main/java/introclassJava/325/median_0cdfa335_003.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/correct_patch/solved/median_89b1a701_010/src/main/java/introclassJava/106/median_89b1a701_010.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/correct_patch/solved/smallest_6aaeaf2f_001/src/main/java/introclassJava/405/smallest_6aaeaf2f_001.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/correct_patch/solved/smallest_818f8cf4_003/src/main/java/introclassJava/277/smallest_818f8cf4_003.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/correct_patch/solved/smallest_818f8cf4_003/src/main/java/introclassJava/312/smallest_818f8cf4_003.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/correct_patch/solved/smallest_cb243beb_000/src/main/java/introclassJava/236/smallest_cb243beb_000.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fault/matrix" beforeDir="false" afterPath="$PROJECT_DIR$/fault/matrix" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fault/spectra" beforeDir="false" afterPath="$PROJECT_DIR$/fault/spectra" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fault/statistics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fault/statistics.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fault/tests" beforeDir="false" afterPath="$PROJECT_DIR$/fault/tests" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Test-Thesis-Code/InsertionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test-Thesis-Code/InsertionHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test-Thesis-Code/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test-Thesis-Code/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test-Thesis-Code/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test-Thesis-Code/ModelExtractor$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test-Thesis-Code/ModelExtractor$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test-Thesis-Code/ModelExtractor$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test-Thesis-Code/ModelExtractor$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Test-Thesis-Code/ModelExtractor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test-Thesis-Code/ModelExtractor.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Test-Thesis-Code/PatchGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test-Thesis-Code/PatchGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test-Thesis-Code/Wala_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test-Thesis-Code/TargetBlockInsertionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test-Thesis-Code/TargetBlockInsertionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test-Thesis-Code/TargetMethodInvocationInsertionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test-Thesis-Code/TargetMethodInvocationInsertionHandler.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Test-Thesis-Code/WriteChangedAstToFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test-Thesis-Code/WriteChangedAstToFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/introclassJava/CharObj.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/introclassJava/CharObj.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/introclassJava/DoubleObj.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/introclassJava/DoubleObj.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/introclassJava/FloatObj.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/introclassJava/FloatObj.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/introclassJava/IntObj.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/introclassJava/IntObj.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/introclassJava/LongObj.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/introclassJava/LongObj.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/introclassJava/digits_07045530_002.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/introclassJava/digits_07045530_002.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/introclassJava/median_0cdfa335_003.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/introclassJava/median_0cdfa335_003.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/introclassJava/median_89b1a701_010.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/introclassJava/median_89b1a701_010.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/introclassJava/smallest_6aaeaf2f_001.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/introclassJava/smallest_6aaeaf2f_001.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/introclassJava/smallest_818f8cf4_003.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/introclassJava/smallest_818f8cf4_003.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/introclassJava/smallest_cb243beb_000.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/introclassJava/smallest_cb243beb_000.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solved/digits_07045530_002/src/main/java/introclassJavaCandidates11.csv" beforeDir="false" afterPath="$PROJECT_DIR$/solved/digits_07045530_002/src/main/java/introclassJavaCandidates11.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solved/median_0cdfa335_003/src/main/java/introclassJavaCandidates11.csv" beforeDir="false" afterPath="$PROJECT_DIR$/solved/median_0cdfa335_003/src/main/java/introclassJavaCandidates11.csv" afterDir="false" />
@@ -37,12 +55,7 @@
       <change beforePath="$PROJECT_DIR$/solved/smallest_818f8cf4_003/src/main/java/introclassJavaCandidates11.csv" beforeDir="false" afterPath="$PROJECT_DIR$/solved/smallest_818f8cf4_003/src/main/java/introclassJavaCandidates11.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solved/smallest_cb243beb_000/src/main/java/introclassJavaCandidates11.csv" beforeDir="false" afterPath="$PROJECT_DIR$/solved/smallest_cb243beb_000/src/main/java/introclassJavaCandidates11.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/InsertionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InsertionHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModelExtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModelExtractor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PatchGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatchGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wala_Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WriteChangedAstToFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WriteChangedAstToFile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,9 +73,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hiT08OAq3JvqZzko1D3IvAPpH8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -70,31 +83,32 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Impact-Analysis-of-Syntactic-and-Semantic-Similarities-on-Patch-Prioritization/lib/org.eclipse.text-3.8.100.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Documents\github\Moumita-Apu-Thesis\Test-Thesis-Code\dataset" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PDF\Thesis Paper\patchProject\Impact-of-Syntactic-and-Semantic-Similarities-On-Patch-Prioritization-Using-Insertion-Operation\lib" />
       <recent name="C:\Users\ASUS\Documents\github\Moumita-Apu-Thesis\Test-Thesis-Code\solved" />
       <recent name="C:\Users\ASUS\Documents\github\Moumita-Apu-Thesis\Test-Thesis-Code" />
       <recent name="C:\Users\ASUS\Documents\github\Moumita-Apu-Thesis\Test-Thesis-Code\bugs" />
       <recent name="C:\Users\ASUS\Documents\github\Moumita-Apu-Thesis\Test-Thesis-Code\digits_mdf" />
-      <recent name="C:\Users\ASUS\Documents\github\Moumita-Apu-Thesis\Test-Thesis-Code\digits_mdf\digits_0cdfa335_004" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ASUS\Documents\github\Moumita-Apu-Thesis\Test-Thesis-Code\dataset" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AllRunMain">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="AllRunMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AllRunMain" />
       <module name="Test-Thesis-Code" />
@@ -116,14 +130,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.gzoltar-1.6.1-java7-jar-with-dependencies.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/com.gzoltar-1.6.1-java7-jar-with-dependencies.jar" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.AllRunMain" />
+      <item itemvalue="Application.Wala_Test" />
+      <item itemvalue="JAR Application.com.gzoltar-1.6.1-java7-jar-with-dependencies.jar" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AllRunMain" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.AllRunMain" />
+        <item itemvalue="JAR Application.com.gzoltar-1.6.1-java7-jar-with-dependencies.jar" />
         <item itemvalue="Application.Wala_Test" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -216,80 +244,121 @@
       <workItem from="1610537000564" duration="3852000" />
       <workItem from="1610599655605" duration="1992000" />
       <workItem from="1610691584701" duration="1508000" />
-      <workItem from="1610718100763" duration="1781000" />
-      <workItem from="1610787685024" duration="9450000" />
-      <workItem from="1610811279696" duration="10969000" />
-      <workItem from="1610861143575" duration="4696000" />
-      <workItem from="1610867696233" duration="4172000" />
-      <workItem from="1611035625343" duration="5237000" />
-      <workItem from="1611135245425" duration="3892000" />
+      <workItem from="1610864839973" duration="5998000" />
+      <workItem from="1610887380783" duration="13316000" />
+      <workItem from="1610932899929" duration="905000" />
+      <workItem from="1610949729353" duration="10101000" />
+      <workItem from="1611248048536" duration="602000" />
     </task>
+    <task id="LOCAL-00001" summary="Add metrics for patch prioritization">
+      <created>1610951174518</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610951174518</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add metrics for patch prioritization" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add metrics for patch prioritization" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="72" key="#Notifications" timestamp="1607840120022">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="72" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1607840120022" />
-    <state x="400" y="102" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1610812379528">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="163" y="0" key="#Project_Structure" timestamp="1610863150728">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="400" y="102" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1610812379528" />
-    <state x="599" y="124" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1608570951618">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1610863150728" />
+    <state x="198" y="13" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610862435850">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="198" y="13" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1610862435850" />
+    <state x="533" y="110" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1610862748526">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="533" y="110" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1610862748526" />
     <state x="599" y="124" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1608570951618" />
     <state x="107" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1608099728401">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="107" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1608099728401" />
-    <state x="212" y="214" key="FileChooserDialogImpl" timestamp="1610878218435">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="348" y="163" key="FileChooserDialogImpl" timestamp="1610865053123">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="212" y="214" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610878218435" />
-    <state width="1493" height="303" key="GridCell.Tab.0.bottom" timestamp="1611140210456">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="348" y="163" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1610865053123" />
+    <state x="391" y="185" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1608572418036" />
+    <state width="1323" height="437" key="GridCell.Tab.0.bottom" timestamp="1610988940646">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1493" height="303" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611140210456" />
-    <state width="1493" height="303" key="GridCell.Tab.0.center" timestamp="1611140210456">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1323" height="437" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610988940646" />
+    <state width="1493" height="298" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610693167734" />
+    <state width="1323" height="437" key="GridCell.Tab.0.center" timestamp="1610988940646">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1493" height="303" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611140210456" />
-    <state width="1493" height="303" key="GridCell.Tab.0.left" timestamp="1611140210456">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1323" height="437" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610988940646" />
+    <state width="1493" height="298" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610693167733" />
+    <state width="1323" height="437" key="GridCell.Tab.0.left" timestamp="1610988940645">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1493" height="303" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611140210456" />
-    <state width="1493" height="303" key="GridCell.Tab.0.right" timestamp="1611140210456">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1323" height="437" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610988940645" />
+    <state width="1493" height="298" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610693167733" />
+    <state width="1323" height="437" key="GridCell.Tab.0.right" timestamp="1610988940646">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1493" height="303" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611140210456" />
-    <state width="1493" height="346" key="GridCell.Tab.1.bottom" timestamp="1605725657967">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1323" height="437" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610988940646" />
+    <state width="1493" height="298" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610693167733" />
+    <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1610890200846">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610890200846" />
     <state width="1493" height="346" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605725657967" />
-    <state width="1493" height="346" key="GridCell.Tab.1.center" timestamp="1605725657967">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1323" height="222" key="GridCell.Tab.1.center" timestamp="1610890200845">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1610890200845" />
     <state width="1493" height="346" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605725657967" />
-    <state width="1493" height="346" key="GridCell.Tab.1.left" timestamp="1605725657967">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1323" height="222" key="GridCell.Tab.1.left" timestamp="1610890200845">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1610890200845" />
     <state width="1493" height="346" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605725657967" />
-    <state width="1493" height="346" key="GridCell.Tab.1.right" timestamp="1605725657967">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1323" height="222" key="GridCell.Tab.1.right" timestamp="1610890200846">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1610890200846" />
     <state width="1493" height="346" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605725657967" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1610878222043">
+    <state x="221" y="0" key="SettingsEditor" timestamp="1610865212383">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="221" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610865212383" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1608580138146" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1610951332020">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1610951332020" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1611252626923">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1610878222043" />
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1611035706536">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1611035706536" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1611252626923" />
     <state x="278" y="145" width="876" height="679" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1605707258592">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -303,9 +372,34 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$PROJECT_DIR$/../Impact-Analysis-of-Syntactic-and-Semantic-Similarities-on-Patch-Prioritization/lib/org.eclipse.jdt.core-3.14.0.jar!/org/eclipse/jdt/core/dom/rewrite/ListRewrite.class</url>
-          <line>81</line>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/src/PatchGenerator.java</url>
+          <line>232</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PatchGenerator.java</url>
+          <line>234</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PatchGenerator.java</url>
+          <line>256</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PatchGenerator.java</url>
+          <line>259</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TargetMethodInvocationInsertionHandler.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TargetMethodInvocationInsertionHandler.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

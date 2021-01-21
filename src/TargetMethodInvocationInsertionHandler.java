@@ -14,37 +14,38 @@ public class TargetMethodInvocationInsertionHandler {
     private static TargetMethodInvocationInsertionHandler targetMethodInvocationInsertionHandler;
     WriteChangedAstToFile writeChangedAstToFile;
 
-    private TargetMethodInvocationInsertionHandler(){
+    private TargetMethodInvocationInsertionHandler() {
         writeChangedAstToFile = WriteChangedAstToFile.createWriteChangedAstToFile();
     }
 
-    public static TargetMethodInvocationInsertionHandler createTargetMethodInvocationInsertionHandler(){
-        if(targetMethodInvocationInsertionHandler == null);
+    public static TargetMethodInvocationInsertionHandler createTargetMethodInvocationInsertionHandler() {
+        if (targetMethodInvocationInsertionHandler == null) ;
         targetMethodInvocationInsertionHandler = new TargetMethodInvocationInsertionHandler();
 
         return targetMethodInvocationInsertionHandler;
     }
 
 
-    int insertBefore(ASTNode parent, CandidatePatch candidatePatch, ASTRewrite astRewrite, Document document, File file,int count) throws IOException, BadLocationException {
+    int insertBefore(ASTNode parent, CandidatePatch candidatePatch, ASTRewrite astRewrite, Document document, File file, int count, int rank) throws IOException, BadLocationException {
         try {
             ListRewrite listRewrite = astRewrite.getListRewrite(parent, MethodInvocation.ARGUMENTS_PROPERTY);
             listRewrite.insertBefore(candidatePatch.fixingIngredient, candidatePatch.faultyNode, null);
-        }catch (Exception e){
+        } catch (Exception e) {
             e.printStackTrace();
         }
 
-        return writeChangedAstToFile.writeChangedAst(astRewrite,document,file,count,candidatePatch);
+        return writeChangedAstToFile.writeChangedAst(astRewrite, document, file, count, candidatePatch, rank);
 
     }
-    int insertAfter(ASTNode parent, CandidatePatch candidatePatch, ASTRewrite astRewrite, Document document, File file,int count) throws IOException, BadLocationException {
+
+    int insertAfter(ASTNode parent, CandidatePatch candidatePatch, ASTRewrite astRewrite, Document document, File file, int count, int rank) throws IOException, BadLocationException {
         try {
             ListRewrite listRewrite = astRewrite.getListRewrite(parent, MethodInvocation.ARGUMENTS_PROPERTY);
             listRewrite.insertAfter(candidatePatch.fixingIngredient, candidatePatch.faultyNode, null);
-        }catch (Exception e){
+        } catch (Exception e) {
             e.printStackTrace();
         }
 
-        return writeChangedAstToFile.writeChangedAst(astRewrite,document,file,count,candidatePatch);
+        return writeChangedAstToFile.writeChangedAst(astRewrite, document, file, count, candidatePatch, rank);
     }
 }
