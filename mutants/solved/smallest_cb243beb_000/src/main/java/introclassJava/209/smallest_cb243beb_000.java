@@ -60,9 +60,8 @@ public class smallest_cb243beb_000 {
         IntObj n1 = new IntObj (), n2 = new IntObj (), n3 = new IntObj (), n4 =
             new IntObj (), min = new IntObj ();
         output +=
-            (String.format ("Please enter 4 numbers separated by spaces > "));
-        mainClass.exec();
-		n1.value = scanner.nextInt ();
+            (String.format (n4, "Please enter 4 numbers separated by spaces > "));
+        n1.value = scanner.nextInt ();
         n2.value = scanner.nextInt ();
         n3.value = scanner.nextInt ();
         n4.value = scanner.nextInt ();

@@ -64,6 +64,11 @@ public class median_89b1a701_010 {
         a.value = scanner.nextInt ();
         b.value = scanner.nextInt ();
         c.value = scanner.nextInt ();
+		if (args.length > 0) {
+			mainClass.scanner = new java.util.Scanner(args[0]);
+		} else {
+			mainClass.scanner = new java.util.Scanner(System.in);
+		}
         if (a.value == b.value || a.value == c.value) {
             m.value = a.value;
         } else if (b.value == c.value || b.value == a.value) {
@@ -82,7 +87,7 @@ public class median_89b1a701_010 {
                 m.value = c.value;
             }
         }
-        output += (String.format ("%d is the median\n", m.value, exec));
+        output += (String.format ("%d is the median\n", m.value));
         if (true)
             return;;
     }

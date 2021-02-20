@@ -61,7 +61,6 @@ public class smallest_6aaeaf2f_001 {
             new IntObj (), int4 = new IntObj (), tmp = new IntObj ();
         output +=
             (String.format ("Please enter 4 numbers separated by spaces > "));
-		System.out.println(mainClass.output);
         int1.value = scanner.nextInt ();
         int2.value = scanner.nextInt ();
         int3.value = scanner.nextInt ();
@@ -75,6 +74,7 @@ public class smallest_6aaeaf2f_001 {
             tmp.value = int4.value;
         }
         output += (String.format ("%d is the smallest\n", tmp.value));
+		value = i;
         if (true)
             return;;
     }

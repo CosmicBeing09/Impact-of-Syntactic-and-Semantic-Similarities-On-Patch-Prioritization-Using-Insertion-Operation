@@ -68,9 +68,9 @@ public class smallest_6aaeaf2f_001 {
         tmp.value = int1.value;
         if (int1.value > int2.value) {
             tmp.value = int2.value;
-			System.out.println(mainClass.output);
         } else if (tmp.value > int3.value) {
             tmp.value = int3.value;
+			value = i;
         } else if (tmp.value > int4.value) {
             tmp.value = int4.value;
         }

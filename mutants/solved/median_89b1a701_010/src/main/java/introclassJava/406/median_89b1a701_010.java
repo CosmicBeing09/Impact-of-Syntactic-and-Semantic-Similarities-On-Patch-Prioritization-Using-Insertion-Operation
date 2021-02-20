@@ -82,7 +82,7 @@ public class median_89b1a701_010 {
                 m.value = c.value;
             }
         }
-        output += (String.format ("%d is the median\n", args.length, m.value));
+        output += (String.format ("%d is the median\n", mainClass.output, m.value));
         if (true)
             return;;
     }

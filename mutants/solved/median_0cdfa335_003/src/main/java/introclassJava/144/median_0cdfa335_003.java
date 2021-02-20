@@ -60,10 +60,9 @@ public class median_0cdfa335_003 {
         IntObj a = new IntObj (), b = new IntObj (), c = new IntObj (), median =
             new IntObj ();
         output +=
-            (String.format ("Please enter 3 numbers separated by spaces > "));
+            (String.format ("Please enter 3 numbers separated by spaces > ", nextInt));
         a.value = scanner.nextInt ();
         b.value = scanner.nextInt ();
-		mainClass.exec();
         c.value = scanner.nextInt ();
         if ((a.value >= b.value && a.value <= c.value)
                 || (a.value >= c.value && a.value <= b.value)) {

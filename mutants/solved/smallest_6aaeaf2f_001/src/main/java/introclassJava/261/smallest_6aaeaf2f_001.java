@@ -59,8 +59,7 @@ public class smallest_6aaeaf2f_001 {
     public void exec () throws Exception {
         IntObj int1 = new IntObj (), int2 = new IntObj (), int3 =
             new IntObj (), int4 = new IntObj (), tmp = new IntObj ();
-        System.out.println(mainClass.output);
-		output +=
+        output +=
             (String.format ("Please enter 4 numbers separated by spaces > "));
         int1.value = scanner.nextInt ();
         int2.value = scanner.nextInt ();
@@ -74,7 +73,8 @@ public class smallest_6aaeaf2f_001 {
         } else if (tmp.value > int4.value) {
             tmp.value = int4.value;
         }
-        output += (String.format ("%d is the smallest\n", tmp.value));
+        value = i;
+		output += (String.format ("%d is the smallest\n", tmp.value));
         if (true)
             return;;
     }

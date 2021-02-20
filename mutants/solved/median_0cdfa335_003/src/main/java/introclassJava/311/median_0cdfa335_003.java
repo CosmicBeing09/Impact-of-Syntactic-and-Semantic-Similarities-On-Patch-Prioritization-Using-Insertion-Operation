@@ -59,8 +59,7 @@ public class median_0cdfa335_003 {
     public void exec () throws Exception {
         IntObj a = new IntObj (), b = new IntObj (), c = new IntObj (), median =
             new IntObj ();
-        value = i;
-		output +=
+        output +=
             (String.format ("Please enter 3 numbers separated by spaces > "));
         a.value = scanner.nextInt ();
         b.value = scanner.nextInt ();
@@ -73,7 +72,12 @@ public class median_0cdfa335_003 {
                 || (b.value >= c.value && b.value <= a.value)) {
             median.value = b.value;
         } else {
-            median.value = c.value;
+            if (args.length > 0) {
+				mainClass.scanner = new java.util.Scanner(args[0]);
+			} else {
+				mainClass.scanner = new java.util.Scanner(System.in);
+			}
+			median.value = c.value;
         }
         output += (String.format ("%d is the median\n", median.value));
         if (true)

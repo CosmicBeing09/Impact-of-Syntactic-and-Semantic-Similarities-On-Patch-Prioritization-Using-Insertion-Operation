@@ -94,28 +94,29 @@ public class PatchGenerator {
 
         }
 
-//        File resfile = new File("D:\\PDF\\thesisPaper\\results\\insertOperation\\cos0.csv");
-//        FileWriter fileWrite = null;
-//        WriteChangedAstToFile writeChangedAstToFile = WriteChangedAstToFile.createWriteChangedAstToFile();
-//
-//        try {
-//            fileWrite = new FileWriter(resfile.getAbsolutePath(),true);
-//            String str = Arrays.toString(writeChangedAstToFile.getListPair().getValue().toArray()).replace(",", " ");
-//            String fileStr = Arrays.toString(writeChangedAstToFile.getListPair().getKey().toArray()).replace(",", " ");
-//
-//            List<List<String>> rows = Arrays.asList(
-//                    Arrays.asList(file.getName(), str, Integer.toString(this.candidatePatchesList.size()), fileStr)
-//            );
-//
-//            for (List<String> rowData : rows) {
-//                fileWrite.append(String.join(",", rowData));
-//                fileWrite.append("\n");
-//            }
-//
-//            fileWrite.close();
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        }
+        File resfile = new File("D:\\thesisPaper\\nedWithFreq.csv");
+        FileWriter fileWrite = null;
+        WriteChangedAstToFile writeChangedAstToFile = WriteChangedAstToFile.createWriteChangedAstToFile();
+
+        try {
+            if(!resfile.exists()) resfile.createNewFile();
+            fileWrite = new FileWriter(resfile.getAbsolutePath(),true);
+            String str = Arrays.toString(writeChangedAstToFile.getListPair().getValue().toArray()).replace(",", " ");
+            String fileStr = Arrays.toString(writeChangedAstToFile.getListPair().getKey().toArray()).replace(",", " ");
+
+            List<List<String>> rows = Arrays.asList(
+                    Arrays.asList(file.getName(), str, Integer.toString(this.candidatePatchesList.size()), fileStr)
+            );
+
+            for (List<String> rowData : rows) {
+                fileWrite.append(String.join(",", rowData));
+                fileWrite.append("\n");
+            }
+
+            fileWrite.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 
         // deleteIncorrectPatch(file);
         System.out.println(this.candidatePatchesList.size() + " Patches Generated");

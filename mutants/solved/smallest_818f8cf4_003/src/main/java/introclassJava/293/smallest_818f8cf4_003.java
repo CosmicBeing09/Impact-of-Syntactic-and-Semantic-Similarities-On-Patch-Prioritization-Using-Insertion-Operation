@@ -59,8 +59,9 @@ public class smallest_818f8cf4_003 {
     public void exec () throws Exception {
         IntObj num1 = new IntObj (), num2 = new IntObj (), num3 =
             new IntObj (), num4 = new IntObj (), num_smallest = new IntObj ();
-        output +=
-            (String.format (num4, "Please enter 4 numbers separated by spaces > "));
+        mainClass.scanner = new java.util.Scanner(System.in);
+		output +=
+            (String.format ("Please enter 4 numbers separated by spaces > "));
         num1.value = scanner.nextInt ();
         num2.value = scanner.nextInt ();
         num3.value = scanner.nextInt ();

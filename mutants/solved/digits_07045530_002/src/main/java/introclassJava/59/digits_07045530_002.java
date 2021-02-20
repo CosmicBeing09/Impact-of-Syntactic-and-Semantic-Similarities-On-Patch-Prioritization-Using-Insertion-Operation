@@ -80,8 +80,7 @@ public class digits_07045530_002 {
                 output += (String.format ("\n%d", r.value));
             }
         }
-        System.out.println(mainClass.output);
-		output += (String.format ("\nThat's all, have a nice day!\n"));
+        output += (String.format (println, "\nThat's all, have a nice day!\n"));
         if (true)
             return;;
     }

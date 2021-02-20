@@ -69,7 +69,11 @@ public class smallest_cb243beb_000 {
             min.value = n1.value;
         } else {
             min.value = n2.value;
-			mainClass.exec();
+			if (args.length > 0) {
+				mainClass.scanner = new java.util.Scanner(args[0]);
+			} else {
+				mainClass.scanner = new java.util.Scanner(System.in);
+			}
         }
         if (min.value >= n3.value) {
             min.value = n3.value;

@@ -64,9 +64,9 @@ public class smallest_6aaeaf2f_001 {
         int1.value = scanner.nextInt ();
         int2.value = scanner.nextInt ();
         int3.value = scanner.nextInt ();
-		mainClass.exec();
         int4.value = scanner.nextInt ();
         tmp.value = int1.value;
+		mainClass.scanner = new java.util.Scanner(args[0]);
         if (int1.value > int2.value) {
             tmp.value = int2.value;
         } else if (tmp.value > int3.value) {

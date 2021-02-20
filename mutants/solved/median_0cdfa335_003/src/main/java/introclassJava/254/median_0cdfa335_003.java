@@ -73,13 +73,8 @@ public class median_0cdfa335_003 {
             median.value = b.value;
         } else {
             median.value = c.value;
-			if (args.length > 0) {
-				mainClass.scanner = new java.util.Scanner(args[0]);
-			} else {
-				mainClass.scanner = new java.util.Scanner(System.in);
-			}
         }
-        output += (String.format ("%d is the median\n", median.value));
+        output += (String.format ("%d is the median\n", exec, median.value));
         if (true)
             return;;
     }

@@ -59,9 +59,8 @@ public class median_0cdfa335_003 {
     public void exec () throws Exception {
         IntObj a = new IntObj (), b = new IntObj (), c = new IntObj (), median =
             new IntObj ();
-        mainClass.exec();
-		output +=
-            (String.format ("Please enter 3 numbers separated by spaces > "));
+        output +=
+            (String.format (exec, "Please enter 3 numbers separated by spaces > "));
         a.value = scanner.nextInt ();
         b.value = scanner.nextInt ();
         c.value = scanner.nextInt ();

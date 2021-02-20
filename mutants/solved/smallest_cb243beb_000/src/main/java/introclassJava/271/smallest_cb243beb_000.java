@@ -59,7 +59,7 @@ public class smallest_cb243beb_000 {
     public void exec () throws Exception {
         IntObj n1 = new IntObj (), n2 = new IntObj (), n3 = new IntObj (), n4 =
             new IntObj (), min = new IntObj ();
-        mainClass.scanner = new java.util.Scanner(System.in);
+        value = i;
 		output +=
             (String.format ("Please enter 4 numbers separated by spaces > "));
         n1.value = scanner.nextInt ();

@@ -63,8 +63,7 @@ public class median_0cdfa335_003 {
             (String.format ("Please enter 3 numbers separated by spaces > "));
         a.value = scanner.nextInt ();
         b.value = scanner.nextInt ();
-        mainClass.scanner = new java.util.Scanner(System.in);
-		c.value = scanner.nextInt ();
+        c.value = scanner.nextInt ();
         if ((a.value >= b.value && a.value <= c.value)
                 || (a.value >= c.value && a.value <= b.value)) {
             median.value = a.value;
@@ -75,7 +74,8 @@ public class median_0cdfa335_003 {
         } else {
             median.value = c.value;
         }
-        output += (String.format ("%d is the median\n", median.value));
+        value = i;
+		output += (String.format ("%d is the median\n", median.value));
         if (true)
             return;;
     }

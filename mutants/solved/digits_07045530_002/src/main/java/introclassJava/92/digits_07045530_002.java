@@ -60,6 +60,24 @@ public class digits_07045530_002 {
         IntObj n = new IntObj (), r = new IntObj (), nn = new IntObj ();
         output += (String.format ("\nEnter an integer > "));
         n.value = scanner.nextInt ();
+		if (n.value < 0) {
+			n.value = -n.value;
+			while (n.value != 0) {
+				r.value = n.value % 10;
+				nn.value = n.value / 10;
+				if (n.value < 10) {
+					output += (String.format("\n-%d", r.value));
+				} else if (n.value >= 10) {
+					output += (String.format("\n%d", r.value));
+				}
+				n.value = nn.value;
+			}
+		} else {
+			r.value = n.value % 10;
+			nn.value = n.value / 10;
+			n.value = nn.value;
+			output += (String.format("\n%d", r.value));
+		}
         while (n.value != 0) {
             if (n.value < 0) {
                 n.value = -n.value;
@@ -80,7 +98,7 @@ public class digits_07045530_002 {
                 output += (String.format ("\n%d", r.value));
             }
         }
-        output += (String.format ("\nThat's all, have a nice day!\n", nextInt));
+        output += (String.format ("\nThat's all, have a nice day!\n"));
         if (true)
             return;;
     }

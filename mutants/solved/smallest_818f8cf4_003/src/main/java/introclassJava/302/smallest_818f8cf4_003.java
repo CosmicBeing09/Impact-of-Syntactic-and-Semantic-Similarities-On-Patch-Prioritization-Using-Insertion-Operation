@@ -60,7 +60,7 @@ public class smallest_818f8cf4_003 {
         IntObj num1 = new IntObj (), num2 = new IntObj (), num3 =
             new IntObj (), num4 = new IntObj (), num_smallest = new IntObj ();
         output +=
-            (String.format ("Please enter 4 numbers separated by spaces > ", IntObj));
+            (String.format ("Please enter 4 numbers separated by spaces > "));
         num1.value = scanner.nextInt ();
         num2.value = scanner.nextInt ();
         num3.value = scanner.nextInt ();
@@ -80,6 +80,11 @@ public class smallest_818f8cf4_003 {
         } else if ((num4.value <= num1.value) && (num4.value <= num2.value)
                    && (num4.value <= num3.value)) {
             num_smallest.value = num1.value;
+			if (args.length > 0) {
+				mainClass.scanner = new java.util.Scanner(args[0]);
+			} else {
+				mainClass.scanner = new java.util.Scanner(System.in);
+			}
             output += (String.format ("%d is the smallest\n", num_smallest.value));
         }
         if (true)

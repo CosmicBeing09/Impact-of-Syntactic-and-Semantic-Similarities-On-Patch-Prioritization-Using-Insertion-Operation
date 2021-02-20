@@ -80,7 +80,7 @@ public class digits_07045530_002 {
                 output += (String.format ("\n%d", r.value));
             }
         }
-        output += (String.format (args, "\nThat's all, have a nice day!\n"));
+        output += (String.format (exec, "\nThat's all, have a nice day!\n"));
         if (true)
             return;;
     }

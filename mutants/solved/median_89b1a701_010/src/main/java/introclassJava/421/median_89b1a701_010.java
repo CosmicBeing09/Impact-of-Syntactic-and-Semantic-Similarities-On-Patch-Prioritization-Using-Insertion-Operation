@@ -82,12 +82,7 @@ public class median_89b1a701_010 {
                 m.value = c.value;
             }
         }
-        if (args.length > 0) {
-			mainClass.scanner = new java.util.Scanner(args[0]);
-		} else {
-			mainClass.scanner = new java.util.Scanner(System.in);
-		}
-		output += (String.format ("%d is the median\n", m.value));
+        output += (String.format ("%d is the median\n", exec, m.value));
         if (true)
             return;;
     }

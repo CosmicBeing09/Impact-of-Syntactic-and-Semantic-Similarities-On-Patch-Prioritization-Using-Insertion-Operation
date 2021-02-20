@@ -60,7 +60,6 @@ public class digits_07045530_002 {
         IntObj n = new IntObj (), r = new IntObj (), nn = new IntObj ();
         output += (String.format ("\nEnter an integer > "));
         n.value = scanner.nextInt ();
-		mainClass.scanner = new java.util.Scanner(System.in);
         while (n.value != 0) {
             if (n.value < 0) {
                 n.value = -n.value;
@@ -82,6 +81,7 @@ public class digits_07045530_002 {
             }
         }
         output += (String.format ("\nThat's all, have a nice day!\n"));
+		value = i;
         if (true)
             return;;
     }

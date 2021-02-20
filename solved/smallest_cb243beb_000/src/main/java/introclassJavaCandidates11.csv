@@ -1,168 +1,190 @@
-output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62, 3.0, insert, 1.0, 1.0, 1.0
-String,SIMPLE_NAME, line no: 63,String,SIMPLE_NAME, line no: 49, 3.0, insert, 0.38636363636363635, 0.0, 1.0
-format,SIMPLE_NAME, line no: 63,format,SIMPLE_NAME, line no: 63, 3.0, insert, 1.0, 0.0, 1.0
-n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64, 3.0, insert, 1.0, 3.0, 1.0
-scanner,SIMPLE_NAME, line no: 64,scanner,SIMPLE_NAME, line no: 51, 3.0, insert, 0.12213740458015267, 1.0, 1.0
-nextInt,SIMPLE_NAME, line no: 64,nextInt,SIMPLE_NAME, line no: 64, 3.0, insert, 1.0, 0.0, 1.0
-n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65, 3.0, insert, 1.0, 3.0, 1.0
-scanner,SIMPLE_NAME, line no: 65,scanner,SIMPLE_NAME, line no: 51, 3.0, insert, 0.12213740458015267, 1.0, 1.0
-nextInt,SIMPLE_NAME, line no: 65,nextInt,SIMPLE_NAME, line no: 64, 3.0, insert, 1.0, 0.0, 1.0
-n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66, 3.0, insert, 1.0, 3.0, 1.0
-scanner,SIMPLE_NAME, line no: 66,scanner,SIMPLE_NAME, line no: 51, 3.0, insert, 0.12213740458015267, 1.0, 1.0
-nextInt,SIMPLE_NAME, line no: 66,nextInt,SIMPLE_NAME, line no: 64, 3.0, insert, 1.0, 0.0, 1.0
-n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67, 3.0, insert, 1.0, 3.0, 1.0
-scanner,SIMPLE_NAME, line no: 67,scanner,SIMPLE_NAME, line no: 51, 3.0, insert, 0.12213740458015267, 1.0, 1.0
-nextInt,SIMPLE_NAME, line no: 67,nextInt,SIMPLE_NAME, line no: 64, 3.0, insert, 1.0, 0.0, 1.0
-min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69, 3.0, insert, 1.0, 3.0, 1.0
-min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71, 3.0, insert, 1.0, 3.0, 1.0
-min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74, 3.0, insert, 1.0, 3.0, 1.0
-min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77, 3.0, insert, 1.0, 3.0, 1.0
-n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65, 2.8873626373626378, insert, 1.0, 1.5, 0.9642857142857143
-n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66, 2.8873626373626378, insert, 1.0, 1.5, 0.9642857142857143
-n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67, 2.8873626373626378, insert, 1.0, 1.5, 0.9642857142857143
-n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64, 2.8873626373626378, insert, 1.0, 1.5, 0.9642857142857143
-n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66, 2.8873626373626378, insert, 1.0, 1.5, 0.9642857142857143
-n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67, 2.8873626373626378, insert, 1.0, 1.5, 0.9642857142857143
-n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64, 2.8873626373626378, insert, 1.0, 1.5, 0.9642857142857143
-n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65, 2.8873626373626378, insert, 1.0, 1.5, 0.9642857142857143
-n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67, 2.8873626373626378, insert, 1.0, 1.5, 0.9642857142857143
-n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64, 2.8873626373626378, insert, 1.0, 1.5, 0.9642857142857143
-n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65, 2.8873626373626378, insert, 1.0, 1.5, 0.9642857142857143
-n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66, 2.8873626373626378, insert, 1.0, 1.5, 0.9642857142857143
-min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71, 2.8346153846153848, insert, 1.0, 1.5, 0.95
-min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74, 2.8346153846153848, insert, 1.0, 1.5, 0.95
-min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77, 2.8346153846153848, insert, 1.0, 1.5, 0.95
-min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69, 2.8346153846153848, insert, 1.0, 1.5, 0.95
-min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74, 2.8346153846153848, insert, 1.0, 1.5, 0.95
-min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77, 2.8346153846153848, insert, 1.0, 1.5, 0.95
-min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69, 2.8346153846153848, insert, 1.0, 1.5, 0.95
-min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71, 2.8346153846153848, insert, 1.0, 1.5, 0.95
-min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77, 2.8346153846153848, insert, 1.0, 1.5, 0.95
-min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69, 2.8346153846153848, insert, 1.0, 1.5, 0.95
-min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71, 2.8346153846153848, insert, 1.0, 1.5, 0.95
-min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74, 2.8346153846153848, insert, 1.0, 1.5, 0.95
-min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,if (min.value >= n3.value) {   min.value=n3.value; } ,IF_STATEMENT, line no: 73, 2.2684438230308945, insert, 1.0, 3.0, 0.37735849056603776
-min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,if (min.value >= n3.value) {   min.value=n3.value; } ,IF_STATEMENT, line no: 73, 2.154779586538246, insert, 1.0, 1.5, 0.3584905660377358
-min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,if (min.value >= n3.value) {   min.value=n3.value; } ,IF_STATEMENT, line no: 73, 2.154779586538246, insert, 1.0, 1.5, 0.3584905660377358
-min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,if (min.value >= n3.value) {   min.value=n3.value; } ,IF_STATEMENT, line no: 73, 2.154779586538246, insert, 1.0, 1.5, 0.3584905660377358
-min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,if (n1.value <= n2.value) {   min.value=n1.value; }  else {   min.value=n2.value; } ,IF_STATEMENT, line no: 68, 2.1063964107513677, insert, 1.0, 3.0, 0.23809523809523808
-min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,if (n1.value <= n2.value) {   min.value=n1.value; }  else {   min.value=n2.value; } ,IF_STATEMENT, line no: 68, 2.1063964107513677, insert, 1.0, 3.0, 0.23809523809523808
-min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,if (n1.value <= n2.value) {   min.value=n1.value; }  else {   min.value=n2.value; } ,IF_STATEMENT, line no: 68, 2.0296930538722675, insert, 1.0, 1.6, 0.2261904761904762
-min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,if (n1.value <= n2.value) {   min.value=n1.value; }  else {   min.value=n2.value; } ,IF_STATEMENT, line no: 68, 2.0296930538722675, insert, 1.0, 1.6, 0.2261904761904762
-min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,if (min.value >= n4.value) {   min.value=n4.value; }  else {   output+=(String.format("%d is the smallest\n" min.value)); } ,IF_STATEMENT, line no: 76, 1.9162580564788434, insert, 1.0, 3.0, 0.16129032258064516
-min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64, 1.8873626373626375, insert, 1.0, 1.5, 0.4642857142857143
-min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65, 1.8873626373626375, insert, 1.0, 1.5, 0.4642857142857143
-min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66, 1.8873626373626375, insert, 1.0, 1.5, 0.4642857142857143
-min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67, 1.8873626373626375, insert, 1.0, 1.5, 0.4642857142857143
-min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,if (min.value >= n4.value) {   min.value=n4.value; }  else {   output+=(String.format("%d is the smallest\n" min.value)); } ,IF_STATEMENT, line no: 76, 1.8431101150137597, insert, 1.0, 1.6, 0.1532258064516129
-min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,if (min.value >= n4.value) {   min.value=n4.value; }  else {   output+=(String.format("%d is the smallest\n" min.value)); } ,IF_STATEMENT, line no: 76, 1.8431101150137597, insert, 1.0, 1.6, 0.1532258064516129
-min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,if (min.value >= n4.value) {   min.value=n4.value; }  else {   output+=(String.format("%d is the smallest\n" min.value)); } ,IF_STATEMENT, line no: 76, 1.8431101150137597, insert, 1.0, 1.6, 0.1532258064516129
-min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65, 1.8104395604395607, insert, 1.0, 0.6000000000000001, 0.4642857142857143
-min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66, 1.8104395604395607, insert, 1.0, 0.6000000000000001, 0.4642857142857143
-min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67, 1.8104395604395607, insert, 1.0, 0.6000000000000001, 0.4642857142857143
-min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64, 1.8104395604395607, insert, 1.0, 0.6000000000000001, 0.4642857142857143
-min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66, 1.8104395604395607, insert, 1.0, 0.6000000000000001, 0.4642857142857143
-min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67, 1.8104395604395607, insert, 1.0, 0.6000000000000001, 0.4642857142857143
-min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64, 1.8104395604395607, insert, 1.0, 0.6000000000000001, 0.4642857142857143
-min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65, 1.8104395604395607, insert, 1.0, 0.6000000000000001, 0.4642857142857143
-min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67, 1.8104395604395607, insert, 1.0, 0.6000000000000001, 0.4642857142857143
-min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64, 1.8104395604395607, insert, 1.0, 0.6000000000000001, 0.4642857142857143
-min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65, 1.8104395604395607, insert, 1.0, 0.6000000000000001, 0.4642857142857143
-min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66, 1.8104395604395607, insert, 1.0, 0.6000000000000001, 0.4642857142857143
-scanner,SIMPLE_NAME, line no: 64,Scanner,SIMPLE_NAME, line no: 44, 1.8021810250817882, insert, 0.007633587786259542, 0.0, 0.8571428571428571
-scanner,SIMPLE_NAME, line no: 65,Scanner,SIMPLE_NAME, line no: 44, 1.8021810250817882, insert, 0.007633587786259542, 0.0, 0.8571428571428571
-scanner,SIMPLE_NAME, line no: 66,Scanner,SIMPLE_NAME, line no: 44, 1.8021810250817882, insert, 0.007633587786259542, 0.0, 0.8571428571428571
-scanner,SIMPLE_NAME, line no: 67,Scanner,SIMPLE_NAME, line no: 44, 1.8021810250817882, insert, 0.007633587786259542, 0.0, 0.8571428571428571
-n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,if (min.value >= n3.value) {   min.value=n3.value; } ,IF_STATEMENT, line no: 73, 1.6811633781747832, insert, 1.0, 1.5, 0.2830188679245283
-nextInt,SIMPLE_NAME, line no: 64,IntObj,SIMPLE_NAME, line no: 60, 1.6292774629626288, insert, 0.9770992366412213, 0.0, 0.42857142857142855
-nextInt,SIMPLE_NAME, line no: 65,IntObj,SIMPLE_NAME, line no: 60, 1.6292774629626288, insert, 0.9770992366412213, 0.0, 0.42857142857142855
-nextInt,SIMPLE_NAME, line no: 66,IntObj,SIMPLE_NAME, line no: 60, 1.6292774629626288, insert, 0.9770992366412213, 0.0, 0.42857142857142855
-nextInt,SIMPLE_NAME, line no: 67,IntObj,SIMPLE_NAME, line no: 60, 1.6292774629626288, insert, 0.9770992366412213, 0.0, 0.42857142857142855
-n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,if (min.value >= n3.value) {   min.value=n3.value; } ,IF_STATEMENT, line no: 73, 1.6053263286033062, insert, 1.0, 0.6000000000000001, 0.2830188679245283
-n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,if (min.value >= n3.value) {   min.value=n3.value; } ,IF_STATEMENT, line no: 73, 1.6053263286033062, insert, 1.0, 0.6000000000000001, 0.2830188679245283
-n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,if (min.value >= n3.value) {   min.value=n3.value; } ,IF_STATEMENT, line no: 73, 1.6053263286033062, insert, 1.0, 0.6000000000000001, 0.2830188679245283
-n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,if (n1.value <= n2.value) {   min.value=n1.value; }  else {   min.value=n2.value; } ,IF_STATEMENT, line no: 68, 1.6030772841317422, insert, 1.0, 1.6, 0.21428571428571427
-n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,if (n1.value <= n2.value) {   min.value=n1.value; }  else {   min.value=n2.value; } ,IF_STATEMENT, line no: 68, 1.5911725222269804, insert, 1.0, 1.6, 0.20238095238095238
-n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,if (n1.value <= n2.value) {   min.value=n1.value; }  else {   min.value=n2.value; } ,IF_STATEMENT, line no: 68, 1.53933364624751, insert, 1.0, 0.6666666666666666, 0.20238095238095238
-n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,if (n1.value <= n2.value) {   min.value=n1.value; }  else {   min.value=n2.value; } ,IF_STATEMENT, line no: 68, 1.53933364624751, insert, 1.0, 0.6666666666666666, 0.20238095238095238
-output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,if (min.value >= n4.value) {   min.value=n4.value; }  else {   output+=(String.format("%d is the smallest\n" min.value)); } ,IF_STATEMENT, line no: 76, 1.5100674850588964, insert, 1.0, 1.0, 0.31451612903225806
-n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,if (min.value >= n4.value) {   min.value=n4.value; }  else {   output+=(String.format("%d is the smallest\n" min.value)); } ,IF_STATEMENT, line no: 76, 1.4997241343281134, insert, 1.0, 1.6, 0.16129032258064516
-n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,if (min.value >= n4.value) {   min.value=n4.value; }  else {   output+=(String.format("%d is the smallest\n" min.value)); } ,IF_STATEMENT, line no: 76, 1.447657394059272, insert, 1.0, 0.6666666666666666, 0.16129032258064516
-n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,if (min.value >= n4.value) {   min.value=n4.value; }  else {   output+=(String.format("%d is the smallest\n" min.value)); } ,IF_STATEMENT, line no: 76, 1.447657394059272, insert, 1.0, 0.6666666666666666, 0.16129032258064516
-n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,if (min.value >= n4.value) {   min.value=n4.value; }  else {   output+=(String.format("%d is the smallest\n" min.value)); } ,IF_STATEMENT, line no: 76, 1.447657394059272, insert, 1.0, 0.6666666666666666, 0.16129032258064516
-min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,output+=(String.format("%d is the smallest\n" min.value)); ,EXPRESSION_STATEMENT, line no: 79, 1.428864560430854, insert, 0.8888888888888888, 1.5, 0.2542372881355932
-min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,output+=(String.format("%d is the smallest\n" min.value)); ,EXPRESSION_STATEMENT, line no: 79, 1.428864560430854, insert, 0.8888888888888888, 1.5, 0.2542372881355932
-min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,output+=(String.format("%d is the smallest\n" min.value)); ,EXPRESSION_STATEMENT, line no: 79, 1.428864560430854, insert, 0.8888888888888888, 1.5, 0.2542372881355932
-min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,output+=(String.format("%d is the smallest\n" min.value)); ,EXPRESSION_STATEMENT, line no: 79, 1.428864560430854, insert, 0.8888888888888888, 1.5, 0.2542372881355932
-min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,value=i; ,EXPRESSION_STATEMENT, line no: 7, 1.3633189661072151, insert, 0.4444444444444444, 0.3333333333333333, 0.4
-min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,value=i; ,EXPRESSION_STATEMENT, line no: 7, 1.3633189661072151, insert, 0.4444444444444444, 0.3333333333333333, 0.4
-min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,value=i; ,EXPRESSION_STATEMENT, line no: 7, 1.3633189661072151, insert, 0.4444444444444444, 0.3333333333333333, 0.4
-min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,value=i; ,EXPRESSION_STATEMENT, line no: 7, 1.3633189661072151, insert, 0.4444444444444444, 0.3333333333333333, 0.4
-output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,if (n1.value <= n2.value) {   min.value=n1.value; }  else {   min.value=n2.value; } ,IF_STATEMENT, line no: 68, 1.2815973457014571, insert, 1.0, 0.0, 0.27380952380952384
-output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64, 1.225815210878754, insert, 1.0, 0.0, 0.20270270270270271
-output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65, 1.225815210878754, insert, 1.0, 0.0, 0.20270270270270271
-output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66, 1.225815210878754, insert, 1.0, 0.0, 0.20270270270270271
-output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67, 1.225815210878754, insert, 1.0, 0.0, 0.20270270270270271
-n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62, 1.225815210878754, insert, 1.0, 0.0, 0.20270270270270271
-n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62, 1.225815210878754, insert, 1.0, 0.0, 0.20270270270270271
-n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62, 1.225815210878754, insert, 1.0, 0.0, 0.20270270270270271
-n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62, 1.225815210878754, insert, 1.0, 0.0, 0.20270270270270271
-scanner,SIMPLE_NAME, line no: 64,mainClass.scanner,QUALIFIED_NAME, line no: 51, 1.1188859674383909, insert, 0.11450381679389313, 1.0, 0.4117647058823529
-scanner,SIMPLE_NAME, line no: 65,mainClass.scanner,QUALIFIED_NAME, line no: 51, 1.1188859674383909, insert, 0.11450381679389313, 1.0, 0.4117647058823529
-scanner,SIMPLE_NAME, line no: 66,mainClass.scanner,QUALIFIED_NAME, line no: 51, 1.1188859674383909, insert, 0.11450381679389313, 1.0, 0.4117647058823529
-scanner,SIMPLE_NAME, line no: 67,mainClass.scanner,QUALIFIED_NAME, line no: 51, 1.1188859674383909, insert, 0.11450381679389313, 1.0, 0.4117647058823529
-String,SIMPLE_NAME, line no: 63,println,SIMPLE_NAME, line no: 56, 1.053693377836559, insert, 0.4015151515151515, 0.0, 0.42857142857142855
-output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,output+=(String.format("%d is the smallest\n" min.value)); ,EXPRESSION_STATEMENT, line no: 79, 0.9954113516597046, insert, 0.09375, 1.0, 0.527027027027027
-n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69, 0.9576751373626374, insert, 0.0703125, 1.5, 0.4642857142857143
-n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71, 0.9576751373626374, insert, 0.0703125, 1.5, 0.4642857142857143
-n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74, 0.9576751373626374, insert, 0.0703125, 1.5, 0.4642857142857143
-n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77, 0.9576751373626374, insert, 0.0703125, 1.5, 0.4642857142857143
-scanner,SIMPLE_NAME, line no: 64,java.util.Scanner,QUALIFIED_NAME, line no: 51, 0.9522259719749606, insert, 0.12213740458015267, 0.0, 0.35294117647058826
-scanner,SIMPLE_NAME, line no: 65,java.util.Scanner,QUALIFIED_NAME, line no: 51, 0.9522259719749606, insert, 0.12213740458015267, 0.0, 0.35294117647058826
-scanner,SIMPLE_NAME, line no: 66,java.util.Scanner,QUALIFIED_NAME, line no: 51, 0.9522259719749606, insert, 0.12213740458015267, 0.0, 0.35294117647058826
-scanner,SIMPLE_NAME, line no: 67,java.util.Scanner,QUALIFIED_NAME, line no: 51, 0.9522259719749606, insert, 0.12213740458015267, 0.0, 0.35294117647058826
-n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71, 0.8807520604395604, insert, 0.0703125, 0.6000000000000001, 0.4642857142857143
-n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74, 0.8807520604395604, insert, 0.0703125, 0.6000000000000001, 0.4642857142857143
-n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77, 0.8807520604395604, insert, 0.0703125, 0.6000000000000001, 0.4642857142857143
-n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69, 0.8807520604395604, insert, 0.0703125, 0.6000000000000001, 0.4642857142857143
-n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74, 0.8807520604395604, insert, 0.0703125, 0.6000000000000001, 0.4642857142857143
-n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77, 0.8807520604395604, insert, 0.0703125, 0.6000000000000001, 0.4642857142857143
-n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69, 0.8807520604395604, insert, 0.0703125, 0.6000000000000001, 0.4642857142857143
-n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71, 0.8807520604395604, insert, 0.0703125, 0.6000000000000001, 0.4642857142857143
-n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77, 0.8807520604395604, insert, 0.0703125, 0.6000000000000001, 0.4642857142857143
-n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69, 0.8807520604395604, insert, 0.0703125, 0.6000000000000001, 0.4642857142857143
-n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71, 0.8807520604395604, insert, 0.0703125, 0.6000000000000001, 0.4642857142857143
-n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74, 0.8807520604395604, insert, 0.0703125, 0.6000000000000001, 0.4642857142857143
-n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.8536384247119493, insert, 0.3984375, 0.0, 0.35714285714285715
-n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.8536384247119493, insert, 0.3984375, 0.0, 0.35714285714285715
-n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.8536384247119493, insert, 0.3984375, 0.0, 0.35714285714285715
-n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.8536384247119493, insert, 0.3984375, 0.0, 0.35714285714285715
-n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 0.790625797918026, insert, 0.3984375, 0.5, 0.14893617021276595
-n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 0.790625797918026, insert, 0.3984375, 0.5, 0.14893617021276595
-n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 0.790625797918026, insert, 0.3984375, 0.5, 0.14893617021276595
-n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 0.790625797918026, insert, 0.3984375, 0.5, 0.14893617021276595
-output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.772118041930731, insert, 0.3984375, 1.0, 0.24324324324324326
-n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.7036337091804796, insert, 0.1015625, 0.5, 0.34
-n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.7036337091804796, insert, 0.1015625, 0.5, 0.34
-n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.7036337091804796, insert, 0.1015625, 0.5, 0.34
-n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.7036337091804796, insert, 0.1015625, 0.5, 0.34
-n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.7016236782353793, insert, 0.1171875, 0.5, 0.3269230769230769
-n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.7016236782353793, insert, 0.1171875, 0.5, 0.3269230769230769
-n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.7016236782353793, insert, 0.1171875, 0.5, 0.3269230769230769
-n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.7016236782353793, insert, 0.1171875, 0.5, 0.3269230769230769
-n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.6926040783841442, insert, 0.3984375, 0.0, 0.2631578947368421
-n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.6926040783841442, insert, 0.3984375, 0.0, 0.2631578947368421
-n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.6926040783841442, insert, 0.3984375, 0.0, 0.2631578947368421
-n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,System.out.println(mainClass.output); ,EXPRESSION_STATEMENT, line no: 56, 0.6926040783841442, insert, 0.3984375, 0.0, 0.2631578947368421
-output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 0.6475309233386031, insert, 0.3984375, 0.0, 0.2198581560283688
-n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.6134640123787262, insert, 0.03125, 0.3333333333333333, 0.2857142857142857
-n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.6134640123787262, insert, 0.03125, 0.3333333333333333, 0.2857142857142857
-n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.6134640123787262, insert, 0.03125, 0.3333333333333333, 0.2857142857142857
-n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.6134640123787262, insert, 0.03125, 0.3333333333333333, 0.2857142857142857
-output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.5900624447116016, insert, 0.3984375, 0.0, 0.16216216216216217
-n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,output+=(String.format("%d is the smallest\n" min.value)); ,EXPRESSION_STATEMENT, line no: 79, 0.44397006641738024, insert, 0.09375, 0.6000000000000001, 0.22033898305084745
-n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,output+=(String.format("%d is the smallest\n" min.value)); ,EXPRESSION_STATEMENT, line no: 79, 0.44397006641738024, insert, 0.09375, 0.6000000000000001, 0.22033898305084745
-n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,output+=(String.format("%d is the smallest\n" min.value)); ,EXPRESSION_STATEMENT, line no: 79, 0.44397006641738024, insert, 0.09375, 0.6000000000000001, 0.22033898305084745
-n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,output+=(String.format("%d is the smallest\n" min.value)); ,EXPRESSION_STATEMENT, line no: 79, 0.44397006641738024, insert, 0.09375, 0.6000000000000001, 0.22033898305084745
-output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.4164458952985381, insert, 0.1171875, 0.0, 0.28378378378378377
-output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.3875812899789881, insert, 0.1015625, 0.0, 0.2702702702702703
+output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62, 0.183375, insert, 1.0, 1.0, 1.0
+n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64, 0.183375, insert, 1.0, 3.0, 1.0
+n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65, 0.183375, insert, 1.0, 3.0, 1.0
+n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66, 0.183375, insert, 1.0, 3.0, 1.0
+n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67, 0.183375, insert, 1.0, 3.0, 1.0
+n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65, 0.17682589285714287, insert, 1.0, 1.5, 0.9642857142857143
+n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66, 0.17682589285714287, insert, 1.0, 1.5, 0.9642857142857143
+n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67, 0.17682589285714287, insert, 1.0, 1.5, 0.9642857142857143
+n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64, 0.17682589285714287, insert, 1.0, 1.5, 0.9642857142857143
+n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66, 0.17682589285714287, insert, 1.0, 1.5, 0.9642857142857143
+n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67, 0.17682589285714287, insert, 1.0, 1.5, 0.9642857142857143
+n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64, 0.17682589285714287, insert, 1.0, 1.5, 0.9642857142857143
+n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65, 0.17682589285714287, insert, 1.0, 1.5, 0.9642857142857143
+n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67, 0.17682589285714287, insert, 1.0, 1.5, 0.9642857142857143
+n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64, 0.17682589285714287, insert, 1.0, 1.5, 0.9642857142857143
+n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65, 0.17682589285714287, insert, 1.0, 1.5, 0.9642857142857143
+n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66, 0.17682589285714287, insert, 1.0, 1.5, 0.9642857142857143
+min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77, 0.0912, insert, 1.0, 3.0, 1.0
+min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69, 0.08664000000000001, insert, 1.0, 1.5, 0.95
+min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71, 0.08664000000000001, insert, 1.0, 1.5, 0.95
+min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74, 0.08664000000000001, insert, 1.0, 1.5, 0.95
+output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64, 0.07516722972972972, insert, 1.0, 0.0, 0.20270270270270271
+output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65, 0.07516722972972972, insert, 1.0, 0.0, 0.20270270270270271
+output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66, 0.07516722972972972, insert, 1.0, 0.0, 0.20270270270270271
+output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67, 0.07516722972972972, insert, 1.0, 0.0, 0.20270270270270271
+n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62, 0.07516722972972972, insert, 1.0, 0.0, 0.20270270270270271
+n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62, 0.07516722972972972, insert, 1.0, 0.0, 0.20270270270270271
+n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62, 0.07516722972972972, insert, 1.0, 0.0, 0.20270270270270271
+n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62, 0.07516722972972972, insert, 1.0, 0.0, 0.20270270270270271
+String,SIMPLE_NAME, line no: 63,String,SIMPLE_NAME, line no: 49, 0.07042500000000002, insert, 0.38636363636363635, 0.0, 1.0
+format,SIMPLE_NAME, line no: 63,format,SIMPLE_NAME, line no: 63, 0.07042500000000002, insert, 1.0, 0.0, 1.0
+scanner,SIMPLE_NAME, line no: 64,scanner,SIMPLE_NAME, line no: 51, 0.07042500000000002, insert, 0.12213740458015267, 1.0, 1.0
+nextInt,SIMPLE_NAME, line no: 64,nextInt,SIMPLE_NAME, line no: 64, 0.07042500000000002, insert, 1.0, 0.0, 1.0
+scanner,SIMPLE_NAME, line no: 65,scanner,SIMPLE_NAME, line no: 51, 0.07042500000000002, insert, 0.12213740458015267, 1.0, 1.0
+nextInt,SIMPLE_NAME, line no: 65,nextInt,SIMPLE_NAME, line no: 64, 0.07042500000000002, insert, 1.0, 0.0, 1.0
+scanner,SIMPLE_NAME, line no: 66,scanner,SIMPLE_NAME, line no: 51, 0.07042500000000002, insert, 0.12213740458015267, 1.0, 1.0
+nextInt,SIMPLE_NAME, line no: 66,nextInt,SIMPLE_NAME, line no: 64, 0.07042500000000002, insert, 1.0, 0.0, 1.0
+scanner,SIMPLE_NAME, line no: 67,scanner,SIMPLE_NAME, line no: 51, 0.07042500000000002, insert, 0.12213740458015267, 1.0, 1.0
+nextInt,SIMPLE_NAME, line no: 67,nextInt,SIMPLE_NAME, line no: 64, 0.07042500000000002, insert, 1.0, 0.0, 1.0
+min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74, 0.06894071987688305, insert, 1.0, 3.0, 1.0
+min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69, 0.06549368388303889, insert, 1.0, 1.5, 0.95
+min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71, 0.06549368388303889, insert, 1.0, 1.5, 0.95
+min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77, 0.06549368388303889, insert, 1.0, 1.5, 0.95
+min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69, 0.05902010087836437, insert, 1.0, 3.0, 1.0
+min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71, 0.05606909583444616, insert, 1.0, 1.5, 0.95
+min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74, 0.05606909583444616, insert, 1.0, 1.5, 0.95
+min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77, 0.05606909583444616, insert, 1.0, 1.5, 0.95
+output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,output+=(String.format("%d is the smallest\n" min.value)); ,EXPRESSION_STATEMENT, line no: 79, 0.05363925253378378, insert, 0.09375, 1.0, 0.527027027027027
+min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64, 0.05102857142857144, insert, 1.0, 0.6000000000000001, 0.4642857142857143
+min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65, 0.05102857142857144, insert, 1.0, 0.6000000000000001, 0.4642857142857143
+min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66, 0.05102857142857144, insert, 1.0, 0.6000000000000001, 0.4642857142857143
+min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67, 0.05102857142857144, insert, 1.0, 1.5, 0.4642857142857143
+n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.05055092075892857, insert, 0.3984375, 0.0, 0.35714285714285715
+n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.05055092075892857, insert, 0.3984375, 0.0, 0.35714285714285715
+n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.05055092075892857, insert, 0.3984375, 0.0, 0.35714285714285715
+n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.05055092075892857, insert, 0.3984375, 0.0, 0.35714285714285715
+n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69, 0.04577553013392857, insert, 0.0703125, 1.5, 0.4642857142857143
+n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71, 0.04577553013392857, insert, 0.0703125, 0.6000000000000001, 0.4642857142857143
+n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74, 0.04577553013392857, insert, 0.0703125, 0.6000000000000001, 0.4642857142857143
+n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77, 0.04577553013392857, insert, 0.0703125, 0.6000000000000001, 0.4642857142857143
+n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69, 0.04577553013392857, insert, 0.0703125, 0.6000000000000001, 0.4642857142857143
+n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71, 0.04577553013392857, insert, 0.0703125, 1.5, 0.4642857142857143
+n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74, 0.04577553013392857, insert, 0.0703125, 0.6000000000000001, 0.4642857142857143
+n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77, 0.04577553013392857, insert, 0.0703125, 0.6000000000000001, 0.4642857142857143
+n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69, 0.04577553013392857, insert, 0.0703125, 0.6000000000000001, 0.4642857142857143
+n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71, 0.04577553013392857, insert, 0.0703125, 0.6000000000000001, 0.4642857142857143
+n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74, 0.04577553013392857, insert, 0.0703125, 1.5, 0.4642857142857143
+n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77, 0.04577553013392857, insert, 0.0703125, 0.6000000000000001, 0.4642857142857143
+n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69, 0.04577553013392857, insert, 0.0703125, 0.6000000000000001, 0.4642857142857143
+n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71, 0.04577553013392857, insert, 0.0703125, 0.6000000000000001, 0.4642857142857143
+n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74, 0.04577553013392857, insert, 0.0703125, 0.6000000000000001, 0.4642857142857143
+n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77, 0.04577553013392857, insert, 0.0703125, 1.5, 0.4642857142857143
+min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.043775999999999995, insert, 1.0, 0.0, 0.28
+min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.043261538461538455, insert, 1.0, 0.0, 0.2692307692307692
+scanner,SIMPLE_NAME, line no: 64,Scanner,SIMPLE_NAME, line no: 44, 0.040294056706652134, insert, 0.007633587786259542, 0.0, 0.8571428571428571
+scanner,SIMPLE_NAME, line no: 65,Scanner,SIMPLE_NAME, line no: 44, 0.040294056706652134, insert, 0.007633587786259542, 0.0, 0.8571428571428571
+scanner,SIMPLE_NAME, line no: 66,Scanner,SIMPLE_NAME, line no: 44, 0.040294056706652134, insert, 0.007633587786259542, 0.0, 0.8571428571428571
+scanner,SIMPLE_NAME, line no: 67,Scanner,SIMPLE_NAME, line no: 44, 0.040294056706652134, insert, 0.007633587786259542, 0.0, 0.8571428571428571
+min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,output+=(String.format("%d is the smallest\n" min.value)); ,EXPRESSION_STATEMENT, line no: 79, 0.03990357815442561, insert, 0.8888888888888888, 1.5, 0.2542372881355932
+output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,mainClass.exec(); ,EXPRESSION_STATEMENT, line no: 55, 0.03922273543074324, insert, 0.3984375, 0.0, 0.16216216216216217
+min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64, 0.03857397421682742, insert, 1.0, 0.6000000000000001, 0.4642857142857143
+min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65, 0.03857397421682742, insert, 1.0, 0.6000000000000001, 0.4642857142857143
+min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66, 0.03857397421682742, insert, 1.0, 1.5, 0.4642857142857143
+min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67, 0.03857397421682742, insert, 1.0, 0.6000000000000001, 0.4642857142857143
+min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62, 0.03697297297297297, insert, 1.0, 0.0, 0.16216216216216217
+min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.03631111111111111, insert, 0.4444444444444444, 0.3333333333333333, 0.4
+min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71, 0.035102896366729246, insert, 1.0, 3.0, 1.0
+n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.03465569196428571, insert, 0.03125, 0.3333333333333333, 0.2857142857142857
+n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.03465569196428571, insert, 0.03125, 0.3333333333333333, 0.2857142857142857
+n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.03465569196428571, insert, 0.03125, 0.3333333333333333, 0.2857142857142857
+n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.03465569196428571, insert, 0.03125, 0.3333333333333333, 0.2857142857142857
+String,SIMPLE_NAME, line no: 63,min,SIMPLE_NAME, line no: 61, 0.034501136363636366, insert, 0.9696969696969697, 0.0, 0.3333333333333333
+n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.034325507812499996, insert, 0.1015625, 0.5, 0.34
+n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.034325507812499996, insert, 0.1015625, 0.5, 0.34
+n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.034325507812499996, insert, 0.1015625, 0.5, 0.34
+n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.034325507812499996, insert, 0.1015625, 0.5, 0.34
+n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.03419914362980769, insert, 0.1171875, 0.5, 0.3269230769230769
+n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.03419914362980769, insert, 0.1171875, 0.5, 0.3269230769230769
+n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.03419914362980769, insert, 0.1171875, 0.5, 0.3269230769230769
+n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.03419914362980769, insert, 0.1171875, 0.5, 0.3269230769230769
+min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69, 0.033347751548392784, insert, 1.0, 1.5, 0.95
+min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74, 0.033347751548392784, insert, 1.0, 1.5, 0.95
+min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77, 0.033347751548392784, insert, 1.0, 1.5, 0.95
+min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.033091545540903856, insert, 1.0, 0.0, 0.28
+min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64, 0.033023151681941976, insert, 1.0, 1.5, 0.4642857142857143
+min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65, 0.033023151681941976, insert, 1.0, 0.6000000000000001, 0.4642857142857143
+min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66, 0.033023151681941976, insert, 1.0, 0.6000000000000001, 0.4642857142857143
+min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67, 0.033023151681941976, insert, 1.0, 0.6000000000000001, 0.4642857142857143
+min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.03270264917236759, insert, 1.0, 0.0, 0.2692307692307692
+min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,output+=(String.format("%d is the smallest\n" min.value)); ,EXPRESSION_STATEMENT, line no: 79, 0.030164269776639975, insert, 0.8888888888888888, 1.5, 0.2542372881355932
+min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.028329648421614898, insert, 1.0, 0.0, 0.28
+min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.02799671451922412, insert, 1.0, 0.0, 0.2692307692307692
+min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.02744861995098121, insert, 0.4444444444444444, 0.3333333333333333, 0.4
+"Please enter 4 numbers separated by spaces > ",STRING_LITERAL, line no: 63,scanner,SIMPLE_NAME, line no: 51, 0.02729290377176016, insert, 0.12121212121212122, 0.0, 0.10638297872340426
+min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62, 0.02701730914094065, insert, 1.0, 0.0, 0.14864864864864866
+"Please enter 4 numbers separated by spaces > ",STRING_LITERAL, line no: 63,format,SIMPLE_NAME, line no: 63, 0.0264718085106383, insert, 1.0, 0.0, 0.0851063829787234
+min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,output+=(String.format("%d is the smallest\n" min.value)); ,EXPRESSION_STATEMENT, line no: 79, 0.025823609737740092, insert, 0.8888888888888888, 1.5, 0.2542372881355932
+"Please enter 4 numbers separated by spaces > ",STRING_LITERAL, line no: 63,nextInt,SIMPLE_NAME, line no: 64, 0.02579449951644101, insert, 0.9924242424242424, 0.0, 0.0851063829787234
+"Please enter 4 numbers separated by spaces > ",STRING_LITERAL, line no: 63,value,SIMPLE_NAME, line no: 7, 0.02511719052224372, insert, 0.045454545454545456, 0.0, 0.06382978723404255
+"Please enter 4 numbers separated by spaces > ",STRING_LITERAL, line no: 63,n4,SIMPLE_NAME, line no: 60, 0.02511719052224372, insert, 0.9696969696969697, 0.0, 0.0425531914893617
+min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,if (min.value >= n3.value) {   min.value=n3.value; } ,IF_STATEMENT, line no: 73, 0.023943396226415094, insert, 1.0, 1.5, 0.3584905660377358
+min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.02349874386823767, insert, 0.4444444444444444, 0.3333333333333333, 0.4
+min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62, 0.023129498992872526, insert, 1.0, 0.0, 0.14864864864864866
+format,SIMPLE_NAME, line no: 63,out,SIMPLE_NAME, line no: 56, 0.021340909090909094, insert, 0.4090909090909091, 0.0, 0.3333333333333333
+min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,if (n1.value <= n2.value) {   min.value=n1.value; }  else {   min.value=n2.value; } ,IF_STATEMENT, line no: 68, 0.02031071428571429, insert, 1.0, 1.6, 0.2261904761904762
+min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64, 0.019640906300431842, insert, 1.0, 0.6000000000000001, 0.4642857142857143
+min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65, 0.019640906300431842, insert, 1.0, 1.5, 0.4642857142857143
+min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66, 0.019640906300431842, insert, 1.0, 0.6000000000000001, 0.4642857142857143
+min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67, 0.019640906300431842, insert, 1.0, 0.6000000000000001, 0.4642857142857143
+String,SIMPLE_NAME, line no: 63,in,SIMPLE_NAME, line no: 53, 0.019028977272727277, insert, 0.14393939393939395, 0.0, 0.3333333333333333
+min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,if (min.value >= n3.value) {   min.value=n3.value; } ,IF_STATEMENT, line no: 73, 0.018702823149320737, insert, 1.0, 3.0, 0.37735849056603776
+min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,if (min.value >= n4.value) {   min.value=n4.value; }  else {   output+=(String.format("%d is the smallest\n" min.value)); } ,IF_STATEMENT, line no: 76, 0.018648387096774195, insert, 1.0, 3.0, 0.16129032258064516
+output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77, 0.017514067778716218, insert, 0.0703125, 0.0, 0.16216216216216217
+min.value=n4.value; ,EXPRESSION_STATEMENT, line no: 77,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 0.0169, insert, 1.0, 0.0, 0.11347517730496454
+min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,mainClass.scanner=new java.util.Scanner(args[0]); ,EXPRESSION_STATEMENT, line no: 51, 0.01684939025603004, insert, 1.0, 0.0, 0.28
+min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,mainClass.scanner=new java.util.Scanner(System.in); ,EXPRESSION_STATEMENT, line no: 53, 0.01665137391755105, insert, 1.0, 0.0, 0.2692307692307692
+min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,if (min.value >= n3.value) {   min.value=n3.value; } ,IF_STATEMENT, line no: 73, 0.015494974349272675, insert, 1.0, 1.5, 0.3584905660377358
+min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,output+=(String.format("%d is the smallest\n" min.value)); ,EXPRESSION_STATEMENT, line no: 79, 0.015358894392724597, insert, 0.8888888888888888, 1.5, 0.2542372881355932
+min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,if (n1.value <= n2.value) {   min.value=n1.value; }  else {   min.value=n2.value; } ,IF_STATEMENT, line no: 68, 0.015353456842881965, insert, 1.0, 1.6, 0.2261904761904762
+output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69, 0.015036027238175672, insert, 0.0703125, 0.0, 0.14864864864864866
+output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71, 0.015036027238175672, insert, 0.0703125, 0.0, 0.14864864864864866
+output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74, 0.015036027238175672, insert, 0.0703125, 0.0, 0.14864864864864866
+min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.013976153183049608, insert, 0.4444444444444444, 0.3333333333333333, 0.4
+min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,if (min.value >= n4.value) {   min.value=n4.value; }  else {   output+=(String.format("%d is the smallest\n" min.value)); } ,IF_STATEMENT, line no: 76, 0.013838986293197526, insert, 1.0, 1.6, 0.1532258064516129
+min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62, 0.013756540468042543, insert, 1.0, 0.0, 0.14864864864864866
+min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,if (n1.value <= n2.value) {   min.value=n1.value; }  else {   min.value=n2.value; } ,IF_STATEMENT, line no: 68, 0.013469969765002648, insert, 1.0, 3.0, 0.23809523809523808
+min.value=n3.value; ,EXPRESSION_STATEMENT, line no: 74,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 0.012775199187711877, insert, 1.0, 0.0, 0.11347517730496454
+"Please enter 4 numbers separated by spaces > ",STRING_LITERAL, line no: 63,mainClass,SIMPLE_NAME, line no: 48, 0.012600217601547392, insert, 0.38636363636363635, 0.0, 0.10638297872340426
+"Please enter 4 numbers separated by spaces > ",STRING_LITERAL, line no: 63,length,SIMPLE_NAME, line no: 50, 0.012600217601547392, insert, 0.4090909090909091, 0.0, 0.0851063829787234
+"Please enter 4 numbers separated by spaces > ",STRING_LITERAL, line no: 63,System,SIMPLE_NAME, line no: 53, 0.012600217601547392, insert, 0.14393939393939395, 0.0, 0.0851063829787234
+"Please enter 4 numbers separated by spaces > ",STRING_LITERAL, line no: 63,args,SIMPLE_NAME, line no: 50, 0.012100749516441005, insert, 0.4090909090909091, 0.0, 0.06382978723404255
+"Please enter 4 numbers separated by spaces > ",STRING_LITERAL, line no: 63,exec,SIMPLE_NAME, line no: 55, 0.011922908607350097, insert, 0.4015151515151515, 0.0, 0.06382978723404255
+min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,if (min.value >= n4.value) {   min.value=n4.value; }  else {   output+=(String.format("%d is the smallest\n" min.value)); } ,IF_STATEMENT, line no: 76, 0.011847546247521839, insert, 1.0, 1.6, 0.1532258064516129
+"Please enter 4 numbers separated by spaces > ",STRING_LITERAL, line no: 63,out,SIMPLE_NAME, line no: 56, 0.011101813346228243, insert, 0.4090909090909091, 0.0, 0.0425531914893617
+min.value=n1.value; ,EXPRESSION_STATEMENT, line no: 69,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 0.010936838868907433, insert, 1.0, 0.0, 0.11347517730496454
+output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,value=i; ,EXPRESSION_STATEMENT, line no: 7, 0.009344277871621624, insert, 0.03125, 0.0, 0.08108108108108109
+min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,if (min.value >= n3.value) {   min.value=n3.value; } ,IF_STATEMENT, line no: 73, 0.009215817504423084, insert, 1.0, 1.5, 0.3584905660377358
+String,SIMPLE_NAME, line no: 63,i,SIMPLE_NAME, line no: 7, 0.008892045454545455, insert, 0.045454545454545456, 0.0, 0.16666666666666666
+min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,if (n1.value <= n2.value) {   min.value=n1.value; }  else {   min.value=n2.value; } ,IF_STATEMENT, line no: 68, 0.008011422306755094, insert, 1.0, 3.0, 0.23809523809523808
+"Please enter 4 numbers separated by spaces > ",STRING_LITERAL, line no: 63,Scanner,SIMPLE_NAME, line no: 44, 0.007374721953578338, insert, 0.007575757575757576, 0.0, 0.10638297872340426
+min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,if (min.value >= n4.value) {   min.value=n4.value; }  else {   output+=(String.format("%d is the smallest\n" min.value)); } ,IF_STATEMENT, line no: 76, 0.007046466914448223, insert, 1.0, 1.6, 0.1532258064516129
+min.value=n2.value; ,EXPRESSION_STATEMENT, line no: 71,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 0.006504813032869783, insert, 1.0, 0.0, 0.11347517730496454
+output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,if (min.value >= n4.value) {   min.value=n4.value; }  else {   output+=(String.format("%d is the smallest\n" min.value)); } ,IF_STATEMENT, line no: 76, 0.006363508064516129, insert, 1.0, 1.0, 0.31451612903225806
+n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,if (min.value >= n3.value) {   min.value=n3.value; } ,IF_STATEMENT, line no: 73, 0.006240566037735849, insert, 1.0, 0.6000000000000001, 0.2830188679245283
+n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,if (min.value >= n3.value) {   min.value=n3.value; } ,IF_STATEMENT, line no: 73, 0.006240566037735849, insert, 1.0, 0.6000000000000001, 0.2830188679245283
+n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,if (min.value >= n3.value) {   min.value=n3.value; } ,IF_STATEMENT, line no: 73, 0.006240566037735849, insert, 1.0, 1.5, 0.2830188679245283
+n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,if (min.value >= n3.value) {   min.value=n3.value; } ,IF_STATEMENT, line no: 73, 0.006240566037735849, insert, 1.0, 0.6000000000000001, 0.2830188679245283
+n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,if (n1.value <= n2.value) {   min.value=n1.value; }  else {   min.value=n2.value; } ,IF_STATEMENT, line no: 68, 0.006187499999999999, insert, 1.0, 1.6, 0.21428571428571427
+n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,if (n1.value <= n2.value) {   min.value=n1.value; }  else {   min.value=n2.value; } ,IF_STATEMENT, line no: 68, 0.00601875, insert, 1.0, 1.6, 0.20238095238095238
+n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,if (n1.value <= n2.value) {   min.value=n1.value; }  else {   min.value=n2.value; } ,IF_STATEMENT, line no: 68, 0.00601875, insert, 1.0, 0.6666666666666666, 0.20238095238095238
+n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,if (n1.value <= n2.value) {   min.value=n1.value; }  else {   min.value=n2.value; } ,IF_STATEMENT, line no: 68, 0.00601875, insert, 1.0, 0.6666666666666666, 0.20238095238095238
+n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,if (min.value >= n4.value) {   min.value=n4.value; }  else {   output+=(String.format("%d is the smallest\n" min.value)); } ,IF_STATEMENT, line no: 76, 0.005944354838709679, insert, 1.0, 0.6666666666666666, 0.16129032258064516
+n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,if (min.value >= n4.value) {   min.value=n4.value; }  else {   output+=(String.format("%d is the smallest\n" min.value)); } ,IF_STATEMENT, line no: 76, 0.005944354838709679, insert, 1.0, 0.6666666666666666, 0.16129032258064516
+n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,if (min.value >= n4.value) {   min.value=n4.value; }  else {   output+=(String.format("%d is the smallest\n" min.value)); } ,IF_STATEMENT, line no: 76, 0.005944354838709679, insert, 1.0, 0.6666666666666666, 0.16129032258064516
+n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,if (min.value >= n4.value) {   min.value=n4.value; }  else {   output+=(String.format("%d is the smallest\n" min.value)); } ,IF_STATEMENT, line no: 76, 0.005944354838709679, insert, 1.0, 1.6, 0.16129032258064516
+output+=(String.format("Please enter 4 numbers separated by spaces > ")); ,EXPRESSION_STATEMENT, line no: 62,if (true) return; ,IF_STATEMENT, line no: 81, 0.005874324324324325, insert, 1.0, 0.0, 0.16216216216216217
+scanner,SIMPLE_NAME, line no: 64,mainClass.scanner,QUALIFIED_NAME, line no: 51, 0.005362314773237539, insert, 0.11450381679389313, 1.0, 0.4117647058823529
+scanner,SIMPLE_NAME, line no: 65,mainClass.scanner,QUALIFIED_NAME, line no: 51, 0.005362314773237539, insert, 0.11450381679389313, 1.0, 0.4117647058823529
+scanner,SIMPLE_NAME, line no: 66,mainClass.scanner,QUALIFIED_NAME, line no: 51, 0.005362314773237539, insert, 0.11450381679389313, 1.0, 0.4117647058823529
+scanner,SIMPLE_NAME, line no: 67,mainClass.scanner,QUALIFIED_NAME, line no: 51, 0.005362314773237539, insert, 0.11450381679389313, 1.0, 0.4117647058823529
+String,SIMPLE_NAME, line no: 63,System.in,QUALIFIED_NAME, line no: 53, 0.004517045454545454, insert, 0.13636363636363635, 0.0, 0.4444444444444444
+scanner,SIMPLE_NAME, line no: 64,java.util.Scanner,QUALIFIED_NAME, line no: 51, 0.004412606645711719, insert, 0.12213740458015267, 0.0, 0.35294117647058826
+scanner,SIMPLE_NAME, line no: 65,java.util.Scanner,QUALIFIED_NAME, line no: 51, 0.004412606645711719, insert, 0.12213740458015267, 0.0, 0.35294117647058826
+scanner,SIMPLE_NAME, line no: 66,java.util.Scanner,QUALIFIED_NAME, line no: 51, 0.004412606645711719, insert, 0.12213740458015267, 0.0, 0.35294117647058826
+scanner,SIMPLE_NAME, line no: 67,java.util.Scanner,QUALIFIED_NAME, line no: 51, 0.004412606645711719, insert, 0.12213740458015267, 0.0, 0.35294117647058826
+"Please enter 4 numbers separated by spaces > ",STRING_LITERAL, line no: 63,true,BOOLEAN_LITERAL, line no: 81, 0.004018181818181818, insert, 0.9696969696969697, 0.0, 0.0851063829787234
+n1.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 64,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 0.003055489527925532, insert, 0.3984375, 0.5, 0.14893617021276595
+n2.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 65,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 0.003055489527925532, insert, 0.3984375, 0.5, 0.14893617021276595
+n3.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 66,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 0.003055489527925532, insert, 0.3984375, 0.5, 0.14893617021276595
+n4.value=scanner.nextInt(); ,EXPRESSION_STATEMENT, line no: 67,if (args.length > 0) {   mainClass.scanner=new java.util.Scanner(args[0]); }  else {   mainClass.scanner=new java.util.Scanner(System.in); } ,IF_STATEMENT, line no: 50, 0.003055489527925532, insert, 0.3984375, 0.5, 0.14893617021276595

@@ -62,7 +62,6 @@ public class smallest_cb243beb_000 {
         output +=
             (String.format ("Please enter 4 numbers separated by spaces > "));
         n1.value = scanner.nextInt ();
-		value = i;
         n2.value = scanner.nextInt ();
         n3.value = scanner.nextInt ();
         n4.value = scanner.nextInt ();
@@ -73,6 +72,11 @@ public class smallest_cb243beb_000 {
         }
         if (min.value >= n3.value) {
             min.value = n3.value;
+			if (args.length > 0) {
+				mainClass.scanner = new java.util.Scanner(args[0]);
+			} else {
+				mainClass.scanner = new java.util.Scanner(System.in);
+			}
         }
         if (min.value >= n4.value) {
             min.value = n4.value;

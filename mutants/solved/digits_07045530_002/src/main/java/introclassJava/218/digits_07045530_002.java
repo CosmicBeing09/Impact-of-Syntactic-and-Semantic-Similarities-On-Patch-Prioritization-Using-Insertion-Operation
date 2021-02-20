@@ -80,12 +80,7 @@ public class digits_07045530_002 {
                 output += (String.format ("\n%d", r.value));
             }
         }
-        output += (String.format ("\nThat's all, have a nice day!\n"));
-		if (args.length > 0) {
-			mainClass.scanner = new java.util.Scanner(args[0]);
-		} else {
-			mainClass.scanner = new java.util.Scanner(System.in);
-		}
+        output += (String.format ("\nThat's all, have a nice day!\n", java.util));
         if (true)
             return;;
     }

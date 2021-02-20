@@ -74,7 +74,7 @@ public class median_0cdfa335_003 {
         } else {
             median.value = c.value;
         }
-        output += (String.format ("%d is the median\n", in, median.value));
+        output += (String.format (i, "%d is the median\n", median.value));
         if (true)
             return;;
     }

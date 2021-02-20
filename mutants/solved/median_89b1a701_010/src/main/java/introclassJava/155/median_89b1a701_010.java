@@ -61,8 +61,7 @@ public class median_89b1a701_010 {
             new IntObj ();
         output +=
             (String.format ("Please enter 3 numbers separated by spaces > "));
-        mainClass.exec();
-		a.value = scanner.nextInt ();
+        a.value = scanner.nextInt ();
         b.value = scanner.nextInt ();
         c.value = scanner.nextInt ();
         if (a.value == b.value || a.value == c.value) {
@@ -83,7 +82,8 @@ public class median_89b1a701_010 {
                 m.value = c.value;
             }
         }
-        output += (String.format ("%d is the median\n", m.value));
+        value = i;
+		output += (String.format ("%d is the median\n", m.value));
         if (true)
             return;;
     }

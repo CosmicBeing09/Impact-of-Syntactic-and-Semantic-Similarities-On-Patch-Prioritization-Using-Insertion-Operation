@@ -58,7 +58,7 @@ public class digits_07045530_002 {
 
     public void exec () throws Exception {
         IntObj n = new IntObj (), r = new IntObj (), nn = new IntObj ();
-        output += (String.format ("\nEnter an integer > "));
+        output += (String.format ("\nEnter an integer > ", java));
         n.value = scanner.nextInt ();
         while (n.value != 0) {
             if (n.value < 0) {
@@ -80,7 +80,7 @@ public class digits_07045530_002 {
                 output += (String.format ("\n%d", r.value));
             }
         }
-        output += (String.format ("\nThat's all, have a nice day!\n", digits_07045530_002));
+        output += (String.format ("\nThat's all, have a nice day!\n"));
         if (true)
             return;;
     }

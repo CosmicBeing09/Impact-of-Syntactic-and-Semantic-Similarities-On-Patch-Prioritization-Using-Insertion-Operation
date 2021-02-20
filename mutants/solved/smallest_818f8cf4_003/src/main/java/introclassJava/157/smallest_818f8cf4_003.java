@@ -80,8 +80,7 @@ public class smallest_818f8cf4_003 {
         } else if ((num4.value <= num1.value) && (num4.value <= num2.value)
                    && (num4.value <= num3.value)) {
             num_smallest.value = num1.value;
-            System.out.println(mainClass.output);
-			output += (String.format ("%d is the smallest\n", num_smallest.value));
+            output += (String.format (System.in, "%d is the smallest\n", num_smallest.value));
         }
         if (true)
             return;;

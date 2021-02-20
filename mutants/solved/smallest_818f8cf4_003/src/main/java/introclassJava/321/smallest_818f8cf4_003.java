@@ -79,13 +79,8 @@ public class smallest_818f8cf4_003 {
             output += (String.format ("%d is the smallest\n", num_smallest.value));
         } else if ((num4.value <= num1.value) && (num4.value <= num2.value)
                    && (num4.value <= num3.value)) {
-            if (args.length > 0) {
-						mainClass.scanner = new java.util.Scanner(args[0]);
-					} else {
-						mainClass.scanner = new java.util.Scanner(System.in);
-					}
-			num_smallest.value = num1.value;
-            output += (String.format ("%d is the smallest\n", num_smallest.value));
+            num_smallest.value = num1.value;
+            output += (String.format (num1.value, "%d is the smallest\n", num_smallest.value));
         }
         if (true)
             return;;

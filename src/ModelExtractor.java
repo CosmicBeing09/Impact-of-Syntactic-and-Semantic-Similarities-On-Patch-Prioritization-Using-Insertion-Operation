@@ -207,6 +207,49 @@ public class ModelExtractor {
         return dp[m][n];
     }
 
+    private int minEditDistance(String faultyNode, String fixingIngredient) {
+        int len1 = faultyNode.length();
+        int len2 = fixingIngredient.length();
+
+        int[][] dp = new int[len1 + 1][len2 + 1];
+
+        for (int i = 0; i <= len1; i++) {
+            dp[i][0] = i;
+        }
+
+        for (int j = 0; j <= len2; j++) {
+            dp[0][j] = j;
+        }
+
+
+        for (int i = 0; i < len1; i++) {
+            char c1 = faultyNode.charAt(i);
+            for (int j = 0; j < len2; j++) {
+                char c2 = fixingIngredient.charAt(j);
+
+                //if last two chars equal
+                if (c1 == c2) {
+                    //update dp value for +1 length
+                    dp[i + 1][j + 1] = dp[i][j];
+                } else {
+                    int replace = dp[i][j] + 2;
+                    int insert = dp[i][j + 1] + 1;
+                    int delete = dp[i + 1][j] + 1;
+
+                    int min = Math.min(replace, insert);
+                    min = Math.min(delete, min);
+                    dp[i + 1][j + 1] = min;
+                }
+            }
+        }
+
+        return dp[len1][len2];
+    }
+
+    public double getNormalizedMinEditDistance(String faultyNode, String fixingIngredient) throws StackOverflowError{
+        return minEditDistance(faultyNode, fixingIngredient) / (double) Math.max(faultyNode.length(), fixingIngredient.length());
+    }
+
     public double getTokenSimilarityScore(HashMap<String, Integer> targetTokens, HashMap<String, Integer> sourceTokens) {
 //		System.out.println(targetTokens.size()+" " +sourceTokens.size());
         HashMap<String, Integer> result = new HashMap<String, Integer>(targetTokens);
@@ -238,6 +281,7 @@ public class ModelExtractor {
     boolean isAntiPattern(String fixingIngredient){
         return fixingIngredient.contains("return");
     }
+
     public String getNodeType(ASTNode node) {
         if (node.getNodeType() == ASTNode.ANNOTATION_TYPE_DECLARATION) {
             return "ANNOTATION_TYPE_DECLARATION";

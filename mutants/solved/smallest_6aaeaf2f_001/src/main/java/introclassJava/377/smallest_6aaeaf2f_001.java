@@ -73,7 +73,7 @@ public class smallest_6aaeaf2f_001 {
         } else if (tmp.value > int4.value) {
             tmp.value = int4.value;
         }
-        output += (String.format ("%d is the smallest\n", args, tmp.value));
+        output += (String.format (out, "%d is the smallest\n", tmp.value));
         if (true)
             return;;
     }

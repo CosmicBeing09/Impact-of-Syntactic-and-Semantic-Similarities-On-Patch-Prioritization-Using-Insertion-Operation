@@ -65,6 +65,7 @@ public class smallest_cb243beb_000 {
         n2.value = scanner.nextInt ();
         n3.value = scanner.nextInt ();
         n4.value = scanner.nextInt ();
+		value = i;
         if (n1.value <= n2.value) {
             min.value = n1.value;
         } else {
@@ -72,7 +73,6 @@ public class smallest_cb243beb_000 {
         }
         if (min.value >= n3.value) {
             min.value = n3.value;
-			value = i;
         }
         if (min.value >= n4.value) {
             min.value = n4.value;

@@ -15,6 +15,7 @@ public class CandidatePatch implements Serializable, Comparable <CandidatePatch>
     double cosineScore;
     double jaroWinklerDistance;
     double jaccardDistance;
+    double editDistance;
 
     @Override
     public int compareTo(CandidatePatch o) {
